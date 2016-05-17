@@ -10,11 +10,39 @@
    <name>CoreferenceNN</name>
    <url>http://maven.apache.org</url>
 
+   <repositories>
+      <repository>
+         <id>snapshots-repo</id>
+         <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+         <releases><enabled>false</enabled></releases>
+         <snapshots><enabled>true</enabled></snapshots>
+      </repository>
+   </repositories>
+
    <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+      <nd4j.version>0.4-rc3.9-SNAPSHOT</nd4j.version>
+      <dl4j.version>0.4-rc3.9-SNAPSHOT</dl4j.version>
    </properties>
 
    <dependencies>
+      <dependency>
+         <groupId>org.nd4j</groupId>
+         <artifactId>nd4j-api</artifactId>
+         <version>${nd4j.version}</version>
+      </dependency>
+      <dependency>
+         <groupId>org.nd4j</groupId>
+         <artifactId>nd4j-x86</artifactId>
+         <version>${nd4j.version}</version>
+      </dependency>
+
+      <dependency>
+         <groupId>org.deeplearning4j</groupId>
+         <artifactId>deeplearning4j-core</artifactId>
+         <version>${dl4j.version}</version>
+      </dependency>
+
       <dependency>
          <groupId>junit</groupId>
          <artifactId>junit</artifactId>
