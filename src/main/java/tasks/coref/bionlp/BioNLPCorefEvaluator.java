@@ -48,10 +48,21 @@ public class BioNLPCorefEvaluator {
 //            System.out.println("Enter goldDirectory");
 //            String dirGold = sc.next();
 
-//              String dirAnnotation = "C:\\Users\\micha\\Documents\\GitHub\\Corefrence\\DATA\\SPL\\TEST\\Annotations";
-//              String dirGold = "C:\\Users\\micha\\Documents\\GitHub\\Corefrence\\DATA\\SPL\\TEST\\OUT_GOLD_ENTITY";
+/**
+ * Michael's directory
+ * 
+ * comment off when using different computer
+ */
               String dirAnnotation = "C:\\Users\\micha\\Downloads\\Bio-SCoRes-master\\DATA\\BIONLP\\OUT_DEV";
               String dirGold = "C:\\Users\\micha\\Downloads\\Bio-SCoRes-master\\DATA\\BIONLP\\GOLD_DEV";
+              
+              /**
+ * Chris's directory
+ * 
+ * comment off when using different computer
+ */
+//              String dirAnnotation = "";
+//              String dirGold = "";
             
 //		if (args.length < 2) {
 //			System.err.println("Usage: annotationDirectory goldDirectory [approximateMatch] [usedTermMatchOnly] [printErrors] [printCorrect]");
