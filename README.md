@@ -23,6 +23,7 @@ Coreference with Deep Neural Networks
       ...  
  </dependencies>  
 ```
+
 5. Run Maven install on project.
 
 > Run Maven install when pom.xml changes
