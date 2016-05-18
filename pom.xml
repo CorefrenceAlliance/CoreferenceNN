@@ -12,19 +12,6 @@
     <name>CoreferenceNN</name>
     <url>http://maven.apache.org</url>
 
-    <repositories>
-        <repository>
-            <id>snapshots-repo</id>
-            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
-            <releases>
-                <enabled>false</enabled>
-            </releases>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
-        </repository>
-    </repositories>
-
     <build>
         <plugins>
             <plugin>
@@ -41,8 +28,8 @@
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <nd4j.version>0.4-rc3.9-SNAPSHOT</nd4j.version>
-        <dl4j.version>0.4-rc3.9-SNAPSHOT</dl4j.version>
+        <nd4j.version>0.4-rc3.8</nd4j.version>
+        <dl4j.version>0.4-rc3.8</dl4j.version>
         <jaws.version>1.2</jaws.version>
     </properties>
 
