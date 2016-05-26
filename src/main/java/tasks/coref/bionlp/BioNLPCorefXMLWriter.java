@@ -143,11 +143,11 @@ public class BioNLPCorefXMLWriter {
 	public static void main(String[] args) 
 			throws IOException, InstantiationException, 
 			IllegalAccessException, ClassNotFoundException {
-		if (args.length < 2) {
-			System.err.print("Usage: inputDirectory outputDirectory");
-		}
-		String in = args[0];
-		String out = args[1];
+//		if (args.length < 2) {
+//			System.err.print("Usage: inputDirectory outputDirectory");
+//		}
+		String in = "C:\\Users\\michael\\Downloads\\BioNLP-ST_2011_coreference_training_data";
+		String out = "C:\\Users\\michael\\Documents\\GitHub\\CoreferenceNN\\DATA\\BIONLP\\Michael_XML";
 		File inDir = new File(in);
 		if (inDir.isDirectory() == false) {
 			System.err.println("First argument is required to be an input directory:" + in);
