@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8843413">
+    <text xml:space="preserve">Transcriptional control of steroid-regulated apoptosis in murine thymoma cells. 
+Early studies in murine T cell lines indicated that transcriptional transactivation functions encoded in the glucocorticoid receptor (GR) N-terminal domain are required for glucocorticoid-mediated apoptosis. However, more recent studies in human T cell lines have suggested that the N-terminal domain is not necessary for steroid-regulated apoptosis and that GR-mediated transrepression may be the more critical mechanism. To better understand the contribution of the GR N-terminal transactivation domain in mediating murine thymocyte apoptosis, we stably transfected GR, GR variants, and the androgen receptor (AR) into receptor-negative S49 murine thymoma cells. GR expression levels were shown to be rate-limiting for initiating the apoptotic pathway, and a positive correlation between steroid sensitivity and GR-mediated induction of an integrated mouse mammary tumor virus (MMTV) LTR reporter gene was observed. Analysis of GR chimeric receptors containing the potent VP16 and E1A viral transactivation domains in place of the GR N terminus revealed that even low level expression of these receptors resulted in both enhanced steroid sensitivity and MMTV induction, thus supporting a role for transactivation in apoptosis. In contrast, we found that AR can initiate apoptosis in S49 cells after treatment with 5 alpha-dihydrotestosterone, despite its relative inability to induce high level expression of MMTV. To investigate this further, we examined the steroid-regulated expression of an endogenous thymocyte-specific gene called GIG18. We found that GIG18 was rapidly induced to comparable levels by both AR and GR, demonstrating that AR can indeed function as a transcriptional activator in S49 cells and, moreover, that GIG18 induction may be a marker of early apoptotic events in steroid-treated cells. Taken together, these results support our conclusion that transcriptional transactivation is a necessary signaling component of S49 cell apoptosis, although an additional role for GR-mediated transrepression cannot be excluded. 
+</text>
+    <sentence charOffset="0-81" id="S1">
+        <text xml:space="preserve">Transcriptional control of steroid-regulated apoptosis in murine thymoma cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-15" text="Transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="16-23" text="control" lemma="control"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="24-26" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="27-44" text="steroid-regulated" lemma="steroid-regulated"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="45-54" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="55-57" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="58-64" text="murine" lemma="murine"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="65-72" text="thymoma" lemma="thymoma"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="73-78" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="78-79" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (JJ Transcriptional) (NN=H control))
+            (PP (IN=H of)
+            (NP (JJ steroid-regulated) (NN=H apoptosis)))
+            (PP (IN=H in)
+            (NP (JJ murine) (NN thymoma) (NNS=H cells)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="81-289" id="S2">
+        <text xml:space="preserve">Early studies in murine T cell lines indicated that transcriptional transactivation functions encoded in the glucocorticoid receptor (GR) N-terminal domain are required for glucocorticoid-mediated apoptosis. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="81-86" text="Early" lemma="early"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="87-94" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="95-97" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="98-104" text="murine" lemma="murine"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="105-106" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="107-111" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="112-117" text="lines" lemma="line"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="118-127" text="indicated" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="128-132" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="133-148" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="149-164" text="transactivation" lemma="transactivation"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="165-174" text="functions" lemma="function"/>
+            <token xml:space="preserve" id="stt_13" POS="VBN" charOffset="175-182" text="encoded" lemma="encode"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="183-185" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="186-189" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="190-204" text="glucocorticoid" lemma="glucocorticoid"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="205-213" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_18" POS="-LRB-" charOffset="214-215" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="215-217" text="GR" lemma="gr"/>
+            <token xml:space="preserve" id="stt_20" POS="-RRB-" charOffset="217-218" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="219-229" text="N-terminal" lemma="n-terminal"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="230-236" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_23" POS="VBP" charOffset="237-240" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_24" POS="VBN" charOffset="241-249" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="250-253" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="254-277" text="glucocorticoid-mediated" lemma="glucocorticoid-mediated"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="278-287" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="287-288" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Early) (NNS=H studies))
+            (PP (IN=H in)
+            (NP (JJ murine) (NN T) (NN cell) (NNS=H lines))))
+            (VP=H (VBD=H indicated)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (JJ transcriptional) (NN transactivation) (NNS=H functions))
+            (VP (VBN=H encoded)
+            (PP (IN=H in)
+            (NP (DT the) (NN glucocorticoid) (NN receptor)
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H GR))
+            (-RRB- -RRB-))
+            (JJ N-terminal) (NN=H domain)))))
+            (VP=H (VBP=H are)
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP (JJ glucocorticoid-mediated) (NN=H apoptosis))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="289-504" id="S3">
+        <text xml:space="preserve">However, more recent studies in human T cell lines have suggested that the N-terminal domain is not necessary for steroid-regulated apoptosis and that GR-mediated transrepression may be the more critical mechanism. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="289-296" text="However" lemma="however"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="296-297" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="RBR" charOffset="298-302" text="more" lemma="more"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="303-309" text="recent" lemma="recent"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="310-317" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="318-320" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="321-326" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="327-328" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="329-333" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="334-339" text="lines" lemma="line"/>
+            <token xml:space="preserve" id="stt_11" POS="VBP" charOffset="340-344" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="345-354" text="suggested" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="355-359" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="360-363" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="364-374" text="N-terminal" lemma="n-terminal"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="375-381" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_17" POS="VBZ" charOffset="382-384" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_18" POS="RB" charOffset="385-388" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="389-398" text="necessary" lemma="necessary"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="399-402" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="403-420" text="steroid-regulated" lemma="steroid-regulated"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="421-430" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="431-434" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="435-439" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="440-451" text="GR-mediated" lemma="gr-mediated"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="452-467" text="transrepression" lemma="transrepression"/>
+            <token xml:space="preserve" id="stt_27" POS="MD" charOffset="468-471" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_28" POS="VB" charOffset="472-474" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="475-478" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_30" POS="RBR" charOffset="479-483" text="more" lemma="more"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="484-492" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="493-502" text="mechanism" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="502-503" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H However))
+            (, ,)
+            (NP
+            (NP=H (RBR more) (JJ recent) (NNS=H studies))
+            (PP (IN=H in)
+            (NP (JJ human) (NN T) (NN cell) (NNS=H lines))))
+            (VP=H (VBP=H have)
+            (VP (VBN=H suggested)
+            (SBAR
+            (SBAR=H (IN=H that)
+            (S
+            (NP (DT the) (JJ N-terminal) (NN=H domain))
+            (VP=H (VBZ=H is) (RB not)
+            (ADJP (JJ=H necessary)
+            (PP (IN=H for)
+            (NP (JJ steroid-regulated) (NN=H apoptosis)))))))
+            (CC and)
+            (SBAR (IN=H that)
+            (S
+            (NP (JJ GR-mediated) (NN=H transrepression))
+            (VP=H (MD=H may)
+            (VP (VB=H be)
+            (NP (DT the)
+            (ADJP (RBR more) (JJ=H critical))
+            (NN=H mechanism)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="504-746" id="S4">
+        <text xml:space="preserve">To better understand the contribution of the GR N-terminal transactivation domain in mediating murine thymocyte apoptosis, we stably transfected GR, GR variants, and the androgen receptor (AR) into receptor-negative S49 murine thymoma cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="504-506" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="RBR" charOffset="507-513" text="better" lemma="better"/>
+            <token xml:space="preserve" id="stt_3" POS="VB" charOffset="514-524" text="understand" lemma="understand"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="525-528" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="529-541" text="contribution" lemma="contribution"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="542-544" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="545-548" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="549-551" text="GR" lemma="gr"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="552-562" text="N-terminal" lemma="n-terminal"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="563-578" text="transactivation" lemma="transactivation"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="579-585" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="586-588" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="VBG" charOffset="589-598" text="mediating" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="599-605" text="murine" lemma="murine"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="606-615" text="thymocyte" lemma="thymocyte"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="616-625" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="625-626" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="PRP" charOffset="627-629" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_19" POS="RB" charOffset="630-636" text="stably" lemma="stably"/>
+            <token xml:space="preserve" id="stt_20" POS="VBD" charOffset="637-648" text="transfected" lemma="transfect"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="649-651" text="GR" lemma="gr"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="651-652" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="653-655" text="GR" lemma="gr"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="656-664" text="variants" lemma="variant"/>
+            <token xml:space="preserve" id="stt_25" POS="," charOffset="664-665" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_26" POS="CC" charOffset="666-669" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="670-673" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="674-682" text="androgen" lemma="androgen"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="683-691" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_30" POS="-LRB-" charOffset="692-693" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="693-695" text="AR" lemma="ar"/>
+            <token xml:space="preserve" id="stt_32" POS="-RRB-" charOffset="695-696" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_33" POS="IN" charOffset="697-701" text="into" lemma="into"/>
+            <token xml:space="preserve" id="stt_34" POS="JJ" charOffset="702-719" text="receptor-negative" lemma="receptor-negative"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="720-723" text="S49" lemma="s49"/>
+            <token xml:space="preserve" id="stt_36" POS="JJ" charOffset="724-730" text="murine" lemma="murine"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="731-738" text="thymoma" lemma="thymoma"/>
+            <token xml:space="preserve" id="stt_38" POS="NNS" charOffset="739-744" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_39" POS="." charOffset="744-745" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP
+            (ADVP (RBR=H better))
+            (VB=H understand)
+            (NP
+            (NP=H (DT the) (NN=H contribution))
+            (PP (IN=H of)
+            (NP (DT the) (NN GR) (JJ N-terminal) (NN transactivation) (NN=H domain))))
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H mediating)
+            (NP (JJ murine) (NN thymocyte) (NN=H apoptosis))))))))
+            (, ,)
+            (NP (PRP=H we))
+            (ADVP (RB=H stably))
+            (VP=H (VBD=H transfected)
+            (NP
+            (NP=H (NN=H GR))
+            (, ,)
+            (NP (NN GR) (NNS=H variants))
+            (, ,)
+            (CC and)
+            (NP (DT the) (NN androgen) (NN=H receptor)))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H AR))
+            (-RRB- -RRB-))
+            (PP (IN=H into)
+            (NP (JJ receptor-negative) (NN S49) (JJ murine) (NN thymoma) (NNS=H cells))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="746-999" id="S5">
+        <text xml:space="preserve">GR expression levels were shown to be rate-limiting for initiating the apoptotic pathway, and a positive correlation between steroid sensitivity and GR-mediated induction of an integrated mouse mammary tumor virus (MMTV) LTR reporter gene was observed. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="746-748" text="GR" lemma="gr"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="749-759" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="760-766" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="767-771" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="772-777" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="778-780" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="VB" charOffset="781-783" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="784-797" text="rate-limiting" lemma="rate-limiting"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="798-801" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_10" POS="VBG" charOffset="802-812" text="initiating" lemma="initiate"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="813-816" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="817-826" text="apoptotic" lemma="apoptotic"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="827-834" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="834-835" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="836-839" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="840-841" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="842-850" text="positive" lemma="positive"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="851-862" text="correlation" lemma="correlation"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="863-870" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="871-878" text="steroid" lemma="steroid"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="879-890" text="sensitivity" lemma="sensitivity"/>
+            <token xml:space="preserve" id="stt_22" POS="CC" charOffset="891-894" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="895-906" text="GR-mediated" lemma="gr-mediated"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="907-916" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="917-919" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="920-922" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_27" POS="VBN" charOffset="923-933" text="integrated" lemma="integrate"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="934-939" text="mouse" lemma="mouse"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="940-947" text="mammary" lemma="mammary"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="948-953" text="tumor" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="954-959" text="virus" lemma="virus"/>
+            <token xml:space="preserve" id="stt_32" POS="-LRB-" charOffset="960-961" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="961-965" text="MMTV" lemma="mmtv"/>
+            <token xml:space="preserve" id="stt_34" POS="-RRB-" charOffset="965-966" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="967-970" text="LTR" lemma="ltr"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="971-979" text="reporter" lemma="reporter"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="980-984" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_38" POS="VBD" charOffset="985-988" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_39" POS="VBN" charOffset="989-997" text="observed" lemma="observe"/>
+            <token xml:space="preserve" id="stt_40" POS="." charOffset="997-998" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN GR) (NN expression) (NNS=H levels))
+            (VP=H (VBD=H were)
+            (VP (VBN=H shown)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (ADJP (JJ=H rate-limiting)
+            (PP (IN=H for)
+            (S
+            (VP=H (VBG=H initiating)
+            (NP
+            (NP=H
+            (NP=H (DT the) (JJ apoptotic) (NN=H pathway))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (DT a) (JJ positive) (NN=H correlation))
+            (PP (IN=H between)
+            (NP (NN steroid) (NN=H sensitivity)))))
+            (CC and)
+            (NP
+            (NP=H
+            (NP=H (JJ GR-mediated) (NN=H induction))
+            (PP (IN=H of)
+            (NP (DT an) (VBN integrated) (NN=H mouse))))
+            (NP
+            (NP=H (JJ mammary) (NN tumor) (NN=H virus))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H MMTV))
+            (-RRB- -RRB-))
+            (SBAR
+            (S=H
+            (NP (NN LTR) (NN reporter) (NN=H gene))
+            (VP=H (VBD=H was)
+            (VP (VBN=H observed)))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="999-1310" id="S6">
+        <text xml:space="preserve">Analysis of GR chimeric receptors containing the potent VP16 and E1A viral transactivation domains in place of the GR N terminus revealed that even low level expression of these receptors resulted in both enhanced steroid sensitivity and MMTV induction, thus supporting a role for transactivation in apoptosis. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="999-1007" text="Analysis" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1008-1010" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1011-1013" text="GR" lemma="gr"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1014-1022" text="chimeric" lemma="chimeric"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="1023-1032" text="receptors" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_6" POS="VBG" charOffset="1033-1043" text="containing" lemma="contain"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="1044-1047" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1048-1054" text="potent" lemma="potent"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1055-1059" text="VP16" lemma="vp16"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="1060-1063" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1064-1067" text="E1A" lemma="e1a"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1068-1073" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1074-1089" text="transactivation" lemma="transactivation"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="1090-1097" text="domains" lemma="domain"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1098-1100" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1101-1106" text="place" lemma="place"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1107-1109" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="1110-1113" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1114-1116" text="GR" lemma="gr"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1117-1118" text="N" lemma="n"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1119-1127" text="terminus" lemma="terminus"/>
+            <token xml:space="preserve" id="stt_22" POS="VBD" charOffset="1128-1136" text="revealed" lemma="reveal"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1137-1141" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_24" POS="RB" charOffset="1142-1146" text="even" lemma="even"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="1147-1150" text="low" lemma="low"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1151-1156" text="level" lemma="level"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1157-1167" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="1168-1170" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="1171-1176" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="1177-1186" text="receptors" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_31" POS="VBD" charOffset="1187-1195" text="resulted" lemma="result"/>
+            <token xml:space="preserve" id="stt_32" POS="IN" charOffset="1196-1198" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_33" POS="DT" charOffset="1199-1203" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_34" POS="VBN" charOffset="1204-1212" text="enhanced" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1213-1220" text="steroid" lemma="steroid"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1221-1232" text="sensitivity" lemma="sensitivity"/>
+            <token xml:space="preserve" id="stt_37" POS="CC" charOffset="1233-1236" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="1237-1241" text="MMTV" lemma="mmtv"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="1242-1251" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_40" POS="," charOffset="1251-1252" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_41" POS="RB" charOffset="1253-1257" text="thus" lemma="thus"/>
+            <token xml:space="preserve" id="stt_42" POS="VBG" charOffset="1258-1268" text="supporting" lemma="support"/>
+            <token xml:space="preserve" id="stt_43" POS="DT" charOffset="1269-1270" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_44" POS="NN" charOffset="1271-1275" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_45" POS="IN" charOffset="1276-1279" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="1280-1295" text="transactivation" lemma="transactivation"/>
+            <token xml:space="preserve" id="stt_47" POS="IN" charOffset="1296-1298" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_48" POS="NN" charOffset="1299-1308" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_49" POS="." charOffset="1308-1309" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H
+            (NP=H (NN=H Analysis))
+            (PP (IN=H of)
+            (NP (NN=H GR))))
+            (S
+            (NP (JJ chimeric) (NNS=H receptors))
+            (VP=H (VBG=H containing)
+            (NP
+            (NP=H (DT the) (JJ potent) (NN=H VP16)
+            (CC and)
+            (NN E1A))
+            (SBAR
+            (S=H
+            (NP
+            (NP=H (JJ viral) (NN transactivation) (NNS=H domains))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H place))
+            (PP (IN=H of)
+            (NP (DT the) (NN GR) (NN N) (NN=H terminus))))))
+            (VP=H (VBD=H revealed)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H
+            (ADJP (RB even) (JJ=H low))
+            (NN level) (NN=H expression))
+            (PP (IN=H of)
+            (NP (DT these) (NNS=H receptors))))
+            (VP=H (VBD=H resulted)
+            (PP (IN=H in)
+            (NP (DT both) (VBN enhanced) (NN steroid) (NN sensitivity)
+            (CC and)
+            (NN MMTV) (NN=H induction))))))))))))
+            (, ,)
+            (VP
+            (ADVP (RB=H thus))
+            (VBG=H supporting)
+            (NP
+            (NP=H (DT a) (NN=H role))
+            (PP (IN=H for)
+            (NP (NN=H transactivation)))))
+            (PP (IN=H in)
+            (NP (NN=H apoptosis)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1310-1498" id="S7">
+        <text xml:space="preserve">In contrast, we found that AR can initiate apoptosis in S49 cells after treatment with 5 alpha-dihydrotestosterone, despite its relative inability to induce high level expression of MMTV. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1310-1312" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1313-1321" text="contrast" lemma="contrast"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="1321-1322" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="PRP" charOffset="1323-1325" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="1326-1331" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1332-1336" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1337-1339" text="AR" lemma="ar"/>
+            <token xml:space="preserve" id="stt_8" POS="MD" charOffset="1340-1343" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="1344-1352" text="initiate" lemma="initiate"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1353-1362" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1363-1365" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1366-1369" text="S49" lemma="s49"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="1370-1375" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1376-1381" text="after" lemma="after"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1382-1391" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1392-1396" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_17" POS="CD" charOffset="1397-1398" text="5" lemma="5"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1399-1424" text="alpha-dihydrotestosterone" lemma="alpha-dihydrotestosterone"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="1424-1425" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1426-1433" text="despite" lemma="despite"/>
+            <token xml:space="preserve" id="stt_21" POS="PRP$" charOffset="1434-1437" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="1438-1446" text="relative" lemma="relative"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1447-1456" text="inability" lemma="inability"/>
+            <token xml:space="preserve" id="stt_24" POS="TO" charOffset="1457-1459" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_25" POS="VB" charOffset="1460-1466" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="1467-1471" text="high" lemma="high"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1472-1477" text="level" lemma="level"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1478-1488" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="1489-1491" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1492-1496" text="MMTV" lemma="mmtv"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="1496-1497" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H contrast)))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H found)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H AR))
+            (VP=H (MD=H can)
+            (VP (VB=H initiate)
+            (NP
+            (NP=H (NN=H apoptosis))
+            (PP (IN=H in)
+            (NP (NN S49) (NNS=H cells))))
+            (PP (IN=H after)
+            (NP (NN=H treatment)))
+            (PP (IN=H with)
+            (NP (CD 5) (NN=H alpha-dihydrotestosterone)))
+            (, ,)
+            (PP (IN=H despite)
+            (NP (PRP$ its) (JJ relative) (NN=H inability)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H induce)
+            (NP
+            (NP=H (JJ high) (NN level) (NN=H expression))
+            (PP (IN=H of)
+            (NP (NN=H MMTV))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1498-1627" id="S8">
+        <text xml:space="preserve">To investigate this further, we examined the steroid-regulated expression of an endogenous thymocyte-specific gene called GIG18. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="1498-1500" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="VB" charOffset="1501-1512" text="investigate" lemma="investigate"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1513-1517" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_4" POS="RBR" charOffset="1518-1525" text="further" lemma="further"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="1525-1526" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="PRP" charOffset="1527-1529" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="1530-1538" text="examined" lemma="examine"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="1539-1542" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1543-1560" text="steroid-regulated" lemma="steroid-regulated"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1561-1571" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1572-1574" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1575-1577" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1578-1588" text="endogenous" lemma="endogenous"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="1589-1607" text="thymocyte-specific" lemma="thymocyte-specific"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1608-1612" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="1613-1619" text="called" lemma="call"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1620-1625" text="GIG18" lemma="gig18"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="1625-1626" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP (VB=H investigate)
+            (NP (DT=H this))
+            (ADVP (RBR=H further)))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H examined)
+            (NP
+            (NP=H (DT the) (JJ steroid-regulated) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT an) (JJ endogenous) (JJ thymocyte-specific) (NN=H gene))
+            (VP (VBN=H called)
+            (NP (NN=H GIG18)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1627-1897" id="S9">
+        <text xml:space="preserve">We found that GIG18 was rapidly induced to comparable levels by both AR and GR, demonstrating that AR can indeed function as a transcriptional activator in S49 cells and, moreover, that GIG18 induction may be a marker of early apoptotic events in steroid-treated cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="1627-1629" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="1630-1635" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1636-1640" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1641-1646" text="GIG18" lemma="gig18"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="1647-1650" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="1651-1658" text="rapidly" lemma="rapidly"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="1659-1666" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="1667-1669" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1670-1680" text="comparable" lemma="comparable"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1681-1687" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1688-1690" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1691-1695" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="1696-1698" text="AR" lemma="ar"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="1699-1702" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1703-1705" text="GR" lemma="gr"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="1705-1706" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="VBG" charOffset="1707-1720" text="demonstrating" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1721-1725" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1726-1728" text="AR" lemma="ar"/>
+            <token xml:space="preserve" id="stt_20" POS="MD" charOffset="1729-1732" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_21" POS="RB" charOffset="1733-1739" text="indeed" lemma="indeed"/>
+            <token xml:space="preserve" id="stt_22" POS="VB" charOffset="1740-1748" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1749-1751" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="1752-1753" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="1754-1769" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1770-1779" text="activator" lemma="activator"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1780-1782" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1783-1786" text="S49" lemma="s49"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="1787-1792" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_30" POS="CC" charOffset="1793-1796" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_31" POS="," charOffset="1796-1797" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_32" POS="RB" charOffset="1798-1806" text="moreover" lemma="moreover"/>
+            <token xml:space="preserve" id="stt_33" POS="," charOffset="1806-1807" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="1808-1812" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1813-1818" text="GIG18" lemma="gig18"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1819-1828" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_37" POS="MD" charOffset="1829-1832" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_38" POS="VB" charOffset="1833-1835" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_39" POS="DT" charOffset="1836-1837" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="1838-1844" text="marker" lemma="marker"/>
+            <token xml:space="preserve" id="stt_41" POS="IN" charOffset="1845-1847" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_42" POS="JJ" charOffset="1848-1853" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_43" POS="JJ" charOffset="1854-1863" text="apoptotic" lemma="apoptotic"/>
+            <token xml:space="preserve" id="stt_44" POS="NNS" charOffset="1864-1870" text="events" lemma="event"/>
+            <token xml:space="preserve" id="stt_45" POS="IN" charOffset="1871-1873" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_46" POS="JJ" charOffset="1874-1889" text="steroid-treated" lemma="steroid-treated"/>
+            <token xml:space="preserve" id="stt_47" POS="NNS" charOffset="1890-1895" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_48" POS="." charOffset="1895-1896" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H found)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H GIG18))
+            (VP=H (VBD=H was)
+            (ADVP (RB=H rapidly))
+            (VP
+            (VP=H (VBN=H induced)
+            (PP (TO=H to)
+            (NP (JJ comparable) (NNS=H levels)))
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT both) (NNS=H AR))
+            (CC and)
+            (NP (NN=H GR))))
+            (, ,)
+            (S
+            (VP=H (VBG=H demonstrating)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H AR))
+            (VP=H (MD=H can)
+            (ADVP (RB=H indeed))
+            (VP (VB=H function)
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT a) (JJ transcriptional) (NN=H activator))
+            (PP (IN=H in)
+            (NP (NN S49) (NNS=H cells))))))))))))
+            (CC and)
+            (VP (, ,)
+            (ADVP=H (RB=H moreover))
+            (, ,)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN GIG18) (NN=H induction))
+            (VP=H (MD=H may)
+            (VP (VB=H be)
+            (NP
+            (NP=H (DT a) (NN=H marker))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ early) (JJ apoptotic) (NNS=H events))
+            (PP (IN=H in)
+            (NP (JJ steroid-treated) (NNS=H cells))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1897-2126" id="S10">
+        <text xml:space="preserve">Taken together, these results support our conclusion that transcriptional transactivation is a necessary signaling component of S49 cell apoptosis, although an additional role for GR-mediated transrepression cannot be excluded. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBN" charOffset="1897-1902" text="Taken" lemma="take"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="1903-1911" text="together" lemma="together"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="1911-1912" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="1913-1918" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="1919-1926" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="1927-1934" text="support" lemma="support"/>
+            <token xml:space="preserve" id="stt_7" POS="PRP$" charOffset="1935-1938" text="our" lemma="we"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1939-1949" text="conclusion" lemma="conclusion"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1950-1954" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1955-1970" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1971-1986" text="transactivation" lemma="transactivation"/>
+            <token xml:space="preserve" id="stt_12" POS="VBZ" charOffset="1987-1989" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="1990-1991" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="1992-2001" text="necessary" lemma="necessary"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="2002-2011" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="2012-2021" text="component" lemma="component"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="2022-2024" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="2025-2028" text="S49" lemma="s49"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="2029-2033" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="2034-2043" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="2043-2044" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="2045-2053" text="although" lemma="although"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="2054-2056" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="2057-2067" text="additional" lemma="additional"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="2068-2072" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="2073-2076" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="2077-2088" text="GR-mediated" lemma="gr-mediated"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="2089-2104" text="transrepression" lemma="transrepression"/>
+            <token xml:space="preserve" id="stt_29" POS="MD" charOffset="2105-2108" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_30" POS="RB" charOffset="2108-2111" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_31" POS="VB" charOffset="2112-2114" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_32" POS="VBN" charOffset="2115-2123" text="excluded" lemma="exclude"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="2123-2124" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (VBN=H Taken)
+            (ADVP (RB=H together))))
+            (, ,)
+            (NP (DT these) (NNS=H results))
+            (VP=H (VBP=H support)
+            (NP (PRP$ our) (NN=H conclusion))
+            (SBAR (IN=H that)
+            (S
+            (NP (JJ transcriptional) (NN=H transactivation))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (JJ necessary) (NN signaling) (NN=H component))
+            (PP (IN=H of)
+            (NP (NN S49) (NN cell) (NN=H apoptosis)))))))
+            (, ,)
+            (SBAR (IN=H although)
+            (S
+            (NP
+            (NP=H (DT an) (JJ additional) (NN=H role))
+            (PP (IN=H for)
+            (NP (JJ GR-mediated) (NN=H transrepression))))
+            (VP=H (MD=H can) (RB not)
+            (VP (VB=H be)
+            (VP (VBN=H excluded)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T23" type="ZeroArticleNP" charOffset="1011-1127" headOffset="1090-1097" text="GR chimeric receptors containing the potent VP16 and E1A viral transactivation domains in place of the GR N terminus"/>
+    <Term xml:space="preserve" id="T24" type="DemonstrativeNP" charOffset="1171-1186" headOffset="1177-1186" text="these receptors"/>
+    <Term xml:space="preserve" id="T25" type="ZeroArticleNP" charOffset="1337-1339" headOffset="1337-1339" text="AR"/>
+    <Term xml:space="preserve" id="T26" type="PossessivePronoun" charOffset="1434-1437" headOffset="1434-1437" text="its"/>
+    <Term xml:space="preserve" id="T27" type="PossessivePronoun" charOffset="1935-1949" headOffset="1939-1949" text="our conclusion"/>
+    <Term xml:space="preserve" id="T28" type="RelativePronoun" charOffset="1950-1954" headOffset="1950-1954" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T24"/>
+        <Antecedent idref="T23"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T26"/>
+        <Antecedent idref="T25"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T28"/>
+        <Antecedent idref="T27"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="190-213" headOffset="205-213" text="glucocorticoid receptor"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="215-217" headOffset="215-217" text="GR"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="440-442" headOffset="440-442" text="GR"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="549-551" headOffset="549-551" text="GR"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="649-651" headOffset="649-651" text="GR"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="653-655" headOffset="653-655" text="GR"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="674-691" headOffset="683-691" text="androgen receptor"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="693-695" headOffset="693-695" text="AR"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="746-748" headOffset="746-748" text="GR"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="895-897" headOffset="895-897" text="GR"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="1011-1013" headOffset="1011-1013" text="GR"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="1055-1059" headOffset="1055-1059" text="VP16"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="1064-1067" headOffset="1064-1067" text="E1A"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1114-1116" headOffset="1114-1116" text="GR"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1337-1339" headOffset="1337-1339" text="AR"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="1620-1625" headOffset="1620-1625" text="GIG18"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="1641-1646" headOffset="1641-1646" text="GIG18"/>
+    <Term xml:space="preserve" id="T18" type="Protein" charOffset="1696-1698" headOffset="1696-1698" text="AR"/>
+    <Term xml:space="preserve" id="T19" type="Protein" charOffset="1703-1705" headOffset="1703-1705" text="GR"/>
+    <Term xml:space="preserve" id="T20" type="Protein" charOffset="1726-1728" headOffset="1726-1728" text="AR"/>
+    <Term xml:space="preserve" id="T21" type="Protein" charOffset="1813-1818" headOffset="1813-1818" text="GIG18"/>
+    <Term xml:space="preserve" id="T22" type="Protein" charOffset="2077-2079" headOffset="2077-2079" text="GR"/>
+</document>

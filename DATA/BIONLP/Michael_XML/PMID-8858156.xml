@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8858156">
+    <text xml:space="preserve">Human TAFII 105 is a cell type-specific TFIID subunit related to hTAFII130. 
+We previously characterized Drosophila and human TAF subunits that make up the core TFIID complex found in all cells. Here, we report that differentiated B cells contain a novel substoichiometric TAF of 105 kDa not found associated with TFIID isolated from other cell types. The cDNA encoding hTAFII105 reveals a highly conserved C-terminal domain shared by hTAFII130 and oTAFII110, while the N-terminal coactivator domain has diverged significantly. All cells tested express TAFII105 mRNA, but only B cells contain significant levels of protein associated with TFIID. Transient overexpression of hTAFII105 selectively squelches the transcription of some genes in B cells. These properties suggest that TAFII105 is a cell type-specific subunit of TFIID that may be responsible for mediating transcription by a subset of activators in B cells. 
+</text>
+    <sentence charOffset="0-77" id="S1">
+        <text xml:space="preserve">Human TAFII 105 is a cell type-specific TFIID subunit related to hTAFII130. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-5" text="Human" lemma="human"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="6-11" text="TAFII" lemma="tafii"/>
+            <token xml:space="preserve" id="stt_3" POS="CD" charOffset="12-15" text="105" lemma="105"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="16-18" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="19-20" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="21-25" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="26-39" text="type-specific" lemma="type-specific"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="40-45" text="TFIID" lemma="tfiid"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="46-53" text="subunit" lemma="subunit"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="54-61" text="related" lemma="related"/>
+            <token xml:space="preserve" id="stt_11" POS="TO" charOffset="62-64" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="65-74" text="hTAFII130" lemma="htafii130"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="74-75" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Human) (NN=H TAFII))
+            (NP (CD=H 105)))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (NN cell) (JJ type-specific) (NN TFIID) (NN=H subunit))
+            (ADJP (JJ=H related)
+            (PP (TO=H to)
+            (NP (NN=H hTAFII130))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="77-195" id="S2">
+        <text xml:space="preserve">We previously characterized Drosophila and human TAF subunits that make up the core TFIID complex found in all cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="77-79" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="80-90" text="previously" lemma="previously"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="91-104" text="characterized" lemma="characterize"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="105-115" text="Drosophila" lemma="drosophila"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="116-119" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="120-125" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="126-129" text="TAF" lemma="taf"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="130-138" text="subunits" lemma="subunit"/>
+            <token xml:space="preserve" id="stt_9" POS="WDT" charOffset="139-143" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_10" POS="VBP" charOffset="144-148" text="make" lemma="make"/>
+            <token xml:space="preserve" id="stt_11" POS="RP" charOffset="149-151" text="up" lemma="up"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="152-155" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="156-160" text="core" lemma="core"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="161-166" text="TFIID" lemma="tfiid"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="167-174" text="complex" lemma="complex"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="175-180" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="181-183" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="184-187" text="all" lemma="all"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="188-193" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="193-194" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (ADVP (RB=H previously))
+            (VP=H (VBD=H characterized)
+            (NP
+            (NP=H (NN Drosophila)
+            (CC and)
+            (JJ human) (NN TAF) (NNS=H subunits))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H make)
+            (PRT (RP=H up))
+            (NP
+            (NP=H (DT the) (NN core) (NN TFIID) (NN=H complex))
+            (VP (VBN=H found)
+            (PP (IN=H in)
+            (NP (DT all) (NNS=H cells))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="195-352" id="S3">
+        <text xml:space="preserve">Here, we report that differentiated B cells contain a novel substoichiometric TAF of 105 kDa not found associated with TFIID isolated from other cell types. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="195-199" text="Here" lemma="here"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="199-200" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP" charOffset="201-203" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="204-210" text="report" lemma="report"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="211-215" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="216-230" text="differentiated" lemma="differentiate"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="231-232" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="233-238" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="VBP" charOffset="239-246" text="contain" lemma="contain"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="247-248" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="249-254" text="novel" lemma="novel"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="255-272" text="substoichiometric" lemma="substoichiometric"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="273-276" text="TAF" lemma="taf"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="277-279" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="CD" charOffset="280-283" text="105" lemma="105"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="284-287" text="kDa" lemma="kda"/>
+            <token xml:space="preserve" id="stt_17" POS="RB" charOffset="288-291" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="292-297" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_19" POS="VBN" charOffset="298-308" text="associated" lemma="associate"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="309-313" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="314-319" text="TFIID" lemma="tfiid"/>
+            <token xml:space="preserve" id="stt_22" POS="VBN" charOffset="320-328" text="isolated" lemma="isolate"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="329-333" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="334-339" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="340-344" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="345-350" text="types" lemma="type"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="350-351" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Here))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H report)
+            (SBAR (IN=H that)
+            (S
+            (S
+            (VP=H (VBN=H differentiated)
+            (NP (NN B) (NNS=H cells))))
+            (VP=H (VBP=H contain)
+            (NP
+            (NP=H (DT a) (JJ novel) (JJ substoichiometric) (NN=H TAF))
+            (PP (IN=H of)
+            (NP
+            (NP=H (CD 105) (NN=H kDa) (RB not))
+            (VP (VBN=H found)
+            (S
+            (VP=H (VBN=H associated)
+            (PP (IN=H with)
+            (NP
+            (NP=H (NN=H TFIID))
+            (VP (VBN=H isolated)
+            (PP (IN=H from)
+            (NP (JJ other) (NN cell) (NNS=H types))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="352-528" id="S4">
+        <text xml:space="preserve">The cDNA encoding hTAFII105 reveals a highly conserved C-terminal domain shared by hTAFII130 and oTAFII110, while the N-terminal coactivator domain has diverged significantly. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="352-355" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="356-360" text="cDNA" lemma="cdna"/>
+            <token xml:space="preserve" id="stt_3" POS="VBG" charOffset="361-369" text="encoding" lemma="encode"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="370-379" text="hTAFII105" lemma="htafii105"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="380-387" text="reveals" lemma="reveal"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="388-389" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="390-396" text="highly" lemma="highly"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="397-406" text="conserved" lemma="conserve"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="407-417" text="C-terminal" lemma="c-terminal"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="418-424" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="425-431" text="shared" lemma="share"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="432-434" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="435-444" text="hTAFII130" lemma="htafii130"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="445-448" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="449-458" text="oTAFII110" lemma="otafii110"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="458-459" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="460-465" text="while" lemma="while"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="466-469" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="470-480" text="N-terminal" lemma="n-terminal"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="481-492" text="coactivator" lemma="coactivator"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="493-499" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_22" POS="VBZ" charOffset="500-503" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="504-512" text="diverged" lemma="diverge"/>
+            <token xml:space="preserve" id="stt_24" POS="RB" charOffset="513-526" text="significantly" lemma="significantly"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="526-527" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NN cDNA) (VBG encoding) (NN=H hTAFII105))
+            (VP=H (VBZ=H reveals)
+            (NP
+            (NP=H (DT a) (RB=H highly))
+            (VP (VBN=H conserved)
+            (NP
+            (NP=H (JJ C-terminal) (NN=H domain))
+            (VP (VBN=H shared)
+            (PP (IN=H by)
+            (NP (NN=H hTAFII130)
+            (CC and)
+            (NN oTAFII110)))))))
+            (, ,)
+            (SBAR (IN=H while)
+            (S
+            (NP (DT the) (JJ N-terminal) (NN coactivator) (NN=H domain))
+            (VP=H (VBZ=H has)
+            (VP (VBN=H diverged)
+            (ADVP (RB=H significantly)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="528-646" id="S5">
+        <text xml:space="preserve">All cells tested express TAFII105 mRNA, but only B cells contain significant levels of protein associated with TFIID. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="528-531" text="All" lemma="all"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="532-537" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="538-544" text="tested" lemma="test"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="545-552" text="express" lemma="express"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="553-561" text="TAFII105" lemma="tafii105"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="562-566" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="566-567" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="568-571" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="572-576" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="577-578" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="579-584" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="VBP" charOffset="585-592" text="contain" lemma="contain"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="593-604" text="significant" lemma="significant"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="605-611" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="612-614" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="615-622" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="623-633" text="associated" lemma="associate"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="634-638" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="639-644" text="TFIID" lemma="tfiid"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="644-645" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP
+            (NP=H (DT All) (NNS=H cells))
+            (VP (VBN=H tested)))
+            (VP=H (VBP=H express)
+            (NP (NN TAFII105) (NN=H mRNA))))
+            (, ,)
+            (CC but)
+            (S
+            (ADVP (RB=H only))
+            (NP (NN B) (NNS=H cells))
+            (VP=H (VBP=H contain)
+            (NP
+            (NP=H (JJ significant) (NNS=H levels))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H protein))
+            (VP (VBN=H associated)
+            (PP (IN=H with)
+            (NP (NN=H TFIID)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="646-750" id="S6">
+        <text xml:space="preserve">Transient overexpression of hTAFII105 selectively squelches the transcription of some genes in B cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="646-655" text="Transient" lemma="transient"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="656-670" text="overexpression" lemma="overexpression"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="671-673" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="674-683" text="hTAFII105" lemma="htafii105"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="684-695" text="selectively" lemma="selectively"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="696-705" text="squelches" lemma="squelch"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="706-709" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="710-723" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="724-726" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="727-731" text="some" lemma="some"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="732-737" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="738-740" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="741-742" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="743-748" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="748-749" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Transient) (NN=H overexpression))
+            (PP (IN=H of)
+            (NP (NN=H hTAFII105))))
+            (ADVP (RB=H selectively))
+            (VP=H (VBZ=H squelches)
+            (NP
+            (NP=H (DT the) (NN=H transcription))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT some) (NNS=H genes))
+            (PP (IN=H in)
+            (NP (NN B) (NNS=H cells)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="750-921" id="S7">
+        <text xml:space="preserve">These properties suggest that TAFII105 is a cell type-specific subunit of TFIID that may be responsible for mediating transcription by a subset of activators in B cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="750-755" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="756-766" text="properties" lemma="property"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="767-774" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="775-779" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="780-788" text="TAFII105" lemma="tafii105"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="789-791" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="792-793" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="794-798" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="799-812" text="type-specific" lemma="type-specific"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="813-820" text="subunit" lemma="subunit"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="821-823" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="824-829" text="TFIID" lemma="tfiid"/>
+            <token xml:space="preserve" id="stt_13" POS="WDT" charOffset="830-834" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_14" POS="MD" charOffset="835-838" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_15" POS="VB" charOffset="839-841" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="842-853" text="responsible" lemma="responsible"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="854-857" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_18" POS="VBG" charOffset="858-867" text="mediating" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="868-881" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="882-884" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="885-886" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="887-893" text="subset" lemma="subset"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="894-896" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="897-907" text="activators" lemma="activator"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="908-910" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="911-912" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="913-918" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="918-919" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H properties))
+            (VP=H (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H TAFII105))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (NN cell) (JJ type-specific) (NN=H subunit))
+            (PP (IN=H of)
+            (NP (NN=H TFIID)))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (MD=H may)
+            (VP (VB=H be)
+            (ADJP (JJ=H responsible)
+            (PP (IN=H for)
+            (S
+            (VP=H (VBG=H mediating)
+            (NP (NN=H transcription))
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT a) (NN=H subset))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H activators))
+            (PP (IN=H in)
+            (NP (NN B) (NNS=H cells))))))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T9" type="ZeroArticleNP" charOffset="120-138" headOffset="130-138" text="human TAF subunits"/>
+    <Term xml:space="preserve" id="T10" type="RelativePronoun" charOffset="139-143" headOffset="139-143" text="that"/>
+    <Term xml:space="preserve" id="T11" type="IndefiniteNP" charOffset="792-829" headOffset="813-820" text="a cell type-specific subunit of TFIID"/>
+    <Term xml:space="preserve" id="T12" type="RelativePronoun" charOffset="830-834" headOffset="830-834" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T10"/>
+        <Antecedent idref="T9"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T12"/>
+        <Antecedent idref="T11"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="6-15" headOffset="6-11" text="TAFII 105"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="65-74" headOffset="65-74" text="hTAFII130"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="370-379" headOffset="370-379" text="hTAFII105"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="435-444" headOffset="435-444" text="hTAFII130"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="449-458" headOffset="449-458" text="oTAFII110"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="553-561" headOffset="553-561" text="TAFII105"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="674-683" headOffset="674-683" text="hTAFII105"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="780-788" headOffset="780-788" text="TAFII105"/>
+</document>

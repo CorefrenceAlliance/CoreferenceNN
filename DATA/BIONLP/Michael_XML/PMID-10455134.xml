@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10455134">
+    <text xml:space="preserve">AML1 (CBFalpha2) cooperates with B cell-specific activating protein (BSAP/PAX5) in activation of the B cell-specific BLK gene promoter. 
+AML1 plays a critical role during hematopoiesis and chromosomal translocations involving AML1 are commonly associated with different forms of leukemia, including pre-B acute lymphoblastic leukemia. To understand the function of AML1 during B cell differentiation, we analyzed regulatory regions of B cell-specific genes for potential AML1-binding sites and have identified a putative AML1-binding site in the promoter of the B cell-specific tyrosine kinase gene, blk. Gel mobility shift assays and transient transfection assays demonstrate that AML1 binds specifically to this site in the blk promoter and this binding site is important for blk promoter activity. Furthermore, in vitro binding analysis revealed that the AML1 runt DNA-binding domain physically interacts with the paired DNA-binding domain of BSAP, a B cell-specific transcription factor. BSAP has been shown previously to be important for B cell-specific regulation of the blk gene. Physical interaction of AML1 with BSAP correlates with functional cooperativity in transfection studies where AML1 and BSAP synergistically activate blk promoter transcription by more than 50-fold. These results demonstrate physical and functional interactions between AML1 and BSAP and suggest that AML1 is an important factor for regulating a critical B cell-specific gene, blk. 
+</text>
+    <sentence charOffset="0-137" id="S1">
+        <text xml:space="preserve">AML1 (CBFalpha2) cooperates with B cell-specific activating protein (BSAP/PAX5) in activation of the B cell-specific BLK gene promoter. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-4" text="AML1" lemma="aml1"/>
+            <token xml:space="preserve" id="stt_2" POS="-LRB-" charOffset="5-6" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="6-15" text="CBFalpha2" lemma="cbfalpha2"/>
+            <token xml:space="preserve" id="stt_4" POS="-RRB-" charOffset="15-16" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="17-27" text="cooperates" lemma="cooperate"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="28-32" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="33-34" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="35-48" text="cell-specific" lemma="cell-specific"/>
+            <token xml:space="preserve" id="stt_9" POS="VBG" charOffset="49-59" text="activating" lemma="activate"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="60-67" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_11" POS="-LRB-" charOffset="68-69" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="69-78" text="BSAP/PAX5" lemma="bsap/pax5"/>
+            <token xml:space="preserve" id="stt_13" POS="-RRB-" charOffset="78-79" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="80-82" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="83-93" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="94-96" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="97-100" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="101-102" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="103-116" text="cell-specific" lemma="cell-specific"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="117-120" text="BLK" lemma="blk"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="121-125" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="126-134" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="134-135" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H AML1))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H CBFalpha2))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H cooperates)
+            (PP (IN=H with)
+            (NP (NN=H B)))
+            (NP
+            (NP=H (JJ cell-specific) (VBG activating) (NN=H protein))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H BSAP/PAX5))
+            (-RRB- -RRB-))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN=H B))
+            (NP (JJ cell-specific) (NN BLK) (NN gene) (NN=H promoter))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="137-335" id="S2">
+        <text xml:space="preserve">AML1 plays a critical role during hematopoiesis and chromosomal translocations involving AML1 are commonly associated with different forms of leukemia, including pre-B acute lymphoblastic leukemia. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="137-141" text="AML1" lemma="aml1"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="142-147" text="plays" lemma="play"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="148-149" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="150-158" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="159-163" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="164-170" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="171-184" text="hematopoiesis" lemma="hematopoiesis"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="185-188" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="189-200" text="chromosomal" lemma="chromosomal"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="201-215" text="translocations" lemma="translocation"/>
+            <token xml:space="preserve" id="stt_11" POS="VBG" charOffset="216-225" text="involving" lemma="involve"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="226-230" text="AML1" lemma="aml1"/>
+            <token xml:space="preserve" id="stt_13" POS="VBP" charOffset="231-234" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="235-243" text="commonly" lemma="commonly"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="244-254" text="associated" lemma="associate"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="255-259" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="260-269" text="different" lemma="different"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="270-275" text="forms" lemma="form"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="276-278" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="279-287" text="leukemia" lemma="leukemia"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="287-288" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="VBG" charOffset="289-298" text="including" lemma="include"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="299-304" text="pre-B" lemma="pre-b"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="305-310" text="acute" lemma="acute"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="311-324" text="lymphoblastic" lemma="lymphoblastic"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="325-333" text="leukemia" lemma="leukemia"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="333-334" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (NN=H AML1))
+            (VP=H (VBZ=H plays)
+            (NP (DT a) (JJ critical) (NN=H role))
+            (PP (IN=H during)
+            (NP (NN=H hematopoiesis)))))
+            (CC and)
+            (S
+            (NP
+            (NP=H (JJ chromosomal) (NNS=H translocations))
+            (VP (VBG=H involving)
+            (NP (NN=H AML1))))
+            (VP=H (VBP=H are)
+            (ADVP (RB=H commonly))
+            (VP (VBN=H associated)
+            (PP (IN=H with)
+            (NP
+            (NP=H (JJ different) (NNS=H forms))
+            (PP (IN=H of)
+            (NP (NN=H leukemia)))
+            (, ,)
+            (PP (VBG=H including)
+            (NP
+            (ADJP (JJ pre-B) (JJ=H acute))
+            (JJ lymphoblastic) (NN=H leukemia))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="335-605" id="S3">
+        <text xml:space="preserve">To understand the function of AML1 during B cell differentiation, we analyzed regulatory regions of B cell-specific genes for potential AML1-binding sites and have identified a putative AML1-binding site in the promoter of the B cell-specific tyrosine kinase gene, blk. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="335-337" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="VB" charOffset="338-348" text="understand" lemma="understand"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="349-352" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="353-361" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="362-364" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="365-369" text="AML1" lemma="aml1"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="370-376" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="377-378" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="379-383" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="384-399" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="399-400" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="PRP" charOffset="401-403" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="404-412" text="analyzed" lemma="analyze"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="413-423" text="regulatory" lemma="regulatory"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="424-431" text="regions" lemma="region"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="432-434" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="435-436" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="437-450" text="cell-specific" lemma="cell-specific"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="451-456" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="457-460" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="461-470" text="potential" lemma="potential"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="471-483" text="AML1-binding" lemma="aml1-binding"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="484-489" text="sites" lemma="site"/>
+            <token xml:space="preserve" id="stt_24" POS="CC" charOffset="490-493" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_25" POS="VBP" charOffset="494-498" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_26" POS="VBN" charOffset="499-509" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="510-511" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="512-520" text="putative" lemma="putative"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="521-533" text="AML1-binding" lemma="aml1-binding"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="534-538" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="539-541" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_32" POS="DT" charOffset="542-545" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="546-554" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="555-557" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_35" POS="DT" charOffset="558-561" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="562-563" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_37" POS="JJ" charOffset="564-577" text="cell-specific" lemma="cell-specific"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="578-586" text="tyrosine" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="587-593" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="594-598" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_41" POS="," charOffset="598-599" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="600-603" text="blk" lemma="blk"/>
+            <token xml:space="preserve" id="stt_43" POS="." charOffset="603-604" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP (VB=H understand)
+            (NP
+            (NP=H (DT the) (NN=H function))
+            (PP (IN=H of)
+            (NP (NN=H AML1))))
+            (PP (IN=H during)
+            (NP (NN B) (NN cell) (NN=H differentiation))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H
+            (VP=H (VBD=H analyzed)
+            (NP
+            (NP=H (JJ regulatory) (NNS=H regions))
+            (PP (IN=H of)
+            (NP (NN B) (JJ cell-specific) (NNS=H genes))))
+            (PP (IN=H for)
+            (NP (JJ potential) (JJ AML1-binding) (NNS=H sites))))
+            (CC and)
+            (VP (VBP=H have)
+            (VP (VBN=H identified)
+            (NP (DT a)
+            (ADJP (JJ putative) (JJ=H AML1-binding))
+            (NN=H site))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H promoter))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN=H B))
+            (ADJP (JJ=H cell-specific)
+            (NP-TMP
+            (NP=H (NN tyrosine) (NN kinase) (NN=H gene))
+            (, ,)
+            (NP (NN=H blk)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="605-801" id="S4">
+        <text xml:space="preserve">Gel mobility shift assays and transient transfection assays demonstrate that AML1 binds specifically to this site in the blk promoter and this binding site is important for blk promoter activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="605-608" text="Gel" lemma="gel"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="609-617" text="mobility" lemma="mobility"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="618-623" text="shift" lemma="shift"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="624-630" text="assays" lemma="assay"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="631-634" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="635-644" text="transient" lemma="transient"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="645-657" text="transfection" lemma="transfection"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="658-664" text="assays" lemma="assay"/>
+            <token xml:space="preserve" id="stt_9" POS="VBP" charOffset="665-676" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="677-681" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="682-686" text="AML1" lemma="aml1"/>
+            <token xml:space="preserve" id="stt_12" POS="VBZ" charOffset="687-692" text="binds" lemma="bind"/>
+            <token xml:space="preserve" id="stt_13" POS="RB" charOffset="693-705" text="specifically" lemma="specifically"/>
+            <token xml:space="preserve" id="stt_14" POS="TO" charOffset="706-708" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="709-713" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="714-718" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="719-721" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="722-725" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="726-729" text="blk" lemma="blk"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="730-738" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_21" POS="CC" charOffset="739-742" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="743-747" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="748-755" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="756-760" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_25" POS="VBZ" charOffset="761-763" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="764-773" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="774-777" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="778-781" text="blk" lemma="blk"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="782-790" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="791-799" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="799-800" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (NN Gel) (NN mobility) (NN shift) (NNS assays)
+            (CC and)
+            (JJ transient) (NN transfection) (NNS=H assays))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H AML1))
+            (VP=H (VBZ=H binds)
+            (ADVP (RB=H specifically))
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT this) (NN=H site))
+            (PP (IN=H in)
+            (NP (DT the) (NN blk) (NN=H promoter))))))))))
+            (CC and)
+            (S
+            (NP (DT this) (NN binding) (NN=H site))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H important)
+            (PP (IN=H for)
+            (NP (NN blk) (NN promoter) (NN=H activity))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="801-992" id="S5">
+        <text xml:space="preserve">Furthermore, in vitro binding analysis revealed that the AML1 runt DNA-binding domain physically interacts with the paired DNA-binding domain of BSAP, a B cell-specific transcription factor. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="801-812" text="Furthermore" lemma="furthermore"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="812-813" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="FW" charOffset="814-816" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_4" POS="FW" charOffset="817-822" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="823-830" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="831-839" text="analysis" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="840-848" text="revealed" lemma="reveal"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="849-853" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="854-857" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="858-862" text="AML1" lemma="aml1"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="863-867" text="runt" lemma="runt"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="868-879" text="DNA-binding" lemma="dna-binding"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="880-886" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="887-897" text="physically" lemma="physically"/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="898-907" text="interacts" lemma="interact"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="908-912" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="913-916" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="917-923" text="paired" lemma="paired"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="924-935" text="DNA-binding" lemma="dna-binding"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="936-942" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="943-945" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="946-950" text="BSAP" lemma="bsap"/>
+            <token xml:space="preserve" id="stt_23" POS="," charOffset="950-951" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="952-953" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="954-955" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="956-969" text="cell-specific" lemma="cell-specific"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="970-983" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="984-990" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="990-991" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Furthermore))
+            (, ,)
+            (X
+            (ADVP (FW in) (FW=H vitro))
+            (NP=H (NN=H binding)))
+            (NP (NN=H analysis))
+            (VP=H (VBD=H revealed)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT the) (NN AML1) (NN=H runt))
+            (ADVP
+            (NP (JJ DNA-binding) (NN=H domain))
+            (RB=H physically))
+            (VP=H (VBZ=H interacts)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT the) (JJ paired) (JJ DNA-binding) (NN=H domain))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H BSAP))
+            (, ,)
+            (NP (DT a) (NN B) (JJ cell-specific) (NN transcription) (NN=H factor))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="992-1087" id="S6">
+        <text xml:space="preserve">BSAP has been shown previously to be important for B cell-specific regulation of the blk gene. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="992-996" text="BSAP" lemma="bsap"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="997-1000" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="1001-1005" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="1006-1011" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="1012-1022" text="previously" lemma="previously"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="1023-1025" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="VB" charOffset="1026-1028" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1029-1038" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1039-1042" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1043-1044" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1045-1058" text="cell-specific" lemma="cell-specific"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1059-1069" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1070-1072" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="1073-1076" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1077-1080" text="blk" lemma="blk"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1081-1085" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="1085-1086" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H BSAP))
+            (VP=H (VBZ=H has)
+            (VP (VBN=H been)
+            (VP (VBN=H shown)
+            (ADVP (RB=H previously))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (ADJP (JJ=H important)
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN B) (JJ cell-specific) (NN=H regulation))
+            (PP (IN=H of)
+            (NP (DT the) (NN blk) (NN=H gene))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1087-1285" id="S7">
+        <text xml:space="preserve">Physical interaction of AML1 with BSAP correlates with functional cooperativity in transfection studies where AML1 and BSAP synergistically activate blk promoter transcription by more than 50-fold. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1087-1095" text="Physical" lemma="physical"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1096-1107" text="interaction" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1108-1110" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1111-1115" text="AML1" lemma="aml1"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1116-1120" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1121-1125" text="BSAP" lemma="bsap"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="1126-1136" text="correlates" lemma="correlate"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1137-1141" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1142-1152" text="functional" lemma="functional"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1153-1166" text="cooperativity" lemma="cooperativity"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1167-1169" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1170-1182" text="transfection" lemma="transfection"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="1183-1190" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_14" POS="WRB" charOffset="1191-1196" text="where" lemma="where"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1197-1201" text="AML1" lemma="aml1"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="1202-1205" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1206-1210" text="BSAP" lemma="bsap"/>
+            <token xml:space="preserve" id="stt_18" POS="RB" charOffset="1211-1226" text="synergistically" lemma="synergistically"/>
+            <token xml:space="preserve" id="stt_19" POS="VBP" charOffset="1227-1235" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1236-1239" text="blk" lemma="blk"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1240-1248" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1249-1262" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1263-1265" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_24" POS="JJR" charOffset="1266-1270" text="more" lemma="more"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="1271-1275" text="than" lemma="than"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="1276-1283" text="50-fold" lemma="50-fold"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="1283-1284" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Physical) (NN=H interaction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H AML1))
+            (PP (IN=H with)
+            (NP (NN=H BSAP))))))
+            (VP=H (VBZ=H correlates)
+            (PP (IN=H with)
+            (NP
+            (NP=H (JJ functional) (NN=H cooperativity))
+            (PP (IN=H in)
+            (NP (NN transfection) (NNS=H studies)))))
+            (SBAR
+            (WHADVP=H (WRB=H where))
+            (S
+            (NP (NN=H AML1)
+            (CC and)
+            (NN BSAP))
+            (ADVP (RB=H synergistically))
+            (VP=H (VBP=H activate)
+            (NP (NN blk) (NN promoter) (NN=H transcription))
+            (PP (IN=H by)
+            (NP
+            (QP=H (JJR more) (IN=H than)
+            (NP (JJ=H 50-fold)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1285-1469" id="S8">
+        <text xml:space="preserve">These results demonstrate physical and functional interactions between AML1 and BSAP and suggest that AML1 is an important factor for regulating a critical B cell-specific gene, blk. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1285-1290" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1291-1298" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1299-1310" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1311-1319" text="physical" lemma="physical"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="1320-1323" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1324-1334" text="functional" lemma="functional"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1335-1347" text="interactions" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1348-1355" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1356-1360" text="AML1" lemma="aml1"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="1361-1364" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1365-1369" text="BSAP" lemma="bsap"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="1370-1373" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="VBP" charOffset="1374-1381" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1382-1386" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1387-1391" text="AML1" lemma="aml1"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="1392-1394" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="1395-1397" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1398-1407" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1408-1414" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1415-1418" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_21" POS="VBG" charOffset="1419-1429" text="regulating" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="1430-1431" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="1432-1440" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1441-1442" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="1443-1456" text="cell-specific" lemma="cell-specific"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1457-1461" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="1461-1462" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1463-1466" text="blk" lemma="blk"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="1466-1467" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H results))
+            (VP=H
+            (VP=H (VBP=H demonstrate)
+            (NP
+            (NP=H
+            (ADJP (JJ=H physical)
+            (CC and)
+            (JJ functional))
+            (NNS=H interactions))
+            (PP (IN=H between)
+            (NP (NN=H AML1)
+            (CC and)
+            (NN BSAP)))))
+            (CC and)
+            (VP (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H AML1))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT an) (JJ important) (NN=H factor))
+            (PP (IN=H for)
+            (S
+            (VP=H (VBG=H regulating)
+            (NP
+            (NP=H (DT a) (JJ critical) (NN B) (JJ cell-specific) (NN=H gene))
+            (, ,)
+            (NP (NN=H blk))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="0-4" headOffset="0-4" text="AML1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="6-15" headOffset="6-15" text="CBFalpha2"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="33-67" headOffset="60-67" text="B cell-specific activating protein"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="69-73" headOffset="69-73" text="BSAP"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="74-78" headOffset="74-78" text="PAX5"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="117-120" headOffset="117-120" text="BLK"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="137-141" headOffset="137-141" text="AML1"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="226-230" headOffset="226-230" text="AML1"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="365-369" headOffset="365-369" text="AML1"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="471-475" headOffset="471-475" text="AML1"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="521-525" headOffset="521-525" text="AML1"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="562-593" headOffset="587-593" text="B cell-specific tyrosine kinase"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="600-603" headOffset="600-603" text="blk"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="682-686" headOffset="682-686" text="AML1"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="726-729" headOffset="726-729" text="blk"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="778-781" headOffset="778-781" text="blk"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="858-862" headOffset="858-862" text="AML1"/>
+    <Term xml:space="preserve" id="T18" type="Protein" charOffset="946-950" headOffset="946-950" text="BSAP"/>
+    <Term xml:space="preserve" id="T19" type="Protein" charOffset="992-996" headOffset="992-996" text="BSAP"/>
+    <Term xml:space="preserve" id="T20" type="Protein" charOffset="1077-1080" headOffset="1077-1080" text="blk"/>
+    <Term xml:space="preserve" id="T21" type="Protein" charOffset="1111-1115" headOffset="1111-1115" text="AML1"/>
+    <Term xml:space="preserve" id="T22" type="Protein" charOffset="1121-1125" headOffset="1121-1125" text="BSAP"/>
+    <Term xml:space="preserve" id="T23" type="Protein" charOffset="1197-1201" headOffset="1197-1201" text="AML1"/>
+    <Term xml:space="preserve" id="T24" type="Protein" charOffset="1206-1210" headOffset="1206-1210" text="BSAP"/>
+    <Term xml:space="preserve" id="T25" type="Protein" charOffset="1236-1239" headOffset="1236-1239" text="blk"/>
+    <Term xml:space="preserve" id="T26" type="Protein" charOffset="1356-1360" headOffset="1356-1360" text="AML1"/>
+    <Term xml:space="preserve" id="T27" type="Protein" charOffset="1365-1369" headOffset="1365-1369" text="BSAP"/>
+    <Term xml:space="preserve" id="T28" type="Protein" charOffset="1387-1391" headOffset="1387-1391" text="AML1"/>
+    <Term xml:space="preserve" id="T29" type="Protein" charOffset="1463-1466" headOffset="1463-1466" text="blk"/>
+</document>

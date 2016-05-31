@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9710149">
+    <text xml:space="preserve">Dimethyldithiocarbamate inhibits in vitro activation of primary human CD4+ T lymphocytes. 
+Dithiocarbamates (DTC), a diverse group of industrial and therapeutic chemicals, have been reported to inhibit, enhance or have no effect on the immune system. These apparent inconsistencies reflect the complexity of the DTCs biological activities and are probably due in part to differences in dose, route of exposure, animal species used and/or specific compound tested. The studies described herein were undertaken to investigate the immunotoxicity of one member of this family, dimethyldithiocarbamate (DMDTC). We demonstrate that 0.1-0.5 microM DMDTC inhibits TNF-alpha-induced activation of NF-kappaB in primary human CD4+ T cells. This inhibition is not accompanied by a loss in viability, and DMDTC-treated T cells retain other active signaling pathways throughout the exposure duration. The inhibition of NF-kappaB is apparently permanent as DMDTC-treated T cells did not regain normal TNF-alpha activation, even after 72 h in culture. DMDTC does not appear to alter NF-kappaB directly as pre-incubation of nuclear extracts with DMDTC does not diminish binding activity of this protein. We further demonstrate that 0.1-0.5 microM DMDTC inhibits intracellular IL-2 production and decreases surface expression of CD25 (the alpha subunit of the IL-2 receptor) in T cells stimulated with phorbol ester. These data demonstrate that DMDTC is a potent immunosuppressive compound in vitro. 
+</text>
+    <sentence charOffset="0-91" id="S1">
+        <text xml:space="preserve">Dimethyldithiocarbamate inhibits in vitro activation of primary human CD4+ T lymphocytes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-23" text="Dimethyldithiocarbamate" lemma="dimethyldithiocarbamate"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="24-32" text="inhibits" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_3" POS="FW" charOffset="33-35" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_4" POS="FW" charOffset="36-41" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="42-52" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="53-55" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="56-63" text="primary" lemma="primary"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="64-69" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="70-73" text="CD4" lemma="cd4"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="73-74" text="+" lemma="+"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="75-76" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="77-88" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="88-89" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Dimethyldithiocarbamate))
+            (VP=H (VBZ=H inhibits)
+            (ADVP (FW in) (FW=H vitro))
+            (NP
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ primary) (JJ human) (NN=H CD4))
+            (CC +)
+            (NP (NN T) (NNS=H lymphocytes))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="91-251" id="S2">
+        <text xml:space="preserve">Dithiocarbamates (DTC), a diverse group of industrial and therapeutic chemicals, have been reported to inhibit, enhance or have no effect on the immune system. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="91-107" text="Dithiocarbamates" lemma="dithiocarbamate"/>
+            <token xml:space="preserve" id="stt_2" POS="-LRB-" charOffset="108-109" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="109-112" text="DTC" lemma="dtc"/>
+            <token xml:space="preserve" id="stt_4" POS="-RRB-" charOffset="112-113" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="113-114" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="115-116" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="117-124" text="diverse" lemma="diverse"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="125-130" text="group" lemma="group"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="131-133" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="134-144" text="industrial" lemma="industrial"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="145-148" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="149-160" text="therapeutic" lemma="therapeutic"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="161-170" text="chemicals" lemma="chemical"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="170-171" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="VBP" charOffset="172-176" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="177-181" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="182-190" text="reported" lemma="report"/>
+            <token xml:space="preserve" id="stt_18" POS="TO" charOffset="191-193" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_19" POS="VB" charOffset="194-201" text="inhibit" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="201-202" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="VBP" charOffset="203-210" text="enhance" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_22" POS="CC" charOffset="211-213" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_23" POS="VBP" charOffset="214-218" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="219-221" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="222-228" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="229-231" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="232-235" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="236-242" text="immune" lemma="immune"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="243-249" text="system" lemma="system"/>
+            <token xml:space="preserve" id="stt_30" POS="." charOffset="249-250" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NNS=H Dithiocarbamates))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H DTC))
+            (-RRB- -RRB-))
+            (, ,)
+            (NP
+            (NP=H (DT a) (JJ diverse) (NN=H group))
+            (PP (IN=H of)
+            (NP (JJ industrial)
+            (CC and)
+            (JJ therapeutic) (NNS=H chemicals))))
+            (, ,))
+            (VP=H
+            (VP=H (VBP=H have)
+            (VP (VBN=H been)
+            (VP (VBN=H reported)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H inhibit)))))))
+            (, ,)
+            (VP (VBP=H enhance))
+            (CC or)
+            (VP (VBP=H have)
+            (NP
+            (NP=H (DT no) (NN=H effect))
+            (PP (IN=H on)
+            (NP (DT the) (JJ immune) (NN=H system))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="251-464" id="S3">
+        <text xml:space="preserve">These apparent inconsistencies reflect the complexity of the DTCs biological activities and are probably due in part to differences in dose, route of exposure, animal species used and/or specific compound tested. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="251-256" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="257-265" text="apparent" lemma="apparent"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="266-281" text="inconsistencies" lemma="inconsistency"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="282-289" text="reflect" lemma="reflect"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="290-293" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="294-304" text="complexity" lemma="complexity"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="305-307" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="308-311" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="312-316" text="DTCs" lemma="dtc"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="317-327" text="biological" lemma="biological"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="328-338" text="activities" lemma="activity"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="339-342" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="VBP" charOffset="343-346" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="347-355" text="probably" lemma="probably"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="356-359" text="due" lemma="due"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="360-362" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="363-367" text="part" lemma="part"/>
+            <token xml:space="preserve" id="stt_18" POS="TO" charOffset="368-370" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="371-382" text="differences" lemma="difference"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="383-385" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="386-390" text="dose" lemma="dose"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="390-391" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="392-397" text="route" lemma="route"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="398-400" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="401-409" text="exposure" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_26" POS="," charOffset="409-410" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="411-417" text="animal" lemma="animal"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="418-425" text="species" lemma="species"/>
+            <token xml:space="preserve" id="stt_29" POS="VBN" charOffset="426-430" text="used" lemma="use"/>
+            <token xml:space="preserve" id="stt_30" POS="CC" charOffset="431-437" text="and/or" lemma="and/or"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="438-446" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="447-455" text="compound" lemma="compound"/>
+            <token xml:space="preserve" id="stt_33" POS="VBN" charOffset="456-462" text="tested" lemma="test"/>
+            <token xml:space="preserve" id="stt_34" POS="." charOffset="462-463" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (JJ apparent) (NNS=H inconsistencies))
+            (VP=H
+            (VP=H (VBP=H reflect)
+            (NP
+            (NP=H (DT the) (NN=H complexity))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NNS=H DTCs))
+            (NP (JJ biological) (NNS=H activities))))))
+            (CC and)
+            (VP (VBP=H are)
+            (ADVP (RB=H probably))
+            (ADJP (JJ=H due)
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H part))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NNS=H differences))
+            (PP (IN=H in)
+            (NP (NN=H dose)))))
+            (, ,)
+            (ADVP (NN=H route)
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H exposure))
+            (, ,)
+            (NP
+            (NP=H
+            (NP=H (NN animal) (NNS=H species))
+            (VP (VBN=H used)))
+            (CC and/or)
+            (NP
+            (NP=H (JJ specific) (NN=H compound))
+            (VP (VBN=H tested))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="464-606" id="S4">
+        <text xml:space="preserve">The studies described herein were undertaken to investigate the immunotoxicity of one member of this family, dimethyldithiocarbamate (DMDTC). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="464-467" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="468-475" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="476-485" text="described" lemma="describe"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="486-492" text="herein" lemma="herein"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="493-497" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="498-508" text="undertaken" lemma="undertake"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="509-511" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="VB" charOffset="512-523" text="investigate" lemma="investigate"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="524-527" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="528-542" text="immunotoxicity" lemma="immunotoxicity"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="543-545" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="CD" charOffset="546-549" text="one" lemma="one"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="550-556" text="member" lemma="member"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="557-559" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="560-564" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="565-571" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="571-572" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="573-596" text="dimethyldithiocarbamate" lemma="dimethyldithiocarbamate"/>
+            <token xml:space="preserve" id="stt_19" POS="-LRB-" charOffset="597-598" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="598-603" text="DMDTC" lemma="dmdtc"/>
+            <token xml:space="preserve" id="stt_21" POS="-RRB-" charOffset="603-604" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="604-605" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NNS=H studies))
+            (VP (VBN=H described)
+            (ADVP (RB=H herein))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H undertaken)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H investigate)
+            (NP
+            (NP=H (DT the) (NN=H immunotoxicity))
+            (PP (IN=H of)
+            (NP
+            (NP=H (CD one) (NN=H member))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT this) (NN=H family))
+            (, ,)
+            (NP
+            (NP=H (NN=H dimethyldithiocarbamate))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H DMDTC))
+            (-RRB- -RRB-)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="606-729" id="S5">
+        <text xml:space="preserve">We demonstrate that 0.1-0.5 microM DMDTC inhibits TNF-alpha-induced activation of NF-kappaB in primary human CD4+ T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="606-608" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="609-620" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="621-625" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="CD" charOffset="626-631" text="0.1-0" lemma="0.1-0"/>
+            <token xml:space="preserve" id="stt_5" POS="CD" charOffset="631-633" text=".5" lemma=".5"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="634-640" text="microM" lemma="microm"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="641-646" text="DMDTC" lemma="dmdtc"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="647-655" text="inhibits" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="656-673" text="TNF-alpha-induced" lemma="tnf-alpha-induced"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="674-684" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="685-687" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="688-697" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="698-700" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="701-708" text="primary" lemma="primary"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="709-714" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="715-718" text="CD4" lemma="cd4"/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="718-719" text="+" lemma="+"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="720-721" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="722-727" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="727-728" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (QP (CD=H 0.1-0) (CD .5))
+            (NN microM) (NN=H DMDTC))
+            (VP=H (VBZ=H inhibits)
+            (NP
+            (NP=H (JJ TNF-alpha-induced) (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN=H NF-kappaB))))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ primary) (JJ human) (NN=H CD4))
+            (CC +)
+            (NP (NN T) (NNS=H cells))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="729-887" id="S6">
+        <text xml:space="preserve">This inhibition is not accompanied by a loss in viability, and DMDTC-treated T cells retain other active signaling pathways throughout the exposure duration. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="729-733" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="734-744" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="745-747" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="748-751" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="752-763" text="accompanied" lemma="accompany"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="764-766" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="767-768" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="769-773" text="loss" lemma="loss"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="774-776" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="777-786" text="viability" lemma="viability"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="786-787" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="788-791" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="792-805" text="DMDTC-treated" lemma="dmdtc-treated"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="806-807" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="808-813" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="VBP" charOffset="814-820" text="retain" lemma="retain"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="821-826" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="827-833" text="active" lemma="active"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="834-843" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="844-852" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="853-863" text="throughout" lemma="throughout"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="864-867" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="868-876" text="exposure" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="877-885" text="duration" lemma="duration"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="885-886" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (DT This) (NN=H inhibition))
+            (VP=H (VBZ=H is) (RB not)
+            (VP (VBN=H accompanied)
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT a) (NN=H loss))
+            (PP (IN=H in)
+            (NP (NN=H viability))))))))
+            (, ,)
+            (CC and)
+            (S
+            (NP (JJ DMDTC-treated) (NN T) (NNS=H cells))
+            (VP=H (VBP=H retain)
+            (NP (JJ other) (JJ active) (NN signaling) (NNS=H pathways))
+            (PP (IN=H throughout)
+            (NP (DT the) (NN exposure) (NN=H duration)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="887-1036" id="S7">
+        <text xml:space="preserve">The inhibition of NF-kappaB is apparently permanent as DMDTC-treated T cells did not regain normal TNF-alpha activation, even after 72 h in culture. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="887-890" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="891-901" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="902-904" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="905-914" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="915-917" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="918-928" text="apparently" lemma="apparently"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="929-938" text="permanent" lemma="permanent"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="939-941" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="942-955" text="DMDTC-treated" lemma="dmdtc-treated"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="956-957" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="958-963" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="VBD" charOffset="964-967" text="did" lemma="do"/>
+            <token xml:space="preserve" id="stt_13" POS="RB" charOffset="968-971" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_14" POS="VB" charOffset="972-978" text="regain" lemma="regain"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="979-985" text="normal" lemma="normal"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="986-995" text="TNF-alpha" lemma="tnf-alpha"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="996-1006" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="1006-1007" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="RB" charOffset="1008-1012" text="even" lemma="even"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1013-1018" text="after" lemma="after"/>
+            <token xml:space="preserve" id="stt_21" POS="CD" charOffset="1019-1021" text="72" lemma="72"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1022-1023" text="h" lemma="h"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1024-1026" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1027-1034" text="culture" lemma="culture"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="1034-1035" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H inhibition))
+            (PP (IN=H of)
+            (NP (NN=H NF-kappaB))))
+            (VP=H (VBZ=H is)
+            (ADVP (RB=H apparently))
+            (ADJP (JJ=H permanent))
+            (SBAR (IN=H as)
+            (S
+            (NP (JJ DMDTC-treated) (NN T) (NNS=H cells))
+            (VP=H (VBD=H did) (RB not)
+            (VP (VB=H regain)
+            (NP (JJ normal) (NN TNF-alpha) (NN=H activation))
+            (, ,)
+            (SBAR (RB even) (IN=H after)
+            (S
+            (NP=H
+            (NP=H (CD 72) (NN=H h))
+            (PP (IN=H in)
+            (NP (NN=H culture)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1036-1187" id="S8">
+        <text xml:space="preserve">DMDTC does not appear to alter NF-kappaB directly as pre-incubation of nuclear extracts with DMDTC does not diminish binding activity of this protein. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1036-1041" text="DMDTC" lemma="dmdtc"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="1042-1046" text="does" lemma="do"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="1047-1050" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_4" POS="VB" charOffset="1051-1057" text="appear" lemma="appear"/>
+            <token xml:space="preserve" id="stt_5" POS="TO" charOffset="1058-1060" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_6" POS="VB" charOffset="1061-1066" text="alter" lemma="alter"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1067-1076" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_8" POS="RB" charOffset="1077-1085" text="directly" lemma="directly"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1086-1088" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1089-1103" text="pre-incubation" lemma="pre-incubation"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1104-1106" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1107-1114" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="1115-1123" text="extracts" lemma="extract"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1124-1128" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1129-1134" text="DMDTC" lemma="dmdtc"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="1135-1139" text="does" lemma="do"/>
+            <token xml:space="preserve" id="stt_17" POS="RB" charOffset="1140-1143" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_18" POS="VB" charOffset="1144-1152" text="diminish" lemma="diminish"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1153-1160" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1161-1169" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1170-1172" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="1173-1177" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1178-1185" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="1185-1186" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H DMDTC))
+            (VP=H (VBZ=H does) (RB not)
+            (VP (VB=H appear)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H alter)
+            (NP (NN=H NF-kappaB))
+            (ADVP (RB=H directly))
+            (SBAR (IN=H as)
+            (S
+            (NP
+            (NP=H (NN=H pre-incubation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ nuclear) (NNS=H extracts))
+            (PP (IN=H with)
+            (NP (NN=H DMDTC))))))
+            (VP=H (VBZ=H does) (RB not)
+            (VP (VB=H diminish)
+            (NP
+            (NP=H (NN binding) (NN=H activity))
+            (PP (IN=H of)
+            (NP (DT this) (NN=H protein)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1187-1399" id="S9">
+        <text xml:space="preserve">We further demonstrate that 0.1-0.5 microM DMDTC inhibits intracellular IL-2 production and decreases surface expression of CD25 (the alpha subunit of the IL-2 receptor) in T cells stimulated with phorbol ester. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="1187-1189" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="1190-1197" text="further" lemma="further"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1198-1209" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1210-1214" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="CD" charOffset="1215-1220" text="0.1-0" lemma="0.1-0"/>
+            <token xml:space="preserve" id="stt_6" POS="CD" charOffset="1220-1222" text=".5" lemma=".5"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1223-1229" text="microM" lemma="microm"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1230-1235" text="DMDTC" lemma="dmdtc"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="1236-1244" text="inhibits" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1245-1258" text="intracellular" lemma="intracellular"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1259-1263" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1264-1274" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="1275-1278" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="VBZ" charOffset="1279-1288" text="decreases" lemma="decrease"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1289-1296" text="surface" lemma="surface"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1297-1307" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1308-1310" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1311-1315" text="CD25" lemma="cd25"/>
+            <token xml:space="preserve" id="stt_19" POS="-LRB-" charOffset="1316-1317" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="1317-1320" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1321-1326" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1327-1334" text="subunit" lemma="subunit"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1335-1337" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="1338-1341" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1342-1346" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1347-1355" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_27" POS="-RRB-" charOffset="1355-1356" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="1357-1359" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1360-1361" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="1362-1367" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_31" POS="VBN" charOffset="1368-1378" text="stimulated" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_32" POS="IN" charOffset="1379-1383" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1384-1391" text="phorbol" lemma="phorbol"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1392-1397" text="ester" lemma="ester"/>
+            <token xml:space="preserve" id="stt_35" POS="." charOffset="1397-1398" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (ADVP (RB=H further))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (QP (CD=H 0.1-0) (CD .5))
+            (NN microM) (NN=H DMDTC))
+            (VP=H
+            (VP=H (VBZ=H inhibits)
+            (NP (JJ intracellular) (NN IL-2) (NN=H production)))
+            (CC and)
+            (VP (VBZ=H decreases)
+            (NP
+            (NP=H (NN surface) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (NP=H (NN=H CD25))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (DT the)
+            (ADJP (NN=H alpha))
+            (NN=H subunit))
+            (PP (IN=H of)
+            (NP (DT the) (NN IL-2) (NN=H receptor))))
+            (-RRB- -RRB-)))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN T) (NNS=H cells))
+            (VP (VBN=H stimulated)
+            (PP (IN=H with)
+            (NP (NN phorbol) (NN=H ester))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1399-1483" id="S10">
+        <text xml:space="preserve">These data demonstrate that DMDTC is a potent immunosuppressive compound in vitro. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1399-1404" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1405-1409" text="data" lemma="datum"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1410-1421" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1422-1426" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1427-1432" text="DMDTC" lemma="dmdtc"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="1433-1435" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="1436-1437" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1438-1444" text="potent" lemma="potent"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1445-1462" text="immunosuppressive" lemma="immunosuppressive"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1463-1471" text="compound" lemma="compound"/>
+            <token xml:space="preserve" id="stt_11" POS="FW" charOffset="1472-1474" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="FW" charOffset="1475-1480" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="1480-1481" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H data))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H DMDTC))
+            (VP=H (VBZ=H is)
+            (NP (DT a) (JJ potent) (JJ immunosuppressive) (NN=H compound))
+            (ADVP (FW in) (FW=H vitro))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T7" type="ZeroArticleNP" charOffset="91-113" headOffset="109-112" text="Dithiocarbamates (DTC)"/>
+    <Term xml:space="preserve" id="T8" type="DemonstrativeNP" charOffset="560-571" headOffset="565-571" text="this family"/>
+    <Term xml:space="preserve" id="T9" type="ZeroArticleNP" charOffset="1067-1076" headOffset="1067-1076" text="NF-kappaB"/>
+    <Term xml:space="preserve" id="T10" type="DemonstrativeNP" charOffset="1173-1185" headOffset="1178-1185" text="this protein"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T8"/>
+        <Antecedent idref="T7"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T10"/>
+        <Antecedent idref="T9"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="70-73" headOffset="70-73" text="CD4"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="656-665" headOffset="656-665" text="TNF-alpha"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="715-718" headOffset="715-718" text="CD4"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="986-995" headOffset="986-995" text="TNF-alpha"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="1259-1263" headOffset="1259-1263" text="IL-2"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="1311-1315" headOffset="1311-1315" text="CD25"/>
+</document>

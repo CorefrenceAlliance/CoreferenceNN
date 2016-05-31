@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8929546">
+    <text xml:space="preserve">Regulation of cytokine and cytokine receptor expression by glucocorticoids. 
+Glucocorticoids (GCS) profoundly inhibit several aspects of T cell immunity largely through inhibition of cytokine expression at the transcriptional and posttranscriptional levels. GCS were also reported to act indirectly by inducing transforming growth factor-beta expression, which in turn blocks T cell immunity. In exerting their antiproliferative effects, GCS diffuse into target cells where they bind their cytoplasmic receptor, which in turn translocates to the nucleus where it inhibits transcription of cytokine genes through direct binding to the glucocorticoid response elements (GRE), which are located in the promoter region of cytokine genes or, alternatively, through antagonism of the action of transcription factors required for optimal transcriptional activation. In contrast to their inhibitory effects on cytokine expression, GCS up-regulate cytokine receptor expression that correlates with enhanced cytokine effects on target cells. In this review, we summarize the current state of knowledge of the mechanism of action of GCS, including the phenomenon of steroid-induced rebound, which ensues upon GCS withdrawal. 
+</text>
+    <sentence charOffset="0-77" id="S1">
+        <text xml:space="preserve">Regulation of cytokine and cytokine receptor expression by glucocorticoids. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-10" text="Regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="11-13" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="14-22" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="23-26" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="27-35" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="36-44" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="45-55" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="56-58" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="59-74" text="glucocorticoids" lemma="glucocorticoid"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="74-75" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Regulation))
+            (PP (IN=H of)
+            (NP (NN cytokine)
+            (CC and)
+            (NN cytokine) (NN receptor) (NN=H expression)))
+            (PP (IN=H by)
+            (NP (NNS=H glucocorticoids)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="77-258" id="S2">
+        <text xml:space="preserve">Glucocorticoids (GCS) profoundly inhibit several aspects of T cell immunity largely through inhibition of cytokine expression at the transcriptional and posttranscriptional levels. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="77-92" text="Glucocorticoids" lemma="glucocorticoid"/>
+            <token xml:space="preserve" id="stt_2" POS="-LRB-" charOffset="93-94" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="94-97" text="GCS" lemma="gc"/>
+            <token xml:space="preserve" id="stt_4" POS="-RRB-" charOffset="97-98" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="99-109" text="profoundly" lemma="profoundly"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="110-117" text="inhibit" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="118-125" text="several" lemma="several"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="126-133" text="aspects" lemma="aspect"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="134-136" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="137-138" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="139-143" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="144-152" text="immunity" lemma="immunity"/>
+            <token xml:space="preserve" id="stt_13" POS="RB" charOffset="153-160" text="largely" lemma="largely"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="161-168" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="169-179" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="180-182" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="183-191" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="192-202" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="203-205" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="206-209" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="210-225" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_22" POS="CC" charOffset="226-229" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="230-249" text="posttranscriptional" lemma="posttranscriptional"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="250-256" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="256-257" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NNS=H Glucocorticoids))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NNS=H GCS))
+            (-RRB- -RRB-)))
+            (ADVP (RB=H profoundly))
+            (VP=H (VBP=H inhibit)
+            (NP
+            (NP=H (JJ several) (NNS=H aspects))
+            (PP (IN=H of)
+            (NP (NN T) (NN cell) (NN=H immunity))))
+            (PP
+            (ADVP (RB=H largely))
+            (IN=H through)
+            (NP
+            (NP=H (NN=H inhibition))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN cytokine) (NN=H expression))
+            (PP (IN=H at)
+            (NP (DT the)
+            (ADJP (JJ=H transcriptional)
+            (CC and)
+            (JJ posttranscriptional))
+            (NNS=H levels))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="258-393" id="S3">
+        <text xml:space="preserve">GCS were also reported to act indirectly by inducing transforming growth factor-beta expression, which in turn blocks T cell immunity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="258-261" text="GCS" lemma="gc"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="262-266" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="267-271" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="272-280" text="reported" lemma="report"/>
+            <token xml:space="preserve" id="stt_5" POS="TO" charOffset="281-283" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_6" POS="VB" charOffset="284-287" text="act" lemma="act"/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="288-298" text="indirectly" lemma="indirectly"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="299-301" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_9" POS="VBG" charOffset="302-310" text="inducing" lemma="induce"/>
+            <token xml:space="preserve" id="stt_10" POS="VBG" charOffset="311-323" text="transforming" lemma="transform"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="324-330" text="growth" lemma="growth"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="331-342" text="factor-beta" lemma="factor-beta"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="343-353" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="353-354" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="WDT" charOffset="355-360" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="361-363" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="364-368" text="turn" lemma="turn"/>
+            <token xml:space="preserve" id="stt_18" POS="VBZ" charOffset="369-375" text="blocks" lemma="block"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="376-377" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="378-382" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="383-391" text="immunity" lemma="immunity"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="391-392" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NNS=H GCS))
+            (VP=H (VBD=H were)
+            (ADVP (RB=H also))
+            (VP (VBN=H reported)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H act)
+            (ADVP (RB=H indirectly))
+            (PP (IN=H by)
+            (S
+            (VP=H (VBG=H inducing)
+            (S
+            (VP=H (VBG=H transforming)
+            (NP
+            (NP=H (NN growth) (NN factor-beta) (NN=H expression))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (PP (IN=H in)
+            (NP (NN=H turn)))
+            (VP=H (VBZ=H blocks)
+            (NP (NN T) (NN cell) (NN=H immunity))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="393-859" id="S4">
+        <text xml:space="preserve">In exerting their antiproliferative effects, GCS diffuse into target cells where they bind their cytoplasmic receptor, which in turn translocates to the nucleus where it inhibits transcription of cytokine genes through direct binding to the glucocorticoid response elements (GRE), which are located in the promoter region of cytokine genes or, alternatively, through antagonism of the action of transcription factors required for optimal transcriptional activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="393-395" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="VBG" charOffset="396-404" text="exerting" lemma="exert"/>
+            <token xml:space="preserve" id="stt_3" POS="PRP$" charOffset="405-410" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="411-428" text="antiproliferative" lemma="antiproliferative"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="429-436" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="436-437" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="438-441" text="GCS" lemma="gc"/>
+            <token xml:space="preserve" id="stt_8" POS="VBP" charOffset="442-449" text="diffuse" lemma="diffuse"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="450-454" text="into" lemma="into"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="455-461" text="target" lemma="target"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="462-467" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="WRB" charOffset="468-473" text="where" lemma="where"/>
+            <token xml:space="preserve" id="stt_13" POS="PRP" charOffset="474-478" text="they" lemma="they"/>
+            <token xml:space="preserve" id="stt_14" POS="VBP" charOffset="479-483" text="bind" lemma="bind"/>
+            <token xml:space="preserve" id="stt_15" POS="PRP$" charOffset="484-489" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="490-501" text="cytoplasmic" lemma="cytoplasmic"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="502-510" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="510-511" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="WDT" charOffset="512-517" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="518-520" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="521-525" text="turn" lemma="turn"/>
+            <token xml:space="preserve" id="stt_22" POS="VBZ" charOffset="526-538" text="translocates" lemma="translocate"/>
+            <token xml:space="preserve" id="stt_23" POS="TO" charOffset="539-541" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="542-545" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="546-553" text="nucleus" lemma="nucleus"/>
+            <token xml:space="preserve" id="stt_26" POS="WRB" charOffset="554-559" text="where" lemma="where"/>
+            <token xml:space="preserve" id="stt_27" POS="PRP" charOffset="560-562" text="it" lemma="it"/>
+            <token xml:space="preserve" id="stt_28" POS="VBZ" charOffset="563-571" text="inhibits" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="572-585" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="586-588" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="589-597" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_32" POS="NNS" charOffset="598-603" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_33" POS="IN" charOffset="604-611" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_34" POS="JJ" charOffset="612-618" text="direct" lemma="direct"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="619-626" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_36" POS="TO" charOffset="627-629" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_37" POS="DT" charOffset="630-633" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="634-648" text="glucocorticoid" lemma="glucocorticoid"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="649-657" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_40" POS="NNS" charOffset="658-666" text="elements" lemma="element"/>
+            <token xml:space="preserve" id="stt_41" POS="-LRB-" charOffset="667-668" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="668-671" text="GRE" lemma="gre"/>
+            <token xml:space="preserve" id="stt_43" POS="-RRB-" charOffset="671-672" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_44" POS="," charOffset="672-673" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_45" POS="WDT" charOffset="674-679" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_46" POS="VBP" charOffset="680-683" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_47" POS="JJ" charOffset="684-691" text="located" lemma="located"/>
+            <token xml:space="preserve" id="stt_48" POS="IN" charOffset="692-694" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_49" POS="DT" charOffset="695-698" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_50" POS="NN" charOffset="699-707" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_51" POS="NN" charOffset="708-714" text="region" lemma="region"/>
+            <token xml:space="preserve" id="stt_52" POS="IN" charOffset="715-717" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_53" POS="NN" charOffset="718-726" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_54" POS="NNS" charOffset="727-732" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_55" POS="CC" charOffset="733-735" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_56" POS="," charOffset="735-736" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_57" POS="RB" charOffset="737-750" text="alternatively" lemma="alternatively"/>
+            <token xml:space="preserve" id="stt_58" POS="," charOffset="750-751" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_59" POS="IN" charOffset="752-759" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_60" POS="NN" charOffset="760-770" text="antagonism" lemma="antagonism"/>
+            <token xml:space="preserve" id="stt_61" POS="IN" charOffset="771-773" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_62" POS="DT" charOffset="774-777" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_63" POS="NN" charOffset="778-784" text="action" lemma="action"/>
+            <token xml:space="preserve" id="stt_64" POS="IN" charOffset="785-787" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_65" POS="NN" charOffset="788-801" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_66" POS="NNS" charOffset="802-809" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_67" POS="VBN" charOffset="810-818" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_68" POS="IN" charOffset="819-822" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_69" POS="JJ" charOffset="823-830" text="optimal" lemma="optimal"/>
+            <token xml:space="preserve" id="stt_70" POS="JJ" charOffset="831-846" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_71" POS="NN" charOffset="847-857" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_72" POS="." charOffset="857-858" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (S
+            (VP=H (VBG=H exerting)
+            (NP (PRP$ their) (JJ antiproliferative) (NNS=H effects)))))
+            (, ,)
+            (NP (NNS=H GCS))
+            (VP=H (VBP=H diffuse)
+            (PP (IN=H into)
+            (NP (NN target) (NNS=H cells)))
+            (SBAR
+            (WHADVP=H (WRB=H where))
+            (S
+            (NP (PRP=H they))
+            (VP=H (VBP=H bind)
+            (NP
+            (NP=H (PRP$ their) (JJ cytoplasmic) (NN=H receptor))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (PP (IN=H in)
+            (NP (NN=H turn)))
+            (VP=H (VBZ=H translocates)
+            (PP (TO=H to)
+            (NP (DT the) (NN=H nucleus)))
+            (SBAR
+            (WHADVP=H (WRB=H where))
+            (S
+            (NP (PRP=H it))
+            (VP=H (VBZ=H inhibits)
+            (NP
+            (NP=H (NN=H transcription))
+            (PP (IN=H of)
+            (NP (NN cytokine) (NNS=H genes))))
+            (PP (IN=H through)
+            (ADJP
+            (ADJP=H (JJ direct) (NN=H binding))
+            (PP
+            (PP=H (TO=H to)
+            (NP
+            (NP=H
+            (NP=H (DT the) (NN glucocorticoid) (NN response) (NNS=H elements))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H GRE))
+            (-RRB- -RRB-)))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBP=H are)
+            (ADJP (JJ=H located)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN promoter) (NN=H region))
+            (PP (IN=H of)
+            (NP (NN cytokine) (NNS=H genes)))))))))))
+            (CC or)
+            (, ,)
+            (ADVP (RB=H alternatively))
+            (, ,)
+            (PP (IN=H through)
+            (NP
+            (NP=H (NN=H antagonism))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN=H action))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN transcription) (NNS=H factors))
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP (JJ optimal) (JJ transcriptional) (NN=H activation))))))))))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="859-1032" id="S5">
+        <text xml:space="preserve">In contrast to their inhibitory effects on cytokine expression, GCS up-regulate cytokine receptor expression that correlates with enhanced cytokine effects on target cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="859-861" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="862-870" text="contrast" lemma="contrast"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="871-873" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="PRP$" charOffset="874-879" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="880-890" text="inhibitory" lemma="inhibitory"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="891-898" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="899-901" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="902-910" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="911-921" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="921-922" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="923-926" text="GCS" lemma="gc"/>
+            <token xml:space="preserve" id="stt_12" POS="VBP" charOffset="927-938" text="up-regulate" lemma="up-regulate"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="939-947" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="948-956" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="957-967" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_16" POS="WDT" charOffset="968-972" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_17" POS="VBZ" charOffset="973-983" text="correlates" lemma="correlate"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="984-988" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_19" POS="VBN" charOffset="989-997" text="enhanced" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="998-1006" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="1007-1014" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1015-1017" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1018-1024" text="target" lemma="target"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="1025-1030" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="1030-1031" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP
+            (NP=H (NN=H contrast))
+            (PP (TO=H to)
+            (NP
+            (NP=H (PRP$ their) (JJ inhibitory) (NNS=H effects))
+            (PP (IN=H on)
+            (NP (NN cytokine) (NN=H expression)))))))
+            (, ,)
+            (NP (NNS=H GCS))
+            (VP=H (VBP=H up-regulate)
+            (NP
+            (NP=H (NN cytokine) (NN receptor) (NN=H expression))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H correlates)
+            (PP (IN=H with)
+            (NP
+            (NP=H (VBN enhanced) (NN cytokine) (NNS=H effects))
+            (PP (IN=H on)
+            (NP (NN target) (NNS=H cells))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1032-1215" id="S6">
+        <text xml:space="preserve">In this review, we summarize the current state of knowledge of the mechanism of action of GCS, including the phenomenon of steroid-induced rebound, which ensues upon GCS withdrawal. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1032-1034" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="1035-1039" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1040-1046" text="review" lemma="review"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="1046-1047" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="1048-1050" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="1051-1060" text="summarize" lemma="summarize"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="1061-1064" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1065-1072" text="current" lemma="current"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1073-1078" text="state" lemma="state"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1079-1081" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1082-1091" text="knowledge" lemma="knowledge"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1092-1094" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="1095-1098" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1099-1108" text="mechanism" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1109-1111" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1112-1118" text="action" lemma="action"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1119-1121" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="1122-1125" text="GCS" lemma="gc"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="1125-1126" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="VBG" charOffset="1127-1136" text="including" lemma="include"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="1137-1140" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1141-1151" text="phenomenon" lemma="phenomenon"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1152-1154" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="1155-1170" text="steroid-induced" lemma="steroid-induced"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1171-1178" text="rebound" lemma="rebound"/>
+            <token xml:space="preserve" id="stt_26" POS="," charOffset="1178-1179" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_27" POS="WDT" charOffset="1180-1185" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_28" POS="VBZ" charOffset="1186-1192" text="ensues" lemma="ensue"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="1193-1197" text="upon" lemma="upon"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="1198-1201" text="GCS" lemma="gc"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1202-1212" text="withdrawal" lemma="withdrawal"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="1212-1213" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (DT this) (NN=H review)))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H summarize)
+            (NP
+            (NP=H (DT the) (JJ current) (NN=H state))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H knowledge))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN=H mechanism))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H action))
+            (PP (IN=H of)
+            (NP (NNS=H GCS)))))))
+            (, ,)
+            (PP (VBG=H including)
+            (NP
+            (NP=H (DT the) (NN=H phenomenon))
+            (PP (IN=H of)
+            (NP (JJ steroid-induced) (NN=H rebound)))))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H ensues)
+            (PP (IN=H upon)
+            (NP (NNS GCS) (NN=H withdrawal))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T2" type="ZeroArticleNP" charOffset="311-353" headOffset="343-353" text="transforming growth factor-beta expression"/>
+    <Term xml:space="preserve" id="T3" type="RelativePronoun" charOffset="355-360" headOffset="355-360" text="which"/>
+    <Term xml:space="preserve" id="T4" type="PossessivePronoun" charOffset="405-410" headOffset="405-410" text="their"/>
+    <Term xml:space="preserve" id="T5" type="ZeroArticleNP" charOffset="438-441" headOffset="438-441" text="GCS"/>
+    <Term xml:space="preserve" id="T6" type="ZeroArticleNP" charOffset="455-467" headOffset="462-467" text="target cells"/>
+    <Term xml:space="preserve" id="T7" type="RelativePronoun" charOffset="468-473" headOffset="468-473" text="where"/>
+    <Term xml:space="preserve" id="T8" type="PersonalPronoun" charOffset="474-478" headOffset="474-478" text="they"/>
+    <Term xml:space="preserve" id="T9" type="PossessivePronoun" charOffset="484-489" headOffset="484-489" text="their"/>
+    <Term xml:space="preserve" id="T10" type="PossessivePronoun" charOffset="484-510" headOffset="502-510" text="their cytoplasmic receptor"/>
+    <Term xml:space="preserve" id="T11" type="RelativePronoun" charOffset="512-517" headOffset="512-517" text="which"/>
+    <Term xml:space="preserve" id="T12" type="DefiniteNP" charOffset="542-553" headOffset="546-553" text="the nucleus"/>
+    <Term xml:space="preserve" id="T13" type="RelativePronoun" charOffset="554-559" headOffset="554-559" text="where"/>
+    <Term xml:space="preserve" id="T14" type="PersonalPronoun" charOffset="560-562" headOffset="560-562" text="it"/>
+    <Term xml:space="preserve" id="T15" type="DefiniteNP" charOffset="630-672" headOffset="668-671" text="the glucocorticoid response elements (GRE)"/>
+    <Term xml:space="preserve" id="T16" type="RelativePronoun" charOffset="674-679" headOffset="674-679" text="which"/>
+    <Term xml:space="preserve" id="T17" type="PossessivePronoun" charOffset="874-879" headOffset="874-879" text="their"/>
+    <Term xml:space="preserve" id="T18" type="ZeroArticleNP" charOffset="923-926" headOffset="923-926" text="GCS"/>
+    <Term xml:space="preserve" id="T19" type="ZeroArticleNP" charOffset="939-967" headOffset="957-967" text="cytokine receptor expression"/>
+    <Term xml:space="preserve" id="T20" type="RelativePronoun" charOffset="968-972" headOffset="968-972" text="that"/>
+    <Term xml:space="preserve" id="T21" type="DefiniteNP" charOffset="1137-1178" headOffset="1141-1151" text="the phenomenon of steroid-induced rebound"/>
+    <Term xml:space="preserve" id="T22" type="RelativePronoun" charOffset="1180-1185" headOffset="1180-1185" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T3"/>
+        <Antecedent idref="T2"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T4"/>
+        <Antecedent idref="T5"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T7"/>
+        <Antecedent idref="T6"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T8"/>
+        <Antecedent idref="T5"/>
+    </Relation>
+    <Relation id="R5" type="Anaphora">
+        <Anaphor idref="T9"/>
+        <Antecedent idref="T5"/>
+    </Relation>
+    <Relation id="R6" type="Anaphora">
+        <Anaphor idref="T11"/>
+        <Antecedent idref="T10"/>
+    </Relation>
+    <Relation id="R7" type="Anaphora">
+        <Anaphor idref="T13"/>
+        <Antecedent idref="T12"/>
+    </Relation>
+    <Relation id="R8" type="Anaphora">
+        <Anaphor idref="T14"/>
+        <Antecedent idref="T10"/>
+    </Relation>
+    <Relation id="R9" type="Anaphora">
+        <Anaphor idref="T16"/>
+        <Antecedent idref="T15"/>
+    </Relation>
+    <Relation id="R10" type="Anaphora">
+        <Anaphor idref="T17"/>
+        <Antecedent idref="T18"/>
+    </Relation>
+    <Relation id="R11" type="Anaphora">
+        <Anaphor idref="T18"/>
+        <Antecedent idref="T5"/>
+    </Relation>
+    <Relation id="R12" type="Anaphora">
+        <Anaphor idref="T20"/>
+        <Antecedent idref="T19"/>
+    </Relation>
+    <Relation id="R13" type="Anaphora">
+        <Anaphor idref="T22"/>
+        <Antecedent idref="T21"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="311-342" headOffset="331-342" text="transforming growth factor-beta"/>
+</document>

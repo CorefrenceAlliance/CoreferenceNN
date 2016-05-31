@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10358173">
+    <text xml:space="preserve">IL-12 induces IFN regulating factor-1 (IRF-1) gene expression in human NK and T cells. 
+IL-12 is a critical immunoregulatory cytokine that promotes cell-mediated immune responses and the differentiation of naive CD4+ cells to Th1 cells; however, relatively few IL-12 target genes have been identified. To better clarify the molecular basis of IL-12 action, we set out to characterize genes up-regulated by IL-12, first by contrasting IL-12- and IFN-alpha-inducible genes. We identified several genes up-regulated by IL-12, namely, MIP-1alpha, MIP-1beta, IL-1RA, and IFN regulatory factor-1 (IRF-1). IRF-1 is a transcription factor regulated by IFNs that is also essential for Th1 responses. We demonstrated that IL-12 directly up-regulates IRF-1 to the same extent as IFN-alpha in normal human T cells and in NK cells. We showed that IL-12 had a direct effect on IRF-1, an effect not mediated indirectly by the induction of IFN-gamma production. Furthermore, IL-2 and IL-12 synergistically induced IRF-1, whereas IFN-alpha and IL-12 did not. The participation of STAT4 in the regulation of IRF-1 was demonstrated in two ways. First, STAT4 was required for the IL-12-dependent transactivation of an IRF-1 reporter construct, and second, STAT4 binding to the IRF-1 promoter was shown using EMSA. In contrast to IL-12, no up-regulation of IRF-1 was found in IL-4-stimulated cells, and IL-4 did not block IL-12-dependent up-regulation of IRF-1. Therefore, IRF-1 may be an important contributor to IL-12 signaling, and we speculate that the defective IL-12 responses seen in IRF-1-/- mice might be attributable, in part, to the absence of this transcription factor. 
+</text>
+    <sentence charOffset="0-88" id="S1">
+        <text xml:space="preserve">IL-12 induces IFN regulating factor-1 (IRF-1) gene expression in human NK and T cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-5" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="6-13" text="induces" lemma="induce"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="14-17" text="IFN" lemma="ifn"/>
+            <token xml:space="preserve" id="stt_4" POS="VBG" charOffset="18-28" text="regulating" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="29-37" text="factor-1" lemma="factor-1"/>
+            <token xml:space="preserve" id="stt_6" POS="-LRB-" charOffset="38-39" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="39-44" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_8" POS="-RRB-" charOffset="44-45" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="46-50" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="51-61" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="62-64" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="65-70" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="71-73" text="NK" lemma="nk"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="74-77" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="78-79" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="80-85" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="85-86" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H IL-12))
+            (VP=H (VBZ=H induces)
+            (NP
+            (NP=H (NN=H IFN))
+            (VP (VBG=H regulating)
+            (NP
+            (NP=H (NN=H factor-1))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IRF-1))
+            (-RRB- -RRB-)))
+            (S
+            (NP=H
+            (NP=H (NN gene) (NN=H expression))
+            (PP (IN=H in)
+            (NP (JJ human) (NN NK)
+            (CC and)
+            (NN T) (NNS=H cells))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="88-302" id="S2">
+        <text xml:space="preserve">IL-12 is a critical immunoregulatory cytokine that promotes cell-mediated immune responses and the differentiation of naive CD4+ cells to Th1 cells; however, relatively few IL-12 target genes have been identified. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="88-93" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="94-96" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="97-98" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="99-107" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="108-124" text="immunoregulatory" lemma="immunoregulatory"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="125-133" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_7" POS="WDT" charOffset="134-138" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="139-147" text="promotes" lemma="promote"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="148-161" text="cell-mediated" lemma="cell-mediated"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="162-168" text="immune" lemma="immune"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="169-178" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="179-182" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="183-186" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="187-202" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="203-205" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="206-211" text="naive" lemma="naive"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="212-215" text="CD4" lemma="cd4"/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="215-216" text="+" lemma="+"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="217-222" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_20" POS="TO" charOffset="223-225" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="226-229" text="Th1" lemma="th1"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="230-235" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_23" POS=":" charOffset="235-236" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_24" POS="RB" charOffset="237-244" text="however" lemma="however"/>
+            <token xml:space="preserve" id="stt_25" POS="," charOffset="244-245" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_26" POS="RB" charOffset="246-256" text="relatively" lemma="relatively"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="257-260" text="few" lemma="few"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="261-266" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="267-273" text="target" lemma="target"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="274-279" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_31" POS="VBP" charOffset="280-284" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_32" POS="VBN" charOffset="285-289" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_33" POS="VBN" charOffset="290-300" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_34" POS="." charOffset="300-301" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (NN=H IL-12))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (JJ critical) (JJ immunoregulatory) (NN=H cytokine))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H promotes)
+            (NP
+            (NP=H
+            (NP=H (JJ cell-mediated) (JJ immune) (NNS=H responses))
+            (CC and)
+            (NP
+            (NP=H (DT the) (NN=H differentiation))
+            (PP (IN=H of)
+            (NP
+            (ADJP (JJ=H naive))
+            (NN=H CD4)))))
+            (CC +)
+            (NP
+            (NP=H (NNS=H cells))
+            (PP (TO=H to)
+            (NP (NN Th1) (NNS=H cells)))))))))))
+            (: ;)
+            (S
+            (ADVP (RB=H however))
+            (, ,)
+            (NP
+            (NP=H (RB relatively) (JJ few) (NN=H IL-12))
+            (NP (NN target) (NNS=H genes)))
+            (VP=H (VBP=H have)
+            (VP (VBN=H been)
+            (VP (VBN=H identified)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="302-472" id="S3">
+        <text xml:space="preserve">To better clarify the molecular basis of IL-12 action, we set out to characterize genes up-regulated by IL-12, first by contrasting IL-12- and IFN-alpha-inducible genes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="302-304" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="RBR" charOffset="305-311" text="better" lemma="better"/>
+            <token xml:space="preserve" id="stt_3" POS="VB" charOffset="312-319" text="clarify" lemma="clarify"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="320-323" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="324-333" text="molecular" lemma="molecular"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="334-339" text="basis" lemma="basis"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="340-342" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="343-348" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="349-355" text="action" lemma="action"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="355-356" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="PRP" charOffset="357-359" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_12" POS="VBD" charOffset="360-363" text="set" lemma="set"/>
+            <token xml:space="preserve" id="stt_13" POS="RP" charOffset="364-367" text="out" lemma="out"/>
+            <token xml:space="preserve" id="stt_14" POS="TO" charOffset="368-370" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_15" POS="VB" charOffset="371-383" text="characterize" lemma="characterize"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="384-389" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="390-402" text="up-regulated" lemma="up-regulate"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="403-405" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="406-411" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="411-412" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="RB" charOffset="413-418" text="first" lemma="first"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="419-421" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_23" POS="VBG" charOffset="422-433" text="contrasting" lemma="contrast"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="434-439" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_25" POS=":" charOffset="439-440" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_26" POS="CC" charOffset="441-444" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="445-464" text="IFN-alpha-inducible" lemma="ifn-alpha-inducible"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="465-470" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="470-471" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP
+            (ADVP (RBR=H better))
+            (VB=H clarify)
+            (NP
+            (NP=H (DT the) (JJ molecular) (NN=H basis))
+            (PP (IN=H of)
+            (NP (NN IL-12) (NN=H action)))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H set)
+            (PRT (RP=H out))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H characterize)
+            (NP
+            (NP=H
+            (NP=H (NNS=H genes))
+            (VP (VBN=H up-regulated)
+            (PP (IN=H by)
+            (NP (NN=H IL-12)))
+            (, ,)
+            (PP (RB first) (IN=H by)
+            (S
+            (VP=H (VBG=H contrasting)
+            (NP (NN=H IL-12)))))))
+            (: -)
+            (CC and)
+            (NP (JJ IFN-alpha-inducible) (NNS=H genes)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="472-599" id="S4">
+        <text xml:space="preserve">We identified several genes up-regulated by IL-12, namely, MIP-1alpha, MIP-1beta, IL-1RA, and IFN regulatory factor-1 (IRF-1). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="472-474" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="475-485" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="486-493" text="several" lemma="several"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="494-499" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="500-512" text="up-regulated" lemma="up-regulate"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="513-515" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="516-521" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="521-522" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="523-529" text="namely" lemma="namely"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="529-530" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="531-541" text="MIP-1alpha" lemma="mip-1alpha"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="541-542" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="543-552" text="MIP-1beta" lemma="mip-1beta"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="552-553" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="554-560" text="IL-1RA" lemma="il-1ra"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="560-561" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="562-565" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="566-569" text="IFN" lemma="ifn"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="570-580" text="regulatory" lemma="regulatory"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="581-589" text="factor-1" lemma="factor-1"/>
+            <token xml:space="preserve" id="stt_21" POS="-LRB-" charOffset="590-591" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="591-596" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_23" POS="-RRB-" charOffset="596-597" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="597-598" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H identified)
+            (NP
+            (NP=H
+            (NP=H (JJ several) (NNS=H genes))
+            (VP (VBN=H up-regulated)
+            (PP (IN=H by)
+            (NP (NN=H IL-12)))
+            (, ,)
+            (ADVP (RB=H namely))))
+            (, ,)
+            (NP
+            (NP=H (NN MIP-1alpha) (, ,) (NN MIP-1beta) (, ,) (NN IL-1RA) (, ,)
+            (CC and)
+            (NN=H IFN))
+            (NP
+            (NP=H (JJ regulatory) (NN=H factor-1))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IRF-1))
+            (-RRB- -RRB-))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="599-691" id="S5">
+        <text xml:space="preserve">IRF-1 is a transcription factor regulated by IFNs that is also essential for Th1 responses. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="599-604" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="605-607" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="608-609" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="610-623" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="624-630" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="631-640" text="regulated" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="641-643" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="644-648" text="IFNs" lemma="ifn"/>
+            <token xml:space="preserve" id="stt_9" POS="WDT" charOffset="649-653" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="654-656" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="RB" charOffset="657-661" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="662-671" text="essential" lemma="essential"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="672-675" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="676-679" text="Th1" lemma="th1"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="680-689" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="689-690" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H IRF-1))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (NN transcription) (NN=H factor))
+            (VP (VBN=H regulated)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NNS=H IFNs))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H is)
+            (ADVP (RB=H also))
+            (ADJP (JJ=H essential)
+            (PP (IN=H for)
+            (NP (NN Th1) (NNS=H responses))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="691-819" id="S6">
+        <text xml:space="preserve">We demonstrated that IL-12 directly up-regulates IRF-1 to the same extent as IFN-alpha in normal human T cells and in NK cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="691-693" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="694-706" text="demonstrated" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="707-711" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="712-717" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="718-726" text="directly" lemma="directly"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="727-739" text="up-regulates" lemma="up-regulate"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="740-745" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="746-748" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="749-752" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="753-757" text="same" lemma="same"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="758-764" text="extent" lemma="extent"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="765-767" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="768-777" text="IFN-alpha" lemma="ifn-alpha"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="778-780" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="781-787" text="normal" lemma="normal"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="788-793" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="794-795" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="796-801" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="802-805" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="806-808" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="809-811" text="NK" lemma="nk"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="812-817" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="817-818" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H demonstrated)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H IL-12))
+            (ADVP (RB=H directly))
+            (VP=H (VBZ=H up-regulates)
+            (NP (NN=H IRF-1))
+            (PP
+            (PP=H (TO=H to)
+            (NP
+            (NP=H (DT the) (JJ same) (NN=H extent))
+            (PP (IN=H as)
+            (NP
+            (NP=H (NN=H IFN-alpha))
+            (PP (IN=H in)
+            (NP (JJ normal) (JJ human) (NN T) (NNS=H cells)))))))
+            (CC and)
+            (PP (IN=H in)
+            (NP (NN NK) (NNS=H cells))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="819-946" id="S7">
+        <text xml:space="preserve">We showed that IL-12 had a direct effect on IRF-1, an effect not mediated indirectly by the induction of IFN-gamma production. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="819-821" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="822-828" text="showed" lemma="show"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="829-833" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="834-839" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="840-843" text="had" lemma="have"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="844-845" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="846-852" text="direct" lemma="direct"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="853-859" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="860-862" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="863-868" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="868-869" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="870-872" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="873-879" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="880-883" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="884-892" text="mediated" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="893-903" text="indirectly" lemma="indirectly"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="904-906" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="907-910" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="911-920" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="921-923" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="924-933" text="IFN-gamma" lemma="ifn-gamma"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="934-944" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="944-945" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H showed)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H IL-12))
+            (VP=H (VBD=H had)
+            (NP
+            (NP=H (DT a) (JJ direct) (NN=H effect))
+            (PP (IN=H on)
+            (NP (NN=H IRF-1))))
+            (, ,)
+            (ADVP
+            (NP (DT an) (NN=H effect))
+            (RB=H not))
+            (VP (VBN=H mediated)
+            (ADVP (RB=H indirectly))
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT the) (NN=H induction))
+            (PP (IN=H of)
+            (NP (NN IFN-gamma) (NN=H production))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="946-1042" id="S8">
+        <text xml:space="preserve">Furthermore, IL-2 and IL-12 synergistically induced IRF-1, whereas IFN-alpha and IL-12 did not. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="946-957" text="Furthermore" lemma="furthermore"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="957-958" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="959-963" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="964-967" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="968-973" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="974-989" text="synergistically" lemma="synergistically"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="990-997" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="998-1003" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="1003-1004" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1005-1012" text="whereas" lemma="whereas"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1013-1022" text="IFN-alpha" lemma="ifn-alpha"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="1023-1026" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1027-1032" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_14" POS="VBD" charOffset="1033-1036" text="did" lemma="do"/>
+            <token xml:space="preserve" id="stt_15" POS="RB" charOffset="1037-1040" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="1040-1041" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Furthermore))
+            (, ,)
+            (NP (NN=H IL-2)
+            (CC and)
+            (NN IL-12))
+            (ADVP (RB=H synergistically))
+            (VP=H (VBD=H induced)
+            (NP (NN=H IRF-1))
+            (, ,)
+            (SBAR (IN=H whereas)
+            (S
+            (NP (NN=H IFN-alpha)
+            (CC and)
+            (NN IL-12))
+            (VP=H (VBD=H did) (RB not)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1042-1126" id="S9">
+        <text xml:space="preserve">The participation of STAT4 in the regulation of IRF-1 was demonstrated in two ways. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1042-1045" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1046-1059" text="participation" lemma="participation"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1060-1062" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1063-1068" text="STAT4" lemma="stat4"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1069-1071" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1072-1075" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1076-1086" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1087-1089" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1090-1095" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="1096-1099" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="1100-1112" text="demonstrated" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1113-1115" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="CD" charOffset="1116-1119" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="1120-1124" text="ways" lemma="way"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="1124-1125" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H participation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H STAT4))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H regulation))
+            (PP (IN=H of)
+            (NP (NN=H IRF-1))))))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H demonstrated)
+            (PP (IN=H in)
+            (NP (CD two) (NNS=H ways)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1126-1294" id="S10">
+        <text xml:space="preserve">First, STAT4 was required for the IL-12-dependent transactivation of an IRF-1 reporter construct, and second, STAT4 binding to the IRF-1 promoter was shown using EMSA. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1126-1131" text="First" lemma="first"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1131-1132" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1133-1138" text="STAT4" lemma="stat4"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="1139-1142" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="1143-1151" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1152-1155" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="1156-1159" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1160-1175" text="IL-12-dependent" lemma="il-12-dependent"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1176-1191" text="transactivation" lemma="transactivation"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1192-1194" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="1195-1197" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1198-1203" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1204-1212" text="reporter" lemma="reporter"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1213-1222" text="construct" lemma="construct"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="1222-1223" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="1224-1227" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="1228-1234" text="second" lemma="second"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="1234-1235" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1236-1241" text="STAT4" lemma="stat4"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1242-1249" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_21" POS="TO" charOffset="1250-1252" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="1253-1256" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1257-1262" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1263-1271" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_25" POS="VBD" charOffset="1272-1275" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_26" POS="VBN" charOffset="1276-1281" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_27" POS="VBG" charOffset="1282-1287" text="using" lemma="use"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1288-1292" text="EMSA" lemma="emsa"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="1292-1293" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H First))
+            (, ,)
+            (S=H
+            (NP (NN=H STAT4))
+            (VP=H (VBD=H was)
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP
+            (NP=H (DT the) (JJ IL-12-dependent) (NN=H transactivation))
+            (PP (IN=H of)
+            (NP (DT an) (NN IRF-1) (NN reporter) (NN=H construct))))))))
+            (, ,)
+            (CC and)
+            (S
+            (NP
+            (NP=H (JJ=H second))
+            (, ,)
+            (NP
+            (NP=H (NN STAT4) (NN=H binding))
+            (PP (TO=H to)
+            (NP (DT the) (NN IRF-1) (NN=H promoter)))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H shown)
+            (S
+            (VP=H (VBG=H using)
+            (NP (NN=H EMSA)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1294-1441" id="S11">
+        <text xml:space="preserve">In contrast to IL-12, no up-regulation of IRF-1 was found in IL-4-stimulated cells, and IL-4 did not block IL-12-dependent up-regulation of IRF-1. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1294-1296" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1297-1305" text="contrast" lemma="contrast"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="1306-1308" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1309-1314" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="1314-1315" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1316-1318" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1319-1332" text="up-regulation" lemma="up-regulation"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1333-1335" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1336-1341" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="1342-1345" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="1346-1351" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1352-1354" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1355-1370" text="IL-4-stimulated" lemma="il-4-stimulated"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="1371-1376" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="1376-1377" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="1378-1381" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1382-1386" text="IL-4" lemma="il-4"/>
+            <token xml:space="preserve" id="stt_18" POS="VBD" charOffset="1387-1390" text="did" lemma="do"/>
+            <token xml:space="preserve" id="stt_19" POS="RB" charOffset="1391-1394" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_20" POS="VB" charOffset="1395-1400" text="block" lemma="block"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="1401-1416" text="IL-12-dependent" lemma="il-12-dependent"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1417-1430" text="up-regulation" lemma="up-regulation"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1431-1433" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1434-1439" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="1439-1440" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP
+            (NP=H (NN=H contrast))
+            (PP (TO=H to)
+            (NP (NN=H IL-12)))))
+            (, ,)
+            (S=H
+            (NP
+            (NP=H (DT no) (NN=H up-regulation))
+            (PP (IN=H of)
+            (NP (NN=H IRF-1))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H found)
+            (PP (IN=H in)
+            (NP (JJ IL-4-stimulated) (NNS=H cells))))))
+            (, ,)
+            (CC and)
+            (S
+            (NP (NN=H IL-4))
+            (VP=H (VBD=H did) (RB not)
+            (VP (VB=H block)
+            (NP
+            (NP=H (JJ IL-12-dependent) (NN=H up-regulation))
+            (PP (IN=H of)
+            (NP (NN=H IRF-1)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1441-1662" id="S12">
+        <text xml:space="preserve">Therefore, IRF-1 may be an important contributor to IL-12 signaling, and we speculate that the defective IL-12 responses seen in IRF-1-/- mice might be attributable, in part, to the absence of this transcription factor. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1441-1450" text="Therefore" lemma="therefore"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1450-1451" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1452-1457" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_4" POS="MD" charOffset="1458-1461" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_5" POS="VB" charOffset="1462-1464" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1465-1467" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1468-1477" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1478-1489" text="contributor" lemma="contributor"/>
+            <token xml:space="preserve" id="stt_9" POS="TO" charOffset="1490-1492" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1493-1498" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1499-1508" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="1508-1509" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="1510-1513" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="PRP" charOffset="1514-1516" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_15" POS="VBP" charOffset="1517-1526" text="speculate" lemma="speculate"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1527-1531" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="1532-1535" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1536-1545" text="defective" lemma="defective"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1546-1551" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="1552-1561" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_21" POS="VBN" charOffset="1562-1566" text="seen" lemma="see"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1567-1569" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1570-1575" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_24" POS=":" charOffset="1575-1576" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_25" POS=":" charOffset="1576-1577" text="/" lemma="/"/>
+            <token xml:space="preserve" id="stt_26" POS=":" charOffset="1577-1578" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="1579-1583" text="mice" lemma="mouse"/>
+            <token xml:space="preserve" id="stt_28" POS="MD" charOffset="1584-1589" text="might" lemma="might"/>
+            <token xml:space="preserve" id="stt_29" POS="VB" charOffset="1590-1592" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="1593-1605" text="attributable" lemma="attributable"/>
+            <token xml:space="preserve" id="stt_31" POS="," charOffset="1605-1606" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_32" POS="IN" charOffset="1607-1609" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1610-1614" text="part" lemma="part"/>
+            <token xml:space="preserve" id="stt_34" POS="," charOffset="1614-1615" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_35" POS="TO" charOffset="1616-1618" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_36" POS="DT" charOffset="1619-1622" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="1623-1630" text="absence" lemma="absence"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="1631-1633" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_39" POS="DT" charOffset="1634-1638" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="1639-1652" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="1653-1659" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_42" POS="." charOffset="1659-1660" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (ADVP (RB=H Therefore))
+            (, ,)
+            (NP (NN=H IRF-1))
+            (VP=H (MD=H may)
+            (VP (VB=H be)
+            (NP
+            (NP=H (DT=H an))
+            (FRAG
+            (ADVP
+            (ADVP=H (JJ=H important)
+            (NP (NN=H contributor)))
+            (PP (TO=H to)
+            (NP (NN IL-12) (NN=H signaling))))
+            (, ,)
+            (S=H (CC and)
+            (NP (PRP=H we))
+            (VP=H (VBP=H speculate)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT the) (JJ defective) (NN IL-12) (NNS=H responses))
+            (VP=H (VBN=H seen)
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H IRF-1))
+            (: -))))))))
+            (: /))))))
+            (: -)
+            (S
+            (NP (NNS=H mice))
+            (VP=H (MD=H might)
+            (VP (VB=H be)
+            (ADJP
+            (ADJP=H
+            (ADJP=H (JJ=H attributable))
+            (PRN (, ,)
+            (PP=H (IN=H in)
+            (NP (NN=H part)))
+            (, ,)))
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT the) (NN=H absence))
+            (PP (IN=H of)
+            (NP (DT this) (NN transcription) (NN=H factor)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T26" type="IndefiniteNP" charOffset="97-133" headOffset="125-133" text="a critical immunoregulatory cytokine"/>
+    <Term xml:space="preserve" id="T27" type="RelativePronoun" charOffset="134-138" headOffset="134-138" text="that"/>
+    <Term xml:space="preserve" id="T28" type="IndefiniteNP" charOffset="608-648" headOffset="631-640" text="a transcription factor regulated by IFNs"/>
+    <Term xml:space="preserve" id="T29" type="RelativePronoun" charOffset="649-653" headOffset="649-653" text="that"/>
+    <Term xml:space="preserve" id="T30" type="ZeroArticleNP" charOffset="1452-1457" headOffset="1452-1457" text="IRF-1"/>
+    <Term xml:space="preserve" id="T31" type="DemonstrativeNP" charOffset="1634-1659" headOffset="1653-1659" text="this transcription factor"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T27"/>
+        <Antecedent idref="T26"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T29"/>
+        <Antecedent idref="T28"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T31"/>
+        <Antecedent idref="T30"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="14-37" headOffset="29-37" text="IFN regulating factor-1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="39-44" headOffset="39-44" text="IRF-1"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="212-215" headOffset="212-215" text="CD4"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="531-541" headOffset="531-541" text="MIP-1alpha"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="543-552" headOffset="543-552" text="MIP-1beta"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="554-560" headOffset="554-560" text="IL-1RA"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="566-589" headOffset="581-589" text="IFN regulatory factor-1"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="591-596" headOffset="591-596" text="IRF-1"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="599-604" headOffset="599-604" text="IRF-1"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="740-745" headOffset="740-745" text="IRF-1"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="863-868" headOffset="863-868" text="IRF-1"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="924-933" headOffset="924-933" text="IFN-gamma"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="998-1003" headOffset="998-1003" text="IRF-1"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1063-1068" headOffset="1063-1068" text="STAT4"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1090-1095" headOffset="1090-1095" text="IRF-1"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="1133-1138" headOffset="1133-1138" text="STAT4"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="1198-1203" headOffset="1198-1203" text="IRF-1"/>
+    <Term xml:space="preserve" id="T18" type="Protein" charOffset="1236-1241" headOffset="1236-1241" text="STAT4"/>
+    <Term xml:space="preserve" id="T19" type="Protein" charOffset="1257-1262" headOffset="1257-1262" text="IRF-1"/>
+    <Term xml:space="preserve" id="T20" type="Protein" charOffset="1336-1341" headOffset="1336-1341" text="IRF-1"/>
+    <Term xml:space="preserve" id="T21" type="Protein" charOffset="1355-1359" headOffset="1355-1359" text="IL-4"/>
+    <Term xml:space="preserve" id="T22" type="Protein" charOffset="1382-1386" headOffset="1382-1386" text="IL-4"/>
+    <Term xml:space="preserve" id="T23" type="Protein" charOffset="1434-1439" headOffset="1434-1439" text="IRF-1"/>
+    <Term xml:space="preserve" id="T24" type="Protein" charOffset="1452-1457" headOffset="1452-1457" text="IRF-1"/>
+    <Term xml:space="preserve" id="T25" type="Protein" charOffset="1570-1575" headOffset="1570-1575" text="IRF-1"/>
+</document>

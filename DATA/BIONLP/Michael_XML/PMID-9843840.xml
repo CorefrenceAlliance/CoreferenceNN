@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9843840">
+    <text xml:space="preserve">Activation of human macrophages by mechanical ventilation in vitro. 
+Positive-pressure mechanical ventilation supports gas exchange in patients with respiratory failure but is also responsible for significant lung injury. In this study, we have developed an in vitro model in which isolated lung cells can be submitted to a prolonged cyclic pressure-stretching strain resembling that of conventional mechanical ventilation. In this model, cells cultured on a Silastic membrane were elongated up to 7% of their initial diameter, corresponding to a 12% increase in cell surface. The lung macrophage was identified as the main cellular source for critical inflammatory mediators such as tumor necrosis factor-alpha, the chemokines interleukin (IL)-8 and -6, and matrix metalloproteinase-9 in this model system of mechanical ventilation. These mediators were measured in supernatants from ventilated alveolar macrophages, monocyte-derived macrophages, and promonocytic THP-1 cells. Nuclear factor-kappaB was found to be activated in ventilated macrophages. Synergistic proinflammatory effects of mechanical stress and molecules such as bacterial endotoxin were observed, suggesting that mechanical ventilation might be particularly deleterious in preinjured or infected lungs. Dexamethasone prevented IL-8 and tumor necrosis factor-alpha secretion in ventilated macrophages. Mechanical ventilation induced low levels of IL-8 secretion by alveolar type II-like cells. Other lung cell types such as endothelial cells, bronchial cells, and fibroblasts failed to produce IL-8 in response to a prolonged cyclic pressure-stretching load. This model is of particular value for exploring physical stress-induced signaling pathways, as well as for testing the effects of novel ventilatory strategies or adjunctive substances aimed at modulating cell activation induced by mechanical ventilation. 
+</text>
+    <sentence charOffset="0-69" id="S1">
+        <text xml:space="preserve">Activation of human macrophages by mechanical ventilation in vitro. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-10" text="Activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="11-13" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="14-19" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="20-31" text="macrophages" lemma="macrophage"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="32-34" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="35-45" text="mechanical" lemma="mechanical"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="46-57" text="ventilation" lemma="ventilation"/>
+            <token xml:space="preserve" id="stt_8" POS="FW" charOffset="58-60" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="FW" charOffset="61-66" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="66-67" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Activation))
+            (PP (IN=H of)
+            (NP (JJ human) (NNS=H macrophages)))
+            (PP (IN=H by)
+            (NP
+            (NP=H (JJ mechanical) (NN=H ventilation))
+            (FRAG
+            (ADVP=H (FW in) (FW=H vitro)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="69-222" id="S2">
+        <text xml:space="preserve">Positive-pressure mechanical ventilation supports gas exchange in patients with respiratory failure but is also responsible for significant lung injury. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="69-86" text="Positive-pressure" lemma="positive-pressure"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="87-97" text="mechanical" lemma="mechanical"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="98-109" text="ventilation" lemma="ventilation"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="110-118" text="supports" lemma="support"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="119-122" text="gas" lemma="gas"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="123-131" text="exchange" lemma="exchange"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="132-134" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="135-143" text="patients" lemma="patient"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="144-148" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="149-160" text="respiratory" lemma="respiratory"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="161-168" text="failure" lemma="failure"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="169-172" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="173-175" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="176-180" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="181-192" text="responsible" lemma="responsible"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="193-196" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="197-208" text="significant" lemma="significant"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="209-213" text="lung" lemma="lung"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="214-220" text="injury" lemma="injury"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="220-221" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Positive-pressure) (JJ mechanical) (NN=H ventilation))
+            (VP=H
+            (VP=H (VBZ=H supports)
+            (NP (NN gas) (NN=H exchange))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NNS=H patients))
+            (PP (IN=H with)
+            (NP (JJ respiratory) (NN=H failure))))))
+            (CC but)
+            (VP (VBZ=H is)
+            (ADVP (RB=H also))
+            (ADJP (JJ=H responsible)
+            (PP (IN=H for)
+            (NP (JJ significant) (NN lung) (NN=H injury))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="222-424" id="S3">
+        <text xml:space="preserve">In this study, we have developed an in vitro model in which isolated lung cells can be submitted to a prolonged cyclic pressure-stretching strain resembling that of conventional mechanical ventilation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="222-224" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="225-229" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="230-235" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="235-236" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="237-239" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="240-244" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="245-254" text="developed" lemma="develop"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="255-257" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="FW" charOffset="258-260" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_10" POS="FW" charOffset="261-266" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="267-272" text="model" lemma="model"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="273-275" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="WDT" charOffset="276-281" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="282-290" text="isolated" lemma="isolate"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="291-295" text="lung" lemma="lung"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="296-301" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_17" POS="MD" charOffset="302-305" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_18" POS="VB" charOffset="306-308" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_19" POS="VBN" charOffset="309-318" text="submitted" lemma="submit"/>
+            <token xml:space="preserve" id="stt_20" POS="TO" charOffset="319-321" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="322-323" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="324-333" text="prolonged" lemma="prolonged"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="334-340" text="cyclic" lemma="cyclic"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="341-360" text="pressure-stretching" lemma="pressure-stretching"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="361-367" text="strain" lemma="strain"/>
+            <token xml:space="preserve" id="stt_26" POS="VBG" charOffset="368-378" text="resembling" lemma="resemble"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="379-383" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="384-386" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="387-399" text="conventional" lemma="conventional"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="400-410" text="mechanical" lemma="mechanical"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="411-422" text="ventilation" lemma="ventilation"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="422-423" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (DT this) (NN=H study)))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H have)
+            (VP (VBN=H developed)
+            (NP
+            (NP=H (DT=H an)
+            (RRC
+            (ADVP (FW in) (FW=H vitro))
+            (NP=H (NN=H model))))
+            (SBAR
+            (WHPP=H (IN=H in)
+            (WHNP (WDT=H which)))
+            (S
+            (NP (VBN isolated) (NN lung) (NNS=H cells))
+            (VP=H (MD=H can)
+            (VP (VB=H be)
+            (VP (VBN=H submitted)
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT a) (JJ prolonged) (JJ cyclic) (JJ pressure-stretching) (NN=H strain))
+            (VP (VBG=H resembling)
+            (NP
+            (NP=H (DT=H that))
+            (PP (IN=H of)
+            (NP (JJ conventional) (JJ mechanical) (NN=H ventilation)))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="424-577" id="S4">
+        <text xml:space="preserve">In this model, cells cultured on a Silastic membrane were elongated up to 7% of their initial diameter, corresponding to a 12% increase in cell surface. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="424-426" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="427-431" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="432-437" text="model" lemma="model"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="437-438" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="439-444" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="445-453" text="cultured" lemma="culture"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="454-456" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="457-458" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="459-467" text="Silastic" lemma="silastic"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="468-476" text="membrane" lemma="membrane"/>
+            <token xml:space="preserve" id="stt_11" POS="VBD" charOffset="477-481" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="482-491" text="elongated" lemma="elongate"/>
+            <token xml:space="preserve" id="stt_13" POS="RP" charOffset="492-494" text="up" lemma="up"/>
+            <token xml:space="preserve" id="stt_14" POS="TO" charOffset="495-497" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_15" POS="CD" charOffset="498-499" text="7" lemma="7"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="499-500" text="%" lemma="%"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="501-503" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="PRP$" charOffset="504-509" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="510-517" text="initial" lemma="initial"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="518-526" text="diameter" lemma="diameter"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="526-527" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="VBG" charOffset="528-541" text="corresponding" lemma="correspond"/>
+            <token xml:space="preserve" id="stt_23" POS="TO" charOffset="542-544" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="545-546" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_25" POS="CD" charOffset="547-549" text="12" lemma="12"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="549-550" text="%" lemma="%"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="551-559" text="increase" lemma="increase"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="560-562" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="563-567" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="568-575" text="surface" lemma="surface"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="575-576" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (DT this) (NN=H model)))
+            (, ,)
+            (NP
+            (NP=H (NNS=H cells))
+            (VP (VBN=H cultured)
+            (PP (IN=H on)
+            (NP (DT a) (JJ Silastic) (NN=H membrane)))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H elongated)
+            (PRT (RP=H up))
+            (PP (TO=H to)
+            (NP
+            (NP=H (CD 7) (NN=H %))
+            (PP (IN=H of)
+            (NP (PRP$ their) (JJ initial) (NN=H diameter)))))
+            (, ,)
+            (S
+            (VP=H (VBG=H corresponding)
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT a)
+            (ADJP (CD 12) (NN=H %))
+            (NN=H increase))
+            (PP (IN=H in)
+            (NP (NN cell) (NN=H surface)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="577-834" id="S5">
+        <text xml:space="preserve">The lung macrophage was identified as the main cellular source for critical inflammatory mediators such as tumor necrosis factor-alpha, the chemokines interleukin (IL)-8 and -6, and matrix metalloproteinase-9 in this model system of mechanical ventilation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="577-580" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="581-585" text="lung" lemma="lung"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="586-596" text="macrophage" lemma="macrophage"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="597-600" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="601-611" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="612-614" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="615-618" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="619-623" text="main" lemma="main"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="624-632" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="633-639" text="source" lemma="source"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="640-643" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="644-652" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="653-665" text="inflammatory" lemma="inflammatory"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="666-675" text="mediators" lemma="mediator"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="676-680" text="such" lemma="such"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="681-683" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="684-689" text="tumor" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="690-698" text="necrosis" lemma="necrosis"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="699-711" text="factor-alpha" lemma="factor-alpha"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="711-712" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="713-716" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="717-727" text="chemokines" lemma="chemokine"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="728-739" text="interleukin" lemma="interleukin"/>
+            <token xml:space="preserve" id="stt_24" POS="-LRB-" charOffset="740-741" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="741-743" text="IL" lemma="il"/>
+            <token xml:space="preserve" id="stt_26" POS="-RRB-" charOffset="743-744" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_27" POS="CD" charOffset="744-746" text="-8" lemma="-8"/>
+            <token xml:space="preserve" id="stt_28" POS="CC" charOffset="747-750" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_29" POS="CD" charOffset="751-753" text="-6" lemma="-6"/>
+            <token xml:space="preserve" id="stt_30" POS="," charOffset="753-754" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_31" POS="CC" charOffset="755-758" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="759-765" text="matrix" lemma="matrix"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="766-785" text="metalloproteinase-9" lemma="metalloproteinase-9"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="786-788" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_35" POS="DT" charOffset="789-793" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="794-799" text="model" lemma="model"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="800-806" text="system" lemma="system"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="807-809" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_39" POS="JJ" charOffset="810-820" text="mechanical" lemma="mechanical"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="821-832" text="ventilation" lemma="ventilation"/>
+            <token xml:space="preserve" id="stt_41" POS="." charOffset="832-833" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NN lung) (NN=H macrophage))
+            (VP=H (VBD=H was)
+            (VP (VBN=H identified)
+            (PP (IN=H as)
+            (NP
+            (NP=H
+            (NP=H (DT the) (JJ main) (JJ cellular) (NN=H source))
+            (PP (IN=H for)
+            (NP
+            (NP=H (JJ critical) (JJ inflammatory) (NNS=H mediators))
+            (PP (JJ such) (IN=H as)
+            (NP
+            (NP=H (NN tumor) (NN necrosis) (NN=H factor-alpha))
+            (, ,)
+            (NP (DT the) (NNS chemokines) (NN=H interleukin))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IL))
+            (-RRB- -RRB-))
+            (NP (CD=H -8)
+            (CC and)
+            (CD -6)))))))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (NN matrix) (NN=H metalloproteinase-9))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT this) (NN model) (NN=H system))
+            (PP (IN=H of)
+            (NP (JJ mechanical) (NN=H ventilation))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="834-978" id="S6">
+        <text xml:space="preserve">These mediators were measured in supernatants from ventilated alveolar macrophages, monocyte-derived macrophages, and promonocytic THP-1 cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="834-839" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="840-849" text="mediators" lemma="mediator"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="850-854" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="855-863" text="measured" lemma="measure"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="864-866" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="867-879" text="supernatants" lemma="supernatant"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="880-884" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="885-895" text="ventilated" lemma="ventilate"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="896-904" text="alveolar" lemma="alveolar"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="905-916" text="macrophages" lemma="macrophage"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="916-917" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="918-934" text="monocyte-derived" lemma="monocyte-derived"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="935-946" text="macrophages" lemma="macrophage"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="946-947" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="948-951" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="952-964" text="promonocytic" lemma="promonocytic"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="965-970" text="THP-1" lemma="thp-1"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="971-976" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="976-977" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H mediators))
+            (VP=H (VBD=H were)
+            (VP (VBN=H measured)
+            (PP (IN=H in)
+            (NP (NNS=H supernatants)))
+            (PP (IN=H from)
+            (NP
+            (NP=H (VBN ventilated) (JJ alveolar) (NNS=H macrophages))
+            (, ,)
+            (NP (JJ monocyte-derived) (NNS=H macrophages))
+            (, ,)
+            (CC and)
+            (NP (JJ promonocytic) (NN THP-1) (NNS=H cells))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="978-1053" id="S7">
+        <text xml:space="preserve">Nuclear factor-kappaB was found to be activated in ventilated macrophages. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="978-985" text="Nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="986-999" text="factor-kappaB" lemma="factor-kappab"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="1000-1003" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="1004-1009" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_5" POS="TO" charOffset="1010-1012" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_6" POS="VB" charOffset="1013-1015" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="1016-1025" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1026-1028" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="1029-1039" text="ventilated" lemma="ventilate"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1040-1051" text="macrophages" lemma="macrophage"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="1051-1052" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Nuclear) (NN=H factor-kappaB))
+            (VP=H (VBD=H was)
+            (VP (VBN=H found)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (VP (VBN=H activated)
+            (PP (IN=H in)
+            (NP (VBN ventilated) (NNS=H macrophages)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1053-1273" id="S8">
+        <text xml:space="preserve">Synergistic proinflammatory effects of mechanical stress and molecules such as bacterial endotoxin were observed, suggesting that mechanical ventilation might be particularly deleterious in preinjured or infected lungs. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1053-1064" text="Synergistic" lemma="synergistic"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="1065-1080" text="proinflammatory" lemma="proinflammatory"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="1081-1088" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1089-1091" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1092-1102" text="mechanical" lemma="mechanical"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1103-1109" text="stress" lemma="stress"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="1110-1113" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1114-1123" text="molecules" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1124-1128" text="such" lemma="such"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1129-1131" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1132-1141" text="bacterial" lemma="bacterial"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1142-1151" text="endotoxin" lemma="endotoxin"/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="1152-1156" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="1157-1165" text="observed" lemma="observe"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="1165-1166" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="VBG" charOffset="1167-1177" text="suggesting" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1178-1182" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1183-1193" text="mechanical" lemma="mechanical"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1194-1205" text="ventilation" lemma="ventilation"/>
+            <token xml:space="preserve" id="stt_20" POS="MD" charOffset="1206-1211" text="might" lemma="might"/>
+            <token xml:space="preserve" id="stt_21" POS="VB" charOffset="1212-1214" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_22" POS="RB" charOffset="1215-1227" text="particularly" lemma="particularly"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="1228-1239" text="deleterious" lemma="deleterious"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="1240-1242" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="1243-1253" text="preinjured" lemma="preinjured"/>
+            <token xml:space="preserve" id="stt_26" POS="CC" charOffset="1254-1256" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="1257-1265" text="infected" lemma="infected"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="1266-1271" text="lungs" lemma="lung"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="1271-1272" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Synergistic) (JJ proinflammatory) (NNS=H effects))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ mechanical) (NN=H stress)
+            (CC and)
+            (NNS molecules))
+            (PP (JJ such) (IN=H as)
+            (NP (JJ bacterial) (NN=H endotoxin))))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H observed) (, ,)
+            (S
+            (VP=H (VBG=H suggesting)
+            (SBAR (IN=H that)
+            (S
+            (NP (JJ mechanical) (NN=H ventilation))
+            (VP=H (MD=H might)
+            (VP (VB=H be)
+            (ADJP (RB particularly) (JJ=H deleterious)
+            (PP (IN=H in)
+            (NP (JJ preinjured)
+            (CC or)
+            (JJ infected) (NNS=H lungs))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1273-1371" id="S9">
+        <text xml:space="preserve">Dexamethasone prevented IL-8 and tumor necrosis factor-alpha secretion in ventilated macrophages. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1273-1286" text="Dexamethasone" lemma="dexamethasone"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="1287-1296" text="prevented" lemma="prevent"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1297-1301" text="IL-8" lemma="il-8"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="1302-1305" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1306-1311" text="tumor" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1312-1320" text="necrosis" lemma="necrosis"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1321-1333" text="factor-alpha" lemma="factor-alpha"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1334-1343" text="secretion" lemma="secretion"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1344-1346" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="1347-1357" text="ventilated" lemma="ventilate"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="1358-1369" text="macrophages" lemma="macrophage"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="1369-1370" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Dexamethasone))
+            (VP=H (VBD=H prevented)
+            (NP (NN IL-8)
+            (CC and)
+            (NN tumor) (NN necrosis) (NN factor-alpha) (NN=H secretion))
+            (PP (IN=H in)
+            (NP (VBN ventilated) (NNS=H macrophages))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1371-1463" id="S10">
+        <text xml:space="preserve">Mechanical ventilation induced low levels of IL-8 secretion by alveolar type II-like cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1371-1381" text="Mechanical" lemma="mechanical"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1382-1393" text="ventilation" lemma="ventilation"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="1394-1401" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1402-1405" text="low" lemma="low"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="1406-1412" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1413-1415" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1416-1420" text="IL-8" lemma="il-8"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1421-1430" text="secretion" lemma="secretion"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1431-1433" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1434-1442" text="alveolar" lemma="alveolar"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1443-1447" text="type" lemma="type"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1448-1455" text="II-like" lemma="ii-like"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="1456-1461" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="1461-1462" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Mechanical) (NN=H ventilation))
+            (VP=H (VBD=H induced)
+            (NP
+            (NP=H (JJ low) (NNS=H levels))
+            (PP (IN=H of)
+            (NP (NN IL-8) (NN=H secretion))))
+            (PP (IN=H by)
+            (NP
+            (ADJP (JJ alveolar) (NN=H type))
+            (JJ II-like) (NNS=H cells))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1463-1628" id="S11">
+        <text xml:space="preserve">Other lung cell types such as endothelial cells, bronchial cells, and fibroblasts failed to produce IL-8 in response to a prolonged cyclic pressure-stretching load. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1463-1468" text="Other" lemma="other"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1469-1473" text="lung" lemma="lung"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1474-1478" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1479-1484" text="types" lemma="type"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1485-1489" text="such" lemma="such"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1490-1492" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1493-1504" text="endothelial" lemma="endothelial"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1505-1510" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="1510-1511" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1512-1521" text="bronchial" lemma="bronchial"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="1522-1527" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="1527-1528" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="1529-1532" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="1533-1544" text="fibroblasts" lemma="fibroblast"/>
+            <token xml:space="preserve" id="stt_15" POS="VBD" charOffset="1545-1551" text="failed" lemma="fail"/>
+            <token xml:space="preserve" id="stt_16" POS="TO" charOffset="1552-1554" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_17" POS="VB" charOffset="1555-1562" text="produce" lemma="produce"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1563-1567" text="IL-8" lemma="il-8"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1568-1570" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1571-1579" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_21" POS="TO" charOffset="1580-1582" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="1583-1584" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="1585-1594" text="prolonged" lemma="prolonged"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="1595-1601" text="cyclic" lemma="cyclic"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="1602-1621" text="pressure-stretching" lemma="pressure-stretching"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1622-1626" text="load" lemma="load"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="1626-1627" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Other) (NN lung) (NN cell) (NNS=H types))
+            (PP (JJ such) (IN=H as)
+            (NP
+            (NP=H (JJ endothelial) (NNS=H cells))
+            (, ,)
+            (NP (JJ bronchial) (NNS=H cells))
+            (, ,)
+            (CC and)
+            (NP (NNS=H fibroblasts)))))
+            (VP=H (VBD=H failed)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H produce)
+            (NP
+            (NP=H (NN=H IL-8))
+            (PP (IN=H in)
+            (NP (NN=H response))))
+            (PP (TO=H to)
+            (NP (DT a) (JJ prolonged) (JJ cyclic) (JJ pressure-stretching) (NN=H load)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1628-1884" id="S12">
+        <text xml:space="preserve">This model is of particular value for exploring physical stress-induced signaling pathways, as well as for testing the effects of novel ventilatory strategies or adjunctive substances aimed at modulating cell activation induced by mechanical ventilation. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1628-1632" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1633-1638" text="model" lemma="model"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="1639-1641" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1642-1644" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1645-1655" text="particular" lemma="particular"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1656-1661" text="value" lemma="value"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1662-1665" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_8" POS="VBG" charOffset="1666-1675" text="exploring" lemma="explore"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1676-1684" text="physical" lemma="physical"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1685-1699" text="stress-induced" lemma="stress-induced"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1700-1709" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="1710-1718" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="1718-1719" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="1720-1722" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_15" POS="RB" charOffset="1723-1727" text="well" lemma="well"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1728-1730" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1731-1734" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_18" POS="VBG" charOffset="1735-1742" text="testing" lemma="test"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="1743-1746" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="1747-1754" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1755-1757" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="1758-1763" text="novel" lemma="novel"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="1764-1775" text="ventilatory" lemma="ventilatory"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="1776-1786" text="strategies" lemma="strategy"/>
+            <token xml:space="preserve" id="stt_25" POS="CC" charOffset="1787-1789" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="1790-1800" text="adjunctive" lemma="adjunctive"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="1801-1811" text="substances" lemma="substance"/>
+            <token xml:space="preserve" id="stt_28" POS="VBN" charOffset="1812-1817" text="aimed" lemma="aim"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="1818-1820" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_30" POS="VBG" charOffset="1821-1831" text="modulating" lemma="modulate"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1832-1836" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1837-1847" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_33" POS="VBN" charOffset="1848-1855" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="1856-1858" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_35" POS="JJ" charOffset="1859-1869" text="mechanical" lemma="mechanical"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1870-1881" text="ventilation" lemma="ventilation"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="1881-1882" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H model))
+            (VP=H (VBZ=H is)
+            (PP (IN=H of)
+            (NP (JJ particular) (NN=H value)))
+            (PP
+            (PP=H (IN=H for)
+            (S
+            (VP=H (VBG=H exploring)
+            (NP (JJ physical) (JJ stress-induced) (NN signaling) (NNS=H pathways)))))
+            (, ,)
+            (CONJP (RB as) (RB=H well) (IN as))
+            (PP (IN=H for)
+            (S
+            (VP=H (VBG=H testing)
+            (NP
+            (NP=H
+            (NP=H (DT the) (NNS=H effects))
+            (PP (IN=H of)
+            (NP (JJ novel) (JJ ventilatory) (NNS=H strategies))))
+            (CC or)
+            (NP
+            (NP=H (JJ adjunctive) (NNS=H substances))
+            (VP (VBN=H aimed)
+            (PP (IN=H at)
+            (S
+            (VP=H (VBG=H modulating)
+            (NP
+            (NP=H (NN cell) (NN=H activation))
+            (VP (VBN=H induced)
+            (PP (IN=H by)
+            (NP (JJ mechanical) (NN=H ventilation))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T7" type="IndefiniteNP" charOffset="255-272" headOffset="267-272" text="an in vitro model"/>
+    <Term xml:space="preserve" id="T8" type="RelativePronoun" charOffset="276-281" headOffset="276-281" text="which"/>
+    <Term xml:space="preserve" id="T9" type="ZeroArticleNP" charOffset="439-476" headOffset="445-453" text="cells cultured on a Silastic membrane"/>
+    <Term xml:space="preserve" id="T10" type="PossessivePronoun" charOffset="504-509" headOffset="504-509" text="their"/>
+    <Term xml:space="preserve" id="T11" type="ZeroArticleNP" charOffset="644-785" headOffset="676-680" text="critical inflammatory mediators such as tumor necrosis factor-alpha, the chemokines interleukin (IL)-8 and -6, and matrix metalloproteinase-9"/>
+    <Term xml:space="preserve" id="T12" type="DemonstrativeNP" charOffset="834-849" headOffset="840-849" text="These mediators"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T8"/>
+        <Antecedent idref="T7"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T10"/>
+        <Antecedent idref="T9"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T12"/>
+        <Antecedent idref="T11"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="684-711" headOffset="699-711" text="tumor necrosis factor-alpha"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="759-785" headOffset="766-785" text="matrix metalloproteinase-9"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="1297-1301" headOffset="1297-1301" text="IL-8"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="1306-1333" headOffset="1321-1333" text="tumor necrosis factor-alpha"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="1416-1420" headOffset="1416-1420" text="IL-8"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="1563-1567" headOffset="1563-1567" text="IL-8"/>
+</document>

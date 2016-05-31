@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10082473">
+    <text xml:space="preserve">Molecular mechanisms of neutrophil-endothelial cell adhesion induced by redox imbalance. 
+Previous studies have implicated a role for intracellular thiols in the activation of nuclear factor-kappaB and transcriptional regulation of endothelial cell adhesion molecules. This study was designed to determine whether changes in endothelial cell glutathione (GSH) or oxidized glutathione (GSSG) can alter neutrophil adhesivity and to define the molecular mechanism that underlies this GSSG/GSH-induced adhesion response. Treatment of human umbilical vein endothelial cell (HUVEC) monolayers for 6 hours with 0.2 mmol/L diamide and 1 mmol/L buthionine sulfoximine (BSO) decreased GSH levels and increased the ratio of GSSG to GSH without cell toxicity. These redox changes are similar to those observed with anoxia/reoxygenation. Diamide plus BSO-induced thiol/disulfide imbalance was associated with a biphasic increase in neutrophil adhesion to HUVECs with peak responses observed at 15 minutes (phase 1) and 240 minutes (phase 2). N-Acetylcysteine treatment attenuated neutrophil adhesion in both phases, which indicated a role for GSH in the adhesion responses. Interestingly, phase 1 adhesion was inversely correlated with GSH levels but not with the GSSG/GSH ratio, whereas phase 2 neutrophil adhesion was positively correlated with GSSG/GSH ratio but not with GSH levels. Intercellular adhesion molecule-1 and P-selectin-specific monoclonal antibodies attenuated the increased neutrophil adhesion during both phases, whereas an anti-E-selectin monoclonal antibody also attenuated the phase 2 response. Pretreatment with actinomycin D and cycloheximide or with competing ds-oligonucleotides that contained nuclear factor-kappaB or activator protein-1 cognate DNA sequences significantly attenuated the phase 2 response, which implicated a role for de novo protein synthesis. Surface expression of intercellular adhesion molecule-1, P-selectin, and E-selectin on HUVECs correlated with the phase 1 and 2 neutrophil adhesion responses. This study demonstrates that changes in endothelial cell GSSG/GSH cause transcription-independent and transcription-dependent surface expression of different endothelial cell adhesion molecules, which leads to a 2-phase neutrophil-endothelial adhesion response. 
+</text>
+    <sentence charOffset="0-90" id="S1">
+        <text xml:space="preserve">Molecular mechanisms of neutrophil-endothelial cell adhesion induced by redox imbalance. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-9" text="Molecular" lemma="molecular"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="10-20" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="21-23" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="24-46" text="neutrophil-endothelial" lemma="neutrophil-endothelial"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="47-51" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="52-60" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="61-68" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="69-71" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="72-77" text="redox" lemma="redox"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="78-87" text="imbalance" lemma="imbalance"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="87-88" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Molecular) (NNS=H mechanisms))
+            (PP (IN=H of)
+            (NP (JJ neutrophil-endothelial) (NN cell) (NN=H adhesion))))
+            (VP=H (VBN=H induced)
+            (PP (IN=H by)
+            (NP (NN redox) (NN=H imbalance))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="90-269" id="S2">
+        <text xml:space="preserve">Previous studies have implicated a role for intracellular thiols in the activation of nuclear factor-kappaB and transcriptional regulation of endothelial cell adhesion molecules. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="90-98" text="Previous" lemma="previous"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="99-106" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="107-111" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="112-122" text="implicated" lemma="implicate"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="123-124" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="125-129" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="130-133" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="134-147" text="intracellular" lemma="intracellular"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="148-154" text="thiols" lemma="thiol"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="155-157" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="158-161" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="162-172" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="173-175" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="176-183" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="184-197" text="factor-kappaB" lemma="factor-kappab"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="198-201" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="202-217" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="218-228" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="229-231" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="232-243" text="endothelial" lemma="endothelial"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="244-248" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="249-257" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="258-267" text="molecules" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="267-268" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Previous) (NNS=H studies))
+            (VP=H (VBP=H have)
+            (VP (VBN=H implicated)
+            (NP
+            (NP=H (DT a) (NN=H role))
+            (PP (IN=H for)
+            (NP (JJ intracellular) (NNS=H thiols))))
+            (PP (IN=H in)
+            (NP
+            (NP=H
+            (NP=H (DT the) (NN=H activation))
+            (PP (IN=H of)
+            (NP (JJ nuclear) (NN=H factor-kappaB))))
+            (CC and)
+            (NP
+            (NP=H (JJ transcriptional) (NN=H regulation))
+            (PP (IN=H of)
+            (NP (JJ endothelial) (NN cell) (NN adhesion) (NNS=H molecules))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="269-517" id="S3">
+        <text xml:space="preserve">This study was designed to determine whether changes in endothelial cell glutathione (GSH) or oxidized glutathione (GSSG) can alter neutrophil adhesivity and to define the molecular mechanism that underlies this GSSG/GSH-induced adhesion response. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="269-273" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="274-279" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="280-283" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="284-292" text="designed" lemma="design"/>
+            <token xml:space="preserve" id="stt_5" POS="TO" charOffset="293-295" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_6" POS="VB" charOffset="296-305" text="determine" lemma="determine"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="306-313" text="whether" lemma="whether"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="314-321" text="changes" lemma="change"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="322-324" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="325-336" text="endothelial" lemma="endothelial"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="337-341" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="342-353" text="glutathione" lemma="glutathione"/>
+            <token xml:space="preserve" id="stt_13" POS="-LRB-" charOffset="354-355" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="355-358" text="GSH" lemma="gsh"/>
+            <token xml:space="preserve" id="stt_15" POS="-RRB-" charOffset="358-359" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="360-362" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="363-371" text="oxidized" lemma="oxidize"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="372-383" text="glutathione" lemma="glutathione"/>
+            <token xml:space="preserve" id="stt_19" POS="-LRB-" charOffset="384-385" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="385-389" text="GSSG" lemma="gssg"/>
+            <token xml:space="preserve" id="stt_21" POS="-RRB-" charOffset="389-390" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_22" POS="MD" charOffset="391-394" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_23" POS="VB" charOffset="395-400" text="alter" lemma="alter"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="401-411" text="neutrophil" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="412-422" text="adhesivity" lemma="adhesivity"/>
+            <token xml:space="preserve" id="stt_26" POS="CC" charOffset="423-426" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_27" POS="TO" charOffset="427-429" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_28" POS="VB" charOffset="430-436" text="define" lemma="define"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="437-440" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="441-450" text="molecular" lemma="molecular"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="451-460" text="mechanism" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_32" POS="WDT" charOffset="461-465" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_33" POS="VBZ" charOffset="466-475" text="underlies" lemma="underlie"/>
+            <token xml:space="preserve" id="stt_34" POS="DT" charOffset="476-480" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_35" POS="JJ" charOffset="481-497" text="GSSG/GSH-induced" lemma="gssg/gsh-induced"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="498-506" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="507-515" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_38" POS="." charOffset="515-516" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H study))
+            (VP=H (VBD=H was)
+            (VP (VBN=H designed)
+            (S
+            (VP=H
+            (VP=H (TO=H to)
+            (VP (VB=H determine)
+            (SBAR (IN=H whether)
+            (S
+            (NP
+            (NP=H
+            (NP=H (NNS=H changes))
+            (UCP
+            (PP=H (IN=H in)
+            (NP
+            (NP=H (JJ endothelial) (NN cell) (NN=H glutathione))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H GSH))
+            (-RRB- -RRB-))))
+            (CC or)
+            (VP (VBN=H oxidized)
+            (NP (NN=H glutathione)))))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H GSSG))
+            (-RRB- -RRB-)))
+            (VP=H (MD=H can)
+            (VP (VB=H alter)
+            (NP (NN neutrophil) (NN=H adhesivity))))))))
+            (CC and)
+            (VP (TO=H to)
+            (VP (VB=H define)
+            (NP
+            (NP=H (DT the) (JJ molecular) (NN=H mechanism))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H underlies)
+            (NP (DT this) (JJ GSSG/GSH-induced) (NN adhesion) (NN=H response))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="517-748" id="S4">
+        <text xml:space="preserve">Treatment of human umbilical vein endothelial cell (HUVEC) monolayers for 6 hours with 0.2 mmol/L diamide and 1 mmol/L buthionine sulfoximine (BSO) decreased GSH levels and increased the ratio of GSSG to GSH without cell toxicity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="517-526" text="Treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="527-529" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="530-535" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="536-545" text="umbilical" lemma="umbilical"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="546-550" text="vein" lemma="vein"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="551-562" text="endothelial" lemma="endothelial"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="563-567" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_8" POS="-LRB-" charOffset="568-569" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="569-574" text="HUVEC" lemma="huvec"/>
+            <token xml:space="preserve" id="stt_10" POS="-RRB-" charOffset="574-575" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="576-586" text="monolayers" lemma="monolayer"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="587-590" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_13" POS="CD" charOffset="591-592" text="6" lemma="6"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="593-598" text="hours" lemma="hour"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="599-603" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_16" POS="CD" charOffset="604-607" text="0.2" lemma="0.2"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="608-614" text="mmol/L" lemma="mmol/l"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="615-622" text="diamide" lemma="diamide"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="623-626" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="CD" charOffset="627-628" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="629-635" text="mmol/L" lemma="mmol/l"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="636-646" text="buthionine" lemma="buthionine"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="647-658" text="sulfoximine" lemma="sulfoximine"/>
+            <token xml:space="preserve" id="stt_24" POS="-LRB-" charOffset="659-660" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="660-663" text="BSO" lemma="bso"/>
+            <token xml:space="preserve" id="stt_26" POS="-RRB-" charOffset="663-664" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_27" POS="VBD" charOffset="665-674" text="decreased" lemma="decrease"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="675-678" text="GSH" lemma="gsh"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="679-685" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_30" POS="CC" charOffset="686-689" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_31" POS="VBD" charOffset="690-699" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_32" POS="DT" charOffset="700-703" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="704-709" text="ratio" lemma="ratio"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="710-712" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="713-717" text="GSSG" lemma="gssg"/>
+            <token xml:space="preserve" id="stt_36" POS="TO" charOffset="718-720" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="721-724" text="GSH" lemma="gsh"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="725-732" text="without" lemma="without"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="733-737" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="738-746" text="toxicity" lemma="toxicity"/>
+            <token xml:space="preserve" id="stt_41" POS="." charOffset="746-747" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (NN=H Treatment))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ human) (JJ umbilical) (NN vein) (JJ endothelial) (NN cell)
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H HUVEC))
+            (-RRB- -RRB-))
+            (NNS=H monolayers))
+            (PP (IN=H for)
+            (NP
+            (NP=H (CD 6) (NNS=H hours))
+            (PP (IN=H with)
+            (NP
+            (NP=H (CD 0.2) (NN mmol/L) (NN=H diamide))
+            (CC and)
+            (NP (CD 1) (NN mmol/L) (NN buthionine) (NN=H sulfoximine)))))))))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H BSO))
+            (-RRB- -RRB-)))
+            (VP=H
+            (VP=H (VBD=H decreased)
+            (NP (NN GSH) (NNS=H levels)))
+            (CC and)
+            (VP (VBD=H increased)
+            (NP
+            (NP=H (DT the) (NN=H ratio))
+            (PP (IN=H of)
+            (NP (NN=H GSSG))))
+            (PP (TO=H to)
+            (NP (NN=H GSH)))
+            (PP (IN=H without)
+            (NP (NN cell) (NN=H toxicity)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="748-825" id="S5">
+        <text xml:space="preserve">These redox changes are similar to those observed with anoxia/reoxygenation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="748-753" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="754-759" text="redox" lemma="redox"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="760-767" text="changes" lemma="change"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="768-771" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="772-779" text="similar" lemma="similar"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="780-782" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="783-788" text="those" lemma="those"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="789-797" text="observed" lemma="observe"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="798-802" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="803-823" text="anoxia/reoxygenation" lemma="anoxia/reoxygenation"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="823-824" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NN redox) (NNS=H changes))
+            (VP=H (VBP=H are)
+            (ADJP (JJ=H similar)
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT=H those))
+            (VP (VBN=H observed)
+            (PP (IN=H with)
+            (NP (NN=H anoxia/reoxygenation))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="825-1029" id="S6">
+        <text xml:space="preserve">Diamide plus BSO-induced thiol/disulfide imbalance was associated with a biphasic increase in neutrophil adhesion to HUVECs with peak responses observed at 15 minutes (phase 1) and 240 minutes (phase 2). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="825-832" text="Diamide" lemma="diamide"/>
+            <token xml:space="preserve" id="stt_2" POS="CC" charOffset="833-837" text="plus" lemma="plus"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="838-849" text="BSO-induced" lemma="bso-induced"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="850-865" text="thiol/disulfide" lemma="thiol/disulfide"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="866-875" text="imbalance" lemma="imbalance"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="876-879" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="880-890" text="associated" lemma="associate"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="891-895" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="896-897" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="898-906" text="biphasic" lemma="biphasic"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="907-915" text="increase" lemma="increase"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="916-918" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="919-929" text="neutrophil" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="930-938" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_15" POS="TO" charOffset="939-941" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="942-948" text="HUVECs" lemma="huvec"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="949-953" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="954-958" text="peak" lemma="peak"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="959-968" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_20" POS="VBN" charOffset="969-977" text="observed" lemma="observe"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="978-980" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_22" POS="CD" charOffset="981-983" text="15" lemma="15"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="984-991" text="minutes" lemma="minute"/>
+            <token xml:space="preserve" id="stt_24" POS="-LRB-" charOffset="992-993" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="993-998" text="phase" lemma="phase"/>
+            <token xml:space="preserve" id="stt_26" POS="CD" charOffset="999-1000" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_27" POS="-RRB-" charOffset="1000-1001" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_28" POS="CC" charOffset="1002-1005" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_29" POS="CD" charOffset="1006-1009" text="240" lemma="240"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="1010-1017" text="minutes" lemma="minute"/>
+            <token xml:space="preserve" id="stt_31" POS="-LRB-" charOffset="1018-1019" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1019-1024" text="phase" lemma="phase"/>
+            <token xml:space="preserve" id="stt_33" POS="CD" charOffset="1025-1026" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_34" POS="-RRB-" charOffset="1026-1027" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_35" POS="." charOffset="1027-1028" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Diamide))
+            (PP (CC=H plus)
+            (NP (JJ BSO-induced) (NN thiol/disulfide) (NN=H imbalance))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H associated)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT a) (JJ biphasic) (NN=H increase))
+            (PP (IN=H in)
+            (NP (NN neutrophil) (NN=H adhesion)))))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NNS=H HUVECs))
+            (PP (IN=H with)
+            (NP
+            (NP=H (JJ peak) (NNS=H responses))
+            (VP (VBN=H observed)
+            (PP (IN=H at)
+            (NP
+            (NP=H (CD 15) (NNS=H minutes)
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H phase) (CD 1))
+            (-RRB- -RRB-)))
+            (CC and)
+            (NP (CD 240) (NNS=H minutes)
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H phase) (CD 2))
+            (-RRB- -RRB-))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1029-1161" id="S7">
+        <text xml:space="preserve">N-Acetylcysteine treatment attenuated neutrophil adhesion in both phases, which indicated a role for GSH in the adhesion responses. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1029-1045" text="N-Acetylcysteine" lemma="n-acetylcysteine"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1046-1055" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="1056-1066" text="attenuated" lemma="attenuate"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1067-1077" text="neutrophil" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1078-1086" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1087-1089" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="1090-1094" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1095-1101" text="phases" lemma="phase"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="1101-1102" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="WDT" charOffset="1103-1108" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_11" POS="VBD" charOffset="1109-1118" text="indicated" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1119-1120" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1121-1125" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1126-1129" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1130-1133" text="GSH" lemma="gsh"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1134-1136" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="1137-1140" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1141-1149" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="1150-1159" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="1159-1160" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN N-Acetylcysteine) (NN=H treatment))
+            (VP=H (VBD=H attenuated)
+            (NP (NN neutrophil) (NN=H adhesion))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT both) (NNS=H phases))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBD=H indicated)
+            (NP (DT a) (NN=H role))
+            (PP (IN=H for)
+            (NP (NN=H GSH)))
+            (PP (IN=H in)
+            (NP (DT the) (NN adhesion) (NNS=H responses)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1161-1374" id="S8">
+        <text xml:space="preserve">Interestingly, phase 1 adhesion was inversely correlated with GSH levels but not with the GSSG/GSH ratio, whereas phase 2 neutrophil adhesion was positively correlated with GSSG/GSH ratio but not with GSH levels. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1161-1174" text="Interestingly" lemma="interestingly"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1174-1175" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1176-1181" text="phase" lemma="phase"/>
+            <token xml:space="preserve" id="stt_4" POS="CD" charOffset="1182-1183" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1184-1192" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="1193-1196" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="1197-1206" text="inversely" lemma="inversely"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="1207-1217" text="correlated" lemma="correlate"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1218-1222" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1223-1226" text="GSH" lemma="gsh"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="1227-1233" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="1234-1237" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_13" POS="RB" charOffset="1238-1241" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1242-1246" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="1247-1250" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1251-1259" text="GSSG/GSH" lemma="gssg/gsh"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1260-1265" text="ratio" lemma="ratio"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="1265-1266" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1267-1274" text="whereas" lemma="whereas"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1275-1280" text="phase" lemma="phase"/>
+            <token xml:space="preserve" id="stt_21" POS="CD" charOffset="1281-1282" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1283-1293" text="neutrophil" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1294-1302" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_24" POS="VBD" charOffset="1303-1306" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_25" POS="RB" charOffset="1307-1317" text="positively" lemma="positively"/>
+            <token xml:space="preserve" id="stt_26" POS="VBN" charOffset="1318-1328" text="correlated" lemma="correlate"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1329-1333" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1334-1342" text="GSSG/GSH" lemma="gssg/gsh"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1343-1348" text="ratio" lemma="ratio"/>
+            <token xml:space="preserve" id="stt_30" POS="CC" charOffset="1349-1352" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_31" POS="RB" charOffset="1353-1356" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_32" POS="IN" charOffset="1357-1361" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1362-1365" text="GSH" lemma="gsh"/>
+            <token xml:space="preserve" id="stt_34" POS="NNS" charOffset="1366-1372" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_35" POS="." charOffset="1372-1373" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Interestingly))
+            (, ,)
+            (NP
+            (NP=H (NN=H phase))
+            (NP (CD 1) (NN=H adhesion)))
+            (VP=H (VBD=H was)
+            (VP
+            (ADVP (RB=H inversely))
+            (VBN=H correlated)
+            (PP
+            (PP=H (IN=H with)
+            (NP (NN GSH) (NNS=H levels)))
+            (CONJP (CC=H but)
+            (RB not))
+            (PP (IN=H with)
+            (NP (DT the) (NN GSSG/GSH) (NN=H ratio))))
+            (, ,)
+            (SBAR (IN=H whereas)
+            (S
+            (NP
+            (NP=H (NN=H phase))
+            (NP (CD 2) (NN neutrophil) (NN=H adhesion)))
+            (VP=H (VBD=H was)
+            (ADVP (RB=H positively))
+            (VP (VBN=H correlated)
+            (PP
+            (PP=H (IN=H with)
+            (NP (NN GSSG/GSH) (NN=H ratio)))
+            (CONJP (CC=H but)
+            (RB not))
+            (PP (IN=H with)
+            (NP (NN GSH) (NNS=H levels))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1374-1604" id="S9">
+        <text xml:space="preserve">Intercellular adhesion molecule-1 and P-selectin-specific monoclonal antibodies attenuated the increased neutrophil adhesion during both phases, whereas an anti-E-selectin monoclonal antibody also attenuated the phase 2 response. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1374-1387" text="Intercellular" lemma="intercellular"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1388-1396" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1397-1407" text="molecule-1" lemma="molecule-1"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="1408-1411" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1412-1431" text="P-selectin-specific" lemma="p-selectin-specific"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1432-1442" text="monoclonal" lemma="monoclonal"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1443-1453" text="antibodies" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="1454-1464" text="attenuated" lemma="attenuate"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="1465-1468" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="1469-1478" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1479-1489" text="neutrophil" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1490-1498" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1499-1505" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="1506-1510" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="1511-1517" text="phases" lemma="phase"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="1517-1518" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1519-1526" text="whereas" lemma="whereas"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="1527-1529" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="1530-1545" text="anti-E-selectin" lemma="anti-e-selectin"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="1546-1556" text="monoclonal" lemma="monoclonal"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1557-1565" text="antibody" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_22" POS="RB" charOffset="1566-1570" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_23" POS="VBD" charOffset="1571-1581" text="attenuated" lemma="attenuate"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="1582-1585" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1586-1591" text="phase" lemma="phase"/>
+            <token xml:space="preserve" id="stt_26" POS="CD" charOffset="1592-1593" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1594-1602" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="1602-1603" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Intercellular) (NN adhesion) (NN=H molecule-1))
+            (CC and)
+            (NP
+            (ADJP (JJ P-selectin-specific) (JJ=H monoclonal))
+            (NNS=H antibodies)))
+            (VP=H (VBD=H attenuated)
+            (NP (DT the) (VBN increased) (NN neutrophil) (NN=H adhesion))
+            (PP (IN=H during)
+            (NP (DT both) (NNS=H phases)))
+            (, ,)
+            (SBAR (IN=H whereas)
+            (S
+            (NP (DT an) (JJ anti-E-selectin) (JJ monoclonal) (NN=H antibody))
+            (ADVP (RB=H also))
+            (VP=H (VBD=H attenuated)
+            (NP (DT the) (NN phase) (CD 2) (NN=H response))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1604-1876" id="S10">
+        <text xml:space="preserve">Pretreatment with actinomycin D and cycloheximide or with competing ds-oligonucleotides that contained nuclear factor-kappaB or activator protein-1 cognate DNA sequences significantly attenuated the phase 2 response, which implicated a role for de novo protein synthesis. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1604-1616" text="Pretreatment" lemma="pretreatment"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1617-1621" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1622-1633" text="actinomycin" lemma="actinomycin"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1634-1635" text="D" lemma="d"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="1636-1639" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1640-1653" text="cycloheximide" lemma="cycloheximide"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="1654-1656" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1657-1661" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_9" POS="VBG" charOffset="1662-1671" text="competing" lemma="compete"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1672-1691" text="ds-oligonucleotides" lemma="ds-oligonucleotide"/>
+            <token xml:space="preserve" id="stt_11" POS="WDT" charOffset="1692-1696" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_12" POS="VBD" charOffset="1697-1706" text="contained" lemma="contain"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1707-1714" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1715-1728" text="factor-kappaB" lemma="factor-kappab"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="1729-1731" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1732-1741" text="activator" lemma="activator"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1742-1751" text="protein-1" lemma="protein-1"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1752-1759" text="cognate" lemma="cognate"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1760-1763" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="1764-1773" text="sequences" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_21" POS="RB" charOffset="1774-1787" text="significantly" lemma="significantly"/>
+            <token xml:space="preserve" id="stt_22" POS="VBD" charOffset="1788-1798" text="attenuated" lemma="attenuate"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="1799-1802" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1803-1808" text="phase" lemma="phase"/>
+            <token xml:space="preserve" id="stt_25" POS="CD" charOffset="1809-1810" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1811-1819" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="1819-1820" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="WDT" charOffset="1821-1826" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_29" POS="VBD" charOffset="1827-1837" text="implicated" lemma="implicate"/>
+            <token xml:space="preserve" id="stt_30" POS="DT" charOffset="1838-1839" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1840-1844" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_32" POS="IN" charOffset="1845-1848" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_33" POS="FW" charOffset="1849-1851" text="de" lemma="de"/>
+            <token xml:space="preserve" id="stt_34" POS="FW" charOffset="1852-1856" text="novo" lemma="novo"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1857-1864" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1865-1874" text="synthesis" lemma="synthesis"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="1874-1875" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Pretreatment))
+            (PP
+            (PP=H (IN=H with)
+            (NP (NN actinomycin) (NN=H D)
+            (CC and)
+            (NN cycloheximide)))
+            (CC or)
+            (PP (IN=H with)
+            (NP
+            (NP=H (VBG competing) (NNS=H ds-oligonucleotides)
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBD=H contained)
+            (NP (JJ nuclear) (NN=H factor-kappaB))))))
+            (CC or)
+            (NP
+            (NP=H (NN activator) (NN=H protein-1))
+            (NP (JJ cognate) (NN DNA) (NNS=H sequences)))))))
+            (ADVP (RB=H significantly))
+            (VP=H (VBD=H attenuated)
+            (NP
+            (NP=H (DT the) (NN phase) (CD 2) (NN=H response))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBD=H implicated)
+            (NP (DT a) (NN=H role))
+            (PP (IN=H for)
+            (NP
+            (NP=H (FW de) (FW novo) (NN=H protein))
+            (NP (NN=H synthesis)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1876-2035" id="S11">
+        <text xml:space="preserve">Surface expression of intercellular adhesion molecule-1, P-selectin, and E-selectin on HUVECs correlated with the phase 1 and 2 neutrophil adhesion responses. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1876-1883" text="Surface" lemma="surface"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1884-1894" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1895-1897" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1898-1911" text="intercellular" lemma="intercellular"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1912-1920" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1921-1931" text="molecule-1" lemma="molecule-1"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="1931-1932" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1933-1943" text="P-selectin" lemma="p-selectin"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="1943-1944" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="1945-1948" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1949-1959" text="E-selectin" lemma="e-selectin"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1960-1962" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="1963-1969" text="HUVECs" lemma="huvec"/>
+            <token xml:space="preserve" id="stt_14" POS="VBD" charOffset="1970-1980" text="correlated" lemma="correlate"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1981-1985" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="1986-1989" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1990-1995" text="phase" lemma="phase"/>
+            <token xml:space="preserve" id="stt_18" POS="CD" charOffset="1996-1997" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="1998-2001" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="CD" charOffset="2002-2003" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="2004-2014" text="neutrophil" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="2015-2023" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="2024-2033" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="2033-2034" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN Surface) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ intercellular) (NN adhesion) (NN=H molecule-1))
+            (, ,)
+            (NP (NN=H P-selectin))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (NN=H E-selectin))
+            (PP (IN=H on)
+            (NP (NNS=H HUVECs)))))))
+            (VP=H (VBD=H correlated)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT the) (NN=H phase) (CD 1))
+            (CC and)
+            (NP (CD 2) (NN neutrophil) (NN adhesion) (NNS=H responses)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="2035-2298" id="S12">
+        <text xml:space="preserve">This study demonstrates that changes in endothelial cell GSSG/GSH cause transcription-independent and transcription-dependent surface expression of different endothelial cell adhesion molecules, which leads to a 2-phase neutrophil-endothelial adhesion response. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="2035-2039" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="2040-2045" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="2046-2058" text="demonstrates" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="2059-2063" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="2064-2071" text="changes" lemma="change"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="2072-2074" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="2075-2086" text="endothelial" lemma="endothelial"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="2087-2091" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="2092-2100" text="GSSG/GSH" lemma="gssg/gsh"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="2101-2106" text="cause" lemma="cause"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="2107-2132" text="transcription-independent" lemma="transcription-independent"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="2133-2136" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="2137-2160" text="transcription-dependent" lemma="transcription-dependent"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="2161-2168" text="surface" lemma="surface"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="2169-2179" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="2180-2182" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="2183-2192" text="different" lemma="different"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="2193-2204" text="endothelial" lemma="endothelial"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="2205-2209" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="2210-2218" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="2219-2228" text="molecules" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="2228-2229" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="WDT" charOffset="2230-2235" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_24" POS="VBZ" charOffset="2236-2241" text="leads" lemma="lead"/>
+            <token xml:space="preserve" id="stt_25" POS="TO" charOffset="2242-2244" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="2245-2246" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="2247-2254" text="2-phase" lemma="2-phase"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="2255-2277" text="neutrophil-endothelial" lemma="neutrophil-endothelial"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="2278-2286" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="2287-2295" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="2295-2296" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H study))
+            (VP=H (VBZ=H demonstrates)
+            (PP (IN=H that)
+            (NP
+            (NP=H (NNS=H changes))
+            (PP (IN=H in)
+            (NP (JJ endothelial) (NN cell) (NN=H GSSG/GSH)))))
+            (NP
+            (NP=H (NN cause) (JJ transcription-independent)
+            (CC and)
+            (JJ transcription-dependent) (NN surface) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ different) (JJ endothelial) (NN cell) (NN adhesion) (NNS=H molecules))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H leads)
+            (PP (TO=H to)
+            (NP (DT a) (JJ 2-phase) (JJ neutrophil-endothelial) (NN adhesion) (NN=H response))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T7" type="DefiniteNP" charOffset="437-460" headOffset="451-460" text="the molecular mechanism"/>
+    <Term xml:space="preserve" id="T8" type="RelativePronoun" charOffset="461-465" headOffset="461-465" text="that"/>
+    <Term xml:space="preserve" id="T9" type="ZeroArticleNP" charOffset="1067-1101" headOffset="1078-1086" text="neutrophil adhesion in both phases"/>
+    <Term xml:space="preserve" id="T10" type="RelativePronoun" charOffset="1103-1108" headOffset="1103-1108" text="which"/>
+    <Term xml:space="preserve" id="T11" type="ZeroArticleNP" charOffset="1662-1691" headOffset="1672-1691" text="competing ds-oligonucleotides"/>
+    <Term xml:space="preserve" id="T12" type="RelativePronoun" charOffset="1692-1696" headOffset="1692-1696" text="that"/>
+    <Term xml:space="preserve" id="T13" type="DefiniteNP" charOffset="1799-1819" headOffset="1811-1819" text="the phase 2 response"/>
+    <Term xml:space="preserve" id="T14" type="RelativePronoun" charOffset="1821-1826" headOffset="1821-1826" text="which"/>
+    <Term xml:space="preserve" id="T15" type="ZeroArticleNP" charOffset="2107-2228" headOffset="2169-2179" text="transcription-independent and transcription-dependent surface expression of different endothelial cell adhesion molecules"/>
+    <Term xml:space="preserve" id="T16" type="RelativePronoun" charOffset="2230-2235" headOffset="2230-2235" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T8"/>
+        <Antecedent idref="T7"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T10"/>
+        <Antecedent idref="T9"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T12"/>
+        <Antecedent idref="T11"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T14"/>
+        <Antecedent idref="T13"/>
+    </Relation>
+    <Relation id="R5" type="Anaphora">
+        <Anaphor idref="T16"/>
+        <Antecedent idref="T15"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="1374-1407" headOffset="1397-1407" text="Intercellular adhesion molecule-1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="1412-1422" headOffset="1412-1422" text="P-selectin"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="1535-1545" headOffset="1535-1545" text="E-selectin"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="1898-1931" headOffset="1921-1931" text="intercellular adhesion molecule-1"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="1933-1943" headOffset="1933-1943" text="P-selectin"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="1949-1959" headOffset="1949-1959" text="E-selectin"/>
+</document>

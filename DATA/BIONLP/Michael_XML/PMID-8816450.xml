@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8816450">
+    <text xml:space="preserve">Analysis of the ligand-binding domain of human retinoic acid receptor alpha by site-directed mutagenesis. 
+Three subtypes of retinoic acid receptors (RAR), termed RAR alpha, RAR beta, and RAR gamma, have been described. They are composed of different structural domains, including distinct domains for DNA and ligand binding. RARs specifically bind all-trans-retinoic acid (RA), 9-cis-RA, and retinoid analogs. In this study, we examined the functional role of cysteine and arginine residues in the ligand-binding domain of hRAR alpha (hRAR alpha-LBD, amino acids 154 to 462). All conserved cysteine and arginine residues in this domain were mutated by site-directed mutagenesis, and the mutant proteins were characterized by blocking reactions, ligand-binding experiments, transactivation assays, and protease mapping. Changes of any cysteine residue of the hRAR alpha-LBD had no significant influence on the binding of all-trans RA or 9-cis RA. Interestingly, residue C-235 is specifically important in antagonist binding. With respect to arginine residues, only the two single mutations of R-276 and R-394 to alanine showed a dramatic decrease of agonist and antagonist binding whereas the R272A mutation showed only a slight effect. For all other arginine mutations, no differences in affinity were detectable. The two mutations R217A and R294A caused an increased binding efficiency for antagonists but no change in agonist binding. From these results, we can conclude that electrostatic interactions of retinoids with the RAR alpha-LBD play a significant role in ligand binding. In addition, antagonists show distinctly different requirements for efficient binding, which may contribute to their interference in the ligand-inducible transactivation function of RAR alpha. 
+</text>
+    <sentence charOffset="0-107" id="S1">
+        <text xml:space="preserve">Analysis of the ligand-binding domain of human retinoic acid receptor alpha by site-directed mutagenesis. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-8" text="Analysis" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="9-11" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="12-15" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="16-30" text="ligand-binding" lemma="ligand-binding"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="31-37" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="38-40" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="41-46" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="47-55" text="retinoic" lemma="retinoic"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="56-60" text="acid" lemma="acid"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="61-69" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="70-75" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="76-78" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="79-92" text="site-directed" lemma="site-directed"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="93-104" text="mutagenesis" lemma="mutagenesis"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="104-105" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H
+            (NP=H (NN=H Analysis))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (JJ ligand-binding) (NN=H domain))
+            (PP (IN=H of)
+            (NP (JJ human) (JJ retinoic) (NN acid) (NN=H receptor))))))
+            (ADJP (NN=H alpha)
+            (PP (IN=H by)
+            (NP (JJ site-directed) (NN=H mutagenesis))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="107-220" id="S2">
+        <text xml:space="preserve">Three subtypes of retinoic acid receptors (RAR), termed RAR alpha, RAR beta, and RAR gamma, have been described. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="CD" charOffset="107-112" text="Three" lemma="three"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="113-121" text="subtypes" lemma="subtype"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="122-124" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="125-133" text="retinoic" lemma="retinoic"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="134-138" text="acid" lemma="acid"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="139-148" text="receptors" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_7" POS="-LRB-" charOffset="149-150" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="150-153" text="RAR" lemma="rar"/>
+            <token xml:space="preserve" id="stt_9" POS="-RRB-" charOffset="153-154" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="154-155" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="156-162" text="termed" lemma="term"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="163-166" text="RAR" lemma="rar"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="167-172" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="172-173" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="174-177" text="RAR" lemma="rar"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="178-182" text="beta" lemma="beta"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="182-183" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="184-187" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="188-191" text="RAR" lemma="rar"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="192-197" text="gamma" lemma="gamma"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="197-198" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="VBP" charOffset="199-203" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="204-208" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_24" POS="VBN" charOffset="209-218" text="described" lemma="describe"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="218-219" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (CD Three) (NNS=H subtypes))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ retinoic) (NN acid) (NNS=H receptors))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H RAR))
+            (-RRB- -RRB-))))
+            (, ,)
+            (VP (VBN=H termed)
+            (NP
+            (NP=H (NN RAR) (NN=H alpha))
+            (, ,)
+            (NP (NN RAR) (NN=H beta))
+            (, ,)
+            (CC and)
+            (NP (NN RAR) (NN=H gamma))))
+            (, ,))
+            (VP=H (VBP=H have)
+            (VP (VBN=H been)
+            (VP (VBN=H described))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="220-326" id="S3">
+        <text xml:space="preserve">They are composed of different structural domains, including distinct domains for DNA and ligand binding. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="220-224" text="They" lemma="they"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="225-228" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="229-237" text="composed" lemma="compose"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="238-240" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="241-250" text="different" lemma="different"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="251-261" text="structural" lemma="structural"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="262-269" text="domains" lemma="domain"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="269-270" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="VBG" charOffset="271-280" text="including" lemma="include"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="281-289" text="distinct" lemma="distinct"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="290-297" text="domains" lemma="domain"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="298-301" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="302-305" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="306-309" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="310-316" text="ligand" lemma="ligand"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="317-324" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="324-325" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H They))
+            (VP=H (VBP=H are)
+            (VP (VBN=H composed)
+            (PP (IN=H of)
+            (NP (JJ different) (JJ structural) (NNS=H domains)))
+            (, ,)
+            (PP (VBG=H including)
+            (NP
+            (NP=H (JJ distinct) (NNS=H domains))
+            (PP (IN=H for)
+            (NP (NN DNA)
+            (CC and)
+            (NN ligand) (NN=H binding)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="326-411" id="S4">
+        <text xml:space="preserve">RARs specifically bind all-trans-retinoic acid (RA), 9-cis-RA, and retinoid analogs. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="326-330" text="RARs" lemma="rar"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="331-343" text="specifically" lemma="specifically"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="344-348" text="bind" lemma="bind"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="349-367" text="all-trans-retinoic" lemma="all-trans-retinoic"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="368-372" text="acid" lemma="acid"/>
+            <token xml:space="preserve" id="stt_6" POS="-LRB-" charOffset="373-374" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="374-376" text="RA" lemma="ra"/>
+            <token xml:space="preserve" id="stt_8" POS="-RRB-" charOffset="376-377" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="377-378" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="379-387" text="9-cis-RA" lemma="9-cis-ra"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="387-388" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="389-392" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="393-401" text="retinoid" lemma="retinoid"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="402-409" text="analogs" lemma="analog"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="409-410" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NNS=H RARs))
+            (ADVP (RB=H specifically))
+            (VP=H (VBP=H bind)
+            (NP
+            (NP=H
+            (NP=H (JJ all-trans-retinoic) (NN=H acid))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H RA))
+            (-RRB- -RRB-)))
+            (, ,)
+            (NP (NN=H 9-cis-RA))
+            (, ,)
+            (CC and)
+            (NP (NN retinoid) (NNS=H analogs))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="411-577" id="S5">
+        <text xml:space="preserve">In this study, we examined the functional role of cysteine and arginine residues in the ligand-binding domain of hRAR alpha (hRAR alpha-LBD, amino acids 154 to 462). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="411-413" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="414-418" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="419-424" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="424-425" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="426-428" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="429-437" text="examined" lemma="examine"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="438-441" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="442-452" text="functional" lemma="functional"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="453-457" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="458-460" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="461-469" text="cysteine" lemma="cysteine"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="470-473" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="474-482" text="arginine" lemma="arginine"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="483-491" text="residues" lemma="residue"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="492-494" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="495-498" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="499-513" text="ligand-binding" lemma="ligand-binding"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="514-520" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="521-523" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="524-528" text="hRAR" lemma="hrar"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="529-534" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_22" POS="-LRB-" charOffset="535-536" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="536-540" text="hRAR" lemma="hrar"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="541-550" text="alpha-LBD" lemma="alpha-lbd"/>
+            <token xml:space="preserve" id="stt_25" POS="," charOffset="550-551" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="552-557" text="amino" lemma="amino"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="558-563" text="acids" lemma="acid"/>
+            <token xml:space="preserve" id="stt_28" POS="CD" charOffset="564-567" text="154" lemma="154"/>
+            <token xml:space="preserve" id="stt_29" POS="TO" charOffset="568-570" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_30" POS="CD" charOffset="571-574" text="462" lemma="462"/>
+            <token xml:space="preserve" id="stt_31" POS="-RRB-" charOffset="574-575" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="575-576" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (DT this) (NN=H study)))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H examined)
+            (NP
+            (NP=H (DT the)
+            (ADJP (JJ=H functional))
+            (NN=H role))
+            (PP (IN=H of)
+            (NP (NN cysteine)
+            (CC and)
+            (NN arginine) (NNS=H residues))))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (JJ ligand-binding) (NN=H domain))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN hRAR) (NN=H alpha))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (NN hRAR) (NN=H alpha-LBD))
+            (, ,)
+            (NP
+            (NP=H (NN amino) (NNS=H acids))
+            (NP
+            (QP=H (CD=H 154) (TO to) (CD 462)))))
+            (-RRB- -RRB-)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="577-820" id="S6">
+        <text xml:space="preserve">All conserved cysteine and arginine residues in this domain were mutated by site-directed mutagenesis, and the mutant proteins were characterized by blocking reactions, ligand-binding experiments, transactivation assays, and protease mapping. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="577-580" text="All" lemma="all"/>
+            <token xml:space="preserve" id="stt_2" POS="VBN" charOffset="581-590" text="conserved" lemma="conserve"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="591-599" text="cysteine" lemma="cysteine"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="600-603" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="604-612" text="arginine" lemma="arginine"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="613-621" text="residues" lemma="residue"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="622-624" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="625-629" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="630-636" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="637-641" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="642-649" text="mutated" lemma="mutate"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="650-652" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="653-666" text="site-directed" lemma="site-directed"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="667-678" text="mutagenesis" lemma="mutagenesis"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="678-679" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="680-683" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="684-687" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="688-694" text="mutant" lemma="mutant"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="695-703" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_20" POS="VBD" charOffset="704-708" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_21" POS="VBN" charOffset="709-722" text="characterized" lemma="characterize"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="723-725" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_23" POS="VBG" charOffset="726-734" text="blocking" lemma="block"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="735-744" text="reactions" lemma="reaction"/>
+            <token xml:space="preserve" id="stt_25" POS="," charOffset="744-745" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="746-760" text="ligand-binding" lemma="ligand-binding"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="761-772" text="experiments" lemma="experiment"/>
+            <token xml:space="preserve" id="stt_28" POS="," charOffset="772-773" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="774-789" text="transactivation" lemma="transactivation"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="790-796" text="assays" lemma="assay"/>
+            <token xml:space="preserve" id="stt_31" POS="," charOffset="796-797" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_32" POS="CC" charOffset="798-801" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="802-810" text="protease" lemma="protease"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="811-818" text="mapping" lemma="mapping"/>
+            <token xml:space="preserve" id="stt_35" POS="." charOffset="818-819" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP
+            (NP=H (DT=H All))
+            (VP (VBN=H conserved)
+            (NP (NN cysteine)
+            (CC and)
+            (NN arginine) (NNS=H residues))
+            (PP (IN=H in)
+            (NP (DT this) (NN=H domain)))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H mutated)
+            (PP (IN=H by)
+            (NP (JJ site-directed) (NN=H mutagenesis))))))
+            (, ,)
+            (CC and)
+            (S
+            (NP (DT the) (JJ mutant) (NNS=H proteins))
+            (VP=H (VBD=H were)
+            (VP (VBN=H characterized)
+            (PP (IN=H by)
+            (S
+            (VP=H (VBG=H blocking)
+            (NP
+            (NP=H (NNS=H reactions))
+            (, ,)
+            (NP (JJ ligand-binding) (NNS=H experiments))
+            (, ,)
+            (NP (NN transactivation) (NNS=H assays))
+            (, ,)
+            (CC and)
+            (NP (NN protease) (NN=H mapping)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="820-947" id="S7">
+        <text xml:space="preserve">Changes of any cysteine residue of the hRAR alpha-LBD had no significant influence on the binding of all-trans RA or 9-cis RA. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="820-827" text="Changes" lemma="change"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="828-830" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="831-834" text="any" lemma="any"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="835-843" text="cysteine" lemma="cysteine"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="844-851" text="residue" lemma="residue"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="852-854" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="855-858" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="859-863" text="hRAR" lemma="hrar"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="864-873" text="alpha-LBD" lemma="alpha-lbd"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="874-877" text="had" lemma="have"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="878-880" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="881-892" text="significant" lemma="significant"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="893-902" text="influence" lemma="influence"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="903-905" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="906-909" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="910-917" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="918-920" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="921-930" text="all-trans" lemma="all-trans"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="931-933" text="RA" lemma="ra"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="934-936" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="937-942" text="9-cis" lemma="9-cis"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="943-945" text="RA" lemma="ra"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="945-946" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NNS=H Changes))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT any) (NN cysteine) (NN=H residue))
+            (PP (IN=H of)
+            (NP (DT the) (NN hRAR) (NN=H alpha-LBD))))))
+            (VP=H (VBD=H had)
+            (NP
+            (NP=H (DT no) (JJ significant) (NN=H influence))
+            (PP (IN=H on)
+            (NP
+            (NP=H (DT the) (NN=H binding))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ all-trans) (NN=H RA))
+            (CC or)
+            (NP (JJ 9-cis) (NN=H RA))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="947-1025" id="S8">
+        <text xml:space="preserve">Interestingly, residue C-235 is specifically important in antagonist binding. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="947-960" text="Interestingly" lemma="interestingly"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="960-961" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="962-969" text="residue" lemma="residue"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="970-975" text="C-235" lemma="c-235"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="976-978" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="979-991" text="specifically" lemma="specifically"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="992-1001" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1002-1004" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1005-1015" text="antagonist" lemma="antagonist"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1016-1023" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="1023-1024" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Interestingly))
+            (, ,)
+            (NP (NN residue) (NN=H C-235))
+            (VP=H (VBZ=H is)
+            (ADJP (RB specifically) (JJ=H important)
+            (PP (IN=H in)
+            (NP (NN antagonist) (NN=H binding)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1025-1237" id="S9">
+        <text xml:space="preserve">With respect to arginine residues, only the two single mutations of R-276 and R-394 to alanine showed a dramatic decrease of agonist and antagonist binding whereas the R272A mutation showed only a slight effect. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1025-1029" text="With" lemma="with"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1030-1037" text="respect" lemma="respect"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="1038-1040" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1041-1049" text="arginine" lemma="arginine"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="1050-1058" text="residues" lemma="residue"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="1058-1059" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="1060-1064" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="1065-1068" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="CD" charOffset="1069-1072" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1073-1079" text="single" lemma="single"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="1080-1089" text="mutations" lemma="mutation"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1090-1092" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1093-1098" text="R-276" lemma="r-276"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="1099-1102" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1103-1108" text="R-394" lemma="r-394"/>
+            <token xml:space="preserve" id="stt_16" POS="TO" charOffset="1109-1111" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1112-1119" text="alanine" lemma="alanine"/>
+            <token xml:space="preserve" id="stt_18" POS="VBD" charOffset="1120-1126" text="showed" lemma="show"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="1127-1128" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="1129-1137" text="dramatic" lemma="dramatic"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1138-1146" text="decrease" lemma="decrease"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1147-1149" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1150-1157" text="agonist" lemma="agonist"/>
+            <token xml:space="preserve" id="stt_24" POS="CC" charOffset="1158-1161" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1162-1172" text="antagonist" lemma="antagonist"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1173-1180" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1181-1188" text="whereas" lemma="whereas"/>
+            <token xml:space="preserve" id="stt_28" POS="DT" charOffset="1189-1192" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1193-1198" text="R272A" lemma="r272a"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1199-1207" text="mutation" lemma="mutation"/>
+            <token xml:space="preserve" id="stt_31" POS="VBD" charOffset="1208-1214" text="showed" lemma="show"/>
+            <token xml:space="preserve" id="stt_32" POS="RB" charOffset="1215-1219" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_33" POS="DT" charOffset="1220-1221" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_34" POS="JJ" charOffset="1222-1228" text="slight" lemma="slight"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1229-1235" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_36" POS="." charOffset="1235-1236" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H With)
+            (NP
+            (NP=H (NN=H respect))
+            (PP (TO=H to)
+            (NP (NN arginine) (NNS=H residues)))))
+            (, ,)
+            (NP (RB only)
+            (NP=H
+            (NP=H (DT the) (CD two) (JJ single) (NNS=H mutations))
+            (PP (IN=H of)
+            (NP (NN=H R-276)
+            (CC and)
+            (NN R-394)))
+            (PP (TO=H to)
+            (NP (NN=H alanine)))))
+            (VP=H (VBD=H showed)
+            (NP
+            (NP=H (DT a) (JJ dramatic) (NN=H decrease))
+            (PP (IN=H of)
+            (NP (NN agonist)
+            (CC and)
+            (NN antagonist) (NN=H binding))))
+            (SBAR (IN=H whereas)
+            (S
+            (NP (DT the) (NN R272A) (NN=H mutation))
+            (VP=H (VBD=H showed)
+            (NP (RB only) (DT a) (JJ slight) (NN=H effect))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1237-1315" id="S10">
+        <text xml:space="preserve">For all other arginine mutations, no differences in affinity were detectable. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1237-1240" text="For" lemma="for"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="1241-1244" text="all" lemma="all"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="1245-1250" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1251-1259" text="arginine" lemma="arginine"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="1260-1269" text="mutations" lemma="mutation"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="1269-1270" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="1271-1273" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1274-1285" text="differences" lemma="difference"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1286-1288" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1289-1297" text="affinity" lemma="affinity"/>
+            <token xml:space="preserve" id="stt_11" POS="VBD" charOffset="1298-1302" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1303-1313" text="detectable" lemma="detectable"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="1313-1314" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H For)
+            (NP (DT all) (JJ other) (NN arginine) (NNS=H mutations)))
+            (, ,)
+            (NP
+            (NP=H (DT no) (NNS=H differences))
+            (PP (IN=H in)
+            (NP (NN=H affinity))))
+            (VP=H (VBD=H were)
+            (ADJP (JJ=H detectable)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1315-1438" id="S11">
+        <text xml:space="preserve">The two mutations R217A and R294A caused an increased binding efficiency for antagonists but no change in agonist binding. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1315-1318" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="CD" charOffset="1319-1322" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="1323-1332" text="mutations" lemma="mutation"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1333-1338" text="R217A" lemma="r217a"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="1339-1342" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1343-1348" text="R294A" lemma="r294a"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="1349-1355" text="caused" lemma="cause"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="1356-1358" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="1359-1368" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1369-1376" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1377-1387" text="efficiency" lemma="efficiency"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1388-1391" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="1392-1403" text="antagonists" lemma="antagonist"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="1404-1407" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="1408-1410" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1411-1417" text="change" lemma="change"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1418-1420" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1421-1428" text="agonist" lemma="agonist"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1429-1436" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="1436-1437" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (CD two) (NNS mutations) (NN=H R217A))
+            (CC and)
+            (NP (NN=H R294A)))
+            (VP=H (VBD=H caused)
+            (NP
+            (NP=H (DT an) (VBN increased) (NN binding) (NN=H efficiency))
+            (PP (IN=H for)
+            (NP
+            (NP=H (NNS=H antagonists))
+            (PP (CC=H but)
+            (NP
+            (NP=H (DT no) (NN=H change))
+            (PP (IN=H in)
+            (NP (NN agonist) (NN=H binding)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1438-1585" id="S12">
+        <text xml:space="preserve">From these results, we can conclude that electrostatic interactions of retinoids with the RAR alpha-LBD play a significant role in ligand binding. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1438-1442" text="From" lemma="from"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="1443-1448" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="1449-1456" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="1456-1457" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="1458-1460" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="MD" charOffset="1461-1464" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_7" POS="VB" charOffset="1465-1473" text="conclude" lemma="conclude"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1474-1478" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1479-1492" text="electrostatic" lemma="electrostatic"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1493-1505" text="interactions" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1506-1508" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="1509-1518" text="retinoids" lemma="retinoid"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1519-1523" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="1524-1527" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1528-1531" text="RAR" lemma="rar"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1532-1541" text="alpha-LBD" lemma="alpha-lbd"/>
+            <token xml:space="preserve" id="stt_17" POS="VBP" charOffset="1542-1546" text="play" lemma="play"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="1547-1548" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="1549-1560" text="significant" lemma="significant"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1561-1565" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1566-1568" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1569-1575" text="ligand" lemma="ligand"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1576-1583" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="1583-1584" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H From)
+            (NP (DT these) (NNS=H results)))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (MD=H can)
+            (VP (VB=H conclude)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (JJ electrostatic) (NNS=H interactions))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H retinoids))
+            (PP (IN=H with)
+            (NP (DT the) (NN RAR) (NN=H alpha-LBD))))))
+            (VP=H (VBP=H play)
+            (NP
+            (NP=H (DT a) (JJ significant) (NN=H role))
+            (PP (IN=H in)
+            (NP (NN ligand) (NN=H binding)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1585-1779" id="S13">
+        <text xml:space="preserve">In addition, antagonists show distinctly different requirements for efficient binding, which may contribute to their interference in the ligand-inducible transactivation function of RAR alpha. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1585-1587" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1588-1596" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="1596-1597" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1598-1609" text="antagonists" lemma="antagonist"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="1610-1614" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="1615-1625" text="distinctly" lemma="distinctly"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1626-1635" text="different" lemma="different"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1636-1648" text="requirements" lemma="requirement"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1649-1652" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1653-1662" text="efficient" lemma="efficient"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1663-1670" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="1670-1671" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="WDT" charOffset="1672-1677" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_14" POS="MD" charOffset="1678-1681" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_15" POS="VB" charOffset="1682-1692" text="contribute" lemma="contribute"/>
+            <token xml:space="preserve" id="stt_16" POS="TO" charOffset="1693-1695" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_17" POS="PRP$" charOffset="1696-1701" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1702-1714" text="interference" lemma="interference"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1715-1717" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="1718-1721" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="1722-1738" text="ligand-inducible" lemma="ligand-inducible"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1739-1754" text="transactivation" lemma="transactivation"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1755-1763" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="1764-1766" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1767-1770" text="RAR" lemma="rar"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1771-1776" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="1776-1777" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H addition)))
+            (, ,)
+            (NP (NNS=H antagonists))
+            (VP=H (VBP=H show)
+            (S
+            (NP
+            (NP=H
+            (ADJP (RB distinctly) (JJ=H different))
+            (NNS=H requirements))
+            (PP (IN=H for)
+            (NP
+            (NP=H (JJ efficient) (NN=H binding))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (MD=H may)
+            (VP (VB=H contribute)
+            (PP (TO=H to)
+            (NP (PRP$ their) (NN=H interference)))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (JJ ligand-inducible) (NN transactivation) (NN=H function))
+            (PP (IN=H of)
+            (NP (NN=H RAR))))))))))))
+            (ADJP=H (NN=H alpha))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T10" type="ZeroArticleNP" charOffset="107-154" headOffset="113-121" text="Three subtypes of retinoic acid receptors (RAR)"/>
+    <Term xml:space="preserve" id="T11" type="PersonalPronoun" charOffset="220-224" headOffset="220-224" text="They"/>
+    <Term xml:space="preserve" id="T12" type="ZeroArticleNP" charOffset="1615-1670" headOffset="1636-1648" text="distinctly different requirements for efficient binding"/>
+    <Term xml:space="preserve" id="T13" type="RelativePronoun" charOffset="1672-1677" headOffset="1672-1677" text="which"/>
+    <Term xml:space="preserve" id="T14" type="PossessivePronoun" charOffset="1696-1701" headOffset="1696-1701" text="their"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T11"/>
+        <Antecedent idref="T10"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T13"/>
+        <Antecedent idref="T12"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T14"/>
+        <Antecedent idref="T12"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="41-75" headOffset="70-75" text="human retinoic acid receptor alpha"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="163-172" headOffset="167-172" text="RAR alpha"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="174-182" headOffset="178-182" text="RAR beta"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="188-197" headOffset="192-197" text="RAR gamma"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="524-534" headOffset="529-534" text="hRAR alpha"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="536-546" headOffset="541-546" text="hRAR alpha"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="859-869" headOffset="864-869" text="hRAR alpha"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="1528-1537" headOffset="1532-1537" text="RAR alpha"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="1767-1776" headOffset="1771-1776" text="RAR alpha"/>
+</document>

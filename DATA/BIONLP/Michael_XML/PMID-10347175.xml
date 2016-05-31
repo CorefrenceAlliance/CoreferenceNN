@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10347175">
+    <text xml:space="preserve">SLP-76 and Vav function in separate, but overlapping pathways to augment interleukin-2 promoter activity. 
+SLP-76 and Vav, two hematopoietic cell specific molecules, are critical for T cell development and activation. Following T cell antigen receptor stimulation, SLP-76 and Vav both undergo tyrosine phosphorylation and associate with each other via the SH2 domain of Vav and phosphorylated tyrosines of SLP-76. Furthermore, SLP-76 and Vav have a synergistic effect on interleukin (IL)-2 promoter activity in T cells. In this report, we show that two tyrosines, Tyr-113 and Tyr-128, of SLP-76 are required for its binding to Vav, both in vitro and in intact cells. Surprisingly, we find also that the interaction between SLP-76 and Vav is not required for their cooperation in augmenting IL-2 promoter activity, as the two molecules appear to function in different signaling pathways upstream of IL-2 gene expression. Overexpression of SLP-76 in the Jurkat T cell line potentiates the activities of both nuclear factor of activated T cells and AP-1 transcription factors. In contrast, overexpression of Vav leads to enhanced nuclear factor of activated T cells activity without affecting AP-1. Additionally, overexpression of Vav, but not SLP-76, augments CD28-induced IL-2 promoter activity. These findings suggest that the synergy between SLP-76 and Vav in regulating IL-2 gene expression reflects the cooperation between different signaling pathways. 
+</text>
+    <sentence charOffset="0-107" id="S1">
+        <text xml:space="preserve">SLP-76 and Vav function in separate, but overlapping pathways to augment interleukin-2 promoter activity. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-6" text="SLP-76" lemma="slp-76"/>
+            <token xml:space="preserve" id="stt_2" POS="CC" charOffset="7-10" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="11-14" text="Vav" lemma="vav"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="15-23" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="24-26" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="27-35" text="separate" lemma="separate"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="35-36" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="37-40" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_9" POS="VBG" charOffset="41-52" text="overlapping" lemma="overlap"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="53-61" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_11" POS="TO" charOffset="62-64" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_12" POS="VB" charOffset="65-72" text="augment" lemma="augment"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="73-86" text="interleukin-2" lemma="interleukin-2"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="87-95" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="96-104" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="104-105" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN SLP-76)
+            (CC and)
+            (NN Vav) (NN=H function))
+            (PP (IN=H in)
+            (NP (JJ=H separate)))
+            (, ,)
+            (PP (CC=H but)
+            (NP (VBG overlapping) (NNS=H pathways)))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H augment)
+            (NP (NN interleukin-2) (NN promoter) (NN=H activity)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="107-218" id="S2">
+        <text xml:space="preserve">SLP-76 and Vav, two hematopoietic cell specific molecules, are critical for T cell development and activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="107-113" text="SLP-76" lemma="slp-76"/>
+            <token xml:space="preserve" id="stt_2" POS="CC" charOffset="114-117" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="118-121" text="Vav" lemma="vav"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="121-122" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="CD" charOffset="123-126" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="127-140" text="hematopoietic" lemma="hematopoietic"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="141-145" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="146-154" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="155-164" text="molecules" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="164-165" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="VBP" charOffset="166-169" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="170-178" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="179-182" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="183-184" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="185-189" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="190-201" text="development" lemma="development"/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="202-205" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="206-216" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="216-217" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H SLP-76)
+            (CC and)
+            (NN Vav))
+            (, ,)
+            (NP (CD two) (JJ hematopoietic) (NN cell) (JJ specific) (NNS=H molecules))
+            (, ,))
+            (VP=H (VBP=H are)
+            (ADJP (JJ=H critical)
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN T) (NN cell) (NN=H development))
+            (CC and)
+            (NP (NN=H activation))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="218-414" id="S3">
+        <text xml:space="preserve">Following T cell antigen receptor stimulation, SLP-76 and Vav both undergo tyrosine phosphorylation and associate with each other via the SH2 domain of Vav and phosphorylated tyrosines of SLP-76. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBG" charOffset="218-227" text="Following" lemma="follow"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="228-229" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="230-234" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="235-242" text="antigen" lemma="antigen"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="243-251" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="252-263" text="stimulation" lemma="stimulation"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="263-264" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="265-271" text="SLP-76" lemma="slp-76"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="272-275" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="276-279" text="Vav" lemma="vav"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="280-284" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_12" POS="VBP" charOffset="285-292" text="undergo" lemma="undergo"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="293-301" text="tyrosine" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="302-317" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="318-321" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="322-331" text="associate" lemma="associate"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="332-336" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="337-341" text="each" lemma="each"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="342-347" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="348-351" text="via" lemma="via"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="352-355" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="356-359" text="SH2" lemma="sh2"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="360-366" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="367-369" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="370-373" text="Vav" lemma="vav"/>
+            <token xml:space="preserve" id="stt_26" POS="CC" charOffset="374-377" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_27" POS="VBN" charOffset="378-392" text="phosphorylated" lemma="phosphorylate"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="393-402" text="tyrosines" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="403-405" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="406-412" text="SLP-76" lemma="slp-76"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="412-413" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (VBG=H Following)
+            (NP
+            (NP=H (NN T) (NN=H cell))
+            (NP (NN antigen) (NN receptor) (NN=H stimulation))))
+            (, ,)
+            (NP (NN=H SLP-76)
+            (CC and)
+            (NN Vav))
+            (VP=H
+            (VP=H
+            (ADVP (CC=H both))
+            (VBP=H undergo)
+            (NP
+            (NP=H (NN tyrosine) (NN=H phosphorylation)
+            (CC and)
+            (NN associate))
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT each) (JJ=H other))
+            (PP (IN=H via)
+            (NP
+            (NP=H (DT the) (NN SH2) (NN=H domain))
+            (PP (IN=H of)
+            (NP (NN=H Vav)))))))))
+            (CC and)
+            (VP (VBN=H phosphorylated)
+            (NP
+            (NP=H (NNS=H tyrosines))
+            (PP (IN=H of)
+            (NP (NN=H SLP-76))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="414-520" id="S4">
+        <text xml:space="preserve">Furthermore, SLP-76 and Vav have a synergistic effect on interleukin (IL)-2 promoter activity in T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="414-425" text="Furthermore" lemma="furthermore"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="425-426" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="427-433" text="SLP-76" lemma="slp-76"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="434-437" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="438-441" text="Vav" lemma="vav"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="442-446" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="447-448" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="449-460" text="synergistic" lemma="synergistic"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="461-467" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="468-470" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="471-482" text="interleukin" lemma="interleukin"/>
+            <token xml:space="preserve" id="stt_12" POS="-LRB-" charOffset="483-484" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="484-486" text="IL" lemma="il"/>
+            <token xml:space="preserve" id="stt_14" POS="-RRB-" charOffset="486-487" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_15" POS="CD" charOffset="487-489" text="-2" lemma="-2"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="490-498" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="499-507" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="508-510" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="511-512" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="513-518" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="518-519" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Furthermore))
+            (, ,)
+            (NP (NN=H SLP-76)
+            (CC and)
+            (NN Vav))
+            (VP=H (VBP=H have)
+            (NP
+            (NP=H (DT a) (JJ synergistic) (NN=H effect))
+            (PP (IN=H on)
+            (NP
+            (NP=H
+            (NP=H (NN=H interleukin))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IL))
+            (-RRB- -RRB-)))
+            (NP
+            (NP=H (CD -2) (NN promoter) (NN=H activity))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="520-667" id="S5">
+        <text xml:space="preserve">In this report, we show that two tyrosines, Tyr-113 and Tyr-128, of SLP-76 are required for its binding to Vav, both in vitro and in intact cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="520-522" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="523-527" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="528-534" text="report" lemma="report"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="534-535" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="536-538" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="539-543" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="544-548" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_8" POS="CD" charOffset="549-552" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="553-562" text="tyrosines" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="562-563" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="564-571" text="Tyr-113" lemma="tyr-113"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="572-575" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="576-583" text="Tyr-128" lemma="tyr-128"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="583-584" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="585-587" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="588-594" text="SLP-76" lemma="slp-76"/>
+            <token xml:space="preserve" id="stt_17" POS="VBP" charOffset="595-598" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="599-607" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="608-611" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_20" POS="PRP$" charOffset="612-615" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="616-623" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_22" POS="TO" charOffset="624-626" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="627-630" text="Vav" lemma="vav"/>
+            <token xml:space="preserve" id="stt_24" POS="," charOffset="630-631" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_25" POS="CC" charOffset="632-636" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_26" POS="FW" charOffset="637-639" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_27" POS="FW" charOffset="640-645" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_28" POS="CC" charOffset="646-649" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="650-652" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="653-659" text="intact" lemma="intact"/>
+            <token xml:space="preserve" id="stt_31" POS="NNS" charOffset="660-665" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="665-666" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (DT this) (NN=H report)))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H show)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H
+            (NP=H (CD two) (NNS=H tyrosines))
+            (, ,)
+            (NP (NN=H Tyr-113)
+            (CC and)
+            (NN Tyr-128))
+            (, ,))
+            (PP (IN=H of)
+            (NP (NN=H SLP-76))))
+            (VP=H (VBP=H are)
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP (PRP$ its) (NN=H binding)))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN=H Vav))
+            (, ,)
+            (CC both)
+            (NP
+            (UCP
+            (ADVP=H (FW in) (FW=H vitro))
+            (CC and)
+            (PP (IN=H in)
+            (ADJP (JJ=H intact))))
+            (NNS=H cells)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="667-920" id="S6">
+        <text xml:space="preserve">Surprisingly, we find also that the interaction between SLP-76 and Vav is not required for their cooperation in augmenting IL-2 promoter activity, as the two molecules appear to function in different signaling pathways upstream of IL-2 gene expression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="667-679" text="Surprisingly" lemma="surprisingly"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="679-680" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP" charOffset="681-683" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="684-688" text="find" lemma="find"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="689-693" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="694-698" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="699-702" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="703-714" text="interaction" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="715-722" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="723-729" text="SLP-76" lemma="slp-76"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="730-733" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="734-737" text="Vav" lemma="vav"/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="738-740" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="741-744" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="745-753" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="754-757" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_17" POS="PRP$" charOffset="758-763" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="764-775" text="cooperation" lemma="cooperation"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="776-778" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_20" POS="VBG" charOffset="779-789" text="augmenting" lemma="augment"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="790-794" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="795-803" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="804-812" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_24" POS="," charOffset="812-813" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="814-816" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="817-820" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_27" POS="CD" charOffset="821-824" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="825-834" text="molecules" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_29" POS="VBP" charOffset="835-841" text="appear" lemma="appear"/>
+            <token xml:space="preserve" id="stt_30" POS="TO" charOffset="842-844" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_31" POS="VB" charOffset="845-853" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_32" POS="IN" charOffset="854-856" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_33" POS="JJ" charOffset="857-866" text="different" lemma="different"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="867-876" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_35" POS="NNS" charOffset="877-885" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_36" POS="RB" charOffset="886-894" text="upstream" lemma="upstream"/>
+            <token xml:space="preserve" id="stt_37" POS="IN" charOffset="895-897" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="898-902" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="903-907" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="908-918" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_41" POS="." charOffset="918-919" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Surprisingly))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H find)
+            (ADVP (RB=H also))
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (NN=H interaction))
+            (PP (IN=H between)
+            (NP (NN=H SLP-76)
+            (CC and)
+            (NN Vav))))
+            (VP=H (VBZ=H is) (RB not)
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP
+            (NP=H (PRP$ their) (NN=H cooperation))
+            (PP (IN=H in)
+            (NP (VBG augmenting) (NN IL-2) (NN promoter) (NN=H activity)))))
+            (, ,)
+            (SBAR (IN=H as)
+            (S
+            (NP (DT the) (CD two) (NNS=H molecules))
+            (VP=H (VBP=H appear)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H function)
+            (PP (IN=H in)
+            (NP (JJ different) (NN signaling) (NNS=H pathways)))
+            (ADVP (RB=H upstream)
+            (PP (IN=H of)
+            (NP (NN IL-2) (NN gene) (NN=H expression)))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="920-1074" id="S7">
+        <text xml:space="preserve">Overexpression of SLP-76 in the Jurkat T cell line potentiates the activities of both nuclear factor of activated T cells and AP-1 transcription factors. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="920-934" text="Overexpression" lemma="overexpression"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="935-937" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="938-944" text="SLP-76" lemma="slp-76"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="945-947" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="948-951" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="952-958" text="Jurkat" lemma="jurkat"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="959-960" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="961-965" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="966-970" text="line" lemma="line"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="971-982" text="potentiates" lemma="potentiate"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="983-986" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="987-997" text="activities" lemma="activity"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="998-1000" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="1001-1005" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="1006-1013" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1014-1020" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1021-1023" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="1024-1033" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1034-1035" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="1036-1041" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_21" POS="CC" charOffset="1042-1045" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1046-1050" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1051-1064" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="1065-1072" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="1072-1073" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Overexpression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H SLP-76))
+            (PP (IN=H in)
+            (NP (DT the) (NN Jurkat) (NN T) (NN cell) (NN=H line))))))
+            (VP=H (VBZ=H potentiates)
+            (NP
+            (NP=H (DT the) (NNS=H activities))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (ADVP (CC=H both))
+            (JJ nuclear) (NN=H factor))
+            (PP (IN=H of)
+            (NP
+            (NP=H (VBN activated) (NN T) (NNS=H cells))
+            (CC and)
+            (NP (NN AP-1) (NN transcription) (NNS=H factors))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1074-1196" id="S8">
+        <text xml:space="preserve">In contrast, overexpression of Vav leads to enhanced nuclear factor of activated T cells activity without affecting AP-1. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1074-1076" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1077-1085" text="contrast" lemma="contrast"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="1085-1086" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1087-1101" text="overexpression" lemma="overexpression"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1102-1104" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1105-1108" text="Vav" lemma="vav"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="1109-1114" text="leads" lemma="lead"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="1115-1117" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="1118-1126" text="enhanced" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1127-1134" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1135-1141" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1142-1144" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="VBN" charOffset="1145-1154" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1155-1156" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="1157-1162" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1163-1171" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1172-1179" text="without" lemma="without"/>
+            <token xml:space="preserve" id="stt_18" POS="VBG" charOffset="1180-1189" text="affecting" lemma="affect"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1190-1194" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="1194-1195" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H contrast)))
+            (, ,)
+            (NP
+            (NP=H (NN=H overexpression))
+            (PP (IN=H of)
+            (NP (NN=H Vav))))
+            (VP=H (VBZ=H leads)
+            (PP (TO=H to)
+            (NP
+            (NP=H (VBN enhanced) (JJ nuclear) (NN=H factor))
+            (PP (IN=H of)
+            (NP
+            (NP=H (VBN activated) (NN T) (NNS=H cells))
+            (NP (NN=H activity))))))
+            (PP (IN=H without)
+            (S
+            (VP=H (VBG=H affecting)
+            (NP (NN=H AP-1))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1196-1295" id="S9">
+        <text xml:space="preserve">Additionally, overexpression of Vav, but not SLP-76, augments CD28-induced IL-2 promoter activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1196-1208" text="Additionally" lemma="additionally"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1208-1209" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1210-1224" text="overexpression" lemma="overexpression"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1225-1227" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1228-1231" text="Vav" lemma="vav"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="1231-1232" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="1233-1236" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_8" POS="RB" charOffset="1237-1240" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1241-1247" text="SLP-76" lemma="slp-76"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="1247-1248" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="1249-1257" text="augments" lemma="augment"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1258-1270" text="CD28-induced" lemma="cd28-induced"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1271-1275" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1276-1284" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1285-1293" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="1293-1294" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Additionally))
+            (, ,)
+            (NP
+            (NP=H
+            (NP=H (NN=H overexpression))
+            (PP (IN=H of)
+            (NP (NN=H Vav))))
+            (, ,)
+            (CONJP (CC=H but)
+            (RB not))
+            (NP (NN=H SLP-76))
+            (, ,))
+            (VP=H (VBZ=H augments)
+            (NP (JJ CD28-induced) (NN IL-2) (NN promoter) (NN=H activity)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1295-1457" id="S10">
+        <text xml:space="preserve">These findings suggest that the synergy between SLP-76 and Vav in regulating IL-2 gene expression reflects the cooperation between different signaling pathways. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1295-1300" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1301-1309" text="findings" lemma="finding"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1310-1317" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1318-1322" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="1323-1326" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1327-1334" text="synergy" lemma="synergy"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1335-1342" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1343-1349" text="SLP-76" lemma="slp-76"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="1350-1353" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1354-1357" text="Vav" lemma="vav"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1358-1360" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="VBG" charOffset="1361-1371" text="regulating" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1372-1376" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1377-1381" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1382-1392" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="1393-1401" text="reflects" lemma="reflect"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="1402-1405" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1406-1417" text="cooperation" lemma="cooperation"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1418-1425" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="1426-1435" text="different" lemma="different"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1436-1445" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="1446-1454" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="1454-1455" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H findings))
+            (VP=H (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (NN=H synergy))
+            (PP (IN=H between)
+            (NP
+            (NP=H (NN=H SLP-76)
+            (CC and)
+            (NN Vav))
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H regulating)
+            (NP (NN IL-2) (NN gene) (NN=H expression))))))))
+            (VP=H (VBZ=H reflects)
+            (NP
+            (NP=H (DT the) (NN=H cooperation))
+            (PP (IN=H between)
+            (NP (JJ different) (NN signaling) (NNS=H pathways))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T28" type="ZeroArticleNP" charOffset="588-594" headOffset="588-594" text="SLP-76"/>
+    <Term xml:space="preserve" id="T29" type="PossessivePronoun" charOffset="612-615" headOffset="612-615" text="its"/>
+    <Term xml:space="preserve" id="T30" type="ZeroArticleNP" charOffset="723-737" headOffset="734-737" text="SLP-76 and Vav"/>
+    <Term xml:space="preserve" id="T31" type="PossessivePronoun" charOffset="758-763" headOffset="758-763" text="their"/>
+    <Term xml:space="preserve" id="T32" type="DefiniteNP" charOffset="817-834" headOffset="825-834" text="the two molecules"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T29"/>
+        <Antecedent idref="T28"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T31"/>
+        <Antecedent idref="T30"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T32"/>
+        <Antecedent idref="T30"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="0-6" headOffset="0-6" text="SLP-76"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="11-14" headOffset="11-14" text="Vav"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="73-86" headOffset="73-86" text="interleukin-2"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="107-113" headOffset="107-113" text="SLP-76"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="118-121" headOffset="118-121" text="Vav"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="265-271" headOffset="265-271" text="SLP-76"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="276-279" headOffset="276-279" text="Vav"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="370-373" headOffset="370-373" text="Vav"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="406-412" headOffset="406-412" text="SLP-76"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="427-433" headOffset="427-433" text="SLP-76"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="438-441" headOffset="438-441" text="Vav"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="471-489" headOffset="484-486" text="interleukin (IL)-2"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="588-594" headOffset="588-594" text="SLP-76"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="627-630" headOffset="627-630" text="Vav"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="723-729" headOffset="723-729" text="SLP-76"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="734-737" headOffset="734-737" text="Vav"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="790-794" headOffset="790-794" text="IL-2"/>
+    <Term xml:space="preserve" id="T18" type="Protein" charOffset="898-902" headOffset="898-902" text="IL-2"/>
+    <Term xml:space="preserve" id="T19" type="Protein" charOffset="938-944" headOffset="938-944" text="SLP-76"/>
+    <Term xml:space="preserve" id="T20" type="Protein" charOffset="1105-1108" headOffset="1105-1108" text="Vav"/>
+    <Term xml:space="preserve" id="T21" type="Protein" charOffset="1228-1231" headOffset="1228-1231" text="Vav"/>
+    <Term xml:space="preserve" id="T22" type="Protein" charOffset="1241-1247" headOffset="1241-1247" text="SLP-76"/>
+    <Term xml:space="preserve" id="T23" type="Protein" charOffset="1258-1262" headOffset="1258-1262" text="CD28"/>
+    <Term xml:space="preserve" id="T24" type="Protein" charOffset="1271-1275" headOffset="1271-1275" text="IL-2"/>
+    <Term xml:space="preserve" id="T25" type="Protein" charOffset="1343-1349" headOffset="1343-1349" text="SLP-76"/>
+    <Term xml:space="preserve" id="T26" type="Protein" charOffset="1354-1357" headOffset="1354-1357" text="Vav"/>
+    <Term xml:space="preserve" id="T27" type="Protein" charOffset="1372-1376" headOffset="1372-1376" text="IL-2"/>
+</document>

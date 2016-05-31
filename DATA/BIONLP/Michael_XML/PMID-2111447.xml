@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-2111447">
+    <text xml:space="preserve">Involvement of a second lymphoid-specific enhancer element in the regulation of immunoglobulin heavy-chain gene expression. 
+To determine whether enhancer elements in addition to the highly conserved octamer (OCTA)-nucleotide motif are important for lymphoid-specific expression of the immunoglobulin heavy-chain (IgH) gene, we have investigated the effect of mutating the binding site for a putative additional lymphoid-specific transcription factor, designated NF-microB, in the murine IgH enhancer. We demonstrate that the NF-microB-binding site plays a critical role in the IgH enhancer, because mutation of the microB DNA motif decreased transcriptional activity of the IgH enhancer in cells of the B-cell lineage but not in nonlymphoid cells. This effect was comparable to or even stronger than the effect of a mutation in the OCTA site. Moreover, combined mutation of both microB and OCTA sites further reduced enhancer activity in lymphoid cells. Interestingly, alteration of either the microB or E3 site in a 70-base-pair fragment of the IgH enhancer that lacks the binding site for OCTA abolished enhancer activity in lymphoid cells completely. Nevertheless, a multimer of the microB motif alone showed no enhancer activity. DNase footprinting analysis corroborated the functional data showing that a lymphoid-specific protein binds to the microB DNA motif. Our results suggest that the microB element is a new crucial element important for lymphoid-specific expression of the IgH gene but that interaction with another enhancer element is essential for its activity. 
+</text>
+    <sentence charOffset="0-125" id="S1">
+        <text xml:space="preserve">Involvement of a second lymphoid-specific enhancer element in the regulation of immunoglobulin heavy-chain gene expression. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-11" text="Involvement" lemma="involvement"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="12-14" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="15-16" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="17-23" text="second" lemma="second"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="24-41" text="lymphoid-specific" lemma="lymphoid-specific"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="42-50" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="51-58" text="element" lemma="element"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="59-61" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="62-65" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="66-76" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="77-79" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="80-94" text="immunoglobulin" lemma="immunoglobulin"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="95-106" text="heavy-chain" lemma="heavy-chain"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="107-111" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="112-122" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="122-123" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Involvement))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a) (JJ second) (JJ lymphoid-specific) (NN enhancer) (NN=H element))
+            (PP (IN=H in)
+            (NP (DT the) (NN=H regulation)))))
+            (PP (IN=H of)
+            (NP (NN immunoglobulin) (JJ heavy-chain) (NN gene) (NN=H expression)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="125-502" id="S2">
+        <text xml:space="preserve">To determine whether enhancer elements in addition to the highly conserved octamer (OCTA)-nucleotide motif are important for lymphoid-specific expression of the immunoglobulin heavy-chain (IgH) gene, we have investigated the effect of mutating the binding site for a putative additional lymphoid-specific transcription factor, designated NF-microB, in the murine IgH enhancer. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="125-127" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="VB" charOffset="128-137" text="determine" lemma="determine"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="138-145" text="whether" lemma="whether"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="146-154" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="155-163" text="elements" lemma="element"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="164-166" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="167-175" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="176-178" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="179-182" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="183-189" text="highly" lemma="highly"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="190-199" text="conserved" lemma="conserve"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="200-207" text="octamer" lemma="octamer"/>
+            <token xml:space="preserve" id="stt_13" POS="-LRB-" charOffset="208-209" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="209-213" text="OCTA" lemma="octa"/>
+            <token xml:space="preserve" id="stt_15" POS="-RRB-" charOffset="213-214" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_16" POS=":" charOffset="214-215" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="215-225" text="nucleotide" lemma="nucleotide"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="226-231" text="motif" lemma="motif"/>
+            <token xml:space="preserve" id="stt_19" POS="VBP" charOffset="232-235" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="236-245" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="246-249" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="250-267" text="lymphoid-specific" lemma="lymphoid-specific"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="268-278" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="279-281" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_25" POS="DT" charOffset="282-285" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="286-300" text="immunoglobulin" lemma="immunoglobulin"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="301-312" text="heavy-chain" lemma="heavy-chain"/>
+            <token xml:space="preserve" id="stt_28" POS="-LRB-" charOffset="313-314" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="314-317" text="IgH" lemma="igh"/>
+            <token xml:space="preserve" id="stt_30" POS="-RRB-" charOffset="317-318" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="319-323" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_32" POS="," charOffset="323-324" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_33" POS="PRP" charOffset="325-327" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_34" POS="VBP" charOffset="328-332" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_35" POS="VBN" charOffset="333-345" text="investigated" lemma="investigate"/>
+            <token xml:space="preserve" id="stt_36" POS="DT" charOffset="346-349" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="350-356" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="357-359" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_39" POS="VBG" charOffset="360-368" text="mutating" lemma="mutate"/>
+            <token xml:space="preserve" id="stt_40" POS="DT" charOffset="369-372" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="373-380" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="381-385" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_43" POS="IN" charOffset="386-389" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_44" POS="DT" charOffset="390-391" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_45" POS="JJ" charOffset="392-400" text="putative" lemma="putative"/>
+            <token xml:space="preserve" id="stt_46" POS="JJ" charOffset="401-411" text="additional" lemma="additional"/>
+            <token xml:space="preserve" id="stt_47" POS="JJ" charOffset="412-429" text="lymphoid-specific" lemma="lymphoid-specific"/>
+            <token xml:space="preserve" id="stt_48" POS="NN" charOffset="430-443" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_49" POS="NN" charOffset="444-450" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_50" POS="," charOffset="450-451" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_51" POS="VBN" charOffset="452-462" text="designated" lemma="designate"/>
+            <token xml:space="preserve" id="stt_52" POS="NN" charOffset="463-472" text="NF-microB" lemma="nf-microb"/>
+            <token xml:space="preserve" id="stt_53" POS="," charOffset="472-473" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_54" POS="IN" charOffset="474-476" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_55" POS="DT" charOffset="477-480" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_56" POS="JJ" charOffset="481-487" text="murine" lemma="murine"/>
+            <token xml:space="preserve" id="stt_57" POS="NN" charOffset="488-491" text="IgH" lemma="igh"/>
+            <token xml:space="preserve" id="stt_58" POS="NN" charOffset="492-500" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_59" POS="." charOffset="500-501" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP (VB=H determine)
+            (NP (IN whether) (NN enhancer) (NNS=H elements))
+            (PP (IN=H in)
+            (NP (NN=H addition)))
+            (PP (TO=H to)
+            (NP (DT the)
+            (ADJP (RB=H highly)
+            (S
+            (VP=H (VBN=H conserved)
+            (NP
+            (NP=H (NN=H octamer))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H OCTA))
+            (-RRB- -RRB-))
+            (: -)
+            (SBAR
+            (S=H
+            (NP (NN nucleotide) (NN=H motif))
+            (VP=H (VBP=H are)
+            (ADJP (JJ=H important)
+            (PP (IN=H for)
+            (NP
+            (NP=H (JJ lymphoid-specific) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN immunoglobulin) (NN=H heavy-chain))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IgH))
+            (-RRB- -RRB-))))))))))))))
+            (NN=H gene))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H have)
+            (VP (VBN=H investigated)
+            (NP
+            (NP=H (DT the) (NN=H effect))
+            (PP (IN=H of)
+            (S
+            (VP=H (VBG=H mutating)
+            (NP (DT the) (NN binding) (NN=H site))
+            (PP (IN=H for)
+            (NP
+            (NP=H
+            (NP=H (DT a) (JJ putative) (JJ additional) (JJ lymphoid-specific) (NN transcription) (NN=H factor))
+            (, ,)
+            (NP (VBN designated) (NN=H NF-microB))
+            (, ,))
+            (PP (IN=H in)
+            (NP (DT the) (JJ murine) (NN IgH) (NN=H enhancer)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="502-749" id="S3">
+        <text xml:space="preserve">We demonstrate that the NF-microB-binding site plays a critical role in the IgH enhancer, because mutation of the microB DNA motif decreased transcriptional activity of the IgH enhancer in cells of the B-cell lineage but not in nonlymphoid cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="502-504" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="505-516" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="517-521" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="522-525" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="526-543" text="NF-microB-binding" lemma="nf-microb-binding"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="544-548" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="549-554" text="plays" lemma="play"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="555-556" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="557-565" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="566-570" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="571-573" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="574-577" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="578-581" text="IgH" lemma="igh"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="582-590" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="590-591" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="592-599" text="because" lemma="because"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="600-608" text="mutation" lemma="mutation"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="609-611" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="612-615" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="616-622" text="microB" lemma="microb"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="623-626" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="627-632" text="motif" lemma="motif"/>
+            <token xml:space="preserve" id="stt_23" POS="VBD" charOffset="633-642" text="decreased" lemma="decrease"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="643-658" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="659-667" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="668-670" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="671-674" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="675-678" text="IgH" lemma="igh"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="679-687" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="688-690" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_31" POS="NNS" charOffset="691-696" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_32" POS="IN" charOffset="697-699" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_33" POS="DT" charOffset="700-703" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="704-710" text="B-cell" lemma="b-cell"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="711-718" text="lineage" lemma="lineage"/>
+            <token xml:space="preserve" id="stt_36" POS="CC" charOffset="719-722" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_37" POS="RB" charOffset="723-726" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="727-729" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_39" POS="JJ" charOffset="730-741" text="nonlymphoid" lemma="nonlymphoid"/>
+            <token xml:space="preserve" id="stt_40" POS="NNS" charOffset="742-747" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_41" POS="." charOffset="747-748" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT the) (JJ NF-microB-binding) (NN=H site))
+            (VP=H (VBZ=H plays)
+            (NP
+            (NP=H (DT a) (JJ critical) (NN=H role))
+            (PP (IN=H in)
+            (NP (DT the) (NN IgH) (NN=H enhancer))))
+            (, ,)
+            (SBAR (IN=H because)
+            (S
+            (NP
+            (NP=H (NN=H mutation))
+            (PP (IN=H of)
+            (NP (DT the) (NN microB) (NN DNA) (NN=H motif))))
+            (VP=H (VBD=H decreased)
+            (NP
+            (NP=H (JJ transcriptional) (NN=H activity))
+            (PP (IN=H of)
+            (NP (DT the) (NN IgH) (NN=H enhancer))))
+            (PP
+            (PP=H (IN=H in)
+            (NP
+            (NP=H (NNS=H cells))
+            (PP (IN=H of)
+            (NP (DT the) (NN B-cell) (NN=H lineage)))))
+            (CONJP (CC=H but)
+            (RB not))
+            (PP (IN=H in)
+            (NP (JJ nonlymphoid) (NNS=H cells)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="749-844" id="S4">
+        <text xml:space="preserve">This effect was comparable to or even stronger than the effect of a mutation in the OCTA site. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="749-753" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="754-760" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="761-764" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="765-775" text="comparable" lemma="comparable"/>
+            <token xml:space="preserve" id="stt_5" POS="TO" charOffset="776-778" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="779-781" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="782-786" text="even" lemma="even"/>
+            <token xml:space="preserve" id="stt_8" POS="JJR" charOffset="787-795" text="stronger" lemma="stronger"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="796-800" text="than" lemma="than"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="801-804" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="805-811" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="812-814" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="815-816" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="817-825" text="mutation" lemma="mutation"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="826-828" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="829-832" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="833-837" text="OCTA" lemma="octa"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="838-842" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="842-843" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H effect))
+            (VP=H (VBD=H was)
+            (ADJP
+            (ADJP=H (JJ=H comparable)
+            (PP (TO=H to)))
+            (CC or)
+            (ADJP (RB even) (JJR=H stronger)))
+            (PP (IN=H than)
+            (NP
+            (NP=H (DT the) (NN=H effect))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a) (NN=H mutation))
+            (PP (IN=H in)
+            (NP (DT the) (NN OCTA) (NN=H site))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="844-955" id="S5">
+        <text xml:space="preserve">Moreover, combined mutation of both microB and OCTA sites further reduced enhancer activity in lymphoid cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="844-852" text="Moreover" lemma="moreover"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="852-853" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="854-862" text="combined" lemma="combined"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="863-871" text="mutation" lemma="mutation"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="872-874" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="875-879" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="880-886" text="microB" lemma="microb"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="887-890" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="891-895" text="OCTA" lemma="octa"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="896-901" text="sites" lemma="site"/>
+            <token xml:space="preserve" id="stt_11" POS="RB" charOffset="902-909" text="further" lemma="further"/>
+            <token xml:space="preserve" id="stt_12" POS="VBD" charOffset="910-917" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="918-926" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="927-935" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="936-938" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="939-947" text="lymphoid" lemma="lymphoid"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="948-953" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="953-954" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Moreover))
+            (, ,)
+            (NP
+            (NP=H (JJ combined) (NN=H mutation))
+            (PP (IN=H of)
+            (NP (CC both)
+            (NP=H (NN=H microB))
+            (CC and)
+            (NP (NN OCTA) (NNS=H sites)))))
+            (ADVP (RB=H further))
+            (VP=H (VBD=H reduced)
+            (NP (NN enhancer) (NN=H activity))
+            (PP (IN=H in)
+            (NP (JJ lymphoid) (NNS=H cells))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="955-1155" id="S6">
+        <text xml:space="preserve">Interestingly, alteration of either the microB or E3 site in a 70-base-pair fragment of the IgH enhancer that lacks the binding site for OCTA abolished enhancer activity in lymphoid cells completely. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="955-968" text="Interestingly" lemma="interestingly"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="968-969" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="970-980" text="alteration" lemma="alteration"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="981-983" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="984-990" text="either" lemma="either"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="991-994" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="995-1001" text="microB" lemma="microb"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="1002-1004" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1005-1007" text="E3" lemma="e3"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1008-1012" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1013-1015" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1016-1017" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1018-1030" text="70-base-pair" lemma="70-base-pair"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1031-1039" text="fragment" lemma="fragment"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1040-1042" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="1043-1046" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1047-1050" text="IgH" lemma="igh"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1051-1059" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_19" POS="WDT" charOffset="1060-1064" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_20" POS="VBZ" charOffset="1065-1070" text="lacks" lemma="lack"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="1071-1074" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1075-1082" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1083-1087" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="1088-1091" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1092-1096" text="OCTA" lemma="octa"/>
+            <token xml:space="preserve" id="stt_26" POS="VBD" charOffset="1097-1106" text="abolished" lemma="abolish"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1107-1115" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1116-1124" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="1125-1127" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="1128-1136" text="lymphoid" lemma="lymphoid"/>
+            <token xml:space="preserve" id="stt_31" POS="NNS" charOffset="1137-1142" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_32" POS="RB" charOffset="1143-1153" text="completely" lemma="completely"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="1153-1154" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Interestingly))
+            (, ,)
+            (NP
+            (NP=H (NN=H alteration))
+            (PP (IN=H of)
+            (NP (CC either)
+            (NP=H (DT the) (NN=H microB))
+            (CC or)
+            (NP (NN E3) (NN=H site))))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT a) (JJ 70-base-pair) (NN=H fragment))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN IgH) (NN=H enhancer))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H lacks)
+            (NP
+            (NP=H (DT the) (NN binding) (NN=H site))
+            (PP (IN=H for)
+            (NP (NN=H OCTA))))))))))))
+            (VP=H (VBD=H abolished)
+            (NP (NN enhancer) (NN=H activity))
+            (PP (IN=H in)
+            (NP (JJ lymphoid) (NNS=H cells)))
+            (ADVP (RB=H completely)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1155-1235" id="S7">
+        <text xml:space="preserve">Nevertheless, a multimer of the microB motif alone showed no enhancer activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1155-1167" text="Nevertheless" lemma="nevertheless"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1167-1168" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1169-1170" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1171-1179" text="multimer" lemma="multimer"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1180-1182" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1183-1186" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1187-1193" text="microB" lemma="microb"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1194-1199" text="motif" lemma="motif"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="1200-1205" text="alone" lemma="alone"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="1206-1212" text="showed" lemma="show"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="1213-1215" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1216-1224" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1225-1233" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="1233-1234" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Nevertheless))
+            (, ,)
+            (NP
+            (NP=H (DT a) (NN=H multimer))
+            (PP (IN=H of)
+            (NP (DT the) (NN microB) (NN=H motif))))
+            (ADVP (RB=H alone))
+            (VP=H (VBD=H showed)
+            (NP (DT no) (NN enhancer) (NN=H activity)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1235-1368" id="S8">
+        <text xml:space="preserve">DNase footprinting analysis corroborated the functional data showing that a lymphoid-specific protein binds to the microB DNA motif. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1235-1240" text="DNase" lemma="dnase"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1241-1253" text="footprinting" lemma="footprinting"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1254-1262" text="analysis" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="1263-1275" text="corroborated" lemma="corroborate"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="1276-1279" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1280-1290" text="functional" lemma="functional"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1291-1295" text="data" lemma="datum"/>
+            <token xml:space="preserve" id="stt_8" POS="VBG" charOffset="1296-1303" text="showing" lemma="show"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1304-1308" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="1309-1310" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1311-1328" text="lymphoid-specific" lemma="lymphoid-specific"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1329-1336" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="1337-1342" text="binds" lemma="bind"/>
+            <token xml:space="preserve" id="stt_14" POS="TO" charOffset="1343-1345" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="1346-1349" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1350-1356" text="microB" lemma="microb"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1357-1360" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1361-1366" text="motif" lemma="motif"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="1366-1367" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN DNase) (NN footprinting) (NN=H analysis))
+            (VP=H (VBD=H corroborated)
+            (NP (DT the) (JJ functional) (NNS=H data))
+            (S
+            (VP=H (VBG=H showing)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT a) (JJ lymphoid-specific) (NN=H protein))
+            (VP=H (VBZ=H binds)
+            (PP (TO=H to)
+            (NP (DT the) (NN microB) (NN DNA) (NN=H motif)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1368-1579" id="S9">
+        <text xml:space="preserve">Our results suggest that the microB element is a new crucial element important for lymphoid-specific expression of the IgH gene but that interaction with another enhancer element is essential for its activity. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP$" charOffset="1368-1371" text="Our" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1372-1379" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1380-1387" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1388-1392" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="1393-1396" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1397-1403" text="microB" lemma="microb"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1404-1411" text="element" lemma="element"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="1412-1414" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="1415-1416" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1417-1420" text="new" lemma="new"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1421-1428" text="crucial" lemma="crucial"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1429-1436" text="element" lemma="element"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1437-1446" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1447-1450" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="1451-1468" text="lymphoid-specific" lemma="lymphoid-specific"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1469-1479" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1480-1482" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="1483-1486" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1487-1490" text="IgH" lemma="igh"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1491-1495" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_21" POS="CC" charOffset="1496-1499" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1500-1504" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1505-1516" text="interaction" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="1517-1521" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_25" POS="DT" charOffset="1522-1529" text="another" lemma="another"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1530-1538" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1539-1546" text="element" lemma="element"/>
+            <token xml:space="preserve" id="stt_28" POS="VBZ" charOffset="1547-1549" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="1550-1559" text="essential" lemma="essential"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="1560-1563" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_31" POS="PRP$" charOffset="1564-1567" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1568-1576" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="1576-1577" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP$ Our) (NNS=H results))
+            (VP=H (VBP=H suggest)
+            (SBAR
+            (SBAR=H (IN=H that)
+            (S
+            (NP (DT the) (NN microB) (NN=H element))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (JJ new) (JJ crucial) (NN=H element))
+            (ADJP (JJ=H important)
+            (PP (IN=H for)
+            (NP
+            (NP=H (JJ lymphoid-specific) (NN=H expression))
+            (PP (IN=H of)
+            (NP (DT the) (NN IgH) (NN=H gene))))))))))
+            (CC but)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H interaction))
+            (PP (IN=H with)
+            (NP (DT another) (NN enhancer) (NN=H element))))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H essential)
+            (PP (IN=H for)
+            (NP (PRP$ its) (NN=H activity)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T3" type="IndefiniteNP" charOffset="1016-1059" headOffset="1031-1039" text="a 70-base-pair fragment of the IgH enhancer"/>
+    <Term xml:space="preserve" id="T4" type="RelativePronoun" charOffset="1060-1064" headOffset="1060-1064" text="that"/>
+    <Term xml:space="preserve" id="T5" type="ZeroArticleNP" charOffset="1451-1495" headOffset="1469-1479" text="lymphoid-specific expression of the IgH gene"/>
+    <Term xml:space="preserve" id="T6" type="PossessivePronoun" charOffset="1564-1567" headOffset="1564-1567" text="its"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T4"/>
+        <Antecedent idref="T3"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T6"/>
+        <Antecedent idref="T5"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="463-472" headOffset="463-472" text="NF-microB"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="526-535" headOffset="526-535" text="NF-microB"/>
+</document>

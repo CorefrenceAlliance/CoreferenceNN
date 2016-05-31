@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8664547">
+    <text xml:space="preserve">The role of BSAP (Pax-5) in B-cell development. 
+The hierarchy of transcriptional control in B-cell development has recently been analyzed by targeted gene inactivation in the mouse. In this manner, the paired box containing gene Pax-5, encoding the B cell specific transcription factor BSAP, has been shown to play a key role in early B lymphopoiesis. Other experimental strategies have implicated BSAP in the control of cell proliferation, isotype switching and transcription of the immunoglobulin heavy-chain gene at late stages of B-cell differentiation. 
+</text>
+    <sentence charOffset="0-49" id="S1">
+        <text xml:space="preserve">The role of BSAP (Pax-5) in B-cell development. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="0-3" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="4-8" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="9-11" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="12-16" text="BSAP" lemma="bsap"/>
+            <token xml:space="preserve" id="stt_5" POS="-LRB-" charOffset="17-18" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="18-23" text="Pax-5" lemma="pax-5"/>
+            <token xml:space="preserve" id="stt_7" POS="-RRB-" charOffset="23-24" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="25-27" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="28-34" text="B-cell" lemma="b-cell"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="35-46" text="development" lemma="development"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="46-47" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (DT The) (NN=H role))
+            (PP (IN=H of)
+            (NP (NN=H BSAP)))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H Pax-5))
+            (-RRB- -RRB-))
+            (PP (IN=H in)
+            (NP (NN B-cell) (NN=H development)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="49-183" id="S2">
+        <text xml:space="preserve">The hierarchy of transcriptional control in B-cell development has recently been analyzed by targeted gene inactivation in the mouse. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="49-52" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="53-62" text="hierarchy" lemma="hierarchy"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="63-65" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="66-81" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="82-89" text="control" lemma="control"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="90-92" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="93-99" text="B-cell" lemma="b-cell"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="100-111" text="development" lemma="development"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="112-115" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="116-124" text="recently" lemma="recently"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="125-129" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="130-138" text="analyzed" lemma="analyze"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="139-141" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="142-150" text="targeted" lemma="target"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="151-155" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="156-168" text="inactivation" lemma="inactivation"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="169-171" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="172-175" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="176-181" text="mouse" lemma="mouse"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="181-182" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H hierarchy))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ transcriptional) (NN=H control))
+            (PP (IN=H in)
+            (NP (NN B-cell) (NN=H development))))))
+            (VP=H (VBZ=H has)
+            (ADVP (RB=H recently))
+            (VP (VBN=H been)
+            (VP (VBN=H analyzed)
+            (PP (IN=H by)
+            (S
+            (VP=H (VBN=H targeted)
+            (NP
+            (NP=H (NN gene) (NN=H inactivation))
+            (PP (IN=H in)
+            (NP (DT the) (NN=H mouse))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="183-353" id="S3">
+        <text xml:space="preserve">In this manner, the paired box containing gene Pax-5, encoding the B cell specific transcription factor BSAP, has been shown to play a key role in early B lymphopoiesis. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="183-185" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="186-190" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="191-197" text="manner" lemma="manner"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="197-198" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="199-202" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="203-209" text="paired" lemma="paired"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="210-213" text="box" lemma="box"/>
+            <token xml:space="preserve" id="stt_8" POS="VBG" charOffset="214-224" text="containing" lemma="contain"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="225-229" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="230-235" text="Pax-5" lemma="pax-5"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="235-236" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="VBG" charOffset="237-245" text="encoding" lemma="encode"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="246-249" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="250-251" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="252-256" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="257-265" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="266-279" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="280-286" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="287-291" text="BSAP" lemma="bsap"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="291-292" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="VBZ" charOffset="293-296" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_22" POS="VBN" charOffset="297-301" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="302-307" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_24" POS="TO" charOffset="308-310" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_25" POS="VB" charOffset="311-315" text="play" lemma="play"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="316-317" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="318-321" text="key" lemma="key"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="322-326" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="327-329" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="330-335" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="336-337" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="338-351" text="lymphopoiesis" lemma="lymphopoiesis"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="351-352" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP
+            (NP=H (DT this) (NN=H manner))
+            (, ,)
+            (NP
+            (NP=H (DT the) (JJ paired) (NN=H box))
+            (VP (VBG=H containing)
+            (NP (NN gene) (NN=H Pax-5))))))
+            (, ,)
+            (S
+            (VP=H (VBG=H encoding)
+            (S
+            (NP=H (DT the) (NN B) (NN=H cell))
+            (NP (JJ specific) (NN transcription) (NN factor) (NN=H BSAP)))))
+            (, ,)
+            (VP=H (VBZ=H has)
+            (VP (VBN=H been)
+            (VP (VBN=H shown)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H play)
+            (NP (DT a) (JJ key) (NN=H role))
+            (PP (IN=H in)
+            (NP (JJ early) (NN B) (NN=H lymphopoiesis)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="353-560" id="S4">
+        <text xml:space="preserve">Other experimental strategies have implicated BSAP in the control of cell proliferation, isotype switching and transcription of the immunoglobulin heavy-chain gene at late stages of B-cell differentiation. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="353-358" text="Other" lemma="other"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="359-371" text="experimental" lemma="experimental"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="372-382" text="strategies" lemma="strategy"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="383-387" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="388-398" text="implicated" lemma="implicate"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="399-403" text="BSAP" lemma="bsap"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="404-406" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="407-410" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="411-418" text="control" lemma="control"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="419-421" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="422-426" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="427-440" text="proliferation" lemma="proliferation"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="440-441" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="442-449" text="isotype" lemma="isotype"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="450-459" text="switching" lemma="switching"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="460-463" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="464-477" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="478-480" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="481-484" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="485-499" text="immunoglobulin" lemma="immunoglobulin"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="500-511" text="heavy-chain" lemma="heavy-chain"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="512-516" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="517-519" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="520-524" text="late" lemma="late"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="525-531" text="stages" lemma="stage"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="532-534" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="535-541" text="B-cell" lemma="b-cell"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="542-557" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="557-558" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Other) (JJ experimental) (NNS=H strategies))
+            (VP=H (VBP=H have)
+            (VP (VBN=H implicated)
+            (NP (NN=H BSAP))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H control))
+            (PP (IN=H of)
+            (NP (NN cell) (NN=H proliferation)))))
+            (, ,)
+            (NP
+            (NP=H (NN isotype) (NN=H switching)
+            (CC and)
+            (NN transcription))
+            (PP (IN=H of)
+            (NP (DT the) (NN immunoglobulin) (JJ heavy-chain) (NN=H gene))))
+            (PP (IN=H at)
+            (NP
+            (NP=H (JJ late) (NNS=H stages))
+            (PP (IN=H of)
+            (NP (NN B-cell) (NN=H differentiation)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="12-16" headOffset="12-16" text="BSAP"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="18-23" headOffset="18-23" text="Pax-5"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="230-235" headOffset="230-235" text="Pax-5"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="250-286" headOffset="280-286" text="B cell specific transcription factor"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="287-291" headOffset="287-291" text="BSAP"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="399-403" headOffset="399-403" text="BSAP"/>
+</document>

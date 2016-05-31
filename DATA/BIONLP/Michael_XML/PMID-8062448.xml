@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8062448">
+    <text xml:space="preserve">Superantigens activate HIV-1 gene expression in monocytic cells. 
+Binding of superantigens to MHC class II molecules results in transduction of biochemical signals leading to cellular activation and gene expression. We demonstrate that the staphylococcal superantigens toxic shock syndrome toxin-1 (TSST-1) and staphylococcal enterotoxin A (SEA) activate HIV-1-LTR-driven transcription of chloramphenicol acetyl transferase in the human monocytic cell line THP-1. Induction of HIV-1-LTR-driven transcription in THP-1 cells by superantigens was associated with the induction of nuclear factor-kappa B DNA-binding activity. Superantigens also increased viral protein secretion from the granulocyte-macrophage colony-stimulating factor-pretreated chronically infected human monocytic cell line U1. Induction of HIV-1 gene expression in monocytic cells by superantigens occurred via tumor necrosis factor-alpha-dependent and -independent mechanisms. Our results suggest that superantigens and other MHC class II ligands may activate HIV-1 gene expression in monocytes/macrophages. 
+</text>
+    <sentence charOffset="0-66" id="S1">
+        <text xml:space="preserve">Superantigens activate HIV-1 gene expression in monocytic cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="0-13" text="Superantigens" lemma="superantigen"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="14-22" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="23-28" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="29-33" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="34-44" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="45-47" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="48-57" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="58-63" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="." charOffset="63-64" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NNS=H Superantigens))
+            (VP=H (VBP=H activate)
+            (NP
+            (NP=H (NN HIV-1) (NN gene) (NN=H expression))
+            (PP (IN=H in)
+            (NP (JJ monocytic) (NNS=H cells)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="66-216" id="S2">
+        <text xml:space="preserve">Binding of superantigens to MHC class II molecules results in transduction of biochemical signals leading to cellular activation and gene expression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="66-73" text="Binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="74-76" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="77-90" text="superantigens" lemma="superantigen"/>
+            <token xml:space="preserve" id="stt_4" POS="TO" charOffset="91-93" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="94-97" text="MHC" lemma="mhc"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="98-103" text="class" lemma="class"/>
+            <token xml:space="preserve" id="stt_7" POS="CD" charOffset="104-106" text="II" lemma="ii"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="107-116" text="molecules" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="117-124" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="125-127" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="128-140" text="transduction" lemma="transduction"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="141-143" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="144-155" text="biochemical" lemma="biochemical"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="156-163" text="signals" lemma="signal"/>
+            <token xml:space="preserve" id="stt_15" POS="VBG" charOffset="164-171" text="leading" lemma="lead"/>
+            <token xml:space="preserve" id="stt_16" POS="TO" charOffset="172-174" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="175-183" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="184-194" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="195-198" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="199-203" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="204-214" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="214-215" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Binding))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H superantigens))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN MHC) (NN=H class))
+            (NP (CD II) (NNS=H molecules)))))))
+            (VP=H (VBZ=H results)
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H transduction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ biochemical) (NNS=H signals))
+            (VP (VBG=H leading)
+            (PP (TO=H to)
+            (NP (JJ cellular) (NN activation)
+            (CC and)
+            (NN gene) (NN=H expression)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="216-464" id="S3">
+        <text xml:space="preserve">We demonstrate that the staphylococcal superantigens toxic shock syndrome toxin-1 (TSST-1) and staphylococcal enterotoxin A (SEA) activate HIV-1-LTR-driven transcription of chloramphenicol acetyl transferase in the human monocytic cell line THP-1. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="216-218" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="219-230" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="231-235" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="236-239" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="240-254" text="staphylococcal" lemma="staphylococcal"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="255-268" text="superantigens" lemma="superantigen"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="269-274" text="toxic" lemma="toxic"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="275-280" text="shock" lemma="shock"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="281-289" text="syndrome" lemma="syndrome"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="290-297" text="toxin-1" lemma="toxin-1"/>
+            <token xml:space="preserve" id="stt_11" POS="-LRB-" charOffset="298-299" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="299-305" text="TSST-1" lemma="tsst-1"/>
+            <token xml:space="preserve" id="stt_13" POS="-RRB-" charOffset="305-306" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="307-310" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="311-325" text="staphylococcal" lemma="staphylococcal"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="326-337" text="enterotoxin" lemma="enterotoxin"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="338-339" text="A" lemma="a"/>
+            <token xml:space="preserve" id="stt_18" POS="-LRB-" charOffset="340-341" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="341-344" text="SEA" lemma="sea"/>
+            <token xml:space="preserve" id="stt_20" POS="-RRB-" charOffset="344-345" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_21" POS="VBP" charOffset="346-354" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="355-371" text="HIV-1-LTR-driven" lemma="hiv-1-ltr-driven"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="372-385" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="386-388" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="389-404" text="chloramphenicol" lemma="chloramphenicol"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="405-411" text="acetyl" lemma="acetyl"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="412-423" text="transferase" lemma="transferase"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="424-426" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="427-430" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="431-436" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="437-446" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="447-451" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="452-456" text="line" lemma="line"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="457-462" text="THP-1" lemma="thp-1"/>
+            <token xml:space="preserve" id="stt_35" POS="." charOffset="462-463" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H
+            (NP=H (DT the)
+            (ADJP
+            (NP (JJ staphylococcal) (NNS=H superantigens))
+            (JJ=H toxic))
+            (NN shock) (NN syndrome) (NN=H toxin-1))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H TSST-1))
+            (-RRB- -RRB-)))
+            (CC and)
+            (NP
+            (NP=H (JJ staphylococcal) (NN enterotoxin) (NN=H A))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H SEA))
+            (-RRB- -RRB-))))
+            (VP=H (VBP=H activate)
+            (NP
+            (NP=H (JJ HIV-1-LTR-driven) (NN=H transcription))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN chloramphenicol) (NN acetyl) (NN=H transferase))
+            (PP (IN=H in)
+            (NP (DT the) (JJ human) (JJ monocytic) (NN cell) (NN line) (NN=H THP-1))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="464-622" id="S4">
+        <text xml:space="preserve">Induction of HIV-1-LTR-driven transcription in THP-1 cells by superantigens was associated with the induction of nuclear factor-kappa B DNA-binding activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="464-473" text="Induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="474-476" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="477-493" text="HIV-1-LTR-driven" lemma="hiv-1-ltr-driven"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="494-507" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="508-510" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="511-516" text="THP-1" lemma="thp-1"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="517-522" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="523-525" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="526-539" text="superantigens" lemma="superantigen"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="540-543" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="544-554" text="associated" lemma="associate"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="555-559" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="560-563" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="564-573" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="574-576" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="577-584" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="585-597" text="factor-kappa" lemma="factor-kappa"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="598-599" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="600-611" text="DNA-binding" lemma="dna-binding"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="612-620" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="620-621" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ HIV-1-LTR-driven) (NN=H transcription))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN THP-1) (NNS=H cells))
+            (PP (IN=H by)
+            (NP (NNS=H superantigens))))))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H associated)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT the) (NN=H induction))
+            (PP (IN=H of)
+            (NP (JJ nuclear) (NN factor-kappa) (NN=H B)))))
+            (NP-TMP (JJ DNA-binding) (NN=H activity))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="622-795" id="S5">
+        <text xml:space="preserve">Superantigens also increased viral protein secretion from the granulocyte-macrophage colony-stimulating factor-pretreated chronically infected human monocytic cell line U1. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="622-635" text="Superantigens" lemma="superantigen"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="636-640" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="641-650" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="651-656" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="657-664" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="665-674" text="secretion" lemma="secretion"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="675-679" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="680-683" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="684-706" text="granulocyte-macrophage" lemma="granulocyte-macrophage"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="707-725" text="colony-stimulating" lemma="colony-stimulating"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="726-743" text="factor-pretreated" lemma="factor-pretreated"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="744-755" text="chronically" lemma="chronically"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="756-764" text="infected" lemma="infected"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="765-770" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="771-780" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="781-785" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="786-790" text="line" lemma="line"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="791-793" text="U1" lemma="u1"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="793-794" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NNS=H Superantigens))
+            (ADVP (RB=H also))
+            (VP=H (VBD=H increased)
+            (NP (JJ viral) (NN protein) (NN=H secretion))
+            (PP (IN=H from)
+            (NP (DT the) (JJ granulocyte-macrophage) (JJ colony-stimulating) (JJ factor-pretreated)
+            (ADJP (RB chronically) (JJ=H infected))
+            (ADJP (JJ=H human))
+            (JJ monocytic) (NN cell) (NN line) (NN=H U1))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="795-946" id="S6">
+        <text xml:space="preserve">Induction of HIV-1 gene expression in monocytic cells by superantigens occurred via tumor necrosis factor-alpha-dependent and -independent mechanisms. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="795-804" text="Induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="805-807" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="808-813" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="814-818" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="819-829" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="830-832" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="833-842" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="843-848" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="849-851" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="852-865" text="superantigens" lemma="superantigen"/>
+            <token xml:space="preserve" id="stt_11" POS="VBD" charOffset="866-874" text="occurred" lemma="occur"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="875-878" text="via" lemma="via"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="879-884" text="tumor" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="885-893" text="necrosis" lemma="necrosis"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="894-916" text="factor-alpha-dependent" lemma="factor-alpha-dependent"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="917-920" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS=":" charOffset="921-922" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="922-933" text="independent" lemma="independent"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="934-944" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="944-945" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN HIV-1) (NN gene) (NN=H expression))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ monocytic) (NNS=H cells))
+            (PP (IN=H by)
+            (NP (NNS=H superantigens))))))))
+            (VP=H (VBD=H occurred)
+            (PP (IN=H via)
+            (NP (NN tumor) (NN=H necrosis)))
+            (NP
+            (NP=H (JJ=H factor-alpha-dependent))
+            (CC and)
+            (PRN (: -)
+            (NP=H (JJ=H independent)))
+            (NP (NNS=H mechanisms))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="946-1078" id="S7">
+        <text xml:space="preserve">Our results suggest that superantigens and other MHC class II ligands may activate HIV-1 gene expression in monocytes/macrophages. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP$" charOffset="946-949" text="Our" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="950-957" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="958-965" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="966-970" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="971-984" text="superantigens" lemma="superantigen"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="985-988" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="989-994" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="995-998" text="MHC" lemma="mhc"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="999-1004" text="class" lemma="class"/>
+            <token xml:space="preserve" id="stt_10" POS="CD" charOffset="1005-1007" text="II" lemma="ii"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="1008-1015" text="ligands" lemma="ligand"/>
+            <token xml:space="preserve" id="stt_12" POS="MD" charOffset="1016-1019" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_13" POS="VB" charOffset="1020-1028" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1029-1034" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1035-1039" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1040-1050" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1051-1053" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="1054-1075" text="monocytes/macrophages" lemma="monocytes/macrophages"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="1075-1076" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP$ Our) (NNS=H results))
+            (VP=H (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NNS=H superantigens))
+            (CC and)
+            (NP
+            (NP=H (JJ other) (NN MHC) (NN=H class))
+            (NP (CD II) (NNS=H ligands))))
+            (VP=H (MD=H may)
+            (VP (VB=H activate)
+            (NP
+            (NP=H (NN HIV-1) (NN gene) (NN=H expression))
+            (PP (IN=H in)
+            (NP (NNS=H monocytes/macrophages)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="269-297" headOffset="290-297" text="toxic shock syndrome toxin-1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="299-305" headOffset="299-305" text="TSST-1"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="311-339" headOffset="338-339" text="staphylococcal enterotoxin A"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="341-344" headOffset="341-344" text="SEA"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="389-423" headOffset="412-423" text="chloramphenicol acetyl transferase"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="684-732" headOffset="726-732" text="granulocyte-macrophage colony-stimulating factor"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="879-906" headOffset="894-906" text="tumor necrosis factor-alpha"/>
+</document>

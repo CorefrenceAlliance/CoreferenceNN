@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8077662">
+    <text xml:space="preserve">Induction of IL-8 expression in T cells uses the CD28 costimulatory pathway. 
+IL-8, a potent chemotactic factor for neutrophil granulocytes and lymphocytes, is a proinflammatory cytokine secreted by a variety of cell types, including T cells. Stimulation of the CD28 cell surface molecule delivers costimulatory signals essential for lymphokine production in activated T cells via a conserved sequence element found in the promoter of several lymphokine genes. Anti-CD28-stimulated T cells produced significant amounts of IL-8; additionally, costimulation with anti-CD3 and anti-CD28 Abs resulted in a synergistic induction of IL-8 secretion. Sequence homology, single nucleotide mutations, and anti-CD28 Ab stimulation studies established that the NF-kappa B-like sequence in the promoter of the IL-8 gene functioned as a CD28 response element. Furthermore, cyclosporin A, but not rapamycin, blocked the synergistic induction of IL-8 expression achieved with anti-CD3 and anti-CD28 costimulation. The involvement of a CD28 response element in the induction of IL-8 expression in activated T cells may provide new insights into the pathogenesis and persistence of immune disorders characterized by increased levels of IL-8, such as psoriasis and rheumatoid arthritis. 
+</text>
+    <sentence charOffset="0-78" id="S1">
+        <text xml:space="preserve">Induction of IL-8 expression in T cells uses the CD28 costimulatory pathway. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-9" text="Induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="10-12" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="13-17" text="IL-8" lemma="il-8"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="18-28" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="29-31" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="32-33" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="34-39" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="40-44" text="uses" lemma="use"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="45-48" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="49-53" text="CD28" lemma="cd28"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="54-67" text="costimulatory" lemma="costimulatory"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="68-75" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="75-76" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN IL-8) (NN=H expression))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells))))))
+            (VP=H (VBZ=H uses)
+            (NP (DT the) (NN CD28) (JJ costimulatory) (NN=H pathway)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="78-243" id="S2">
+        <text xml:space="preserve">IL-8, a potent chemotactic factor for neutrophil granulocytes and lymphocytes, is a proinflammatory cytokine secreted by a variety of cell types, including T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="78-82" text="IL-8" lemma="il-8"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="82-83" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="84-85" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="86-92" text="potent" lemma="potent"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="93-104" text="chemotactic" lemma="chemotactic"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="105-111" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="112-115" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="116-126" text="neutrophil" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="127-139" text="granulocytes" lemma="granulocyte"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="140-143" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="144-155" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="155-156" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="157-159" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="160-161" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="162-177" text="proinflammatory" lemma="proinflammatory"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="178-186" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="187-195" text="secreted" lemma="secrete"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="196-198" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="199-200" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="201-208" text="variety" lemma="variety"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="209-211" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="212-216" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="217-222" text="types" lemma="type"/>
+            <token xml:space="preserve" id="stt_24" POS="," charOffset="222-223" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_25" POS="VBG" charOffset="224-233" text="including" lemma="include"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="234-235" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="236-241" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="241-242" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H IL-8))
+            (, ,)
+            (NP
+            (NP=H (DT a) (JJ potent) (JJ chemotactic) (NN=H factor))
+            (PP (IN=H for)
+            (NP (NN neutrophil) (NNS=H granulocytes)
+            (CC and)
+            (NNS lymphocytes))))
+            (, ,))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (JJ proinflammatory) (NN=H cytokine))
+            (VP (VBN=H secreted)
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT a) (NN=H variety))
+            (PP (IN=H of)
+            (NP (NN cell) (NNS=H types)))
+            (, ,)
+            (PP (VBG=H including)
+            (NP (NN T) (NNS=H cells))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="243-461" id="S3">
+        <text xml:space="preserve">Stimulation of the CD28 cell surface molecule delivers costimulatory signals essential for lymphokine production in activated T cells via a conserved sequence element found in the promoter of several lymphokine genes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="243-254" text="Stimulation" lemma="stimulation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="255-257" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="258-261" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="262-266" text="CD28" lemma="cd28"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="267-271" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="272-279" text="surface" lemma="surface"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="280-288" text="molecule" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="289-297" text="delivers" lemma="deliver"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="298-311" text="costimulatory" lemma="costimulatory"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="312-319" text="signals" lemma="signal"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="320-329" text="essential" lemma="essential"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="330-333" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="334-344" text="lymphokine" lemma="lymphokine"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="345-355" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="356-358" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="359-368" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="369-370" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="371-376" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="377-380" text="via" lemma="via"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="381-382" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_21" POS="VBN" charOffset="383-392" text="conserved" lemma="conserve"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="393-401" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="402-409" text="element" lemma="element"/>
+            <token xml:space="preserve" id="stt_24" POS="VBN" charOffset="410-415" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="416-418" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="419-422" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="423-431" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="432-434" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="435-442" text="several" lemma="several"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="443-453" text="lymphokine" lemma="lymphokine"/>
+            <token xml:space="preserve" id="stt_31" POS="NNS" charOffset="454-459" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="459-460" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Stimulation))
+            (PP (IN=H of)
+            (NP (DT the) (NN CD28) (NN cell) (NN surface) (NN=H molecule))))
+            (VP=H (VBZ=H delivers)
+            (S
+            (NP (JJ costimulatory) (NNS=H signals))
+            (ADJP=H (JJ=H essential)
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN lymphokine) (NN=H production))
+            (PP (IN=H in)
+            (NP
+            (NP=H (VBN activated) (NN T) (NNS=H cells))
+            (PP (IN=H via)
+            (NP
+            (NP=H (DT=H a))
+            (VP (VBN=H conserved)
+            (NP
+            (NP=H (NN sequence) (NN=H element))
+            (VP (VBN=H found)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H promoter))
+            (PP (IN=H of)
+            (NP (JJ several) (NN lymphokine) (NNS=H genes)))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="461-643" id="S4">
+        <text xml:space="preserve">Anti-CD28-stimulated T cells produced significant amounts of IL-8; additionally, costimulation with anti-CD3 and anti-CD28 Abs resulted in a synergistic induction of IL-8 secretion. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="461-481" text="Anti-CD28-stimulated" lemma="anti-cd28-stimulated"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="482-483" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="484-489" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="490-498" text="produced" lemma="produce"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="499-510" text="significant" lemma="significant"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="511-518" text="amounts" lemma="amount"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="519-521" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="522-526" text="IL-8" lemma="il-8"/>
+            <token xml:space="preserve" id="stt_9" POS=":" charOffset="526-527" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="528-540" text="additionally" lemma="additionally"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="540-541" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="542-555" text="costimulation" lemma="costimulation"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="556-560" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="561-569" text="anti-CD3" lemma="anti-cd3"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="570-573" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="574-583" text="anti-CD28" lemma="anti-cd28"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="584-587" text="Abs" lemma="ab"/>
+            <token xml:space="preserve" id="stt_18" POS="VBD" charOffset="588-596" text="resulted" lemma="result"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="597-599" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="600-601" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="602-613" text="synergistic" lemma="synergistic"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="614-623" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="624-626" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="627-631" text="IL-8" lemma="il-8"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="632-641" text="secretion" lemma="secretion"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="641-642" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (JJ Anti-CD28-stimulated) (NN T) (NNS=H cells))
+            (VP=H (VBD=H produced)
+            (NP
+            (NP=H (JJ significant) (NNS=H amounts))
+            (PP (IN=H of)
+            (NP (NN=H IL-8))))))
+            (: ;)
+            (S
+            (ADVP (RB=H additionally))
+            (, ,)
+            (NP
+            (NP=H (NN=H costimulation))
+            (PP (IN=H with)
+            (NP (JJ anti-CD3)
+            (CC and)
+            (JJ anti-CD28) (NNS=H Abs))))
+            (VP=H (VBD=H resulted)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT a) (JJ synergistic) (NN=H induction))
+            (PP (IN=H of)
+            (NP (NN IL-8) (NN=H secretion)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="643-846" id="S5">
+        <text xml:space="preserve">Sequence homology, single nucleotide mutations, and anti-CD28 Ab stimulation studies established that the NF-kappa B-like sequence in the promoter of the IL-8 gene functioned as a CD28 response element. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="643-651" text="Sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="652-660" text="homology" lemma="homology"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="660-661" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="662-668" text="single" lemma="single"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="669-679" text="nucleotide" lemma="nucleotide"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="680-689" text="mutations" lemma="mutation"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="689-690" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="691-694" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="695-704" text="anti-CD28" lemma="anti-cd28"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="705-707" text="Ab" lemma="ab"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="708-719" text="stimulation" lemma="stimulation"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="720-727" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="728-739" text="established" lemma="establish"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="740-744" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="745-748" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="749-757" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="758-764" text="B-like" lemma="b-like"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="765-773" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="774-776" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="777-780" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="781-789" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="790-792" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="793-796" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="797-801" text="IL-8" lemma="il-8"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="802-806" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_26" POS="VBD" charOffset="807-817" text="functioned" lemma="function"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="818-820" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_28" POS="DT" charOffset="821-822" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="823-827" text="CD28" lemma="cd28"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="828-836" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="837-844" text="element" lemma="element"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="844-845" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN Sequence) (NN=H homology))
+            (, ,)
+            (NP (JJ single) (NN nucleotide) (NNS=H mutations))
+            (, ,)
+            (CC and)
+            (NP (JJ anti-CD28) (NN Ab) (NN stimulation) (NNS=H studies)))
+            (VP=H (VBD=H established)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (NN NF-kappa) (JJ B-like) (NN=H sequence))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H promoter))
+            (PP (IN=H of)
+            (NP (DT the) (NN IL-8) (NN=H gene))))))
+            (VP=H (VBD=H functioned)
+            (PP (IN=H as)
+            (NP (DT a) (NN CD28) (NN response) (NN=H element)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="846-998" id="S6">
+        <text xml:space="preserve">Furthermore, cyclosporin A, but not rapamycin, blocked the synergistic induction of IL-8 expression achieved with anti-CD3 and anti-CD28 costimulation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="846-857" text="Furthermore" lemma="furthermore"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="857-858" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="859-870" text="cyclosporin" lemma="cyclosporin"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="871-872" text="A" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="872-873" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="874-877" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="878-881" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="882-891" text="rapamycin" lemma="rapamycin"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="891-892" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="893-900" text="blocked" lemma="block"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="901-904" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="905-916" text="synergistic" lemma="synergistic"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="917-926" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="927-929" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="930-934" text="IL-8" lemma="il-8"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="935-945" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="946-954" text="achieved" lemma="achieve"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="955-959" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="960-968" text="anti-CD3" lemma="anti-cd3"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="969-972" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="973-982" text="anti-CD28" lemma="anti-cd28"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="983-996" text="costimulation" lemma="costimulation"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="996-997" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Furthermore))
+            (, ,)
+            (NP
+            (NP=H (NN cyclosporin) (NN=H A))
+            (, ,)
+            (CONJP (CC=H but)
+            (RB not))
+            (NP (NN=H rapamycin))
+            (, ,))
+            (VP=H (VBD=H blocked)
+            (NP
+            (NP=H (DT the) (JJ synergistic) (NN=H induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN IL-8) (NN=H expression))
+            (VP (VBN=H achieved)
+            (PP (IN=H with)
+            (NP
+            (ADJP (JJ=H anti-CD3)
+            (CC and)
+            (JJ anti-CD28))
+            (NN=H costimulation))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="998-1269" id="S7">
+        <text xml:space="preserve">The involvement of a CD28 response element in the induction of IL-8 expression in activated T cells may provide new insights into the pathogenesis and persistence of immune disorders characterized by increased levels of IL-8, such as psoriasis and rheumatoid arthritis. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="998-1001" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1002-1013" text="involvement" lemma="involvement"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1014-1016" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="1017-1018" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1019-1023" text="CD28" lemma="cd28"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1024-1032" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1033-1040" text="element" lemma="element"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1041-1043" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="1044-1047" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1048-1057" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1058-1060" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1061-1065" text="IL-8" lemma="il-8"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1066-1076" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1077-1079" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="1080-1089" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1090-1091" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="1092-1097" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="MD" charOffset="1098-1101" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_19" POS="VB" charOffset="1102-1109" text="provide" lemma="provide"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="1110-1113" text="new" lemma="new"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="1114-1122" text="insights" lemma="insight"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1123-1127" text="into" lemma="into"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="1128-1131" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1132-1144" text="pathogenesis" lemma="pathogenesis"/>
+            <token xml:space="preserve" id="stt_25" POS="CC" charOffset="1145-1148" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1149-1160" text="persistence" lemma="persistence"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1161-1163" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="1164-1170" text="immune" lemma="immune"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="1171-1180" text="disorders" lemma="disorder"/>
+            <token xml:space="preserve" id="stt_30" POS="VBN" charOffset="1181-1194" text="characterized" lemma="characterize"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="1195-1197" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_32" POS="VBN" charOffset="1198-1207" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_33" POS="NNS" charOffset="1208-1214" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="1215-1217" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1218-1222" text="IL-8" lemma="il-8"/>
+            <token xml:space="preserve" id="stt_36" POS="," charOffset="1222-1223" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_37" POS="JJ" charOffset="1224-1228" text="such" lemma="such"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="1229-1231" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="1232-1241" text="psoriasis" lemma="psoriasis"/>
+            <token xml:space="preserve" id="stt_40" POS="CC" charOffset="1242-1245" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_41" POS="JJ" charOffset="1246-1256" text="rheumatoid" lemma="rheumatoid"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="1257-1266" text="arthritis" lemma="arthritis"/>
+            <token xml:space="preserve" id="stt_43" POS="." charOffset="1266-1267" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H involvement))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a) (NN CD28) (NN response) (NN=H element))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN IL-8) (NN=H expression))
+            (PP (IN=H in)
+            (NP (VBN activated) (NN T) (NNS=H cells))))))))))
+            (VP=H (MD=H may)
+            (VP (VB=H provide)
+            (NP (JJ new) (NNS=H insights))
+            (PP (IN=H into)
+            (NP
+            (NP=H (DT the) (NN=H pathogenesis)
+            (CC and)
+            (NN persistence))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ immune) (NNS=H disorders))
+            (VP (VBN=H characterized)
+            (PP (IN=H by)
+            (NP
+            (NP=H (VBN increased) (NNS=H levels))
+            (PP (IN=H of)
+            (NP (NN=H IL-8))))))
+            (, ,)
+            (PP (JJ such) (IN=H as)
+            (NP
+            (NP=H (NN=H psoriasis))
+            (CC and)
+            (NP (JJ rheumatoid) (NN=H arthritis))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="13-17" headOffset="13-17" text="IL-8"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="49-53" headOffset="49-53" text="CD28"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="78-82" headOffset="78-82" text="IL-8"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="262-266" headOffset="262-266" text="CD28"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="466-470" headOffset="466-470" text="CD28"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="522-526" headOffset="522-526" text="IL-8"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="579-583" headOffset="579-583" text="CD28"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="627-631" headOffset="627-631" text="IL-8"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="700-704" headOffset="700-704" text="CD28"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="797-801" headOffset="797-801" text="IL-8"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="823-827" headOffset="823-827" text="CD28"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="930-934" headOffset="930-934" text="IL-8"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="978-982" headOffset="978-982" text="CD28"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1019-1023" headOffset="1019-1023" text="CD28"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1061-1065" headOffset="1061-1065" text="IL-8"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="1218-1222" headOffset="1218-1222" text="IL-8"/>
+</document>

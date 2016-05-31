@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8566023">
+    <text xml:space="preserve">Identification of an ionomycin/cyclosporin A-responsive element within the human T cell receptor gamma enhancer. 
+Activation through the Ca2+/calcineurin pathway is essential to the transcription of many cytokine genes. The conserved cis-acting sequence, GGAAAA, and transcription factors binding to this sequence are involved in the response to increased intracellular Ca2+ concentrations. Here we report the identification and importance of the same sequence in a non-cytokine gene, the human T cell receptor gamma (TCRG) enhancer. Results from site-directed mutations and electrophoretic mobility shift assays strongly suggest that this sequence mediates the ionomycin-induced activation of the TCRG enhancer. Our studies provide an explanation for a previous observation that TCRG mRNA levels, but not mRNA levels for T cell receptor alpha and -beta, are increased by ionomycin treatment. 
+</text>
+    <sentence charOffset="0-114" id="S1">
+        <text xml:space="preserve">Identification of an ionomycin/cyclosporin A-responsive element within the human T cell receptor gamma enhancer. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-14" text="Identification" lemma="identification"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="15-17" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="18-20" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="21-42" text="ionomycin/cyclosporin" lemma="ionomycin/cyclosporin"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="43-55" text="A-responsive" lemma="a-responsive"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="56-63" text="element" lemma="element"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="64-70" text="within" lemma="within"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="71-74" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="75-80" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="81-82" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="83-87" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="88-96" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="97-102" text="gamma" lemma="gamma"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="103-111" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="111-112" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Identification))
+            (PP (IN=H of)
+            (NP (DT an) (NN ionomycin/cyclosporin) (JJ A-responsive) (NN=H element)))
+            (PP (IN=H within)
+            (NP (DT the) (JJ human) (NN T) (NN cell) (NN receptor) (NN gamma) (NN=H enhancer)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="114-220" id="S2">
+        <text xml:space="preserve">Activation through the Ca2+/calcineurin pathway is essential to the transcription of many cytokine genes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="114-124" text="Activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="125-132" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="133-136" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="137-140" text="Ca2" lemma="ca2"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="140-141" text="+" lemma="+"/>
+            <token xml:space="preserve" id="stt_6" POS=":" charOffset="141-142" text="/" lemma="/"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="142-153" text="calcineurin" lemma="calcineurin"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="154-161" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="162-164" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="165-174" text="essential" lemma="essential"/>
+            <token xml:space="preserve" id="stt_11" POS="TO" charOffset="175-177" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="178-181" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="182-195" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="196-198" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="199-203" text="many" lemma="many"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="204-212" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="213-218" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="218-219" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (FRAG=H
+            (NP
+            (NP=H (NN=H Activation))
+            (PP (IN=H through)
+            (NP
+            (NP=H (DT the) (NN=H Ca2))
+            (SBAR
+            (S=H
+            (NP=H (CC=H +)))))))
+            (: /)
+            (S=H
+            (NP (NN calcineurin) (NN=H pathway))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H essential)
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT the) (NN=H transcription))
+            (PP (IN=H of)
+            (NP (JJ many) (NN cytokine) (NNS=H genes))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="220-391" id="S3">
+        <text xml:space="preserve">The conserved cis-acting sequence, GGAAAA, and transcription factors binding to this sequence are involved in the response to increased intracellular Ca2+ concentrations. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="220-223" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="VBN" charOffset="224-233" text="conserved" lemma="conserve"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="234-244" text="cis-acting" lemma="cis-acting"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="245-253" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="253-254" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="255-261" text="GGAAAA" lemma="ggaaaa"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="261-262" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="263-266" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="267-280" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="281-288" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_11" POS="VBG" charOffset="289-296" text="binding" lemma="bind"/>
+            <token xml:space="preserve" id="stt_12" POS="TO" charOffset="297-299" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="300-304" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="305-313" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_15" POS="VBP" charOffset="314-317" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="318-326" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="327-329" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="330-333" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="334-342" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_20" POS="TO" charOffset="343-345" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_21" POS="VBN" charOffset="346-355" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="356-369" text="intracellular" lemma="intracellular"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="370-373" text="Ca2" lemma="ca2"/>
+            <token xml:space="preserve" id="stt_24" POS="CC" charOffset="373-374" text="+" lemma="+"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="375-389" text="concentrations" lemma="concentration"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="389-390" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT=H The))
+            (VP (VBN=H conserved)
+            (NP
+            (NP=H (JJ cis-acting) (NN=H sequence))
+            (, ,)
+            (NP (NN=H GGAAAA))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (NN transcription) (NNS=H factors))
+            (PP
+            (NP (VBG=H binding))
+            (PP=H (TO=H to)
+            (NP (DT this) (NN=H sequence))))))))
+            (VP=H (VBP=H are)
+            (VP (VBN=H involved)
+            (PP (IN=H in)
+            (NP (DT the) (NN=H response)))
+            (S
+            (VP=H (TO=H to)
+            (VP (VBN=H increased)
+            (NP
+            (NP=H (JJ intracellular) (NN=H Ca2))
+            (CC +)
+            (NP (NNS=H concentrations))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="391-534" id="S4">
+        <text xml:space="preserve">Here we report the identification and importance of the same sequence in a non-cytokine gene, the human T cell receptor gamma (TCRG) enhancer. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="391-395" text="Here" lemma="here"/>
+            <token xml:space="preserve" id="stt_2" POS="PRP" charOffset="396-398" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="399-405" text="report" lemma="report"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="406-409" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="410-424" text="identification" lemma="identification"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="425-428" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="429-439" text="importance" lemma="importance"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="440-442" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="443-446" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="447-451" text="same" lemma="same"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="452-460" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="461-463" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="464-465" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="466-478" text="non-cytokine" lemma="non-cytokine"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="479-483" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="483-484" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="485-488" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="489-494" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="495-496" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="497-501" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="502-510" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="511-516" text="gamma" lemma="gamma"/>
+            <token xml:space="preserve" id="stt_23" POS="-LRB-" charOffset="517-518" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="518-522" text="TCRG" lemma="tcrg"/>
+            <token xml:space="preserve" id="stt_25" POS="-RRB-" charOffset="522-523" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="524-532" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="532-533" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Here))
+            (NP (PRP=H we))
+            (VP=H (VBP=H report)
+            (NP
+            (NP=H (DT the) (NN=H identification)
+            (CC and)
+            (NN importance))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (JJ same) (NN=H sequence))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT a) (JJ non-cytokine) (NN=H gene))
+            (, ,)
+            (NP (DT the) (JJ human) (NN T) (NN cell) (NN receptor) (NN=H gamma))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H TCRG))
+            (-RRB- -RRB-))
+            (NP (NN=H enhancer))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="534-713" id="S5">
+        <text xml:space="preserve">Results from site-directed mutations and electrophoretic mobility shift assays strongly suggest that this sequence mediates the ionomycin-induced activation of the TCRG enhancer. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="534-541" text="Results" lemma="result"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="542-546" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="547-560" text="site-directed" lemma="site-directed"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="561-570" text="mutations" lemma="mutation"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="571-574" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="575-590" text="electrophoretic" lemma="electrophoretic"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="591-599" text="mobility" lemma="mobility"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="600-605" text="shift" lemma="shift"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="606-612" text="assays" lemma="assay"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="613-621" text="strongly" lemma="strongly"/>
+            <token xml:space="preserve" id="stt_11" POS="VBP" charOffset="622-629" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="630-634" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="635-639" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="640-648" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="649-657" text="mediates" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="658-661" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="662-679" text="ionomycin-induced" lemma="ionomycin-induced"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="680-690" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="691-693" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="694-697" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="698-702" text="TCRG" lemma="tcrg"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="703-711" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="711-712" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NNS=H Results))
+            (PP (IN=H from)
+            (NP
+            (NP=H (JJ site-directed) (NNS=H mutations))
+            (CC and)
+            (NP (JJ electrophoretic) (NN mobility) (NN shift) (NNS=H assays)))))
+            (ADVP (RB=H strongly))
+            (VP=H (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT this) (NN=H sequence))
+            (VP=H (VBZ=H mediates)
+            (NP
+            (NP=H (DT the) (JJ ionomycin-induced) (NN=H activation))
+            (PP (IN=H of)
+            (NP (DT the) (NN TCRG) (NN=H enhancer))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="713-894" id="S6">
+        <text xml:space="preserve">Our studies provide an explanation for a previous observation that TCRG mRNA levels, but not mRNA levels for T cell receptor alpha and -beta, are increased by ionomycin treatment. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP$" charOffset="713-716" text="Our" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="717-724" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="725-732" text="provide" lemma="provide"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="733-735" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="736-747" text="explanation" lemma="explanation"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="748-751" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="752-753" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="754-762" text="previous" lemma="previous"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="763-774" text="observation" lemma="observation"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="775-779" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="780-784" text="TCRG" lemma="tcrg"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="785-789" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="790-796" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="796-797" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="798-801" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="802-805" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="806-810" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="811-817" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="818-821" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="822-823" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="824-828" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="829-837" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="838-843" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_24" POS="CC" charOffset="844-847" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_25" POS=":" charOffset="848-849" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="849-853" text="beta" lemma="beta"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="853-854" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="VBP" charOffset="855-858" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_29" POS="VBN" charOffset="859-868" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="869-871" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="872-881" text="ionomycin" lemma="ionomycin"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="882-891" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="891-892" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP$ Our) (NNS=H studies))
+            (VP=H (VBP=H provide)
+            (NP
+            (NP=H (DT an) (NN=H explanation))
+            (PP (IN=H for)
+            (NP (DT a) (JJ previous) (NN=H observation))))
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H
+            (NP=H
+            (NP=H (NN=H TCRG))
+            (NP (NN mRNA) (NNS=H levels)))
+            (, ,)
+            (CONJP (CC=H but)
+            (RB not))
+            (NP
+            (NP=H (NN mRNA) (NNS=H levels))
+            (PP (IN=H for)
+            (NP
+            (NP (NN T) (NN cell) (NN=H receptor))
+            (NX=H
+            (NX=H (NN=H alpha))
+            (CC and))))))
+            (: -)
+            (NP (NN=H beta))
+            (, ,))
+            (VP=H (VBP=H are)
+            (VP (VBN=H increased)
+            (PP (IN=H by)
+            (NP (NN ionomycin) (NN=H treatment))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T6" type="IndefiniteNP" charOffset="752-774" headOffset="763-774" text="a previous observation"/>
+    <Term xml:space="preserve" id="T7" type="RelativePronoun" charOffset="775-779" headOffset="775-779" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T7"/>
+        <Antecedent idref="T6"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="81-102" headOffset="97-102" text="T cell receptor gamma"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="495-516" headOffset="511-516" text="T cell receptor gamma"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="518-522" headOffset="518-522" text="TCRG"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="698-702" headOffset="698-702" text="TCRG"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="780-784" headOffset="780-784" text="TCRG"/>
+</document>

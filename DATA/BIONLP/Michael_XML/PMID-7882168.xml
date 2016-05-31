@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-7882168">
+    <text xml:space="preserve">HIV-1 Nef leads to inhibition or activation of T cells depending on its intracellular localization. 
+Nef of primate lentiviruses is required for viremia and progression to AIDS in monkeys. Negative, positive, and no effects of Nef have also been reported on viral replication in cells. To reconcile these observations, we expressed a hybrid CD8-Nef protein in Jurkat cells. Two opposite phenotypes were found, which depended on the intracellular localization of Nef. Expressed in the cytoplasm or on the cell surface, the chimera inhibited or activated early signaling events from the T cell antigen receptor. Activated Jurkat cells died by apoptosis, and only cells with mutated nef genes expressing truncated Nefs survived, which rendered Nef nonfunctional. These mutations paralleled those in other viral strains passaged in vitro. Not only do these positional effects of Nef reconcile diverse phenotypes of Nef and suggest a role for its N-terminal myristylation, but they also explain effects of Nef in HIV infection and progression to AIDS. 
+</text>
+    <sentence charOffset="0-101" id="S1">
+        <text xml:space="preserve">HIV-1 Nef leads to inhibition or activation of T cells depending on its intracellular localization. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-5" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="6-9" text="Nef" lemma="nef"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="10-15" text="leads" lemma="lead"/>
+            <token xml:space="preserve" id="stt_4" POS="TO" charOffset="16-18" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="19-29" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="30-32" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="33-43" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="44-46" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="47-48" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="49-54" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="VBG" charOffset="55-64" text="depending" lemma="depend"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="65-67" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_13" POS="PRP$" charOffset="68-71" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="72-85" text="intracellular" lemma="intracellular"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="86-98" text="localization" lemma="localization"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="98-99" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN HIV-1) (NN=H Nef))
+            (VP=H (VBZ=H leads)
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN=H inhibition)
+            (CC or)
+            (NN activation))
+            (PP (IN=H of)
+            (NP (NN T) (NNS=H cells)))))
+            (PP (VBG=H depending)
+            (PP (IN=H on)
+            (NP (PRP$ its) (JJ intracellular) (NN=H localization)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="101-189" id="S2">
+        <text xml:space="preserve">Nef of primate lentiviruses is required for viremia and progression to AIDS in monkeys. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="101-104" text="Nef" lemma="nef"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="105-107" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="108-115" text="primate" lemma="primate"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="116-128" text="lentiviruses" lemma="lentivirus"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="129-131" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="132-140" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="141-144" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="145-152" text="viremia" lemma="viremia"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="153-156" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="157-168" text="progression" lemma="progression"/>
+            <token xml:space="preserve" id="stt_11" POS="TO" charOffset="169-171" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="172-176" text="AIDS" lemma="aids"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="177-179" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="180-187" text="monkeys" lemma="monkey"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="187-188" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Nef))
+            (PP (IN=H of)
+            (NP (JJ primate) (NNS=H lentiviruses))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP (NN=H viremia)
+            (CC and)
+            (NN progression)))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN=H AIDS))
+            (PP (IN=H in)
+            (NP (NNS=H monkeys)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="189-286" id="S3">
+        <text xml:space="preserve">Negative, positive, and no effects of Nef have also been reported on viral replication in cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="189-197" text="Negative" lemma="negative"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="197-198" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="199-207" text="positive" lemma="positive"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="207-208" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="209-212" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="213-215" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="216-223" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="224-226" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="227-230" text="Nef" lemma="nef"/>
+            <token xml:space="preserve" id="stt_10" POS="VBP" charOffset="231-235" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_11" POS="RB" charOffset="236-240" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="241-245" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_13" POS="VBN" charOffset="246-254" text="reported" lemma="report"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="255-257" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="258-263" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="264-275" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="276-278" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="279-284" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="284-285" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ=H Negative))
+            (, ,)
+            (ADJP (JJ=H positive))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (DT no) (NNS=H effects))
+            (PP (IN=H of)
+            (NP (NN=H Nef)))))
+            (VP=H (VBP=H have)
+            (ADVP (RB=H also))
+            (VP (VBN=H been)
+            (VP (VBN=H reported)
+            (PP (IN=H on)
+            (NP
+            (NP=H (JJ viral) (NN=H replication))
+            (PP (IN=H in)
+            (NP (NNS=H cells))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="286-374" id="S4">
+        <text xml:space="preserve">To reconcile these observations, we expressed a hybrid CD8-Nef protein in Jurkat cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="286-288" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="VB" charOffset="289-298" text="reconcile" lemma="reconcile"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="299-304" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="305-317" text="observations" lemma="observation"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="317-318" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="PRP" charOffset="319-321" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="322-331" text="expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="332-333" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="334-340" text="hybrid" lemma="hybrid"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="341-348" text="CD8-Nef" lemma="cd8-nef"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="349-356" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="357-359" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="360-366" text="Jurkat" lemma="jurkat"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="367-372" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="372-373" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP (VB=H reconcile)
+            (NP (DT these) (NNS=H observations)))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H expressed)
+            (NP (DT a) (NN hybrid) (NN CD8-Nef) (NN=H protein))
+            (PP (IN=H in)
+            (NP (NN Jurkat) (NNS=H cells))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="374-467" id="S5">
+        <text xml:space="preserve">Two opposite phenotypes were found, which depended on the intracellular localization of Nef. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="CD" charOffset="374-377" text="Two" lemma="two"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="378-386" text="opposite" lemma="opposite"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="387-397" text="phenotypes" lemma="phenotype"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="398-402" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="403-408" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="408-409" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="WDT" charOffset="410-415" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="416-424" text="depended" lemma="depend"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="425-427" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="428-431" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="432-445" text="intracellular" lemma="intracellular"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="446-458" text="localization" lemma="localization"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="459-461" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="462-465" text="Nef" lemma="nef"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="465-466" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (CD Two) (JJ opposite) (NNS=H phenotypes))
+            (VP=H (VBD=H were)
+            (VP (VBN=H found) (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBD=H depended)
+            (PP (IN=H on)
+            (NP
+            (NP=H (DT the) (JJ intracellular) (NN=H localization))
+            (PP (IN=H of)
+            (NP (NN=H Nef))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="467-610" id="S6">
+        <text xml:space="preserve">Expressed in the cytoplasm or on the cell surface, the chimera inhibited or activated early signaling events from the T cell antigen receptor. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBN" charOffset="467-476" text="Expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="477-479" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="480-483" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="484-493" text="cytoplasm" lemma="cytoplasm"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="494-496" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="497-499" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="500-503" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="504-508" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="509-516" text="surface" lemma="surface"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="516-517" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="518-521" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="522-529" text="chimera" lemma="chimera"/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="530-539" text="inhibited" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="540-542" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_15" POS="VBD" charOffset="543-552" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="553-558" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="559-568" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="569-575" text="events" lemma="event"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="576-580" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="581-584" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="585-586" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="587-591" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="592-599" text="antigen" lemma="antigen"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="600-608" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="608-609" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (VBN=H Expressed)
+            (PP
+            (PP=H (IN=H in)
+            (NP (DT the) (NN=H cytoplasm)))
+            (CC or)
+            (PP (IN=H on)
+            (NP (DT the) (NN cell) (NN=H surface))))))
+            (, ,)
+            (NP (DT the) (NN=H chimera))
+            (VP=H
+            (VP=H (VBD=H inhibited))
+            (CC or)
+            (VP (VBD=H activated)
+            (NP (JJ early) (NN signaling) (NNS=H events))
+            (PP (IN=H from)
+            (NP (DT the) (NN T) (NN cell) (NN antigen) (NN=H receptor)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="610-760" id="S7">
+        <text xml:space="preserve">Activated Jurkat cells died by apoptosis, and only cells with mutated nef genes expressing truncated Nefs survived, which rendered Nef nonfunctional. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBN" charOffset="610-619" text="Activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="620-626" text="Jurkat" lemma="jurkat"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="627-632" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="633-637" text="died" lemma="die"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="638-640" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="641-650" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="650-651" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="652-655" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="656-660" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="661-666" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="667-671" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="672-679" text="mutated" lemma="mutate"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="680-683" text="nef" lemma="nef"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="684-689" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_15" POS="VBG" charOffset="690-700" text="expressing" lemma="express"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="701-710" text="truncated" lemma="truncate"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="711-715" text="Nefs" lemma="nef"/>
+            <token xml:space="preserve" id="stt_18" POS="VBD" charOffset="716-724" text="survived" lemma="survive"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="724-725" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="WDT" charOffset="726-731" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_21" POS="VBD" charOffset="732-740" text="rendered" lemma="render"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="741-744" text="Nef" lemma="nef"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="745-758" text="nonfunctional" lemma="nonfunctional"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="758-759" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (VBN=H Activated)))
+            (NP (NN Jurkat) (NNS=H cells))
+            (VP=H (VBD=H died)
+            (NP
+            (UCP
+            (PP (IN=H by)
+            (NP (NN=H apoptosis)))
+            (, ,)
+            (CC and)
+            (ADVP=H (RB=H only)))
+            (NNS=H cells))
+            (PP (IN=H with)
+            (NP
+            (NP=H (VBN mutated) (NN nef) (NNS=H genes))
+            (VP (VBG=H expressing)
+            (VP (VBN=H truncated)
+            (SBAR
+            (S=H
+            (NP (NNS=H Nefs))
+            (VP=H (VBD=H survived))))))))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBD=H rendered)
+            (S
+            (NP (NN=H Nef))
+            (ADJP=H (JJ=H nonfunctional)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="760-835" id="S8">
+        <text xml:space="preserve">These mutations paralleled those in other viral strains passaged in vitro. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="760-765" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="766-775" text="mutations" lemma="mutation"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="776-786" text="paralleled" lemma="parallel"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="787-792" text="those" lemma="those"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="793-795" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="796-801" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="802-807" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="808-815" text="strains" lemma="strain"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="816-824" text="passaged" lemma="passage"/>
+            <token xml:space="preserve" id="stt_10" POS="FW" charOffset="825-827" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="FW" charOffset="828-833" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="833-834" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H mutations))
+            (VP=H (VBD=H paralleled)
+            (NP
+            (NP=H (DT=H those))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ other) (JJ viral) (NNS=H strains))
+            (VP (VBN=H passaged)
+            (ADVP (FW in) (FW=H vitro)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="835-1048" id="S9">
+        <text xml:space="preserve">Not only do these positional effects of Nef reconcile diverse phenotypes of Nef and suggest a role for its N-terminal myristylation, but they also explain effects of Nef in HIV infection and progression to AIDS. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="835-838" text="Not" lemma="not"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="839-843" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_3" POS="VB" charOffset="844-846" text="do" lemma="do"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="847-852" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="853-863" text="positional" lemma="positional"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="864-871" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="872-874" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="875-878" text="Nef" lemma="nef"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="879-888" text="reconcile" lemma="reconcile"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="889-896" text="diverse" lemma="diverse"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="897-907" text="phenotypes" lemma="phenotype"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="908-910" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="911-914" text="Nef" lemma="nef"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="915-918" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="VBP" charOffset="919-926" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="927-928" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="929-933" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="934-937" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_19" POS="PRP$" charOffset="938-941" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="942-952" text="N-terminal" lemma="n-terminal"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="953-966" text="myristylation" lemma="myristylation"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="966-967" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="968-971" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_24" POS="PRP" charOffset="972-976" text="they" lemma="they"/>
+            <token xml:space="preserve" id="stt_25" POS="RB" charOffset="977-981" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_26" POS="VBP" charOffset="982-989" text="explain" lemma="explain"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="990-997" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="998-1000" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1001-1004" text="Nef" lemma="nef"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="1005-1007" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1008-1011" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1012-1021" text="infection" lemma="infection"/>
+            <token xml:space="preserve" id="stt_33" POS="CC" charOffset="1022-1025" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1026-1037" text="progression" lemma="progression"/>
+            <token xml:space="preserve" id="stt_35" POS="TO" charOffset="1038-1040" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_36" POS="NNP" charOffset="1041-1045" text="AIDS" lemma="AIDS"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="1045-1046" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (FRAG=H
+            (FRAG
+            (CONJP (RB Not) (RB=H only))
+            (S=H
+            (VP=H (VB=H do)
+            (S
+            (NP
+            (NP=H (DT these) (JJ positional) (NNS=H effects))
+            (PP (IN=H of)
+            (NP (NN=H Nef))))
+            (VP=H
+            (VP=H (VB=H reconcile)
+            (NP
+            (NP=H (JJ diverse) (NNS=H phenotypes))
+            (PP (IN=H of)
+            (NP (NN=H Nef)))))
+            (CC and)
+            (VP (VBP=H suggest)
+            (NP
+            (NP=H (DT a) (NN=H role))
+            (PP (IN=H for)
+            (NP (PRP$ its) (JJ N-terminal) (NN=H myristylation))))))))))
+            (, ,)
+            (CC but)
+            (S=H
+            (NP (PRP=H they))
+            (ADVP (RB=H also))
+            (VP=H (VBP=H explain)
+            (NP
+            (NP=H (NNS=H effects))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H Nef))
+            (PP (IN=H in)
+            (NP (NN HIV) (NN=H infection)
+            (CC and)
+            (NN progression))))))
+            (PP (TO=H to)
+            (NP (NNP=H AIDS)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T12" type="ZeroArticleNP" charOffset="0-9" headOffset="6-9" text="HIV-1 Nef"/>
+    <Term xml:space="preserve" id="T13" type="PossessivePronoun" charOffset="68-71" headOffset="68-71" text="its"/>
+    <Term xml:space="preserve" id="T14" type="ZeroArticleNP" charOffset="374-397" headOffset="387-397" text="Two opposite phenotypes"/>
+    <Term xml:space="preserve" id="T15" type="RelativePronoun" charOffset="410-415" headOffset="410-415" text="which"/>
+    <Term xml:space="preserve" id="T16" type="ZeroArticleNP" charOffset="656-715" headOffset="661-666" text="only cells with mutated nef genes expressing truncated Nefs"/>
+    <Term xml:space="preserve" id="T17" type="RelativePronoun" charOffset="726-731" headOffset="726-731" text="which"/>
+    <Term xml:space="preserve" id="T18" type="DemonstrativeNP" charOffset="760-775" headOffset="766-775" text="These mutations"/>
+    <Term xml:space="preserve" id="T19" type="DemonstrativePronoun" charOffset="787-792" headOffset="787-792" text="those"/>
+    <Term xml:space="preserve" id="T20" type="DemonstrativeNP" charOffset="847-878" headOffset="864-871" text="these positional effects of Nef"/>
+    <Term xml:space="preserve" id="T21" type="ZeroArticleNP" charOffset="911-914" headOffset="911-914" text="Nef"/>
+    <Term xml:space="preserve" id="T22" type="PossessivePronoun" charOffset="938-941" headOffset="938-941" text="its"/>
+    <Term xml:space="preserve" id="T23" type="PersonalPronoun" charOffset="972-976" headOffset="972-976" text="they"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T13"/>
+        <Antecedent idref="T12"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T15"/>
+        <Antecedent idref="T14"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T17"/>
+        <Antecedent idref="T16"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T19"/>
+        <Antecedent idref="T18"/>
+    </Relation>
+    <Relation id="R5" type="Anaphora">
+        <Anaphor idref="T22"/>
+        <Antecedent idref="T21"/>
+    </Relation>
+    <Relation id="R6" type="Anaphora">
+        <Anaphor idref="T23"/>
+        <Antecedent idref="T20"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="6-9" headOffset="6-9" text="Nef"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="101-104" headOffset="101-104" text="Nef"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="227-230" headOffset="227-230" text="Nef"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="345-348" headOffset="345-348" text="Nef"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="462-465" headOffset="462-465" text="Nef"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="680-683" headOffset="680-683" text="nef"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="711-714" headOffset="711-714" text="Nef"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="741-744" headOffset="741-744" text="Nef"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="875-878" headOffset="875-878" text="Nef"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="911-914" headOffset="911-914" text="Nef"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="1001-1004" headOffset="1001-1004" text="Nef"/>
+</document>

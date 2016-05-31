@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-7720085">
+    <text xml:space="preserve">Induction of transcription factors in human T lymphocytes by aspirin-like drugs. 
+Aspirin-like drugs (ALD) induce calcium mobilization, an essential component of T cell activation, but do not induce the biosynthesis of IL-2. To understand the extent to which ALD may mimic mitogenic stimulation, we studied cytoplasmic and nuclear signaling steps in ALD-treated T cells. We found that ALD induce a transient activation of protein kinase (PKC) but have no effect (in comparison to anti-CD3 antibodies) on protein tyrosine phosphorylation nor on PCL gamma 1 tyrosine phosphorylation. ALD-induced calcium mobilization and PKC activation are independent of tyrosine protein kinase activity as shown by the lack of effect of herbimycin, a tyrosine-protein kinase-specific inhibitor. Although we detected no IL-2 mRNA in ALD-treated cells, the nuclei of these cells contain proteins capable of binding to three regulatory sequences in the IL-2 promoter region: NFAT, NF kappa B, and AP-1. These binding activities are expressed only in activated T cells. The expression of AP-1 depended on calcium mobilization and PKC activation. These data suggest that ALD cause transient but significant changes in T cell transmembrane signaling, although some events induced by stimulation with anti-CD3 antibodies are not induced by ALD. The signal is transmitted to the nucleus and induces DNA-binding activity by several transcription factors. However, the ALD stimulus is not capable of causing complete T cell activation. 
+</text>
+    <sentence charOffset="0-82" id="S1">
+        <text xml:space="preserve">Induction of transcription factors in human T lymphocytes by aspirin-like drugs. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-9" text="Induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="10-12" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="13-26" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="27-34" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="35-37" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="38-43" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="44-45" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="46-57" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="58-60" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="61-73" text="aspirin-like" lemma="aspirin-like"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="74-79" text="drugs" lemma="drug"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="79-80" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Induction))
+            (PP (IN=H of)
+            (NP (NN transcription) (NNS=H factors)))
+            (PP (IN=H in)
+            (NP (JJ human) (NN T) (NNS=H lymphocytes)))
+            (PP (IN=H by)
+            (NP (JJ aspirin-like) (NNS=H drugs)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="82-225" id="S2">
+        <text xml:space="preserve">Aspirin-like drugs (ALD) induce calcium mobilization, an essential component of T cell activation, but do not induce the biosynthesis of IL-2. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="82-94" text="Aspirin-like" lemma="aspirin-like"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="95-100" text="drugs" lemma="drug"/>
+            <token xml:space="preserve" id="stt_3" POS="-LRB-" charOffset="101-102" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="102-105" text="ALD" lemma="ald"/>
+            <token xml:space="preserve" id="stt_5" POS="-RRB-" charOffset="105-106" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="107-113" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="114-121" text="calcium" lemma="calcium"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="122-134" text="mobilization" lemma="mobilization"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="134-135" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="136-138" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="139-148" text="essential" lemma="essential"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="149-158" text="component" lemma="component"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="159-161" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="162-163" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="164-168" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="169-179" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="179-180" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="181-184" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_19" POS="VBP" charOffset="185-187" text="do" lemma="do"/>
+            <token xml:space="preserve" id="stt_20" POS="RB" charOffset="188-191" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_21" POS="VB" charOffset="192-198" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="199-202" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="203-215" text="biosynthesis" lemma="biosynthesis"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="216-218" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="219-223" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="223-224" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Aspirin-like) (NNS=H drugs))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H ALD))
+            (-RRB- -RRB-)))
+            (VP=H
+            (VP=H (VBP=H induce)
+            (NP
+            (NP=H (NN calcium) (NN=H mobilization))
+            (, ,)
+            (NP
+            (NP=H (DT an) (JJ essential) (NN=H component))
+            (PP (IN=H of)
+            (NP (NN T) (NN cell) (NN=H activation))))))
+            (, ,)
+            (CC but)
+            (VP (VBP=H do) (RB not)
+            (VP (VB=H induce)
+            (NP
+            (NP=H (DT the) (NN=H biosynthesis))
+            (PP (IN=H of)
+            (NP (NN=H IL-2)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="225-371" id="S3">
+        <text xml:space="preserve">To understand the extent to which ALD may mimic mitogenic stimulation, we studied cytoplasmic and nuclear signaling steps in ALD-treated T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="225-227" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="VB" charOffset="228-238" text="understand" lemma="understand"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="239-242" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="243-249" text="extent" lemma="extent"/>
+            <token xml:space="preserve" id="stt_5" POS="TO" charOffset="250-252" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_6" POS="WDT" charOffset="253-258" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_7" POS="NNP" charOffset="259-262" text="ALD" lemma="ALD"/>
+            <token xml:space="preserve" id="stt_8" POS="MD" charOffset="263-266" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="267-272" text="mimic" lemma="mimic"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="273-282" text="mitogenic" lemma="mitogenic"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="283-294" text="stimulation" lemma="stimulation"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="294-295" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="PRP" charOffset="296-298" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_14" POS="VBD" charOffset="299-306" text="studied" lemma="study"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="307-318" text="cytoplasmic" lemma="cytoplasmic"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="319-322" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="323-330" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="331-340" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="341-346" text="steps" lemma="step"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="347-349" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="350-361" text="ALD-treated" lemma="ald-treated"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="362-363" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="364-369" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="369-370" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP (VB=H understand)
+            (NP
+            (NP=H (DT the) (NN=H extent))
+            (SBAR
+            (WHPP=H (TO=H to)
+            (WHNP (WDT=H which)))
+            (S
+            (NP (NNP=H ALD))
+            (VP=H (MD=H may)
+            (VP (VB=H mimic)
+            (NP (JJ mitogenic) (NN=H stimulation))))))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H studied)
+            (NP
+            (NP=H (JJ cytoplasmic)
+            (CC and)
+            (JJ nuclear) (NN signaling) (NNS=H steps))
+            (PP (IN=H in)
+            (NP (JJ ALD-treated) (NN T) (NNS=H cells)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="371-582" id="S4">
+        <text xml:space="preserve">We found that ALD induce a transient activation of protein kinase (PKC) but have no effect (in comparison to anti-CD3 antibodies) on protein tyrosine phosphorylation nor on PCL gamma 1 tyrosine phosphorylation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="371-373" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="374-379" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="380-384" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="NNP" charOffset="385-388" text="ALD" lemma="ALD"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="389-395" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="396-397" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="398-407" text="transient" lemma="transient"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="408-418" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="419-421" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="422-429" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="430-436" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_12" POS="-LRB-" charOffset="437-438" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="438-441" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_14" POS="-RRB-" charOffset="441-442" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="443-446" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_16" POS="VBP" charOffset="447-451" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="452-454" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="455-461" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_19" POS="-LRB-" charOffset="462-463" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="463-465" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="466-476" text="comparison" lemma="comparison"/>
+            <token xml:space="preserve" id="stt_22" POS="TO" charOffset="477-479" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="480-488" text="anti-CD3" lemma="anti-cd3"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="489-499" text="antibodies" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_25" POS="-RRB-" charOffset="499-500" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="501-503" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="504-511" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="512-520" text="tyrosine" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="521-536" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_30" POS="CC" charOffset="537-540" text="nor" lemma="nor"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="541-543" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="544-547" text="PCL" lemma="pcl"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="548-553" text="gamma" lemma="gamma"/>
+            <token xml:space="preserve" id="stt_34" POS="CD" charOffset="554-555" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="556-564" text="tyrosine" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="565-580" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="580-581" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H found)
+            (SBAR (IN=H that)
+            (S
+            (NP (NNP=H ALD))
+            (VP=H
+            (VP=H (VBP=H induce)
+            (NP
+            (NP=H (DT a) (JJ transient) (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN protein) (NN=H kinase))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H PKC))
+            (-RRB- -RRB-))))))
+            (CC but)
+            (VP (VBP=H have)
+            (NP (DT no)
+            (UCP
+            (NP=H
+            (NP=H
+            (NP=H (NN=H effect))
+            (PRN (-LRB- -LRB-)
+            (PP=H (IN=H in)
+            (NP
+            (NP=H (NN=H comparison))
+            (PP (TO=H to)
+            (NP (JJ anti-CD3) (NNS=H antibodies)))))
+            (-RRB- -RRB-)))
+            (PP (IN=H on)
+            (NP (NN protein) (NN tyrosine) (NN=H phosphorylation))))
+            (CC nor)
+            (PP (IN=H on)
+            (NP (NN PCL) (NN=H gamma) (CD 1))))
+            (NN tyrosine) (NN=H phosphorylation)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="582-778" id="S5">
+        <text xml:space="preserve">ALD-induced calcium mobilization and PKC activation are independent of tyrosine protein kinase activity as shown by the lack of effect of herbimycin, a tyrosine-protein kinase-specific inhibitor. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="582-593" text="ALD-induced" lemma="ald-induced"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="594-601" text="calcium" lemma="calcium"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="602-614" text="mobilization" lemma="mobilization"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="615-618" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="619-622" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="623-633" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_7" POS="VBP" charOffset="634-637" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="638-649" text="independent" lemma="independent"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="650-652" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="653-661" text="tyrosine" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="662-669" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="670-676" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="677-685" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="686-688" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="689-694" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="695-697" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="698-701" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="702-706" text="lack" lemma="lack"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="707-709" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="710-716" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="717-719" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="720-730" text="herbimycin" lemma="herbimycin"/>
+            <token xml:space="preserve" id="stt_23" POS="," charOffset="730-731" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="732-733" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="734-750" text="tyrosine-protein" lemma="tyrosine-protein"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="751-766" text="kinase-specific" lemma="kinase-specific"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="767-776" text="inhibitor" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="776-777" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ ALD-induced) (NN calcium) (NN=H mobilization))
+            (CC and)
+            (NP (NN PKC) (NN=H activation)))
+            (VP=H (VBP=H are)
+            (ADJP (JJ=H independent)
+            (PP (IN=H of)
+            (NP (NN tyrosine) (NN protein) (NN kinase) (NN=H activity))))
+            (SBAR (IN=H as)
+            (S
+            (VP=H (VBN=H shown)
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT the) (NN=H lack))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H effect))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H herbimycin))
+            (, ,)
+            (NP (DT a) (JJ tyrosine-protein) (JJ kinase-specific) (NN=H inhibitor))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="778-983" id="S6">
+        <text xml:space="preserve">Although we detected no IL-2 mRNA in ALD-treated cells, the nuclei of these cells contain proteins capable of binding to three regulatory sequences in the IL-2 promoter region: NFAT, NF kappa B, and AP-1. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="778-786" text="Although" lemma="although"/>
+            <token xml:space="preserve" id="stt_2" POS="PRP" charOffset="787-789" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="790-798" text="detected" lemma="detect"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="799-801" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="802-806" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="807-811" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="812-814" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="815-826" text="ALD-treated" lemma="ald-treated"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="827-832" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="832-833" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="834-837" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="838-844" text="nuclei" lemma="nucleus"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="845-847" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="848-853" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="854-859" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="VBP" charOffset="860-867" text="contain" lemma="contain"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="868-876" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="877-884" text="capable" lemma="capable"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="885-887" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="VBG" charOffset="888-895" text="binding" lemma="bind"/>
+            <token xml:space="preserve" id="stt_21" POS="TO" charOffset="896-898" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_22" POS="CD" charOffset="899-904" text="three" lemma="three"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="905-915" text="regulatory" lemma="regulatory"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="916-925" text="sequences" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="926-928" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="929-932" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="933-937" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="938-946" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="947-953" text="region" lemma="region"/>
+            <token xml:space="preserve" id="stt_30" POS=":" charOffset="953-954" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="955-959" text="NFAT" lemma="nfat"/>
+            <token xml:space="preserve" id="stt_32" POS="," charOffset="959-960" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="961-963" text="NF" lemma="nf"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="964-969" text="kappa" lemma="kappa"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="970-971" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_36" POS="," charOffset="971-972" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_37" POS="CC" charOffset="973-976" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="977-981" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_39" POS="." charOffset="981-982" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H Although)
+            (S
+            (NP (PRP=H we))
+            (VP=H (VBD=H detected)
+            (NP (DT no) (NN IL-2) (NN=H mRNA))
+            (PP (IN=H in)
+            (NP (JJ ALD-treated) (NNS=H cells))))))
+            (, ,)
+            (NP
+            (NP=H (DT the) (NNS=H nuclei))
+            (PP (IN=H of)
+            (NP (DT these) (NNS=H cells))))
+            (VP=H (VBP=H contain)
+            (S
+            (NP (NNS=H proteins))
+            (ADJP=H (JJ=H capable)
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (NP=H (VBG=H binding))
+            (PP (TO=H to)
+            (NP
+            (NP=H (CD three) (JJ regulatory) (NNS=H sequences))
+            (PP (IN=H in)
+            (NP (DT the) (NN IL-2) (NN promoter) (NN=H region))))))
+            (: :)
+            (NP
+            (NP=H (NN=H NFAT))
+            (, ,)
+            (NP (NN NF) (NN kappa) (NN=H B))
+            (, ,)
+            (CC and)
+            (NP (NN=H AP-1))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="983-1049" id="S7">
+        <text xml:space="preserve">These binding activities are expressed only in activated T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="983-988" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="989-996" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="997-1007" text="activities" lemma="activity"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="1008-1011" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="1012-1021" text="expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="1022-1026" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1027-1029" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="1030-1039" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1040-1041" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1042-1047" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="1047-1048" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NN binding) (NNS=H activities))
+            (VP=H (VBP=H are)
+            (VP (VBN=H expressed)
+            (ADVP (RB=H only))
+            (PP (IN=H in)
+            (NP (VBN activated) (NN T) (NNS=H cells)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1049-1125" id="S8">
+        <text xml:space="preserve">The expression of AP-1 depended on calcium mobilization and PKC activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1049-1052" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1053-1063" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1064-1066" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1067-1071" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="1072-1080" text="depended" lemma="depend"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1081-1083" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1084-1091" text="calcium" lemma="calcium"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1092-1104" text="mobilization" lemma="mobilization"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="1105-1108" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1109-1112" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1113-1123" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="1123-1124" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H expression))
+            (PP (IN=H of)
+            (NP (NN=H AP-1))))
+            (VP=H (VBD=H depended)
+            (PP (IN=H on)
+            (NP
+            (NP=H (NN calcium) (NN=H mobilization))
+            (CC and)
+            (NP (NN PKC) (NN=H activation)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1125-1321" id="S9">
+        <text xml:space="preserve">These data suggest that ALD cause transient but significant changes in T cell transmembrane signaling, although some events induced by stimulation with anti-CD3 antibodies are not induced by ALD. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1125-1130" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1131-1135" text="data" lemma="datum"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1136-1143" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1144-1148" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1149-1152" text="ALD" lemma="ald"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1153-1158" text="cause" lemma="cause"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1159-1168" text="transient" lemma="transient"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="1169-1172" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1173-1184" text="significant" lemma="significant"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1185-1192" text="changes" lemma="change"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1193-1195" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1196-1197" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1198-1202" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1203-1216" text="transmembrane" lemma="transmembrane"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1217-1226" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="1226-1227" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1228-1236" text="although" lemma="although"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="1237-1241" text="some" lemma="some"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="1242-1248" text="events" lemma="event"/>
+            <token xml:space="preserve" id="stt_20" POS="VBN" charOffset="1249-1256" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1257-1259" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1260-1271" text="stimulation" lemma="stimulation"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1272-1276" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="1277-1285" text="anti-CD3" lemma="anti-cd3"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="1286-1296" text="antibodies" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_26" POS="VBP" charOffset="1297-1300" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_27" POS="RB" charOffset="1301-1304" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_28" POS="VBN" charOffset="1305-1312" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="1313-1315" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1316-1319" text="ALD" lemma="ald"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="1319-1320" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H data))
+            (VP=H (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H
+            (NP=H (NN ALD) (NN=H cause))
+            (NP
+            (ADJP (JJ=H transient)
+            (CC but)
+            (JJ significant))
+            (NNS=H changes)))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN T) (NN cell) (NN transmembrane) (NN=H signaling))
+            (, ,)
+            (SBAR (IN=H although)
+            (S
+            (NP (DT some) (NNS=H events))
+            (VP=H (VBN=H induced)
+            (PP (IN=H by)
+            (NP (NN=H stimulation)))
+            (PP (IN=H with)
+            (NP (JJ anti-CD3) (NNS=H antibodies)))))))))
+            (VP=H (VBP=H are) (RB not)
+            (VP (VBN=H induced)
+            (PP (IN=H by)
+            (NP (NN=H ALD))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1321-1429" id="S10">
+        <text xml:space="preserve">The signal is transmitted to the nucleus and induces DNA-binding activity by several transcription factors. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1321-1324" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1325-1331" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="1332-1334" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="1335-1346" text="transmitted" lemma="transmit"/>
+            <token xml:space="preserve" id="stt_5" POS="TO" charOffset="1347-1349" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1350-1353" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1354-1361" text="nucleus" lemma="nucleus"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="1362-1365" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="1366-1373" text="induces" lemma="induce"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1374-1385" text="DNA-binding" lemma="dna-binding"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1386-1394" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1395-1397" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1398-1405" text="several" lemma="several"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1406-1419" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="1420-1427" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="1427-1428" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NN=H signal))
+            (VP=H
+            (VP=H (VBZ=H is)
+            (VP (VBN=H transmitted)
+            (PP (TO=H to)
+            (NP (DT the) (NN=H nucleus)))))
+            (CC and)
+            (VP (VBZ=H induces)
+            (NP (JJ DNA-binding) (NN=H activity))
+            (PP (IN=H by)
+            (NP (JJ several) (NN transcription) (NNS=H factors)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1429-1510" id="S11">
+        <text xml:space="preserve">However, the ALD stimulus is not capable of causing complete T cell activation. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1429-1436" text="However" lemma="however"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1436-1437" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1438-1441" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NNP" charOffset="1442-1445" text="ALD" lemma="ALD"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1446-1454" text="stimulus" lemma="stimulus"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="1455-1457" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="1458-1461" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1462-1469" text="capable" lemma="capable"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1470-1472" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="VBG" charOffset="1473-1480" text="causing" lemma="cause"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1481-1489" text="complete" lemma="complete"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1490-1491" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1492-1496" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1497-1507" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="1507-1508" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H However))
+            (, ,)
+            (NP (DT the) (NNP ALD) (NN=H stimulus))
+            (VP=H (VBZ=H is) (RB not)
+            (ADJP (JJ=H capable)
+            (PP (IN=H of)
+            (S
+            (VP=H (VBG=H causing)
+            (NP (JJ complete) (NN T) (NN cell) (NN=H activation)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="219-223" headOffset="219-223" text="IL-2"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="544-555" headOffset="548-553" text="PCL gamma 1"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="802-806" headOffset="802-806" text="IL-2"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="933-937" headOffset="933-937" text="IL-2"/>
+</document>

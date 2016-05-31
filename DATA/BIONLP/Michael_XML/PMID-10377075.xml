@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10377075">
+    <text xml:space="preserve">PPARalpha activators inhibit cytokine-induced vascular cell adhesion molecule-1 expression in human endothelial cells. 
+BACKGROUND: Adhesion molecule expression on the endothelial cell (EC) surface is critical for leukocyte recruitment to atherosclerotic lesions. Better understanding of transcriptional regulation of adhesion molecules in ECs may provide important insight into plaque formation. Peroxisome proliferator-activated receptor-alpha (PPARalpha), a member of the nuclear receptor family, regulates gene expression in response to certain fatty acids and fibric acid derivatives. The present study investigated PPARalpha expression in human ECs and their regulation of vascular cell adhesion molecule-1 (VCAM-1). METHODS AND RESULTS: Immunohistochemistry revealed that human carotid artery ECs express PPARalpha. Pretreatment of cultured human ECs with the PPARalpha activators fenofibrate or WY14643 inhibited TNF-alpha-induced VCAM-1 in a time- and concentration-dependent manner, an effect not seen with PPARgamma activators. Both PPARalpha activators decreased cytokine-induced VCAM-1 mRNA expression without altering its mRNA half-life. Transient transfection of deletional VCAM-1 promoter constructs and electrophoretic mobility shift assays suggest that fenofibrate inhibits VCAM-1 transcription in part by inhibiting NF-kappaB. Finally, PPARalpha activators significantly reduced adhesion of U937 cells to cultured human ECs. CONCLUSIONS: Human ECs express PPARalpha, a potentially important regulator of atherogenesis through its transcriptional control of VCAM-1 gene expression. Such findings also have implications regarding the clinical use of lipid-lowering agents, like fibric acids, which can activate PPARalpha. 
+</text>
+    <sentence charOffset="0-120" id="S1">
+        <text xml:space="preserve">PPARalpha activators inhibit cytokine-induced vascular cell adhesion molecule-1 expression in human endothelial cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-9" text="PPARalpha" lemma="pparalpha"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="10-20" text="activators" lemma="activator"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="21-28" text="inhibit" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="29-45" text="cytokine-induced" lemma="cytokine-induced"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="46-54" text="vascular" lemma="vascular"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="55-59" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="60-68" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="69-79" text="molecule-1" lemma="molecule-1"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="80-90" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="91-93" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="94-99" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="100-111" text="endothelial" lemma="endothelial"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="112-117" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="117-118" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN PPARalpha) (NNS=H activators))
+            (VP=H (VBP=H inhibit)
+            (NP
+            (NP=H (JJ cytokine-induced)
+            (ADJP (JJ=H vascular))
+            (NN cell) (NN adhesion) (NN molecule-1) (NN=H expression))
+            (PP (IN=H in)
+            (NP (JJ human) (JJ endothelial) (NNS=H cells)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="120-264" id="S2">
+        <text xml:space="preserve">BACKGROUND: Adhesion molecule expression on the endothelial cell (EC) surface is critical for leukocyte recruitment to atherosclerotic lesions. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="120-130" text="BACKGROUND" lemma="background"/>
+            <token xml:space="preserve" id="stt_2" POS=":" charOffset="130-131" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="132-140" text="Adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="141-149" text="molecule" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="150-160" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="161-163" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="164-167" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="168-179" text="endothelial" lemma="endothelial"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="180-184" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_10" POS="-LRB-" charOffset="185-186" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="186-188" text="EC" lemma="ec"/>
+            <token xml:space="preserve" id="stt_12" POS="-RRB-" charOffset="188-189" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="190-197" text="surface" lemma="surface"/>
+            <token xml:space="preserve" id="stt_14" POS="VBZ" charOffset="198-200" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="201-209" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="210-213" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="214-223" text="leukocyte" lemma="leukocyte"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="224-235" text="recruitment" lemma="recruitment"/>
+            <token xml:space="preserve" id="stt_19" POS="TO" charOffset="236-238" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="239-254" text="atherosclerotic" lemma="atherosclerotic"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="255-262" text="lesions" lemma="lesion"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="262-263" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (FRAG=H
+            (NP (NN=H BACKGROUND))
+            (: :)
+            (S=H
+            (NP
+            (NP=H (NN Adhesion) (NN molecule) (NN=H expression))
+            (PP (IN=H on)
+            (NP (DT the) (JJ endothelial) (NN cell)
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H EC))
+            (-RRB- -RRB-))
+            (NN=H surface))))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H critical)
+            (PP (IN=H for)
+            (NP (NN leukocyte) (NN=H recruitment))))
+            (PP (TO=H to)
+            (NP (JJ atherosclerotic) (NNS=H lesions)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="264-397" id="S3">
+        <text xml:space="preserve">Better understanding of transcriptional regulation of adhesion molecules in ECs may provide important insight into plaque formation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJR" charOffset="264-270" text="Better" lemma="better"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="271-284" text="understanding" lemma="understanding"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="285-287" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="288-303" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="304-314" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="315-317" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="318-326" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="327-336" text="molecules" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="337-339" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="340-343" text="ECs" lemma="ec"/>
+            <token xml:space="preserve" id="stt_11" POS="MD" charOffset="344-347" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_12" POS="VB" charOffset="348-355" text="provide" lemma="provide"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="356-365" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="366-373" text="insight" lemma="insight"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="374-378" text="into" lemma="into"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="379-385" text="plaque" lemma="plaque"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="386-395" text="formation" lemma="formation"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="395-396" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (ADJP (JJR=H Better))
+            (NN=H understanding))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ transcriptional) (NN=H regulation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN adhesion) (NNS=H molecules))
+            (PP (IN=H in)
+            (NP (NNS=H ECs))))))))
+            (VP=H (MD=H may)
+            (VP (VB=H provide)
+            (NP (JJ important) (NN=H insight))
+            (PP (IN=H into)
+            (NP (NN plaque) (NN=H formation)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="397-590" id="S4">
+        <text xml:space="preserve">Peroxisome proliferator-activated receptor-alpha (PPARalpha), a member of the nuclear receptor family, regulates gene expression in response to certain fatty acids and fibric acid derivatives. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="397-407" text="Peroxisome" lemma="peroxisome"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="408-430" text="proliferator-activated" lemma="proliferator-activated"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="431-445" text="receptor-alpha" lemma="receptor-alpha"/>
+            <token xml:space="preserve" id="stt_4" POS="-LRB-" charOffset="446-447" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="447-456" text="PPARalpha" lemma="pparalpha"/>
+            <token xml:space="preserve" id="stt_6" POS="-RRB-" charOffset="456-457" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="457-458" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="459-460" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="461-467" text="member" lemma="member"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="468-470" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="471-474" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="475-482" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="483-491" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="492-498" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="498-499" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="500-509" text="regulates" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="510-514" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="515-525" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="526-528" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="529-537" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_21" POS="TO" charOffset="538-540" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="541-548" text="certain" lemma="certain"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="549-554" text="fatty" lemma="fatty"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="555-560" text="acids" lemma="acid"/>
+            <token xml:space="preserve" id="stt_25" POS="CC" charOffset="561-564" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="565-571" text="fibric" lemma="fibric"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="572-576" text="acid" lemma="acid"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="577-588" text="derivatives" lemma="derivative"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="588-589" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN Peroxisome) (JJ proliferator-activated) (NN=H receptor-alpha))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H PPARalpha))
+            (-RRB- -RRB-))
+            (, ,)
+            (NP
+            (NP=H (DT a) (NN=H member))
+            (PP (IN=H of)
+            (NP (DT the) (JJ nuclear) (NN receptor) (NN=H family))))
+            (, ,))
+            (VP=H (VBZ=H regulates)
+            (NP
+            (NP=H (NN gene) (NN=H expression))
+            (PP (IN=H in)
+            (NP (NN=H response))))
+            (PP (TO=H to)
+            (NP
+            (NP=H (JJ certain) (JJ fatty) (NNS=H acids))
+            (CC and)
+            (NP (JJ fibric) (NN acid) (NNS=H derivatives)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="590-723" id="S5">
+        <text xml:space="preserve">The present study investigated PPARalpha expression in human ECs and their regulation of vascular cell adhesion molecule-1 (VCAM-1). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="590-593" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="594-601" text="present" lemma="present"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="602-607" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="608-620" text="investigated" lemma="investigate"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="621-630" text="PPARalpha" lemma="pparalpha"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="631-641" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="642-644" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="645-650" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="651-654" text="ECs" lemma="ec"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="655-658" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="PRP$" charOffset="659-664" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="665-675" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="676-678" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="679-687" text="vascular" lemma="vascular"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="688-692" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="693-701" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="702-712" text="molecule-1" lemma="molecule-1"/>
+            <token xml:space="preserve" id="stt_18" POS="-LRB-" charOffset="713-714" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="714-720" text="VCAM-1" lemma="vcam-1"/>
+            <token xml:space="preserve" id="stt_20" POS="-RRB-" charOffset="720-721" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="721-722" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (JJ present) (NN=H study))
+            (VP=H (VBD=H investigated)
+            (NP
+            (NP=H
+            (NP=H (NN PPARalpha) (NN=H expression))
+            (PP (IN=H in)
+            (NP (JJ human) (NNS=H ECs))))
+            (CC and)
+            (NP
+            (NP=H (PRP$ their) (NN=H regulation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ vascular) (NN cell) (NN adhesion) (NN=H molecule-1))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H VCAM-1))
+            (-RRB- -RRB-)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="723-823" id="S6">
+        <text xml:space="preserve">METHODS AND RESULTS: Immunohistochemistry revealed that human carotid artery ECs express PPARalpha. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="723-730" text="METHODS" lemma="method"/>
+            <token xml:space="preserve" id="stt_2" POS="CC" charOffset="731-734" text="AND" lemma="and"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="735-742" text="RESULTS" lemma="result"/>
+            <token xml:space="preserve" id="stt_4" POS=":" charOffset="742-743" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="744-764" text="Immunohistochemistry" lemma="immunohistochemistry"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="765-773" text="revealed" lemma="reveal"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="774-778" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="779-784" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="785-792" text="carotid" lemma="carotid"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="793-799" text="artery" lemma="artery"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="800-803" text="ECs" lemma="ec"/>
+            <token xml:space="preserve" id="stt_12" POS="VBP" charOffset="804-811" text="express" lemma="express"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="812-821" text="PPARalpha" lemma="pparalpha"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="821-822" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (FRAG=H
+            (NP (NNS=H METHODS)
+            (CC AND)
+            (NNS RESULTS))
+            (: :)
+            (S=H
+            (NP (NN=H Immunohistochemistry))
+            (VP=H (VBD=H revealed)
+            (SBAR (IN=H that)
+            (S
+            (NP (JJ human) (NN carotid) (NN artery) (NNS=H ECs))
+            (VP=H (VBP=H express)
+            (NP (NN=H PPARalpha)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="823-1039" id="S7">
+        <text xml:space="preserve">Pretreatment of cultured human ECs with the PPARalpha activators fenofibrate or WY14643 inhibited TNF-alpha-induced VCAM-1 in a time- and concentration-dependent manner, an effect not seen with PPARgamma activators. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="823-835" text="Pretreatment" lemma="pretreatment"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="836-838" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="839-847" text="cultured" lemma="culture"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="848-853" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="854-857" text="ECs" lemma="ec"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="858-862" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="863-866" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="867-876" text="PPARalpha" lemma="pparalpha"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="877-887" text="activators" lemma="activator"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="888-899" text="fenofibrate" lemma="fenofibrate"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="900-902" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="903-910" text="WY14643" lemma="wy14643"/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="911-920" text="inhibited" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="921-938" text="TNF-alpha-induced" lemma="tnf-alpha-induced"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="939-945" text="VCAM-1" lemma="vcam-1"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="946-948" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="949-950" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="951-955" text="time" lemma="time"/>
+            <token xml:space="preserve" id="stt_19" POS=":" charOffset="955-956" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="957-960" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="961-984" text="concentration-dependent" lemma="concentration-dependent"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="985-991" text="manner" lemma="manner"/>
+            <token xml:space="preserve" id="stt_23" POS="," charOffset="991-992" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="993-995" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="996-1002" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_26" POS="RB" charOffset="1003-1006" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_27" POS="VBN" charOffset="1007-1011" text="seen" lemma="see"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="1012-1016" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1017-1026" text="PPARgamma" lemma="ppargamma"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="1027-1037" text="activators" lemma="activator"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="1037-1038" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Pretreatment))
+            (PP (IN=H of)
+            (S
+            (VP=H (VBN=H cultured)
+            (NP (JJ human) (NNS=H ECs))
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT the) (NN PPARalpha) (NNS activators) (NN=H fenofibrate))
+            (CC or)
+            (NP (NN=H WY14643))))))))
+            (VP=H (VBD=H inhibited)
+            (NP
+            (NP=H
+            (NP=H (JJ TNF-alpha-induced) (NN=H VCAM-1))
+            (PP (IN=H in)
+            (NP (DT a) (NN=H time))))
+            (: -)
+            (CC and)
+            (NP
+            (NP=H (JJ concentration-dependent) (NN=H manner))
+            (, ,)
+            (NP
+            (NP=H (DT an) (NN=H effect))
+            (VP (RB not) (VBN=H seen)
+            (PP (IN=H with)
+            (NP (NN PPARgamma) (NNS=H activators))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1039-1152" id="S8">
+        <text xml:space="preserve">Both PPARalpha activators decreased cytokine-induced VCAM-1 mRNA expression without altering its mRNA half-life. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1039-1043" text="Both" lemma="both"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1044-1053" text="PPARalpha" lemma="pparalpha"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="1054-1064" text="activators" lemma="activator"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="1065-1074" text="decreased" lemma="decrease"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1075-1091" text="cytokine-induced" lemma="cytokine-induced"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1092-1098" text="VCAM-1" lemma="vcam-1"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1099-1103" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1104-1114" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1115-1122" text="without" lemma="without"/>
+            <token xml:space="preserve" id="stt_10" POS="VBG" charOffset="1123-1131" text="altering" lemma="alter"/>
+            <token xml:space="preserve" id="stt_11" POS="PRP$" charOffset="1132-1135" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1136-1140" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1141-1150" text="half-life" lemma="half-life"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="1150-1151" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT Both) (NN PPARalpha) (NNS=H activators))
+            (VP=H (VBD=H decreased)
+            (NP (JJ cytokine-induced) (NN VCAM-1) (NN mRNA) (NN=H expression))
+            (PP (IN=H without)
+            (S
+            (VP=H (VBG=H altering)
+            (NP (PRP$ its) (NN mRNA) (NN=H half-life))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1152-1346" id="S9">
+        <text xml:space="preserve">Transient transfection of deletional VCAM-1 promoter constructs and electrophoretic mobility shift assays suggest that fenofibrate inhibits VCAM-1 transcription in part by inhibiting NF-kappaB. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1152-1161" text="Transient" lemma="transient"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1162-1174" text="transfection" lemma="transfection"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1175-1177" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1178-1188" text="deletional" lemma="deletional"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1189-1195" text="VCAM-1" lemma="vcam-1"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1196-1204" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1205-1215" text="constructs" lemma="construct"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="1216-1219" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1220-1235" text="electrophoretic" lemma="electrophoretic"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1236-1244" text="mobility" lemma="mobility"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1245-1250" text="shift" lemma="shift"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="1251-1257" text="assays" lemma="assay"/>
+            <token xml:space="preserve" id="stt_13" POS="VBP" charOffset="1258-1265" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1266-1270" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1271-1282" text="fenofibrate" lemma="fenofibrate"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="1283-1291" text="inhibits" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1292-1298" text="VCAM-1" lemma="vcam-1"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1299-1312" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1313-1315" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1316-1320" text="part" lemma="part"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1321-1323" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_22" POS="VBG" charOffset="1324-1334" text="inhibiting" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1335-1344" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="1344-1345" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Transient) (NN=H transfection))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ deletional) (NN VCAM-1) (NN promoter) (NNS=H constructs))
+            (CC and)
+            (NP (JJ electrophoretic) (NN mobility) (NN shift) (NNS=H assays)))))
+            (VP=H (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H fenofibrate))
+            (VP=H (VBZ=H inhibits)
+            (NP
+            (NP=H (NN VCAM-1) (NN=H transcription))
+            (PP (IN=H in)
+            (NP (NN=H part))))
+            (PP (IN=H by)
+            (S
+            (VP=H (VBG=H inhibiting)
+            (NP (NN=H NF-kappaB)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1346-1444" id="S10">
+        <text xml:space="preserve">Finally, PPARalpha activators significantly reduced adhesion of U937 cells to cultured human ECs. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1346-1353" text="Finally" lemma="finally"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1353-1354" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1355-1364" text="PPARalpha" lemma="pparalpha"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1365-1375" text="activators" lemma="activator"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="1376-1389" text="significantly" lemma="significantly"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="1390-1397" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1398-1406" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1407-1409" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1410-1414" text="U937" lemma="u937"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1415-1420" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="TO" charOffset="1421-1423" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="1424-1432" text="cultured" lemma="culture"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1433-1438" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="1439-1442" text="ECs" lemma="ec"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="1442-1443" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Finally))
+            (, ,)
+            (NP (NN PPARalpha) (NNS=H activators))
+            (ADVP (RB=H significantly))
+            (VP=H (VBD=H reduced)
+            (NP
+            (NP=H (NN=H adhesion))
+            (PP (IN=H of)
+            (NP (NN U937) (NNS=H cells))))
+            (S
+            (VP=H (TO=H to)
+            (VP (VBN=H cultured)
+            (NP (JJ human) (NNS=H ECs))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1444-1600" id="S11">
+        <text xml:space="preserve">CONCLUSIONS: Human ECs express PPARalpha, a potentially important regulator of atherogenesis through its transcriptional control of VCAM-1 gene expression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="1444-1455" text="CONCLUSIONS" lemma="conclusion"/>
+            <token xml:space="preserve" id="stt_2" POS=":" charOffset="1455-1456" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="1457-1462" text="Human" lemma="human"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1463-1466" text="ECs" lemma="ec"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="1467-1474" text="express" lemma="express"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1475-1484" text="PPARalpha" lemma="pparalpha"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="1484-1485" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="1486-1487" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="1488-1499" text="potentially" lemma="potentially"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1500-1509" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1510-1519" text="regulator" lemma="regulator"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1520-1522" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1523-1536" text="atherogenesis" lemma="atherogenesis"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1537-1544" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_15" POS="PRP$" charOffset="1545-1548" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1549-1564" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1565-1572" text="control" lemma="control"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1573-1575" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1576-1582" text="VCAM-1" lemma="vcam-1"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1583-1587" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1588-1598" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="1598-1599" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NNS=H CONCLUSIONS))
+            (: :)
+            (S
+            (NP (JJ Human) (NNS=H ECs))
+            (VP=H (VBP=H express)
+            (NP
+            (NP=H (NN=H PPARalpha))
+            (, ,)
+            (NP
+            (NP=H (DT a)
+            (ADJP (RB potentially) (JJ=H important))
+            (NN=H regulator))
+            (PP (IN=H of)
+            (NP (NN=H atherogenesis)))))
+            (PP (IN=H through)
+            (NP
+            (NP=H (PRP$ its) (JJ transcriptional) (NN=H control))
+            (PP (IN=H of)
+            (NP (NN VCAM-1) (NN gene) (NN=H expression)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1600-1740" id="S12">
+        <text xml:space="preserve">Such findings also have implications regarding the clinical use of lipid-lowering agents, like fibric acids, which can activate PPARalpha. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1600-1604" text="Such" lemma="such"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1605-1613" text="findings" lemma="finding"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="1614-1618" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="1619-1623" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="1624-1636" text="implications" lemma="implication"/>
+            <token xml:space="preserve" id="stt_6" POS="VBG" charOffset="1637-1646" text="regarding" lemma="regard"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="1647-1650" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1651-1659" text="clinical" lemma="clinical"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1660-1663" text="use" lemma="use"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1664-1666" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1667-1681" text="lipid-lowering" lemma="lipid-lowering"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="1682-1688" text="agents" lemma="agent"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="1688-1689" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1690-1694" text="like" lemma="like"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="1695-1701" text="fibric" lemma="fibric"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="1702-1707" text="acids" lemma="acid"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="1707-1708" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="WDT" charOffset="1709-1714" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_19" POS="MD" charOffset="1715-1718" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_20" POS="VB" charOffset="1719-1727" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1728-1737" text="PPARalpha" lemma="pparalpha"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="1737-1738" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Such) (NNS=H findings))
+            (ADVP (RB=H also))
+            (VP=H (VBP=H have)
+            (NP
+            (NP=H (NNS=H implications))
+            (PP (VBG=H regarding)
+            (NP
+            (NP=H (DT the) (JJ clinical) (NN=H use))
+            (PP (IN=H of)
+            (NP (JJ lipid-lowering) (NNS=H agents))))))
+            (, ,)
+            (PP (IN=H like)
+            (NP
+            (NP=H (JJ fibric) (NNS=H acids))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (MD=H can)
+            (VP (VB=H activate)
+            (NP (NN=H PPARalpha)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T20" type="ZeroArticleNP" charOffset="397-457" headOffset="447-456" text="Peroxisome proliferator-activated receptor-alpha (PPARalpha)"/>
+    <Term xml:space="preserve" id="T21" type="PossessivePronoun" charOffset="659-664" headOffset="659-664" text="their"/>
+    <Term xml:space="preserve" id="T22" type="ZeroArticleNP" charOffset="1475-1484" headOffset="1475-1484" text="PPARalpha"/>
+    <Term xml:space="preserve" id="T23" type="PossessivePronoun" charOffset="1545-1548" headOffset="1545-1548" text="its"/>
+    <Term xml:space="preserve" id="T24" type="ZeroArticleNP" charOffset="1667-1707" headOffset="1682-1688" text="lipid-lowering agents, like fibric acids"/>
+    <Term xml:space="preserve" id="T25" type="RelativePronoun" charOffset="1709-1714" headOffset="1709-1714" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T21"/>
+        <Antecedent idref="T20"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T23"/>
+        <Antecedent idref="T22"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T25"/>
+        <Antecedent idref="T24"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="46-79" headOffset="69-79" text="vascular cell adhesion molecule-1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="397-445" headOffset="431-445" text="Peroxisome proliferator-activated receptor-alpha"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="447-456" headOffset="447-456" text="PPARalpha"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="621-630" headOffset="621-630" text="PPARalpha"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="679-712" headOffset="702-712" text="vascular cell adhesion molecule-1"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="714-720" headOffset="714-720" text="VCAM-1"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="812-821" headOffset="812-821" text="PPARalpha"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="867-876" headOffset="867-876" text="PPARalpha"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="921-930" headOffset="921-930" text="TNF-alpha"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="939-945" headOffset="939-945" text="VCAM-1"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="1017-1026" headOffset="1017-1026" text="PPARgamma"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="1044-1053" headOffset="1044-1053" text="PPARalpha"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="1092-1098" headOffset="1092-1098" text="VCAM-1"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1189-1195" headOffset="1189-1195" text="VCAM-1"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1292-1298" headOffset="1292-1298" text="VCAM-1"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="1355-1364" headOffset="1355-1364" text="PPARalpha"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="1475-1484" headOffset="1475-1484" text="PPARalpha"/>
+    <Term xml:space="preserve" id="T18" type="Protein" charOffset="1576-1582" headOffset="1576-1582" text="VCAM-1"/>
+    <Term xml:space="preserve" id="T19" type="Protein" charOffset="1728-1737" headOffset="1728-1737" text="PPARalpha"/>
+</document>

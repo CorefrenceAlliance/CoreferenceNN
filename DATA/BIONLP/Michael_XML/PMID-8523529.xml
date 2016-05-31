@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8523529">
+    <text xml:space="preserve">Protein kinase C-zeta mediates NF-kappa B activation in human immunodeficiency virus-infected monocytes. 
+The molecular mechanisms regulating human immunodeficiency virus (HIV) persistence in a major cell reservoir such as the macrophage remain unknown. NF-kappa B is a transcription factor involved in the regulation of the HIV long terminal repeat and is selectively activated following HIV infection of human macrophages. Although little information as to what signal transduction pathways mediate NF-kappa B activation in monocytes-macrophages is available, our previous work indicated that classical protein kinase C (PKC) isoenzymes were not involved in the HIV-mediated NF-kappa B activation. In this study, we have focused on atypical PKC isoenzymes. PKC-zeta belongs to this family and is known to be an important step in NF-kappa B activation in other cell systems. Immunoblotting experiments with U937 cells demonstrate that PKC-zeta is present in these cells, and its expression can be downmodulated by antisense oligonucleotides (AO). The HIV-mediated NF-kappa B activation is selectively reduced by AO to PKC-zeta. In addition, cotransfection of a negative dominant molecule of PKC-zeta (PKC-zeta mut) with NF-kappa B-dependent reporter genes selectively inhibits the HIV- but not phorbol myristate acetate- or lipopolysaccharide-mediated activation of NF-kappa B. That PKC-zeta is specific in regulating NF-kappa B is concluded from the inability of PKC-zeta(mut) to interfere with the basal or phorbol myristate acetate-inducible CREB- or AP1-dependent transcriptional activity. Lastly, we demonstrate a selective inhibition of p24 production by HIV-infected human macrophages when treated with AO to PKC-zeta. Altogether, these results suggest that atypical PKC isoenzymes, including PKC-zeta, participate in the signal transduction pathways by which HIV infection results in the activation of NF-kappa B in human monocytic cells and macrophages. 
+</text>
+    <sentence charOffset="0-106" id="S1">
+        <text xml:space="preserve">Protein kinase C-zeta mediates NF-kappa B activation in human immunodeficiency virus-infected monocytes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-7" text="Protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="8-14" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="15-21" text="C-zeta" lemma="c-zeta"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="22-30" text="mediates" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="31-39" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="40-41" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="42-52" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="53-55" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="56-61" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="62-78" text="immunodeficiency" lemma="immunodeficiency"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="79-93" text="virus-infected" lemma="virus-infected"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="94-103" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="103-104" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Protein) (NN kinase) (NN=H C-zeta))
+            (VP=H (VBZ=H mediates)
+            (NP
+            (NP=H (NN NF-kappa) (NN B) (NN=H activation))
+            (PP (IN=H in)
+            (NP (JJ human) (NN immunodeficiency) (JJ virus-infected) (NNS=H monocytes)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="106-254" id="S2">
+        <text xml:space="preserve">The molecular mechanisms regulating human immunodeficiency virus (HIV) persistence in a major cell reservoir such as the macrophage remain unknown. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="106-109" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="110-119" text="molecular" lemma="molecular"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="120-130" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_4" POS="VBG" charOffset="131-141" text="regulating" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="142-147" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="148-164" text="immunodeficiency" lemma="immunodeficiency"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="165-170" text="virus" lemma="virus"/>
+            <token xml:space="preserve" id="stt_8" POS="-LRB-" charOffset="171-172" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="172-175" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_10" POS="-RRB-" charOffset="175-176" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="177-188" text="persistence" lemma="persistence"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="189-191" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="192-193" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="194-199" text="major" lemma="major"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="200-204" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="205-214" text="reservoir" lemma="reservoir"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="215-219" text="such" lemma="such"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="220-222" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="223-226" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="227-237" text="macrophage" lemma="macrophage"/>
+            <token xml:space="preserve" id="stt_21" POS="VBP" charOffset="238-244" text="remain" lemma="remain"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="245-252" text="unknown" lemma="unknown"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="252-253" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (JJ molecular) (NNS=H mechanisms))
+            (VP (VBG=H regulating)
+            (NP
+            (NP=H (JJ human) (NN immunodeficiency) (NN virus) (-LRB- -LRB-) (NN HIV) (-RRB- -RRB-) (NN=H persistence))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT a) (JJ major) (NN cell) (NN=H reservoir))
+            (PP (JJ such) (IN=H as)
+            (NP (DT the) (NN=H macrophage))))))))
+            (VP=H (VBP=H remain)
+            (ADJP (JJ=H unknown)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="254-425" id="S3">
+        <text xml:space="preserve">NF-kappa B is a transcription factor involved in the regulation of the HIV long terminal repeat and is selectively activated following HIV infection of human macrophages. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="254-262" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="263-264" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="265-267" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="268-269" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="270-283" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="284-290" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="291-299" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="300-302" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="303-306" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="307-317" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="318-320" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="321-324" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="325-328" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="329-333" text="long" lemma="long"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="334-342" text="terminal" lemma="terminal"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="343-349" text="repeat" lemma="repeat"/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="350-353" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="VBZ" charOffset="354-356" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_19" POS="RB" charOffset="357-368" text="selectively" lemma="selectively"/>
+            <token xml:space="preserve" id="stt_20" POS="VBN" charOffset="369-378" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_21" POS="VBG" charOffset="379-388" text="following" lemma="follow"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="389-392" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="393-402" text="infection" lemma="infection"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="403-405" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="406-411" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="412-423" text="macrophages" lemma="macrophage"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="423-424" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN NF-kappa) (NN=H B))
+            (VP=H
+            (VP=H (VBZ=H is)
+            (NP (DT a) (NN transcription) (NN=H factor))
+            (S
+            (VP=H (VBN=H involved)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H regulation))
+            (PP (IN=H of)
+            (NP (DT the) (NN=H HIV)))))
+            (NP
+            (ADJP (JJ long) (JJ=H terminal))
+            (NN=H repeat)))))
+            (CC and)
+            (VP (VBZ=H is)
+            (ADVP (RB=H selectively))
+            (VP (VBN=H activated)
+            (PP (VBG=H following)
+            (NP
+            (NP=H (NN HIV) (NN=H infection))
+            (PP (IN=H of)
+            (NP (JJ human) (NNS=H macrophages))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="425-700" id="S4">
+        <text xml:space="preserve">Although little information as to what signal transduction pathways mediate NF-kappa B activation in monocytes-macrophages is available, our previous work indicated that classical protein kinase C (PKC) isoenzymes were not involved in the HIV-mediated NF-kappa B activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="425-433" text="Although" lemma="although"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="434-440" text="little" lemma="little"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="441-452" text="information" lemma="information"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="453-455" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_5" POS="TO" charOffset="456-458" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_6" POS="WP" charOffset="459-463" text="what" lemma="what"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="464-470" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="471-483" text="transduction" lemma="transduction"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="484-492" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_10" POS="VBP" charOffset="493-500" text="mediate" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="501-509" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="510-511" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="512-522" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="523-525" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="526-547" text="monocytes-macrophages" lemma="monocytes-macrophage"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="548-550" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="551-560" text="available" lemma="available"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="560-561" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="PRP$" charOffset="562-565" text="our" lemma="we"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="566-574" text="previous" lemma="previous"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="575-579" text="work" lemma="work"/>
+            <token xml:space="preserve" id="stt_22" POS="VBD" charOffset="580-589" text="indicated" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="590-594" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="595-604" text="classical" lemma="classical"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="605-612" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="613-619" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="620-621" text="C" lemma="c"/>
+            <token xml:space="preserve" id="stt_28" POS="-LRB-" charOffset="622-623" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="623-626" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_30" POS="-RRB-" charOffset="626-627" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_31" POS="NNS" charOffset="628-638" text="isoenzymes" lemma="isoenzyme"/>
+            <token xml:space="preserve" id="stt_32" POS="VBD" charOffset="639-643" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_33" POS="RB" charOffset="644-647" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_34" POS="VBN" charOffset="648-656" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_35" POS="IN" charOffset="657-659" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_36" POS="DT" charOffset="660-663" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_37" POS="JJ" charOffset="664-676" text="HIV-mediated" lemma="hiv-mediated"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="677-685" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="686-687" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="688-698" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_41" POS="." charOffset="698-699" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H Although)
+            (S
+            (NP
+            (NP=H (JJ little) (NN=H information))
+            (PP (IN=H as) (TO to)
+            (SBAR
+            (WHNP=H (WP=H what))
+            (S
+            (NP (NN signal) (NN transduction) (NNS=H pathways))
+            (VP=H (VBP=H mediate)
+            (NP
+            (NP=H (NN NF-kappa) (NN B) (NN=H activation))
+            (PP (IN=H in)
+            (NP (NNS=H monocytes-macrophages)))))))))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H available)))))
+            (, ,)
+            (NP (PRP$ our) (JJ previous) (NN=H work))
+            (VP=H (VBD=H indicated)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP (JJ classical) (NN protein) (NN kinase) (NN=H C))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H PKC))
+            (-RRB- -RRB-))
+            (NNS=H isoenzymes))
+            (VP=H (VBD=H were) (RB not)
+            (VP (VBN=H involved)
+            (PP (IN=H in)
+            (NP (DT the) (JJ HIV-mediated) (NN NF-kappa) (NN B) (NN=H activation))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="700-759" id="S5">
+        <text xml:space="preserve">In this study, we have focused on atypical PKC isoenzymes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="700-702" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="703-707" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="708-713" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="713-714" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="715-717" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="718-722" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="723-730" text="focused" lemma="focus"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="731-733" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="734-742" text="atypical" lemma="atypical"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="743-746" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="747-757" text="isoenzymes" lemma="isoenzyme"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="757-758" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (DT this) (NN=H study)))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H have)
+            (VP (VBN=H focused)
+            (PP (IN=H on)
+            (NP (JJ atypical) (NN PKC) (NNS=H isoenzymes)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="759-876" id="S6">
+        <text xml:space="preserve">PKC-zeta belongs to this family and is known to be an important step in NF-kappa B activation in other cell systems. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="759-767" text="PKC-zeta" lemma="pkc-zeta"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="768-775" text="belongs" lemma="belong"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="776-778" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="779-783" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="784-790" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="791-794" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="795-797" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="798-803" text="known" lemma="know"/>
+            <token xml:space="preserve" id="stt_9" POS="TO" charOffset="804-806" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_10" POS="VB" charOffset="807-809" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="810-812" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="813-822" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="823-827" text="step" lemma="step"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="828-830" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="831-839" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="840-841" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="842-852" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="853-855" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="856-861" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="862-866" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="867-874" text="systems" lemma="system"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="874-875" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H PKC-zeta))
+            (VP=H
+            (VP=H (VBZ=H belongs)
+            (PP (TO=H to)
+            (NP (DT this) (NN=H family))))
+            (CC and)
+            (VP (VBZ=H is)
+            (VP (VBN=H known)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (NP
+            (NP=H (DT an) (JJ important) (NN=H step))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN NF-kappa) (NN B) (NN=H activation))
+            (PP (IN=H in)
+            (NP (JJ other) (NN cell) (NNS=H systems))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="876-1048" id="S7">
+        <text xml:space="preserve">Immunoblotting experiments with U937 cells demonstrate that PKC-zeta is present in these cells, and its expression can be downmodulated by antisense oligonucleotides (AO). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="876-890" text="Immunoblotting" lemma="immunoblotting"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="891-902" text="experiments" lemma="experiment"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="903-907" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="908-912" text="U937" lemma="u937"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="913-918" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="919-930" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="931-935" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="936-944" text="PKC-zeta" lemma="pkc-zeta"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="945-947" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="948-955" text="present" lemma="present"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="956-958" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="959-964" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="965-970" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="970-971" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="972-975" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="PRP$" charOffset="976-979" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="980-990" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_18" POS="MD" charOffset="991-994" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_19" POS="VB" charOffset="995-997" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_20" POS="VBN" charOffset="998-1011" text="downmodulated" lemma="downmodulate"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1012-1014" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="1015-1024" text="antisense" lemma="antisense"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="1025-1041" text="oligonucleotides" lemma="oligonucleotide"/>
+            <token xml:space="preserve" id="stt_24" POS="-LRB-" charOffset="1042-1043" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="1043-1045" text="AO" lemma="ao"/>
+            <token xml:space="preserve" id="stt_26" POS="-RRB-" charOffset="1045-1046" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="1046-1047" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP
+            (NP=H (NN Immunoblotting) (NNS=H experiments))
+            (PP (IN=H with)
+            (NP (NN U937) (NNS=H cells))))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H PKC-zeta))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H present)
+            (PP (IN=H in)
+            (NP (DT these) (NNS=H cells)))))))))
+            (, ,)
+            (CC and)
+            (S
+            (NP (PRP$ its) (NN=H expression))
+            (VP=H (MD=H can)
+            (VP (VB=H be)
+            (VP (VBN=H downmodulated)
+            (PP (IN=H by)
+            (NP
+            (NP=H (JJ antisense) (NNS=H oligonucleotides))
+            (PRN (-LRB- -LRB-)
+            (NP=H (JJ=H AO))
+            (-RRB- -RRB-))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1048-1129" id="S8">
+        <text xml:space="preserve">The HIV-mediated NF-kappa B activation is selectively reduced by AO to PKC-zeta. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1048-1051" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="1052-1064" text="HIV-mediated" lemma="hiv-mediated"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1065-1073" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1074-1075" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1076-1086" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="1087-1089" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="1090-1101" text="selectively" lemma="selectively"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="1102-1109" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1110-1112" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1113-1115" text="AO" lemma="ao"/>
+            <token xml:space="preserve" id="stt_11" POS="TO" charOffset="1116-1118" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1119-1127" text="PKC-zeta" lemma="pkc-zeta"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="1127-1128" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (JJ HIV-mediated) (NN NF-kappa) (NN B) (NN=H activation))
+            (VP=H (VBZ=H is)
+            (ADVP (RB=H selectively))
+            (VP (VBN=H reduced)
+            (PP (IN=H by)
+            (NP
+            (NP=H (JJ=H AO))
+            (PP (TO=H to)
+            (NP (NN=H PKC-zeta)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1129-1379" id="S9">
+        <text xml:space="preserve">In addition, cotransfection of a negative dominant molecule of PKC-zeta (PKC-zeta mut) with NF-kappa B-dependent reporter genes selectively inhibits the HIV- but not phorbol myristate acetate- or lipopolysaccharide-mediated activation of NF-kappa B. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1129-1131" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1132-1140" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="1140-1141" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1142-1156" text="cotransfection" lemma="cotransfection"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1157-1159" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1160-1161" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1162-1170" text="negative" lemma="negative"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1171-1179" text="dominant" lemma="dominant"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1180-1188" text="molecule" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1189-1191" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1192-1200" text="PKC-zeta" lemma="pkc-zeta"/>
+            <token xml:space="preserve" id="stt_12" POS="-LRB-" charOffset="1201-1202" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1202-1210" text="PKC-zeta" lemma="pkc-zeta"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1211-1214" text="mut" lemma="mut"/>
+            <token xml:space="preserve" id="stt_15" POS="-RRB-" charOffset="1214-1215" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1216-1220" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1221-1229" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1230-1241" text="B-dependent" lemma="b-dependent"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1242-1250" text="reporter" lemma="reporter"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="1251-1256" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_21" POS="RB" charOffset="1257-1268" text="selectively" lemma="selectively"/>
+            <token xml:space="preserve" id="stt_22" POS="VBZ" charOffset="1269-1277" text="inhibits" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="1278-1281" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1282-1285" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_25" POS=":" charOffset="1285-1286" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_26" POS="CC" charOffset="1287-1290" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_27" POS="RB" charOffset="1291-1294" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1295-1302" text="phorbol" lemma="phorbol"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1303-1312" text="myristate" lemma="myristate"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1313-1320" text="acetate" lemma="acetate"/>
+            <token xml:space="preserve" id="stt_31" POS=":" charOffset="1320-1321" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_32" POS="CC" charOffset="1322-1324" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_33" POS="JJ" charOffset="1325-1352" text="lipopolysaccharide-mediated" lemma="lipopolysaccharide-mediated"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1353-1363" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_35" POS="IN" charOffset="1364-1366" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1367-1375" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_37" POS="NNP" charOffset="1376-1378" text="B." lemma="B."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H addition)))
+            (, ,)
+            (NP
+            (NP=H (NN=H cotransfection))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a) (JJ negative) (JJ dominant) (NN=H molecule))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (NP=H (NN=H PKC-zeta))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN PKC-zeta) (NN=H mut))
+            (-RRB- -RRB-)))
+            (PP (IN=H with)
+            (NP (NN NF-kappa) (JJ B-dependent) (NN reporter) (NNS=H genes))))))))
+            (VP=H
+            (ADVP (RB=H selectively))
+            (VBZ=H inhibits)
+            (NP
+            (NP=H (DT the) (NN=H HIV))
+            (PRN (: -)
+            (CONJP (CC=H but)
+            (RB not))
+            (NP=H
+            (NP=H (NN=H phorbol))
+            (NP (NN myristate) (NN=H acetate)))
+            (: -))
+            (CC or)
+            (NP
+            (NP=H (JJ lipopolysaccharide-mediated) (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN NF-kappa) (NNP=H B.))))))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1379-1595" id="S10">
+        <text xml:space="preserve">That PKC-zeta is specific in regulating NF-kappa B is concluded from the inability of PKC-zeta(mut) to interfere with the basal or phorbol myristate acetate-inducible CREB- or AP1-dependent transcriptional activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1379-1383" text="That" lemma="that"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1384-1392" text="PKC-zeta" lemma="pkc-zeta"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="1393-1395" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1396-1404" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1405-1407" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="VBG" charOffset="1408-1418" text="regulating" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1419-1427" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1428-1429" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="1430-1432" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="1433-1442" text="concluded" lemma="conclude"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1443-1447" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1448-1451" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1452-1461" text="inability" lemma="inability"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1462-1464" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1465-1473" text="PKC-zeta" lemma="pkc-zeta"/>
+            <token xml:space="preserve" id="stt_16" POS="-LRB-" charOffset="1473-1474" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1474-1477" text="mut" lemma="mut"/>
+            <token xml:space="preserve" id="stt_18" POS="-RRB-" charOffset="1477-1478" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_19" POS="TO" charOffset="1479-1481" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_20" POS="VB" charOffset="1482-1491" text="interfere" lemma="interfere"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1492-1496" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="1497-1500" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="1501-1506" text="basal" lemma="basal"/>
+            <token xml:space="preserve" id="stt_24" POS="CC" charOffset="1507-1509" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1510-1517" text="phorbol" lemma="phorbol"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1518-1527" text="myristate" lemma="myristate"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="1528-1545" text="acetate-inducible" lemma="acetate-inducible"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1546-1550" text="CREB" lemma="creb"/>
+            <token xml:space="preserve" id="stt_29" POS=":" charOffset="1550-1551" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_30" POS="CC" charOffset="1552-1554" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="1555-1568" text="AP1-dependent" lemma="ap1-dependent"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="1569-1584" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1585-1593" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_34" POS="." charOffset="1593-1594" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT That) (NN=H PKC-zeta))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H
+            (ADJP (JJ=H specific)
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H regulating)
+            (SBAR
+            (S=H
+            (NP (NN NF-kappa) (NN=H B))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H concluded)
+            (PP (IN=H from)
+            (NP
+            (NP=H (DT the) (NN=H inability))
+            (PP (IN=H of)
+            (NP (NN=H PKC-zeta)
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H mut))
+            (-RRB- -RRB-))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H interfere)
+            (PP (IN=H with)
+            (NP (DT the) (JJ basal)
+            (CC or)
+            (NN phorbol) (NN=H myristate))))))))))))))))))
+            (JJ acetate-inducible) (NN=H CREB))
+            (: -)
+            (CC or)
+            (NP
+            (ADJP (JJ AP1-dependent) (JJ=H transcriptional))
+            (NN=H activity))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1595-1727" id="S11">
+        <text xml:space="preserve">Lastly, we demonstrate a selective inhibition of p24 production by HIV-infected human macrophages when treated with AO to PKC-zeta. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1595-1601" text="Lastly" lemma="lastly"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1601-1602" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP" charOffset="1603-1605" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="1606-1617" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="1618-1619" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1620-1629" text="selective" lemma="selective"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1630-1640" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1641-1643" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1644-1647" text="p24" lemma="p24"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1648-1658" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1659-1661" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1662-1674" text="HIV-infected" lemma="hiv-infected"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1675-1680" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="1681-1692" text="macrophages" lemma="macrophage"/>
+            <token xml:space="preserve" id="stt_15" POS="WRB" charOffset="1693-1697" text="when" lemma="when"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="1698-1705" text="treated" lemma="treat"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1706-1710" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1711-1713" text="AO" lemma="ao"/>
+            <token xml:space="preserve" id="stt_19" POS="TO" charOffset="1714-1716" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1717-1725" text="PKC-zeta" lemma="pkc-zeta"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="1725-1726" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Lastly))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H demonstrate)
+            (NP
+            (NP=H (DT a) (JJ selective) (NN=H inhibition))
+            (PP (IN=H of)
+            (NP (NN p24) (NN=H production))))
+            (PP (IN=H by)
+            (NP (JJ HIV-infected) (JJ human) (NNS=H macrophages)))
+            (SBAR
+            (WHADVP=H (WRB=H when))
+            (S
+            (VP=H (VBN=H treated)
+            (PP (IN=H with)
+            (NP
+            (NP=H (JJ=H AO))
+            (PP (TO=H to)
+            (NP (NN=H PKC-zeta)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1727-1965" id="S12">
+        <text xml:space="preserve">Altogether, these results suggest that atypical PKC isoenzymes, including PKC-zeta, participate in the signal transduction pathways by which HIV infection results in the activation of NF-kappa B in human monocytic cells and macrophages. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1727-1737" text="Altogether" lemma="altogether"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1737-1738" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1739-1744" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1745-1752" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="1753-1760" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1761-1765" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1766-1774" text="atypical" lemma="atypical"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1775-1778" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1779-1789" text="isoenzymes" lemma="isoenzyme"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="1789-1790" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="VBG" charOffset="1791-1800" text="including" lemma="include"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1801-1809" text="PKC-zeta" lemma="pkc-zeta"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="1809-1810" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="VB" charOffset="1811-1822" text="participate" lemma="participate"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1823-1825" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="1826-1829" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1830-1836" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1837-1849" text="transduction" lemma="transduction"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="1850-1858" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1859-1861" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_21" POS="WDT" charOffset="1862-1867" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1868-1871" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1872-1881" text="infection" lemma="infection"/>
+            <token xml:space="preserve" id="stt_24" POS="VBZ" charOffset="1882-1889" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="1890-1892" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="1893-1896" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1897-1907" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="1908-1910" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1911-1919" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1920-1921" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="1922-1924" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="1925-1930" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_33" POS="JJ" charOffset="1931-1940" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_34" POS="NNS" charOffset="1941-1946" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_35" POS="CC" charOffset="1947-1950" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_36" POS="NNS" charOffset="1951-1962" text="macrophages" lemma="macrophage"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="1962-1963" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Altogether))
+            (, ,)
+            (NP (DT these) (NNS=H results))
+            (VP=H (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (JJ atypical) (NN PKC) (NNS=H isoenzymes))
+            (, ,)
+            (PP (VBG=H including)
+            (NP (NN=H PKC-zeta)))
+            (, ,))
+            (VP=H (VB=H participate)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN signal) (NN transduction) (NNS=H pathways))
+            (SBAR
+            (WHPP=H (IN=H by)
+            (WHNP (WDT=H which)))
+            (S
+            (NP (NN HIV) (NN=H infection))
+            (VP=H (VBZ=H results)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN NF-kappa) (NN=H B)))))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ human) (JJ monocytic) (NNS=H cells))
+            (CC and)
+            (NP (NNS=H macrophages)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T10" type="ZeroArticleNP" charOffset="734-757" headOffset="747-757" text="atypical PKC isoenzymes"/>
+    <Term xml:space="preserve" id="T11" type="DemonstrativeNP" charOffset="779-790" headOffset="784-790" text="this family"/>
+    <Term xml:space="preserve" id="T12" type="ZeroArticleNP" charOffset="936-944" headOffset="936-944" text="PKC-zeta"/>
+    <Term xml:space="preserve" id="T13" type="PossessivePronoun" charOffset="976-979" headOffset="976-979" text="its"/>
+    <Term xml:space="preserve" id="T14" type="DefiniteNP" charOffset="1826-1858" headOffset="1850-1858" text="the signal transduction pathways"/>
+    <Term xml:space="preserve" id="T15" type="RelativePronoun" charOffset="1862-1867" headOffset="1862-1867" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T11"/>
+        <Antecedent idref="T10"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T13"/>
+        <Antecedent idref="T12"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T15"/>
+        <Antecedent idref="T14"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="0-21" headOffset="15-21" text="Protein kinase C-zeta"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="759-767" headOffset="759-767" text="PKC-zeta"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="936-944" headOffset="936-944" text="PKC-zeta"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="1119-1127" headOffset="1119-1127" text="PKC-zeta"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="1192-1200" headOffset="1192-1200" text="PKC-zeta"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="1202-1210" headOffset="1202-1210" text="PKC-zeta"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="1384-1392" headOffset="1384-1392" text="PKC-zeta"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="1465-1473" headOffset="1465-1473" text="PKC-zeta"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="1546-1550" headOffset="1546-1550" text="CREB"/>
+</document>

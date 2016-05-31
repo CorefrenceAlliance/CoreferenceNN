@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9838061">
+    <text xml:space="preserve">Anaphylatoxins C5a and C3a induce nuclear factor kappaB activation in human peripheral blood monocytes. 
+The anaphylatoxins C5a and C3a are involved in the regulation of cytokine production. In this study the capability of C5a and C3a to induce transcription factor activation was examined. C5a and C3a stimulation of human peripheral blood monocytes resulted in nuclear expression of a DNA binding activity with specificity to the kappaB sequence. The p50 and p65 proteins, constituents of the prototypic nuclear factor kappaB, were identified as components of the DNA-protein complexes by anti-peptide antibodies in gel supershift assays. C5a induced kappaB binding activity was detected 15 min after agonist stimulation, peaked at 30-40 min, and remained detectable at 2 h. Binding to kappaB sequence was accompanied by an initial decrease and subsequent increase in the cytoplasmic IkappaBalpha levels, as detected by Western blotting using an anti-IkappaBalpha antibody. Pertussis toxin treatment markedly decreased kappaB binding activities induced by both C5a and C3a, whereas cholera toxin displayed no inhibitory effect. Neither of the two toxins affected kappaB binding activity induced by TNFalpha in the same cells. These results imply a potential role of the anaphylatoxins C5a and C3a in regulating leukocytes gene expression through G protein-coupled transcription factor activation. 
+</text>
+    <sentence charOffset="0-105" id="S1">
+        <text xml:space="preserve">Anaphylatoxins C5a and C3a induce nuclear factor kappaB activation in human peripheral blood monocytes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="0-14" text="Anaphylatoxins" lemma="anaphylatoxin"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="15-18" text="C5a" lemma="c5a"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="19-22" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="23-26" text="C3a" lemma="c3a"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="27-33" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="34-41" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="42-48" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="49-55" text="kappaB" lemma="kappab"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="56-66" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="67-69" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="70-75" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="76-86" text="peripheral" lemma="peripheral"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="87-92" text="blood" lemma="blood"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="93-102" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="102-103" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NNS Anaphylatoxins) (NN=H C5a))
+            (CC and)
+            (NP (NN=H C3a)))
+            (VP=H (VBP=H induce)
+            (NP
+            (NP=H (JJ nuclear) (NN factor) (NN kappaB) (NN=H activation))
+            (PP (IN=H in)
+            (NP (JJ human) (JJ peripheral) (NN blood) (NNS=H monocytes)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="105-191" id="S2">
+        <text xml:space="preserve">The anaphylatoxins C5a and C3a are involved in the regulation of cytokine production. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="105-108" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="109-123" text="anaphylatoxins" lemma="anaphylatoxin"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="124-127" text="C5a" lemma="c5a"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="128-131" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="132-135" text="C3a" lemma="c3a"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="136-139" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="140-148" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="149-151" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="152-155" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="156-166" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="167-169" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="170-178" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="179-189" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="189-190" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NNS anaphylatoxins) (NN=H C5a)
+            (CC and)
+            (NN C3a))
+            (VP=H (VBP=H are)
+            (VP (VBN=H involved)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H regulation))
+            (PP (IN=H of)
+            (NP (NN cytokine) (NN=H production)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="191-291" id="S3">
+        <text xml:space="preserve">In this study the capability of C5a and C3a to induce transcription factor activation was examined. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="191-193" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="194-198" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="199-204" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="205-208" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="209-219" text="capability" lemma="capability"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="220-222" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="223-226" text="C5a" lemma="c5a"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="227-230" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="231-234" text="C3a" lemma="c3a"/>
+            <token xml:space="preserve" id="stt_10" POS="TO" charOffset="235-237" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_11" POS="VB" charOffset="238-244" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="245-258" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="259-265" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="266-276" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_15" POS="VBD" charOffset="277-280" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="281-289" text="examined" lemma="examine"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="289-290" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (DT this) (NN=H study)))
+            (NP
+            (NP=H (DT the) (NN=H capability))
+            (PP (IN=H of)
+            (NP (NN=H C5a)
+            (CC and)
+            (NN C3a)))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H induce)
+            (NP (NN transcription) (NN factor) (NN=H activation))))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H examined)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="291-449" id="S4">
+        <text xml:space="preserve">C5a and C3a stimulation of human peripheral blood monocytes resulted in nuclear expression of a DNA binding activity with specificity to the kappaB sequence. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="291-294" text="C5a" lemma="c5a"/>
+            <token xml:space="preserve" id="stt_2" POS="CC" charOffset="295-298" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="299-302" text="C3a" lemma="c3a"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="303-314" text="stimulation" lemma="stimulation"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="315-317" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="318-323" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="324-334" text="peripheral" lemma="peripheral"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="335-340" text="blood" lemma="blood"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="341-350" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="351-359" text="resulted" lemma="result"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="360-362" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="363-370" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="371-381" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="382-384" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="385-386" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="387-390" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="391-398" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="399-407" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="408-412" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="413-424" text="specificity" lemma="specificity"/>
+            <token xml:space="preserve" id="stt_21" POS="TO" charOffset="425-427" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="428-431" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="432-438" text="kappaB" lemma="kappab"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="439-447" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="447-448" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN C5a)
+            (CC and)
+            (NN C3a) (NN=H stimulation))
+            (PP (IN=H of)
+            (NP (JJ human) (JJ peripheral) (NN blood) (NNS=H monocytes))))
+            (VP=H (VBD=H resulted)
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ nuclear) (NN=H expression))
+            (PP (IN=H of)
+            (NP (DT a) (NN DNA) (NN binding) (NN=H activity)))))
+            (PP (IN=H with)
+            (NP (NN=H specificity)))
+            (PP (TO=H to)
+            (NP (DT the) (NN kappaB) (NN=H sequence))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="449-641" id="S5">
+        <text xml:space="preserve">The p50 and p65 proteins, constituents of the prototypic nuclear factor kappaB, were identified as components of the DNA-protein complexes by anti-peptide antibodies in gel supershift assays. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="449-452" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="453-456" text="p50" lemma="p50"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="457-460" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="461-464" text="p65" lemma="p65"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="465-473" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="473-474" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="475-487" text="constituents" lemma="constituent"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="488-490" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="491-494" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="495-505" text="prototypic" lemma="prototypic"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="506-513" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="514-520" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="521-527" text="kappaB" lemma="kappab"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="527-528" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="VBD" charOffset="529-533" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="534-544" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="545-547" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="548-558" text="components" lemma="component"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="559-561" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="562-565" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="566-577" text="DNA-protein" lemma="dna-protein"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="578-587" text="complexes" lemma="complex"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="588-590" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="591-603" text="anti-peptide" lemma="anti-peptide"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="604-614" text="antibodies" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="615-617" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="618-621" text="gel" lemma="gel"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="622-632" text="supershift" lemma="supershift"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="633-639" text="assays" lemma="assay"/>
+            <token xml:space="preserve" id="stt_30" POS="." charOffset="639-640" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN p50)
+            (CC and)
+            (NN p65) (NNS=H proteins))
+            (, ,)
+            (NP
+            (NP=H (NNS=H constituents))
+            (PP (IN=H of)
+            (NP (DT the) (JJ prototypic) (JJ nuclear) (NN factor) (NN=H kappaB))))
+            (, ,))
+            (VP=H (VBD=H were)
+            (VP (VBN=H identified)
+            (PP (IN=H as)
+            (NP
+            (NP=H (NNS=H components))
+            (PP (IN=H of)
+            (NP (DT the) (JJ DNA-protein) (NNS=H complexes)))))
+            (PP (IN=H by)
+            (NP
+            (NP=H (JJ anti-peptide) (NNS=H antibodies))
+            (PP (IN=H in)
+            (NP (NN gel) (NN supershift) (NNS=H assays)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="641-777" id="S6">
+        <text xml:space="preserve">C5a induced kappaB binding activity was detected 15 min after agonist stimulation, peaked at 30-40 min, and remained detectable at 2 h. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="641-644" text="C5a" lemma="c5a"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="645-652" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="653-659" text="kappaB" lemma="kappab"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="660-667" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="668-676" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="677-680" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="681-689" text="detected" lemma="detect"/>
+            <token xml:space="preserve" id="stt_8" POS="CD" charOffset="690-692" text="15" lemma="15"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="693-696" text="min" lemma="min"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="697-702" text="after" lemma="after"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="703-710" text="agonist" lemma="agonist"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="711-722" text="stimulation" lemma="stimulation"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="722-723" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="VBD" charOffset="724-730" text="peaked" lemma="peak"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="731-733" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_16" POS="CD" charOffset="734-739" text="30-40" lemma="30-40"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="740-743" text="min" lemma="min"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="743-744" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="745-748" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="VBD" charOffset="749-757" text="remained" lemma="remain"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="758-768" text="detectable" lemma="detectable"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="769-771" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_23" POS="CD" charOffset="772-773" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="774-776" text="h." lemma="h."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H C5a))
+            (VP=H
+            (VP=H (VBD=H induced)
+            (SBAR
+            (S=H
+            (NP (NN kappaB) (NN binding) (NN=H activity))
+            (VP=H (VBD=H was)
+            (VP (VBN=H detected)
+            (NP (CD 15) (NN=H min))
+            (PP (IN=H after)
+            (NP (NN agonist) (NN=H stimulation))))))))
+            (, ,)
+            (VP (VBD=H peaked)
+            (PP (IN=H at)
+            (NP (CD 30-40) (NN=H min))))
+            (, ,)
+            (CC and)
+            (VP (VBD=H remained)
+            (ADJP (JJ=H detectable))
+            (PP (IN=H at)
+            (NP (CD 2) (NN=H h.)))))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="777-976" id="S7">
+        <text xml:space="preserve">Binding to kappaB sequence was accompanied by an initial decrease and subsequent increase in the cytoplasmic IkappaBalpha levels, as detected by Western blotting using an anti-IkappaBalpha antibody. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="777-784" text="Binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_2" POS="TO" charOffset="785-787" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="788-794" text="kappaB" lemma="kappab"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="795-803" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="804-807" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="808-819" text="accompanied" lemma="accompany"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="820-822" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="823-825" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="826-833" text="initial" lemma="initial"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="834-842" text="decrease" lemma="decrease"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="843-846" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="847-857" text="subsequent" lemma="subsequent"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="858-866" text="increase" lemma="increase"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="867-869" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="870-873" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="874-885" text="cytoplasmic" lemma="cytoplasmic"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="886-898" text="IkappaBalpha" lemma="ikappabalpha"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="899-905" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="905-906" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="907-909" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_21" POS="VBN" charOffset="910-918" text="detected" lemma="detect"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="919-921" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="922-929" text="Western" lemma="western"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="930-938" text="blotting" lemma="blotting"/>
+            <token xml:space="preserve" id="stt_25" POS="VBG" charOffset="939-944" text="using" lemma="use"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="945-947" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="948-965" text="anti-IkappaBalpha" lemma="anti-ikappabalpha"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="966-974" text="antibody" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="974-975" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Binding))
+            (PP (TO=H to)
+            (NP (NN kappaB) (NN=H sequence))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H accompanied)
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT an) (JJ initial) (NN=H decrease))
+            (CC and)
+            (NP (JJ subsequent) (NN=H increase))))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (JJ cytoplasmic) (NN IkappaBalpha) (NNS=H levels))
+            (, ,)
+            (SBAR (IN=H as)
+            (S
+            (VP=H (VBN=H detected)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN Western) (NN=H blotting))
+            (VP (VBG=H using)
+            (NP (DT an) (JJ anti-IkappaBalpha) (NN=H antibody))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="976-1130" id="S8">
+        <text xml:space="preserve">Pertussis toxin treatment markedly decreased kappaB binding activities induced by both C5a and C3a, whereas cholera toxin displayed no inhibitory effect. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="976-985" text="Pertussis" lemma="pertussis"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="986-991" text="toxin" lemma="toxin"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="992-1001" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="1002-1010" text="markedly" lemma="markedly"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="1011-1020" text="decreased" lemma="decrease"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1021-1027" text="kappaB" lemma="kappab"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1028-1035" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1036-1046" text="activities" lemma="activity"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="1047-1054" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1055-1057" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="1058-1062" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1063-1066" text="C5a" lemma="c5a"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="1067-1070" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1071-1074" text="C3a" lemma="c3a"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="1074-1075" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1076-1083" text="whereas" lemma="whereas"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1084-1091" text="cholera" lemma="cholera"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1092-1097" text="toxin" lemma="toxin"/>
+            <token xml:space="preserve" id="stt_19" POS="VBD" charOffset="1098-1107" text="displayed" lemma="display"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="1108-1110" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="1111-1121" text="inhibitory" lemma="inhibitory"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1122-1128" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="1128-1129" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Pertussis) (NN toxin) (NN=H treatment))
+            (ADVP (RB=H markedly))
+            (VP=H (VBD=H decreased)
+            (NP
+            (NP=H (NN kappaB) (NN binding) (NNS=H activities))
+            (VP (VBN=H induced)
+            (PP (IN=H by)
+            (NP (CC both)
+            (NP=H (NN=H C5a))
+            (CC and)
+            (NP (NN=H C3a))))
+            (, ,)
+            (SBAR (IN=H whereas)
+            (S
+            (NP (NN cholera) (NN=H toxin))
+            (VP=H (VBD=H displayed)
+            (NP (DT no) (JJ inhibitory) (NN=H effect))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1130-1228" id="S9">
+        <text xml:space="preserve">Neither of the two toxins affected kappaB binding activity induced by TNFalpha in the same cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1130-1137" text="Neither" lemma="neither"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1138-1140" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1141-1144" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="CD" charOffset="1145-1148" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="1149-1155" text="toxins" lemma="toxin"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="1156-1164" text="affected" lemma="affect"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1165-1171" text="kappaB" lemma="kappab"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1172-1179" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1180-1188" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="1189-1196" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1197-1199" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1200-1208" text="TNFalpha" lemma="tnfalpha"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1209-1211" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="1212-1215" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="1216-1220" text="same" lemma="same"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="1221-1226" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="1226-1227" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT=H Neither))
+            (PP (IN=H of)
+            (NP (DT the) (CD two) (NNS=H toxins))))
+            (VP=H (VBD=H affected)
+            (NP
+            (NP=H (NN kappaB) (NN binding) (NN=H activity))
+            (VP (VBN=H induced)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H TNFalpha))
+            (PP (IN=H in)
+            (NP (DT the) (JJ same) (NNS=H cells))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1228-1400" id="S10">
+        <text xml:space="preserve">These results imply a potential role of the anaphylatoxins C5a and C3a in regulating leukocytes gene expression through G protein-coupled transcription factor activation. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1228-1233" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1234-1241" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1242-1247" text="imply" lemma="imply"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="1248-1249" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1250-1259" text="potential" lemma="potential"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1260-1264" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1265-1267" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="1268-1271" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1272-1286" text="anaphylatoxins" lemma="anaphylatoxin"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1287-1290" text="C5a" lemma="c5a"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="1291-1294" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1295-1298" text="C3a" lemma="c3a"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1299-1301" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="VBG" charOffset="1302-1312" text="regulating" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="1313-1323" text="leukocytes" lemma="leukocyte"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1324-1328" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1329-1339" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1340-1347" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1348-1349" text="G" lemma="g"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="1350-1365" text="protein-coupled" lemma="protein-coupled"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1366-1379" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1380-1386" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1387-1397" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="1397-1398" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H results))
+            (VP=H (VBP=H imply)
+            (NP
+            (NP=H (DT a) (JJ potential) (NN=H role))
+            (PP (IN=H of)
+            (NP (DT the) (NNS anaphylatoxins) (NN=H C5a)
+            (CC and)
+            (NN C3a))))
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H regulating)
+            (NP
+            (NP=H (NNS leukocytes) (NN gene) (NN=H expression))
+            (PP (IN=H through)
+            (NP
+            (NP=H (NN=H G))
+            (NP (JJ protein-coupled) (NN transcription) (NN factor) (NN=H activation)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="15-18" headOffset="15-18" text="C5a"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="23-26" headOffset="23-26" text="C3a"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="124-127" headOffset="124-127" text="C5a"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="132-135" headOffset="132-135" text="C3a"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="223-226" headOffset="223-226" text="C5a"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="231-234" headOffset="231-234" text="C3a"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="291-294" headOffset="291-294" text="C5a"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="299-302" headOffset="299-302" text="C3a"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="453-456" headOffset="453-456" text="p50"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="461-464" headOffset="461-464" text="p65"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="641-644" headOffset="641-644" text="C5a"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="886-898" headOffset="886-898" text="IkappaBalpha"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="953-965" headOffset="953-965" text="IkappaBalpha"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1063-1066" headOffset="1063-1066" text="C5a"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1071-1074" headOffset="1071-1074" text="C3a"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="1200-1208" headOffset="1200-1208" text="TNFalpha"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="1287-1290" headOffset="1287-1290" text="C5a"/>
+    <Term xml:space="preserve" id="T18" type="Protein" charOffset="1295-1298" headOffset="1295-1298" text="C3a"/>
+</document>

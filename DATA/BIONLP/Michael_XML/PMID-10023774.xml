@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10023774">
+    <text xml:space="preserve">RFLAT-1: a new zinc finger transcription factor that activates RANTES gene expression in T lymphocytes. 
+RANTES (Regulated upon Activation, Normal T cell Expressed and Secreted) is a chemoattractant cytokine (chemokine) important in the generation of inflammatory infiltrate and human immunodeficiency virus entry into immune cells. RANTES is expressed late (3-5 days) after activation in T lymphocytes. Using expression cloning, we identified the first "late" T lymphocyte associated transcription factor and named it "RANTES Factor of Late Activated T Lymphocytes-1" (RFLAT-1). RFLAT-1 is a novel, phosphorylated, zinc finger transcription factor that is expressed in T cells 3 days after activation, coincident with RANTES expression. While Rel proteins play the dominant role in RANTES gene expression in fibroblasts, RFLAT-1 is a strong transactivator for RANTES in T cells. 
+</text>
+    <sentence charOffset="0-105" id="S1">
+        <text xml:space="preserve">RFLAT-1: a new zinc finger transcription factor that activates RANTES gene expression in T lymphocytes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-7" text="RFLAT-1" lemma="rflat-1"/>
+            <token xml:space="preserve" id="stt_2" POS=":" charOffset="7-8" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="9-10" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="11-14" text="new" lemma="new"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="15-19" text="zinc" lemma="zinc"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="20-26" text="finger" lemma="finger"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="27-40" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="41-47" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_9" POS="WDT" charOffset="48-52" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="53-62" text="activates" lemma="activate"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="63-69" text="RANTES" lemma="rantes"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="70-74" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="75-85" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="86-88" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="89-90" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="91-102" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="102-103" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H RFLAT-1))
+            (: :)
+            (NP
+            (NP=H (DT a) (JJ new) (NN zinc) (NN finger) (NN transcription) (NN=H factor))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H activates)
+            (NP
+            (NP=H (NN RANTES) (NN gene) (NN=H expression))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H lymphocytes))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="105-333" id="S2">
+        <text xml:space="preserve">RANTES (Regulated upon Activation, Normal T cell Expressed and Secreted) is a chemoattractant cytokine (chemokine) important in the generation of inflammatory infiltrate and human immunodeficiency virus entry into immune cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="105-111" text="RANTES" lemma="rantes"/>
+            <token xml:space="preserve" id="stt_2" POS="-LRB-" charOffset="112-113" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="113-122" text="Regulated" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="123-127" text="upon" lemma="upon"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="128-138" text="Activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="138-139" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="140-146" text="Normal" lemma="normal"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="147-148" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="149-153" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="154-163" text="Expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="164-167" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="168-176" text="Secreted" lemma="secrete"/>
+            <token xml:space="preserve" id="stt_13" POS="-RRB-" charOffset="176-177" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_14" POS="VBZ" charOffset="178-180" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="181-182" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="183-198" text="chemoattractant" lemma="chemoattractant"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="199-207" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_18" POS="-LRB-" charOffset="208-209" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="209-218" text="chemokine" lemma="chemokine"/>
+            <token xml:space="preserve" id="stt_20" POS="-RRB-" charOffset="218-219" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="220-229" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="230-232" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="233-236" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="237-247" text="generation" lemma="generation"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="248-250" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="251-263" text="inflammatory" lemma="inflammatory"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="264-274" text="infiltrate" lemma="infiltrate"/>
+            <token xml:space="preserve" id="stt_28" POS="CC" charOffset="275-278" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="279-284" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="285-301" text="immunodeficiency" lemma="immunodeficiency"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="302-307" text="virus" lemma="virus"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="308-313" text="entry" lemma="entry"/>
+            <token xml:space="preserve" id="stt_33" POS="IN" charOffset="314-318" text="into" lemma="into"/>
+            <token xml:space="preserve" id="stt_34" POS="JJ" charOffset="319-325" text="immune" lemma="immune"/>
+            <token xml:space="preserve" id="stt_35" POS="NNS" charOffset="326-331" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_36" POS="." charOffset="331-332" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H RANTES))
+            (PRN (-LRB- -LRB-)
+            (VP=H (VBN=H Regulated)
+            (PP (IN=H upon)
+            (NP
+            (NP=H (NN=H Activation))
+            (, ,)
+            (NP
+            (NP=H (JJ Normal) (NN T) (NN=H cell))
+            (VP (VBN=H Expressed)
+            (CC and)
+            (VBN Secreted))))))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (NN chemoattractant) (NN=H cytokine))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H chemokine))
+            (-RRB- -RRB-))
+            (ADJP (JJ=H important)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H generation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ inflammatory) (NN=H infiltrate))
+            (CC and)
+            (NP (JJ human) (NN immunodeficiency) (NN virus) (NN=H entry))))))))
+            (PP (IN=H into)
+            (NP (JJ immune) (NNS=H cells))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="333-404" id="S3">
+        <text xml:space="preserve">RANTES is expressed late (3-5 days) after activation in T lymphocytes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="333-339" text="RANTES" lemma="rantes"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="340-342" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="343-352" text="expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="353-357" text="late" lemma="late"/>
+            <token xml:space="preserve" id="stt_5" POS="-LRB-" charOffset="358-359" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_6" POS="CD" charOffset="359-362" text="3-5" lemma="3-5"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="363-367" text="days" lemma="day"/>
+            <token xml:space="preserve" id="stt_8" POS="-RRB-" charOffset="367-368" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="369-374" text="after" lemma="after"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="375-385" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="386-388" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="389-390" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="391-402" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="402-403" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H RANTES))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H expressed)
+            (NP
+            (NP=H (JJ=H late))
+            (PRN (-LRB- -LRB-)
+            (NP=H (CD 3-5) (NNS=H days))
+            (-RRB- -RRB-)))
+            (PP (IN=H after)
+            (NP
+            (NP=H (NN=H activation))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H lymphocytes)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="404-580" id="S4">
+        <text xml:space="preserve">Using expression cloning, we identified the first "late" T lymphocyte associated transcription factor and named it "RANTES Factor of Late Activated T Lymphocytes-1" (RFLAT-1). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBG" charOffset="404-409" text="Using" lemma="use"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="410-420" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="421-428" text="cloning" lemma="cloning"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="428-429" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="430-432" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="433-443" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="444-447" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="448-453" text="first" lemma="first"/>
+            <token xml:space="preserve" id="stt_9" POS="``" charOffset="454-455" text="&quot;" lemma="``"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="455-459" text="late" lemma="late"/>
+            <token xml:space="preserve" id="stt_11" POS="''" charOffset="459-460" text="&quot;" lemma="''"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="461-462" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="463-473" text="lymphocyte" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="474-484" text="associated" lemma="associate"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="485-498" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="499-505" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="506-509" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="VBD" charOffset="510-515" text="named" lemma="name"/>
+            <token xml:space="preserve" id="stt_19" POS="PRP" charOffset="516-518" text="it" lemma="it"/>
+            <token xml:space="preserve" id="stt_20" POS="``" charOffset="519-520" text="&quot;" lemma="``"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="520-526" text="RANTES" lemma="rantes"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="527-533" text="Factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="534-536" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="537-541" text="Late" lemma="late"/>
+            <token xml:space="preserve" id="stt_25" POS="VBN" charOffset="542-551" text="Activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="552-553" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="554-567" text="Lymphocytes-1" lemma="lymphocytes-1"/>
+            <token xml:space="preserve" id="stt_28" POS="''" charOffset="567-568" text="&quot;" lemma="''"/>
+            <token xml:space="preserve" id="stt_29" POS="-LRB-" charOffset="569-570" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="570-577" text="RFLAT-1" lemma="rflat-1"/>
+            <token xml:space="preserve" id="stt_31" POS="-RRB-" charOffset="577-578" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="578-579" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (VBG=H Using)
+            (NP (NN expression) (NN=H cloning))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H identified)
+            (NP
+            (NP=H
+            (NP=H (DT the) (JJ first) (`` ``) (JJ late) ('' '') (NN T) (NN=H lymphocyte))
+            (VP
+            (VP=H (VBN=H associated)
+            (NP (NN transcription) (NN=H factor)))
+            (CC and)
+            (VP (VBD=H named)
+            (NP (PRP=H it))
+            (`` ``)
+            (SBAR
+            (S=H
+            (NP
+            (NP=H (NN RANTES) (NN=H Factor))
+            (PP (IN=H of)
+            (NP (JJ=H Late))))
+            (VP=H (VBN=H Activated)
+            (NP (NN T) (NNS=H Lymphocytes-1)))))
+            ('' ''))))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H RFLAT-1))
+            (-RRB- -RRB-))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="580-738" id="S5">
+        <text xml:space="preserve">RFLAT-1 is a novel, phosphorylated, zinc finger transcription factor that is expressed in T cells 3 days after activation, coincident with RANTES expression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="580-587" text="RFLAT-1" lemma="rflat-1"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="588-590" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="591-592" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="593-598" text="novel" lemma="novel"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="598-599" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="600-614" text="phosphorylated" lemma="phosphorylate"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="614-615" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="616-620" text="zinc" lemma="zinc"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="621-627" text="finger" lemma="finger"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="628-641" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="642-648" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_12" POS="WDT" charOffset="649-653" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="654-656" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="657-666" text="expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="667-669" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="670-671" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="672-677" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="CD" charOffset="678-679" text="3" lemma="3"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="680-684" text="days" lemma="day"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="685-690" text="after" lemma="after"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="691-701" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="701-702" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="703-713" text="coincident" lemma="coincident"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="714-718" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="719-725" text="RANTES" lemma="rantes"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="726-736" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="736-737" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H RFLAT-1))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H
+            (NP=H (DT a) (JJ=H novel))
+            (, ,)
+            (VP (VBN=H phosphorylated)))
+            (, ,)
+            (NP
+            (NP=H (NN zinc) (NN finger) (NN transcription) (NN=H factor))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H is)
+            (VP (VBN=H expressed)
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells)))
+            (NP-TMP (CD 3) (NNS=H days))
+            (PP (IN=H after)
+            (NP (NN=H activation))))))))
+            (, ,)
+            (ADJP (JJ=H coincident)
+            (PP (IN=H with)
+            (NP (NN RANTES) (NN=H expression))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="738-881" id="S6">
+        <text xml:space="preserve">While Rel proteins play the dominant role in RANTES gene expression in fibroblasts, RFLAT-1 is a strong transactivator for RANTES in T cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="738-743" text="While" lemma="while"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="744-747" text="Rel" lemma="rel"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="748-756" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="757-761" text="play" lemma="play"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="762-765" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="766-774" text="dominant" lemma="dominant"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="775-779" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="780-782" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="783-789" text="RANTES" lemma="rantes"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="790-794" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="795-805" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="806-808" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="809-820" text="fibroblasts" lemma="fibroblast"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="820-821" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="822-829" text="RFLAT-1" lemma="rflat-1"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="830-832" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="833-834" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="835-841" text="strong" lemma="strong"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="842-856" text="transactivator" lemma="transactivator"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="857-860" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="861-867" text="RANTES" lemma="rantes"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="868-870" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="871-872" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="873-878" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="878-879" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H While)
+            (S
+            (NP (NN Rel) (NNS=H proteins))
+            (VP=H (VBP=H play)
+            (NP
+            (NP=H (DT the) (JJ dominant) (NN=H role))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN RANTES) (NN gene) (NN=H expression))
+            (PP (IN=H in)
+            (NP (NNS=H fibroblasts)))))))))
+            (, ,)
+            (NP (NN=H RFLAT-1))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (JJ strong) (NN=H transactivator))
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN=H RANTES))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T13" type="IndefiniteNP" charOffset="9-47" headOffset="41-47" text="a new zinc finger transcription factor"/>
+    <Term xml:space="preserve" id="T14" type="RelativePronoun" charOffset="48-52" headOffset="48-52" text="that"/>
+    <Term xml:space="preserve" id="T15" type="DefiniteNP" charOffset="444-505" headOffset="499-505" text="the first &quot;late&quot; T lymphocyte associated transcription factor"/>
+    <Term xml:space="preserve" id="T16" type="PersonalPronoun" charOffset="516-518" headOffset="516-518" text="it"/>
+    <Term xml:space="preserve" id="T17" type="IndefiniteNP" charOffset="591-648" headOffset="642-648" text="a novel, phosphorylated, zinc finger transcription factor"/>
+    <Term xml:space="preserve" id="T18" type="RelativePronoun" charOffset="649-653" headOffset="649-653" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T14"/>
+        <Antecedent idref="T13"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T16"/>
+        <Antecedent idref="T15"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T18"/>
+        <Antecedent idref="T17"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="0-7" headOffset="0-7" text="RFLAT-1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="63-69" headOffset="63-69" text="RANTES"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="105-111" headOffset="105-111" text="RANTES"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="113-176" headOffset="113-122" text="Regulated upon Activation, Normal T cell Expressed and Secreted"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="333-339" headOffset="333-339" text="RANTES"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="520-567" headOffset="527-533" text="RANTES Factor of Late Activated T Lymphocytes-1"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="570-577" headOffset="570-577" text="RFLAT-1"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="580-587" headOffset="580-587" text="RFLAT-1"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="719-725" headOffset="719-725" text="RANTES"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="783-789" headOffset="783-789" text="RANTES"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="822-829" headOffset="822-829" text="RFLAT-1"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="861-867" headOffset="861-867" text="RANTES"/>
+</document>

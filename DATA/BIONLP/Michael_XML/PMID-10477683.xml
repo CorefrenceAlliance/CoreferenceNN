@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10477683">
+    <text xml:space="preserve">c-Maf induces monocytic differentiation and apoptosis in bipotent myeloid progenitors. 
+The transcriptional mechanisms that drive colony-forming unit granulocyte-macrophage (CFU-GM) myeloid progenitors to differentiate into cells of either the granulocytic or monocytic lineage are not fully understood. We have shown that the c-Maf and c-Myb transcription factors physically interact in myeloid cells to form inhibitory complexes that hinder transactivation of c-Myb target genes through direct binding to Myb consensus sites. These complexes arise in a developmentally regulated pattern, peaking at the promyelocyte stage, or in cell model systems, appearing soon after the induction of monocytic differentiation. We wished to determine if this developmentally related interaction is a consequence of myeloid differentiation or an intrinsic differentiating stimulus. Because the elevated Myb:Maf status seen in differentiating cells can be recapitulated by overexpression of c-Maf in myeloid cell lines, we inducibly expressed the c-Maf cDNA in 2 bipotent human myeloid progenitor cells. Elevated levels of c-Maf protein led to marked increases in Myb:Maf complexes and the accumulation of monocyte/macrophage cells, followed by eventual programmed cell death. Analysis of targets that could mediate these phenotypic changes indicated that c-Maf likely plays a key role in myeloid cell development through dual mechanisms; inhibition of a select set of c-Myb regulated targets, such as Bcl-2 and CD13/APN, coupled with the activation of as yet undefined differentiation-promoting genes. 
+</text>
+    <sentence charOffset="0-88" id="S1">
+        <text xml:space="preserve">c-Maf induces monocytic differentiation and apoptosis in bipotent myeloid progenitors. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-5" text="c-Maf" lemma="c-maf"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="6-13" text="induces" lemma="induce"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="14-23" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="24-39" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="40-43" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="44-53" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="54-56" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="57-65" text="bipotent" lemma="bipotent"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="66-73" text="myeloid" lemma="myeloid"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="74-85" text="progenitors" lemma="progenitor"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="85-86" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H c-Maf))
+            (VP=H (VBZ=H induces)
+            (NP (JJ monocytic) (NN=H differentiation)
+            (CC and)
+            (NN apoptosis))
+            (PP (IN=H in)
+            (NP (JJ bipotent) (JJ myeloid) (NNS=H progenitors))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="88-304" id="S2">
+        <text xml:space="preserve">The transcriptional mechanisms that drive colony-forming unit granulocyte-macrophage (CFU-GM) myeloid progenitors to differentiate into cells of either the granulocytic or monocytic lineage are not fully understood. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="88-91" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="92-107" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="108-118" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_4" POS="WDT" charOffset="119-123" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="124-129" text="drive" lemma="drive"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="130-144" text="colony-forming" lemma="colony-forming"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="145-149" text="unit" lemma="unit"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="150-172" text="granulocyte-macrophage" lemma="granulocyte-macrophage"/>
+            <token xml:space="preserve" id="stt_9" POS="-LRB-" charOffset="173-174" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="174-180" text="CFU-GM" lemma="cfu-gm"/>
+            <token xml:space="preserve" id="stt_11" POS="-RRB-" charOffset="180-181" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="182-189" text="myeloid" lemma="myeloid"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="190-201" text="progenitors" lemma="progenitor"/>
+            <token xml:space="preserve" id="stt_14" POS="TO" charOffset="202-204" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_15" POS="VB" charOffset="205-218" text="differentiate" lemma="differentiate"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="219-223" text="into" lemma="into"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="224-229" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="230-232" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="233-239" text="either" lemma="either"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="240-243" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="244-256" text="granulocytic" lemma="granulocytic"/>
+            <token xml:space="preserve" id="stt_22" POS="CC" charOffset="257-259" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="260-269" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="270-277" text="lineage" lemma="lineage"/>
+            <token xml:space="preserve" id="stt_25" POS="VBP" charOffset="278-281" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_26" POS="RB" charOffset="282-285" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_27" POS="RB" charOffset="286-291" text="fully" lemma="fully"/>
+            <token xml:space="preserve" id="stt_28" POS="VBN" charOffset="292-302" text="understood" lemma="understand"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="302-303" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (JJ transcriptional) (NNS=H mechanisms))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H drive)
+            (NP
+            (NP=H (JJ colony-forming) (NN=H unit))
+            (SBAR
+            (S=H
+            (NP (JJ granulocyte-macrophage)
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H CFU-GM))
+            (-RRB- -RRB-))
+            (JJ myeloid) (NNS=H progenitors))
+            (VP=H (TO=H to)
+            (VP (VB=H differentiate)
+            (PP (IN=H into)
+            (NP
+            (NP=H (NNS=H cells))
+            (PP (IN=H of)
+            (NP (CC either)
+            (DT the) (JJ granulocytic)
+            (CC or)
+            (JJ monocytic) (NN=H lineage))))))))))))))
+            (VP=H (VBP=H are) (RB not)
+            (VP
+            (ADVP (RB=H fully))
+            (VBN=H understood)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="304-528" id="S3">
+        <text xml:space="preserve">We have shown that the c-Maf and c-Myb transcription factors physically interact in myeloid cells to form inhibitory complexes that hinder transactivation of c-Myb target genes through direct binding to Myb consensus sites. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="304-306" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="307-311" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="312-317" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="318-322" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="323-326" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="327-332" text="c-Maf" lemma="c-maf"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="333-336" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="337-342" text="c-Myb" lemma="c-myb"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="343-356" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="357-364" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_11" POS="RB" charOffset="365-375" text="physically" lemma="physically"/>
+            <token xml:space="preserve" id="stt_12" POS="VBP" charOffset="376-384" text="interact" lemma="interact"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="385-387" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="388-395" text="myeloid" lemma="myeloid"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="396-401" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="TO" charOffset="402-404" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_17" POS="VB" charOffset="405-409" text="form" lemma="form"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="410-420" text="inhibitory" lemma="inhibitory"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="421-430" text="complexes" lemma="complex"/>
+            <token xml:space="preserve" id="stt_20" POS="WDT" charOffset="431-435" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_21" POS="VBP" charOffset="436-442" text="hinder" lemma="hinder"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="443-458" text="transactivation" lemma="transactivation"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="459-461" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="462-467" text="c-Myb" lemma="c-myb"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="468-474" text="target" lemma="target"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="475-480" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="481-488" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="489-495" text="direct" lemma="direct"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="496-503" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_30" POS="TO" charOffset="504-506" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="507-510" text="Myb" lemma="myb"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="511-520" text="consensus" lemma="consensus"/>
+            <token xml:space="preserve" id="stt_33" POS="NNS" charOffset="521-526" text="sites" lemma="site"/>
+            <token xml:space="preserve" id="stt_34" POS="." charOffset="526-527" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H have)
+            (VP (VBN=H shown)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT the) (NN c-Maf)
+            (CC and)
+            (NN c-Myb) (NN transcription) (NNS=H factors))
+            (ADVP (RB=H physically))
+            (VP=H (VBP=H interact)
+            (PP (IN=H in)
+            (NP (JJ myeloid) (NNS=H cells)))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H form)
+            (NP
+            (NP=H (JJ inhibitory) (NNS=H complexes))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H hinder)
+            (NP
+            (NP=H (NN=H transactivation))
+            (PP (IN=H of)
+            (NP (NN c-Myb) (NN target) (NNS=H genes))))))))
+            (PP (IN=H through)
+            (NP (JJ direct) (NN=H binding)))
+            (PP (TO=H to)
+            (NP (NN Myb) (NN consensus) (NNS=H sites)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="528-716" id="S4">
+        <text xml:space="preserve">These complexes arise in a developmentally regulated pattern, peaking at the promyelocyte stage, or in cell model systems, appearing soon after the induction of monocytic differentiation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="528-533" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="534-543" text="complexes" lemma="complex"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="544-549" text="arise" lemma="arise"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="550-552" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="553-554" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="555-570" text="developmentally" lemma="developmentally"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="571-580" text="regulated" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="581-588" text="pattern" lemma="pattern"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="588-589" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="VBG" charOffset="590-597" text="peaking" lemma="peak"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="598-600" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="601-604" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="605-617" text="promyelocyte" lemma="promyelocyte"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="618-623" text="stage" lemma="stage"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="623-624" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="625-627" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="628-630" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="631-635" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="636-641" text="model" lemma="model"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="642-649" text="systems" lemma="system"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="649-650" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="VBG" charOffset="651-660" text="appearing" lemma="appear"/>
+            <token xml:space="preserve" id="stt_23" POS="RB" charOffset="661-665" text="soon" lemma="soon"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="666-671" text="after" lemma="after"/>
+            <token xml:space="preserve" id="stt_25" POS="DT" charOffset="672-675" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="676-685" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="686-688" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="689-698" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="699-714" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_30" POS="." charOffset="714-715" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H complexes))
+            (VP=H (VBP=H arise)
+            (PP (IN=H in)
+            (NP (DT a)
+            (ADJP (RB developmentally) (VBN=H regulated))
+            (NN=H pattern)))
+            (, ,)
+            (S
+            (VP=H
+            (VP=H (VBG=H peaking)
+            (PP
+            (PP=H (IN=H at)
+            (NP (DT the) (JJ promyelocyte) (NN=H stage)))
+            (, ,)
+            (CC or)
+            (PP (IN=H in)
+            (NP (NN cell) (NN model) (NNS=H systems)))))
+            (, ,)
+            (VP (VBG=H appearing)
+            (ADVP (RB=H soon))
+            (PP (IN=H after)
+            (NP
+            (NP=H (DT the) (NN=H induction))
+            (PP (IN=H of)
+            (NP (JJ monocytic) (NN=H differentiation)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="716-869" id="S5">
+        <text xml:space="preserve">We wished to determine if this developmentally related interaction is a consequence of myeloid differentiation or an intrinsic differentiating stimulus. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="716-718" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="719-725" text="wished" lemma="wish"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="726-728" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="VB" charOffset="729-738" text="determine" lemma="determine"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="739-741" text="if" lemma="if"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="742-746" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="747-762" text="developmentally" lemma="developmentally"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="763-770" text="related" lemma="related"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="771-782" text="interaction" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="783-785" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="786-787" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="788-799" text="consequence" lemma="consequence"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="800-802" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="803-810" text="myeloid" lemma="myeloid"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="811-826" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="827-829" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="830-832" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="833-842" text="intrinsic" lemma="intrinsic"/>
+            <token xml:space="preserve" id="stt_19" POS="VBG" charOffset="843-858" text="differentiating" lemma="differentiate"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="859-867" text="stimulus" lemma="stimulus"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="867-868" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H wished)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H determine)
+            (SBAR (IN=H if)
+            (S
+            (NP (DT this)
+            (ADJP (RB developmentally) (JJ=H related))
+            (NN=H interaction))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (NN=H consequence))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ myeloid) (NN=H differentiation))
+            (CC or)
+            (NP (DT an) (JJ intrinsic) (VBG differentiating) (NN=H stimulus))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="869-1090" id="S6">
+        <text xml:space="preserve">Because the elevated Myb:Maf status seen in differentiating cells can be recapitulated by overexpression of c-Maf in myeloid cell lines, we inducibly expressed the c-Maf cDNA in 2 bipotent human myeloid progenitor cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="869-876" text="Because" lemma="because"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="877-880" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="881-889" text="elevated" lemma="elevated"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="890-893" text="Myb" lemma="myb"/>
+            <token xml:space="preserve" id="stt_5" POS=":" charOffset="893-894" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="894-897" text="Maf" lemma="maf"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="898-904" text="status" lemma="status"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="905-909" text="seen" lemma="see"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="910-912" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_10" POS="VBG" charOffset="913-928" text="differentiating" lemma="differentiate"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="929-934" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="MD" charOffset="935-938" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_13" POS="VB" charOffset="939-941" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="942-955" text="recapitulated" lemma="recapitulate"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="956-958" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="959-973" text="overexpression" lemma="overexpression"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="974-976" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="977-982" text="c-Maf" lemma="c-maf"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="983-985" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="986-993" text="myeloid" lemma="myeloid"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="994-998" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="999-1004" text="lines" lemma="line"/>
+            <token xml:space="preserve" id="stt_23" POS="," charOffset="1004-1005" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_24" POS="PRP" charOffset="1006-1008" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_25" POS="RB" charOffset="1009-1018" text="inducibly" lemma="inducibly"/>
+            <token xml:space="preserve" id="stt_26" POS="VBD" charOffset="1019-1028" text="expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="1029-1032" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1033-1038" text="c-Maf" lemma="c-maf"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1039-1043" text="cDNA" lemma="cdna"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="1044-1046" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_31" POS="CD" charOffset="1047-1048" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="1049-1057" text="bipotent" lemma="bipotent"/>
+            <token xml:space="preserve" id="stt_33" POS="JJ" charOffset="1058-1063" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_34" POS="JJ" charOffset="1064-1071" text="myeloid" lemma="myeloid"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1072-1082" text="progenitor" lemma="progenitor"/>
+            <token xml:space="preserve" id="stt_36" POS="NNS" charOffset="1083-1088" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="1088-1089" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H Because)
+            (S
+            (NP
+            (NP=H (DT the) (JJ elevated) (NN=H Myb))
+            (: :)
+            (NP
+            (NP=H (NN Maf) (NN=H status))
+            (VP (VBN=H seen)
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H differentiating)
+            (NP (NNS=H cells))))))))
+            (VP=H (MD=H can)
+            (VP (VB=H be)
+            (VP (VBN=H recapitulated)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H overexpression))
+            (PP (IN=H of)
+            (NP (NN=H c-Maf)))))
+            (PP (IN=H in)
+            (NP (JJ myeloid) (NN cell) (NNS=H lines))))))))
+            (, ,)
+            (NP (PRP=H we))
+            (ADVP (RB=H inducibly))
+            (VP=H (VBD=H expressed)
+            (NP (DT the) (NN c-Maf) (NN=H cDNA))
+            (PP (IN=H in)
+            (NP
+            (ADJP (CD 2) (JJ=H bipotent))
+            (JJ human) (JJ myeloid) (NN progenitor) (NNS=H cells))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1090-1263" id="S7">
+        <text xml:space="preserve">Elevated levels of c-Maf protein led to marked increases in Myb:Maf complexes and the accumulation of monocyte/macrophage cells, followed by eventual programmed cell death. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1090-1098" text="Elevated" lemma="elevated"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1099-1105" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1106-1108" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1109-1114" text="c-Maf" lemma="c-maf"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1115-1122" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="1123-1126" text="led" lemma="lead"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="1127-1129" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1130-1136" text="marked" lemma="marked"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1137-1146" text="increases" lemma="increase"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1147-1149" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1150-1153" text="Myb" lemma="myb"/>
+            <token xml:space="preserve" id="stt_12" POS=":" charOffset="1153-1154" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1154-1157" text="Maf" lemma="maf"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="1158-1167" text="complexes" lemma="complex"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="1168-1171" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="1172-1175" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1176-1188" text="accumulation" lemma="accumulation"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1189-1191" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1192-1211" text="monocyte/macrophage" lemma="monocyte/macrophage"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="1212-1217" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="1217-1218" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="VBN" charOffset="1219-1227" text="followed" lemma="follow"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1228-1230" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="1231-1239" text="eventual" lemma="eventual"/>
+            <token xml:space="preserve" id="stt_25" POS="VBN" charOffset="1240-1250" text="programmed" lemma="program"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1251-1255" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1256-1261" text="death" lemma="death"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="1261-1262" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Elevated) (NNS=H levels))
+            (PP (IN=H of)
+            (NP (NN c-Maf) (NN=H protein))))
+            (VP=H (VBD=H led)
+            (PP (TO=H to)
+            (NP (JJ marked) (NNS=H increases)))
+            (PP (IN=H in)
+            (NP
+            (NP=H
+            (NP=H (NN=H Myb))
+            (: :)
+            (NP (NN Maf) (NNS=H complexes)))
+            (CC and)
+            (NP
+            (NP=H (DT the) (NN=H accumulation))
+            (PP (IN=H of)
+            (NP (NN monocyte/macrophage) (NNS=H cells))))))
+            (, ,)
+            (PP (VBN=H followed)
+            (PP (IN=H by)
+            (NP
+            (NP=H (JJ=H eventual))
+            (VP (VBN=H programmed)
+            (NP (NN cell) (NN=H death)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1263-1590" id="S8">
+        <text xml:space="preserve">Analysis of targets that could mediate these phenotypic changes indicated that c-Maf likely plays a key role in myeloid cell development through dual mechanisms; inhibition of a select set of c-Myb regulated targets, such as Bcl-2 and CD13/APN, coupled with the activation of as yet undefined differentiation-promoting genes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1263-1271" text="Analysis" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1272-1274" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="1275-1282" text="targets" lemma="target"/>
+            <token xml:space="preserve" id="stt_4" POS="WDT" charOffset="1283-1287" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="MD" charOffset="1288-1293" text="could" lemma="could"/>
+            <token xml:space="preserve" id="stt_6" POS="VB" charOffset="1294-1301" text="mediate" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="1302-1307" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1308-1318" text="phenotypic" lemma="phenotypic"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1319-1326" text="changes" lemma="change"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="1327-1336" text="indicated" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1337-1341" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1342-1347" text="c-Maf" lemma="c-maf"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1348-1354" text="likely" lemma="likely"/>
+            <token xml:space="preserve" id="stt_14" POS="VBZ" charOffset="1355-1360" text="plays" lemma="play"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="1361-1362" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1363-1366" text="key" lemma="key"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1367-1371" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1372-1374" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="1375-1382" text="myeloid" lemma="myeloid"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1383-1387" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1388-1399" text="development" lemma="development"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1400-1407" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="1408-1412" text="dual" lemma="dual"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="1413-1423" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_25" POS=":" charOffset="1423-1424" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1425-1435" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1436-1438" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_28" POS="DT" charOffset="1439-1440" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="1441-1447" text="select" lemma="select"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1448-1451" text="set" lemma="set"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="1452-1454" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1455-1460" text="c-Myb" lemma="c-myb"/>
+            <token xml:space="preserve" id="stt_33" POS="VBN" charOffset="1461-1470" text="regulated" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_34" POS="NNS" charOffset="1471-1478" text="targets" lemma="target"/>
+            <token xml:space="preserve" id="stt_35" POS="," charOffset="1478-1479" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_36" POS="JJ" charOffset="1480-1484" text="such" lemma="such"/>
+            <token xml:space="preserve" id="stt_37" POS="IN" charOffset="1485-1487" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="1488-1493" text="Bcl-2" lemma="bcl-2"/>
+            <token xml:space="preserve" id="stt_39" POS="CC" charOffset="1494-1497" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="1498-1506" text="CD13/APN" lemma="cd13/apn"/>
+            <token xml:space="preserve" id="stt_41" POS="," charOffset="1506-1507" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_42" POS="VBN" charOffset="1508-1515" text="coupled" lemma="couple"/>
+            <token xml:space="preserve" id="stt_43" POS="IN" charOffset="1516-1520" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_44" POS="DT" charOffset="1521-1524" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_45" POS="NN" charOffset="1525-1535" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_46" POS="IN" charOffset="1536-1538" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_47" POS="RB" charOffset="1539-1541" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_48" POS="RB" charOffset="1542-1545" text="yet" lemma="yet"/>
+            <token xml:space="preserve" id="stt_49" POS="JJ" charOffset="1546-1555" text="undefined" lemma="undefined"/>
+            <token xml:space="preserve" id="stt_50" POS="JJ" charOffset="1556-1581" text="differentiation-promoting" lemma="differentiation-promoting"/>
+            <token xml:space="preserve" id="stt_51" POS="NNS" charOffset="1582-1587" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_52" POS="." charOffset="1587-1588" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Analysis))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H targets))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (MD=H could)
+            (VP (VB=H mediate)
+            (NP (DT these) (JJ phenotypic) (NNS=H changes)))))))))
+            (VP=H (VBD=H indicated)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H c-Maf))
+            (ADJP (JJ=H likely)))
+            (VP=H (VBZ=H plays)
+            (NP (DT a) (JJ key) (NN=H role))
+            (PP (IN=H in)
+            (NP (JJ myeloid) (NN cell) (NN=H development)))
+            (PP (IN=H through)
+            (NP (JJ dual) (NNS=H mechanisms)))
+            (: ;)
+            (NP
+            (NP=H (NN=H inhibition))
+            (PP (IN=H of)
+            (NP (DT a) (JJ select) (NN=H set)))
+            (PP (IN=H of)
+            (NP (NN c-Myb) (VBN regulated) (NNS=H targets)))
+            (, ,)
+            (PP (JJ such) (IN=H as)
+            (NP (NN=H Bcl-2)
+            (CC and)
+            (NN CD13/APN)))
+            (, ,)
+            (VP (VBN=H coupled)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT the) (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (ADJP (RB as) (RB yet) (JJ=H undefined))
+            (JJ differentiation-promoting) (NNS=H genes)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T13" type="DefiniteNP" charOffset="88-118" headOffset="108-118" text="The transcriptional mechanisms"/>
+    <Term xml:space="preserve" id="T14" type="RelativePronoun" charOffset="119-123" headOffset="119-123" text="that"/>
+    <Term xml:space="preserve" id="T15" type="ZeroArticleNP" charOffset="410-430" headOffset="421-430" text="inhibitory complexes"/>
+    <Term xml:space="preserve" id="T16" type="RelativePronoun" charOffset="431-435" headOffset="431-435" text="that"/>
+    <Term xml:space="preserve" id="T17" type="DemonstrativeNP" charOffset="528-543" headOffset="534-543" text="These complexes"/>
+    <Term xml:space="preserve" id="T18" type="ZeroArticleNP" charOffset="1275-1282" headOffset="1275-1282" text="targets"/>
+    <Term xml:space="preserve" id="T19" type="RelativePronoun" charOffset="1283-1287" headOffset="1283-1287" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T14"/>
+        <Antecedent idref="T13"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T16"/>
+        <Antecedent idref="T15"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T17"/>
+        <Antecedent idref="T15"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T19"/>
+        <Antecedent idref="T18"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="0-5" headOffset="0-5" text="c-Maf"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="327-332" headOffset="327-332" text="c-Maf"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="337-342" headOffset="337-342" text="c-Myb"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="462-467" headOffset="462-467" text="c-Myb"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="977-982" headOffset="977-982" text="c-Maf"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="1033-1038" headOffset="1033-1038" text="c-Maf"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="1109-1114" headOffset="1109-1114" text="c-Maf"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="1342-1347" headOffset="1342-1347" text="c-Maf"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="1455-1460" headOffset="1455-1460" text="c-Myb"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="1488-1493" headOffset="1488-1493" text="Bcl-2"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="1498-1502" headOffset="1498-1502" text="CD13"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="1503-1506" headOffset="1503-1506" text="APN"/>
+</document>

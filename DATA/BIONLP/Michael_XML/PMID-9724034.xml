@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9724034">
+    <text xml:space="preserve">Glucocorticoid-induced apoptosis and regulation of NF-kappaB activity in human leukemic T cells. 
+Glucocorticoid-induced apoptosis was investigated in glucocorticoid-sensitive 6TG1.1 and resistant ICR27TK.3 human leukemic T cells. Following glucocorticoid treatment of 6TG1.1 cells, chromatin fragmentation was observed after a delay of 24 h. Fragmentation was not observed in ICR27TK.3 cells containing mutant glucocorticoid receptors (L753F) that are activation-deficient but retain the ability to repress AP-1 activity. Nor was fragmentation observed after treatment with RU38486, indicating that repression of AP-1 activity is not involved. As described in other systems, fragmentation required ongoing protein synthesis. However, inhibition of protein synthesis with cycloheximide anytime during the first 18 h of steroid treatment was as effective in blocking chromatin fragmentation as inhibition for the entire period, suggesting that synthesis of a component with a rapid turnover rate is required. Dexamethasone treatment completely blocked 12-O-tetradecanoylphorbol 13-acetate induction of nuclear factor-kappaB (NF-kappaB) activity and elicited an increase in the amount of immunoreactive IkappaB alpha in sensitive 6TG1.1 cells but not in resistant ICR27TK.3 cells. In addition, mild detergent treatment of cell extracts indicated that a substantial amount of cytoplasmic NF-kappaB is complexed with IkappaB alpha or some other inhibitory factor. These results suggest that induction of a labile inhibitory factor such as IkappaB alpha may contribute to glucocorticoid-induced apoptosis. 
+</text>
+    <sentence charOffset="0-98" id="S1">
+        <text xml:space="preserve">Glucocorticoid-induced apoptosis and regulation of NF-kappaB activity in human leukemic T cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-22" text="Glucocorticoid-induced" lemma="glucocorticoid-induced"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="23-32" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="33-36" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="37-47" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="48-50" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="51-60" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="61-69" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="70-72" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="73-78" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="79-87" text="leukemic" lemma="leukemic"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="88-89" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="90-95" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="95-96" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (JJ Glucocorticoid-induced) (NN=H apoptosis)
+            (CC and)
+            (NN regulation))
+            (PP (IN=H of)
+            (NP (NN NF-kappaB) (NN=H activity)))
+            (PP (IN=H in)
+            (NP (JJ human) (JJ leukemic) (NN T) (NNS=H cells)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="98-231" id="S2">
+        <text xml:space="preserve">Glucocorticoid-induced apoptosis was investigated in glucocorticoid-sensitive 6TG1.1 and resistant ICR27TK.3 human leukemic T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="98-120" text="Glucocorticoid-induced" lemma="glucocorticoid-induced"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="121-130" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="131-134" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="135-147" text="investigated" lemma="investigate"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="148-150" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="151-175" text="glucocorticoid-sensitive" lemma="glucocorticoid-sensitive"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="176-180" text="6TG1" lemma="6tg1"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="180-182" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="183-186" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="187-196" text="resistant" lemma="resistant"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="197-204" text="ICR27TK" lemma="icr27tk"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="204-206" text=".3" lemma=".3"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="207-212" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="213-221" text="leukemic" lemma="leukemic"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="222-223" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="224-229" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="229-230" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Glucocorticoid-induced) (NN=H apoptosis))
+            (VP=H (VBD=H was)
+            (VP (VBN=H investigated)
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ glucocorticoid-sensitive) (NN 6TG1) (NN=H .1))
+            (CC and)
+            (NP (JJ resistant) (NN ICR27TK) (NN .3) (JJ human) (JJ leukemic) (NN T) (NNS=H cells))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="231-343" id="S3">
+        <text xml:space="preserve">Following glucocorticoid treatment of 6TG1.1 cells, chromatin fragmentation was observed after a delay of 24 h. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBG" charOffset="231-240" text="Following" lemma="follow"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="241-255" text="glucocorticoid" lemma="glucocorticoid"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="256-265" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="266-268" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="269-273" text="6TG1" lemma="6tg1"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="273-275" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="276-281" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="281-282" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="283-292" text="chromatin" lemma="chromatin"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="293-306" text="fragmentation" lemma="fragmentation"/>
+            <token xml:space="preserve" id="stt_11" POS="VBD" charOffset="307-310" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="311-319" text="observed" lemma="observe"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="320-325" text="after" lemma="after"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="326-327" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="328-333" text="delay" lemma="delay"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="334-336" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="CD" charOffset="337-339" text="24" lemma="24"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="340-342" text="h." lemma="h."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (VBG=H Following)
+            (NP
+            (NP=H (NN glucocorticoid) (NN=H treatment))
+            (PP (IN=H of)
+            (NP (NN 6TG1) (NN .1) (NNS=H cells)))))
+            (, ,)
+            (NP (NN chromatin) (NN=H fragmentation))
+            (VP=H (VBD=H was)
+            (VP (VBN=H observed)
+            (PP (IN=H after)
+            (NP
+            (NP=H (DT a) (NN=H delay))
+            (PP (IN=H of)
+            (NP (CD 24) (NN=H h.)))))))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="343-523" id="S4">
+        <text xml:space="preserve">Fragmentation was not observed in ICR27TK.3 cells containing mutant glucocorticoid receptors (L753F) that are activation-deficient but retain the ability to repress AP-1 activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="343-356" text="Fragmentation" lemma="fragmentation"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="357-360" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="361-364" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="365-373" text="observed" lemma="observe"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="374-376" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="377-384" text="ICR27TK" lemma="icr27tk"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="384-386" text=".3" lemma=".3"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="387-392" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="VBG" charOffset="393-403" text="containing" lemma="contain"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="404-410" text="mutant" lemma="mutant"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="411-425" text="glucocorticoid" lemma="glucocorticoid"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="426-435" text="receptors" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_13" POS="-LRB-" charOffset="436-437" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="437-442" text="L753F" lemma="l753f"/>
+            <token xml:space="preserve" id="stt_15" POS="-RRB-" charOffset="442-443" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_16" POS="WDT" charOffset="444-448" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_17" POS="VBP" charOffset="449-452" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="453-473" text="activation-deficient" lemma="activation-deficient"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="474-477" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_20" POS="VBP" charOffset="478-484" text="retain" lemma="retain"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="485-488" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="489-496" text="ability" lemma="ability"/>
+            <token xml:space="preserve" id="stt_23" POS="TO" charOffset="497-499" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_24" POS="VB" charOffset="500-507" text="repress" lemma="repress"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="508-512" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="513-521" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="521-522" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Fragmentation))
+            (VP=H (VBD=H was) (RB not)
+            (VP (VBN=H observed)
+            (PP (IN=H in)
+            (NP (NN ICR27TK) (NN .3) (NNS=H cells)))
+            (S
+            (VP=H (VBG=H containing)
+            (NP
+            (NP=H (JJ mutant) (NN glucocorticoid) (NNS=H receptors))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H L753F))
+            (-RRB- -RRB-))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H
+            (VP=H (VBP=H are)
+            (ADJP (JJ=H activation-deficient)))
+            (CC but)
+            (VP (VBP=H retain)
+            (NP (DT the) (NN=H ability))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H repress)
+            (NP (NN AP-1) (NN=H activity))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="523-645" id="S5">
+        <text xml:space="preserve">Nor was fragmentation observed after treatment with RU38486, indicating that repression of AP-1 activity is not involved. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="CC" charOffset="523-526" text="Nor" lemma="nor"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="527-530" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="531-544" text="fragmentation" lemma="fragmentation"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="545-553" text="observed" lemma="observe"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="554-559" text="after" lemma="after"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="560-569" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="570-574" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="575-582" text="RU38486" lemma="ru38486"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="582-583" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="VBG" charOffset="584-594" text="indicating" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="595-599" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="600-610" text="repression" lemma="repression"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="611-613" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="614-618" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="619-627" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="628-630" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_17" POS="RB" charOffset="631-634" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="635-643" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="643-644" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (SINV=H (CC Nor)
+            (VBD=H was)
+            (NP (NN=H fragmentation))
+            (VP (VBN=H observed)
+            (PP (IN=H after)
+            (NP (NN=H treatment)))
+            (PP (IN=H with)
+            (NP (NN=H RU38486)))
+            (, ,)
+            (S
+            (VP=H (VBG=H indicating)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H repression))
+            (PP (IN=H of)
+            (NP (NN AP-1) (NN=H activity))))
+            (VP=H (VBZ=H is) (RB not)
+            (ADJP (VBN=H involved))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="645-726" id="S6">
+        <text xml:space="preserve">As described in other systems, fragmentation required ongoing protein synthesis. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="645-647" text="As" lemma="as"/>
+            <token xml:space="preserve" id="stt_2" POS="VBN" charOffset="648-657" text="described" lemma="describe"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="658-660" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="661-666" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="667-674" text="systems" lemma="system"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="674-675" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="676-689" text="fragmentation" lemma="fragmentation"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="690-698" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="699-706" text="ongoing" lemma="ongoing"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="707-714" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="715-724" text="synthesis" lemma="synthesis"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="724-725" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H As)
+            (S
+            (VP=H (VBN=H described)
+            (PP (IN=H in)
+            (NP (JJ other) (NNS=H systems))))))
+            (, ,)
+            (NP (NN=H fragmentation))
+            (VP=H (VBD=H required)
+            (NP (JJ ongoing) (NN protein) (NN=H synthesis)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="726-1008" id="S7">
+        <text xml:space="preserve">However, inhibition of protein synthesis with cycloheximide anytime during the first 18 h of steroid treatment was as effective in blocking chromatin fragmentation as inhibition for the entire period, suggesting that synthesis of a component with a rapid turnover rate is required. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="726-733" text="However" lemma="however"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="733-734" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="735-745" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="746-748" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="749-756" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="757-766" text="synthesis" lemma="synthesis"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="767-771" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="772-785" text="cycloheximide" lemma="cycloheximide"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="786-793" text="anytime" lemma="anytime"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="794-800" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="801-804" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="805-810" text="first" lemma="first"/>
+            <token xml:space="preserve" id="stt_13" POS="CD" charOffset="811-813" text="18" lemma="18"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="814-815" text="h" lemma="h"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="816-818" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="819-826" text="steroid" lemma="steroid"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="827-836" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_18" POS="VBD" charOffset="837-840" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="841-843" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="844-853" text="effective" lemma="effective"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="854-856" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_22" POS="VBG" charOffset="857-865" text="blocking" lemma="block"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="866-875" text="chromatin" lemma="chromatin"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="876-889" text="fragmentation" lemma="fragmentation"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="890-892" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="893-903" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="904-907" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_28" POS="DT" charOffset="908-911" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="912-918" text="entire" lemma="entire"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="919-925" text="period" lemma="period"/>
+            <token xml:space="preserve" id="stt_31" POS="," charOffset="925-926" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_32" POS="VBG" charOffset="927-937" text="suggesting" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_33" POS="IN" charOffset="938-942" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="943-952" text="synthesis" lemma="synthesis"/>
+            <token xml:space="preserve" id="stt_35" POS="IN" charOffset="953-955" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_36" POS="DT" charOffset="956-957" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="958-967" text="component" lemma="component"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="968-972" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_39" POS="DT" charOffset="973-974" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_40" POS="JJ" charOffset="975-980" text="rapid" lemma="rapid"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="981-989" text="turnover" lemma="turnover"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="990-994" text="rate" lemma="rate"/>
+            <token xml:space="preserve" id="stt_43" POS="VBZ" charOffset="995-997" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_44" POS="VBN" charOffset="998-1006" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_45" POS="." charOffset="1006-1007" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H However))
+            (, ,)
+            (NP
+            (NP=H (NN=H inhibition))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN protein) (NN=H synthesis))
+            (PP (IN=H with)
+            (NP (NN=H cycloheximide))))))
+            (ADVP (RB=H anytime)
+            (PP (IN=H during)
+            (NP
+            (NP=H (DT the) (JJ first) (CD 18) (NN=H h))
+            (PP (IN=H of)
+            (NP (NN steroid) (NN=H treatment))))))
+            (VP=H (VBD=H was)
+            (ADJP (IN as) (JJ=H effective))
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H blocking)
+            (NP (NN chromatin) (NN=H fragmentation))
+            (PP (IN=H as)
+            (NP
+            (NP=H (NN=H inhibition))
+            (PP (IN=H for)
+            (NP (DT the) (JJ entire) (NN=H period))))))))
+            (, ,)
+            (S
+            (VP=H (VBG=H suggesting)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H synthesis))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a) (NN=H component))
+            (PP (IN=H with)
+            (NP (DT a) (JJ rapid) (NN turnover) (NN=H rate))))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H required))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1008-1279" id="S8">
+        <text xml:space="preserve">Dexamethasone treatment completely blocked 12-O-tetradecanoylphorbol 13-acetate induction of nuclear factor-kappaB (NF-kappaB) activity and elicited an increase in the amount of immunoreactive IkappaB alpha in sensitive 6TG1.1 cells but not in resistant ICR27TK.3 cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1008-1021" text="Dexamethasone" lemma="dexamethasone"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1022-1031" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="1032-1042" text="completely" lemma="completely"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="1043-1050" text="blocked" lemma="block"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1051-1076" text="12-O-tetradecanoylphorbol" lemma="12-o-tetradecanoylphorbol"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1077-1087" text="13-acetate" lemma="13-acetate"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1088-1097" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1098-1100" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1101-1108" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1109-1122" text="factor-kappaB" lemma="factor-kappab"/>
+            <token xml:space="preserve" id="stt_11" POS="-LRB-" charOffset="1123-1124" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1124-1133" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_13" POS="-RRB-" charOffset="1133-1134" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1135-1143" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="1144-1147" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="VBD" charOffset="1148-1156" text="elicited" lemma="elicit"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="1157-1159" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1160-1168" text="increase" lemma="increase"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1169-1171" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="1172-1175" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1176-1182" text="amount" lemma="amount"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1183-1185" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="1186-1200" text="immunoreactive" lemma="immunoreactive"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1201-1208" text="IkappaB" lemma="ikappab"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1209-1214" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="1215-1217" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="1218-1227" text="sensitive" lemma="sensitive"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1228-1232" text="6TG1" lemma="6tg1"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1232-1234" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="1235-1240" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_31" POS="CC" charOffset="1241-1244" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_32" POS="RB" charOffset="1245-1248" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_33" POS="IN" charOffset="1249-1251" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_34" POS="JJ" charOffset="1252-1261" text="resistant" lemma="resistant"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1262-1269" text="ICR27TK" lemma="icr27tk"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1269-1271" text=".3" lemma=".3"/>
+            <token xml:space="preserve" id="stt_37" POS="NNS" charOffset="1272-1277" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_38" POS="." charOffset="1277-1278" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Dexamethasone) (NN=H treatment))
+            (ADVP (RB=H completely))
+            (VP=H
+            (VP=H (VBD=H blocked)
+            (NP
+            (NP=H (NN 12-O-tetradecanoylphorbol) (NN 13-acetate) (NN=H induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ nuclear) (NN=H factor-kappaB))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H NF-kappaB))
+            (-RRB- -RRB-)))))
+            (NP-TMP (NN=H activity)))
+            (CC and)
+            (VP (VBD=H elicited)
+            (NP (DT an) (NN=H increase))
+            (PP
+            (PP=H (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H amount))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ immunoreactive) (NN=H IkappaB))
+            (ADJP (NN=H alpha)
+            (PP (IN=H in)
+            (NP (JJ sensitive) (NN 6TG1) (NN .1) (NNS=H cells))))))))
+            (CONJP (CC=H but)
+            (RB not))
+            (PP (IN=H in)
+            (NP (JJ resistant) (NN ICR27TK) (NN .3) (NNS=H cells))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1279-1460" id="S9">
+        <text xml:space="preserve">In addition, mild detergent treatment of cell extracts indicated that a substantial amount of cytoplasmic NF-kappaB is complexed with IkappaB alpha or some other inhibitory factor. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1279-1281" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1282-1290" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="1290-1291" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1292-1296" text="mild" lemma="mild"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1297-1306" text="detergent" lemma="detergent"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1307-1316" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1317-1319" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1320-1324" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1325-1333" text="extracts" lemma="extract"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="1334-1343" text="indicated" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1344-1348" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1349-1350" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1351-1362" text="substantial" lemma="substantial"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1363-1369" text="amount" lemma="amount"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1370-1372" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1373-1384" text="cytoplasmic" lemma="cytoplasmic"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1385-1394" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_18" POS="VBZ" charOffset="1395-1397" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_19" POS="VBN" charOffset="1398-1407" text="complexed" lemma="complex"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1408-1412" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1413-1420" text="IkappaB" lemma="ikappab"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1421-1426" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="1427-1429" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="1430-1434" text="some" lemma="some"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="1435-1440" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="1441-1451" text="inhibitory" lemma="inhibitory"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1452-1458" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="1458-1459" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H addition)))
+            (, ,)
+            (NP
+            (NP=H (JJ mild) (NN detergent) (NN=H treatment))
+            (PP (IN=H of)
+            (NP (NN cell) (NNS=H extracts))))
+            (VP=H (VBD=H indicated)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT a) (JJ substantial) (NN=H amount))
+            (PP (IN=H of)
+            (NP (JJ cytoplasmic) (NN=H NF-kappaB))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H complexed)
+            (PP (IN=H with)
+            (NP
+            (NP=H (NN IkappaB) (NN=H alpha))
+            (CC or)
+            (NP (DT some) (JJ other) (JJ inhibitory) (NN=H factor)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1460-1602" id="S10">
+        <text xml:space="preserve">These results suggest that induction of a labile inhibitory factor such as IkappaB alpha may contribute to glucocorticoid-induced apoptosis. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1460-1465" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1466-1473" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1474-1481" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1482-1486" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1487-1496" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1497-1499" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="1500-1501" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1502-1508" text="labile" lemma="labile"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1509-1519" text="inhibitory" lemma="inhibitory"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1520-1526" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1527-1531" text="such" lemma="such"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1532-1534" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1535-1542" text="IkappaB" lemma="ikappab"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1543-1548" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_15" POS="MD" charOffset="1549-1552" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_16" POS="VB" charOffset="1553-1563" text="contribute" lemma="contribute"/>
+            <token xml:space="preserve" id="stt_17" POS="TO" charOffset="1564-1566" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1567-1589" text="glucocorticoid-induced" lemma="glucocorticoid-induced"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1590-1599" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="1599-1600" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H results))
+            (VP=H (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a) (JJ labile) (JJ inhibitory) (NN=H factor))
+            (PP (JJ such) (IN=H as)
+            (NP (NN IkappaB) (NN=H alpha))))))
+            (VP=H (MD=H may)
+            (VP (VB=H contribute)
+            (PP (TO=H to)
+            (NP (JJ glucocorticoid-induced) (NN=H apoptosis))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T4" type="ZeroArticleNP" charOffset="404-443" headOffset="437-442" text="mutant glucocorticoid receptors (L753F)"/>
+    <Term xml:space="preserve" id="T5" type="RelativePronoun" charOffset="444-448" headOffset="444-448" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T5"/>
+        <Antecedent idref="T4"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="1201-1214" headOffset="1209-1214" text="IkappaB alpha"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="1413-1426" headOffset="1421-1426" text="IkappaB alpha"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="1535-1548" headOffset="1543-1548" text="IkappaB alpha"/>
+</document>

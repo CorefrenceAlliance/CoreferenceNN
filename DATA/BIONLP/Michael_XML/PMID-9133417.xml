@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9133417">
+    <text xml:space="preserve">Jak3 is associated with CD40 and is critical for CD40 induction of gene expression in B cells. 
+CD40 is a receptor that is critical for the survival, growth, differentiation, and isotype switching of B lymphocytes. Although CD40 lacks intrinsic tyrosine kinase activity, its ligation induces protein tyrosine phosphorylation, which is necessary for several CD40-mediated events. We show that engagement of CD40 induces tyrosine phosphorylation and activation of Jak3 as well as of STAT3. Jak3 is constitutively associated with CD40, and this interaction requires a proline-rich sequence in the membrane-proximal region of CD40. Deletion of this sequence abolishes the capacity of CD40 to induce expression of CD23, ICAM-1, and lymphotoxin-alpha genes in B cells. These results indicate that signaling through Jak3 is activated by CD40 and plays an important role in CD40-mediated functions. 
+</text>
+    <sentence charOffset="0-96" id="S1">
+        <text xml:space="preserve">Jak3 is associated with CD40 and is critical for CD40 induction of gene expression in B cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-4" text="Jak3" lemma="jak3"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="5-7" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="8-18" text="associated" lemma="associate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="19-23" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="24-28" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="29-32" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="33-35" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="36-44" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="45-48" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="49-53" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="54-63" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="64-66" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="67-71" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="72-82" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="83-85" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="86-87" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="88-93" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="93-94" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Jak3))
+            (VP=H
+            (VP=H (VBZ=H is)
+            (VP (VBN=H associated)
+            (PP (IN=H with)
+            (NP (NN=H CD40)))))
+            (CC and)
+            (VP (VBZ=H is)
+            (ADJP (JJ=H critical)
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN CD40) (NN=H induction))
+            (PP (IN=H of)
+            (NP (NN gene) (NN=H expression))))))
+            (PP (IN=H in)
+            (NP (NN B) (NNS=H cells)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="96-215" id="S2">
+        <text xml:space="preserve">CD40 is a receptor that is critical for the survival, growth, differentiation, and isotype switching of B lymphocytes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="96-100" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="101-103" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="104-105" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="106-114" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_5" POS="WDT" charOffset="115-119" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="120-122" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="123-131" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="132-135" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="136-139" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="140-148" text="survival" lemma="survival"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="148-149" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="150-156" text="growth" lemma="growth"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="156-157" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="158-173" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="173-174" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="175-178" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="179-186" text="isotype" lemma="isotype"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="187-196" text="switching" lemma="switching"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="197-199" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="200-201" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="202-213" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="213-214" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H CD40))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (NN=H receptor))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H critical)
+            (PP (IN=H for)
+            (NP
+            (NP=H (DT the) (NN=H survival))
+            (, ,)
+            (NP (NN=H growth))
+            (, ,)
+            (NP (NN=H differentiation))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (NN isotype) (NN=H switching))
+            (PP (IN=H of)
+            (NP (NN B) (NNS=H lymphocytes))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="215-379" id="S3">
+        <text xml:space="preserve">Although CD40 lacks intrinsic tyrosine kinase activity, its ligation induces protein tyrosine phosphorylation, which is necessary for several CD40-mediated events. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="215-223" text="Although" lemma="although"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="224-228" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="229-234" text="lacks" lemma="lack"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="235-244" text="intrinsic" lemma="intrinsic"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="245-253" text="tyrosine" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="254-260" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="261-269" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="269-270" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="PRP$" charOffset="271-274" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="275-283" text="ligation" lemma="ligation"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="284-291" text="induces" lemma="induce"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="292-299" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="300-308" text="tyrosine" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="309-324" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="324-325" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="WDT" charOffset="326-331" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_17" POS="VBZ" charOffset="332-334" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="335-344" text="necessary" lemma="necessary"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="345-348" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="349-356" text="several" lemma="several"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="357-370" text="CD40-mediated" lemma="cd40-mediated"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="371-377" text="events" lemma="event"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="377-378" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H Although)
+            (S
+            (NP (NN=H CD40))
+            (VP=H (VBZ=H lacks)
+            (NP (JJ intrinsic) (NN tyrosine) (NN kinase) (NN=H activity)))))
+            (, ,)
+            (NP (PRP$ its) (NN=H ligation))
+            (VP=H (VBZ=H induces)
+            (NP
+            (NP=H (NN protein) (NN tyrosine) (NN=H phosphorylation))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H necessary)
+            (PP (IN=H for)
+            (NP (JJ several) (JJ CD40-mediated) (NNS=H events)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="379-488" id="S4">
+        <text xml:space="preserve">We show that engagement of CD40 induces tyrosine phosphorylation and activation of Jak3 as well as of STAT3. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="379-381" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="382-386" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="387-391" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="392-402" text="engagement" lemma="engagement"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="403-405" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="406-410" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="411-418" text="induces" lemma="induce"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="419-427" text="tyrosine" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="428-443" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="444-447" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="448-458" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="459-461" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="462-466" text="Jak3" lemma="jak3"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="467-469" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_15" POS="RB" charOffset="470-474" text="well" lemma="well"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="475-477" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="478-480" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="481-486" text="STAT3" lemma="stat3"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="486-487" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H show)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H engagement))
+            (PP (IN=H of)
+            (NP (NN=H CD40))))
+            (VP=H (VBZ=H induces)
+            (NP (NN tyrosine) (NN=H phosphorylation)
+            (CC and)
+            (NN activation))
+            (PP
+            (PP=H (IN=H of)
+            (NP (NN=H Jak3)))
+            (CONJP (RB as) (RB=H well) (IN as))
+            (PP (IN=H of)
+            (NP (NN=H STAT3))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="488-628" id="S5">
+        <text xml:space="preserve">Jak3 is constitutively associated with CD40, and this interaction requires a proline-rich sequence in the membrane-proximal region of CD40. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="488-492" text="Jak3" lemma="jak3"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="493-495" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="496-510" text="constitutively" lemma="constitutively"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="511-521" text="associated" lemma="associate"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="522-526" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="527-531" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="531-532" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="533-536" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="537-541" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="542-553" text="interaction" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="554-562" text="requires" lemma="require"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="563-564" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="565-577" text="proline-rich" lemma="proline-rich"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="578-586" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="587-589" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="590-593" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="594-611" text="membrane-proximal" lemma="membrane-proximal"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="612-618" text="region" lemma="region"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="619-621" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="622-626" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="626-627" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (NN=H Jak3))
+            (VP=H (VBZ=H is)
+            (ADVP (RB=H constitutively))
+            (VP (VBN=H associated)
+            (PP (IN=H with)
+            (NP (NN=H CD40))))))
+            (, ,)
+            (CC and)
+            (S
+            (NP (DT this) (NN=H interaction))
+            (VP=H (VBZ=H requires)
+            (NP
+            (NP=H (DT a) (JJ proline-rich) (NN=H sequence))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (JJ membrane-proximal) (NN=H region))
+            (PP (IN=H of)
+            (NP (NN=H CD40))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="628-763" id="S6">
+        <text xml:space="preserve">Deletion of this sequence abolishes the capacity of CD40 to induce expression of CD23, ICAM-1, and lymphotoxin-alpha genes in B cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="628-636" text="Deletion" lemma="deletion"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="637-639" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="640-644" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="645-653" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="654-663" text="abolishes" lemma="abolish"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="664-667" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="668-676" text="capacity" lemma="capacity"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="677-679" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="680-684" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_10" POS="TO" charOffset="685-687" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_11" POS="VB" charOffset="688-694" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="695-705" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="706-708" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="709-713" text="CD23" lemma="cd23"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="713-714" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="715-721" text="ICAM-1" lemma="icam-1"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="721-722" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="723-726" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="727-744" text="lymphotoxin-alpha" lemma="lymphotoxin-alpha"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="745-750" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="751-753" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="754-755" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="756-761" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="761-762" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Deletion))
+            (PP (IN=H of)
+            (NP (DT this) (NN=H sequence))))
+            (VP=H (VBZ=H abolishes)
+            (S
+            (NP
+            (NP=H (DT the) (NN=H capacity))
+            (PP (IN=H of)
+            (NP (NN=H CD40))))
+            (VP=H (TO=H to)
+            (VP (VB=H induce)
+            (NP
+            (NP=H (NN=H expression))
+            (PP (IN=H of)
+            (NP (NN CD23) (, ,) (NN ICAM-1) (, ,)
+            (CC and)
+            (NN lymphotoxin-alpha) (NNS=H genes))))
+            (PP (IN=H in)
+            (NP (NN B) (NNS=H cells)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="763-892" id="S7">
+        <text xml:space="preserve">These results indicate that signaling through Jak3 is activated by CD40 and plays an important role in CD40-mediated functions. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="763-768" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="769-776" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="777-785" text="indicate" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="786-790" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="791-800" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="801-808" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="809-813" text="Jak3" lemma="jak3"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="814-816" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="817-826" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="827-829" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="830-834" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="835-838" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="839-844" text="plays" lemma="play"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="845-847" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="848-857" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="858-862" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="863-865" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="866-879" text="CD40-mediated" lemma="cd40-mediated"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="880-889" text="functions" lemma="function"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="889-890" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H results))
+            (VP=H (VBP=H indicate)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H signaling))
+            (PP (IN=H through)
+            (NP (NN=H Jak3))))
+            (VP=H
+            (VP=H (VBZ=H is)
+            (VP (VBN=H activated)
+            (PP (IN=H by)
+            (NP (NN=H CD40)))))
+            (CC and)
+            (VP (VBZ=H plays)
+            (NP (DT an) (JJ important) (NN=H role))
+            (PP (IN=H in)
+            (NP (JJ CD40-mediated) (NNS=H functions))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T20" type="IndefiniteNP" charOffset="104-114" headOffset="106-114" text="a receptor"/>
+    <Term xml:space="preserve" id="T21" type="RelativePronoun" charOffset="115-119" headOffset="115-119" text="that"/>
+    <Term xml:space="preserve" id="T22" type="ZeroArticleNP" charOffset="224-228" headOffset="224-228" text="CD40"/>
+    <Term xml:space="preserve" id="T23" type="PossessivePronoun" charOffset="271-274" headOffset="271-274" text="its"/>
+    <Term xml:space="preserve" id="T24" type="ZeroArticleNP" charOffset="292-324" headOffset="309-324" text="protein tyrosine phosphorylation"/>
+    <Term xml:space="preserve" id="T25" type="RelativePronoun" charOffset="326-331" headOffset="326-331" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T21"/>
+        <Antecedent idref="T20"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T23"/>
+        <Antecedent idref="T22"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T25"/>
+        <Antecedent idref="T24"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="0-4" headOffset="0-4" text="Jak3"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="24-28" headOffset="24-28" text="CD40"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="49-53" headOffset="49-53" text="CD40"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="96-100" headOffset="96-100" text="CD40"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="224-228" headOffset="224-228" text="CD40"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="357-361" headOffset="357-361" text="CD40"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="406-410" headOffset="406-410" text="CD40"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="462-466" headOffset="462-466" text="Jak3"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="481-486" headOffset="481-486" text="STAT3"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="488-492" headOffset="488-492" text="Jak3"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="527-531" headOffset="527-531" text="CD40"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="622-626" headOffset="622-626" text="CD40"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="680-684" headOffset="680-684" text="CD40"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="709-713" headOffset="709-713" text="CD23"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="715-721" headOffset="715-721" text="ICAM-1"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="727-744" headOffset="727-744" text="lymphotoxin-alpha"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="809-813" headOffset="809-813" text="Jak3"/>
+    <Term xml:space="preserve" id="T18" type="Protein" charOffset="830-834" headOffset="830-834" text="CD40"/>
+    <Term xml:space="preserve" id="T19" type="Protein" charOffset="866-870" headOffset="866-870" text="CD40"/>
+</document>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10191934">
+    <text xml:space="preserve">[Corticoids and allergy] 
+Inflammation is constantly observed in allergic reactions. Corticosteroids are most effective in preventing the late phase of allergic reaction. The action of glucocorticosteroids is mediated through glucocorticoid receptors present in the cellular cytoplasm. When activated, glucocorticoid receptors form a dimer and bind to DNA after migration into the nucleus. Interaction to DNA induces changes in the transcription rate, leading to either gene induction or gene repression. Glucocorticoid receptors are also able to interact with transcriptional factors such as AP-1 (activator protein-1) of NF-kappa B (nuclear factor-kappa B). Through these actions glucocorticosteroids are susceptible to modify functions of cells involved in the allergic inflammatory response. They are in particular able to inhibit most of the pro-inflammatory functions of the eosinophils. 
+</text>
+    <sentence charOffset="0-26" id="S1">
+        <text xml:space="preserve">[Corticoids and allergy] 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="-LRB-" charOffset="0-1" text="[" lemma="["/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1-11" text="Corticoids" lemma="corticoid"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="12-15" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="16-23" text="allergy" lemma="allergy"/>
+            <token xml:space="preserve" id="stt_5" POS="-RRB-" charOffset="23-24" text="]" lemma="]"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (FRAG=H
+            (WHADVP (-LRB-=H -LSB-))
+            (NP=H (NNS=H Corticoids)
+            (CC and)
+            (NN allergy))
+            (-RRB- -RSB-)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="26-85" id="S2">
+        <text xml:space="preserve">Inflammation is constantly observed in allergic reactions. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="26-38" text="Inflammation" lemma="inflammation"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="39-41" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="42-52" text="constantly" lemma="constantly"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="53-61" text="observed" lemma="observe"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="62-64" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="65-73" text="allergic" lemma="allergic"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="74-83" text="reactions" lemma="reaction"/>
+            <token xml:space="preserve" id="stt_8" POS="." charOffset="83-84" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Inflammation))
+            (VP=H (VBZ=H is)
+            (ADVP (RB=H constantly))
+            (VP (VBN=H observed)
+            (PP (IN=H in)
+            (NP (JJ allergic) (NNS=H reactions)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="85-171" id="S3">
+        <text xml:space="preserve">Corticosteroids are most effective in preventing the late phase of allergic reaction. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="85-100" text="Corticosteroids" lemma="corticosteroid"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="101-104" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="RBS" charOffset="105-109" text="most" lemma="most"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="110-119" text="effective" lemma="effective"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="120-122" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="VBG" charOffset="123-133" text="preventing" lemma="prevent"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="134-137" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="138-142" text="late" lemma="late"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="143-148" text="phase" lemma="phase"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="149-151" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="152-160" text="allergic" lemma="allergic"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="161-169" text="reaction" lemma="reaction"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="169-170" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NNS=H Corticosteroids))
+            (VP=H (VBP=H are)
+            (ADJP (RBS most) (JJ=H effective)
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H preventing)
+            (NP
+            (NP=H (DT the) (JJ late) (NN=H phase))
+            (PP (IN=H of)
+            (NP (JJ allergic) (NN=H reaction)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="171-286" id="S4">
+        <text xml:space="preserve">The action of glucocorticosteroids is mediated through glucocorticoid receptors present in the cellular cytoplasm. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="171-174" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="175-181" text="action" lemma="action"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="182-184" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="185-205" text="glucocorticosteroids" lemma="glucocorticosteroid"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="206-208" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="209-217" text="mediated" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="218-225" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="226-240" text="glucocorticoid" lemma="glucocorticoid"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="241-250" text="receptors" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="251-258" text="present" lemma="present"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="259-261" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="262-265" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="266-274" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="275-284" text="cytoplasm" lemma="cytoplasm"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="284-285" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H action))
+            (PP (IN=H of)
+            (NP (NNS=H glucocorticosteroids))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H mediated)
+            (PP (IN=H through)
+            (NP
+            (NP=H (NN glucocorticoid) (NNS=H receptors))
+            (ADJP (JJ=H present)
+            (PP (IN=H in)
+            (NP (DT the) (JJ cellular) (NN=H cytoplasm))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="286-390" id="S5">
+        <text xml:space="preserve">When activated, glucocorticoid receptors form a dimer and bind to DNA after migration into the nucleus. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="WRB" charOffset="286-290" text="When" lemma="when"/>
+            <token xml:space="preserve" id="stt_2" POS="VBN" charOffset="291-300" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="300-301" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="302-316" text="glucocorticoid" lemma="glucocorticoid"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="317-326" text="receptors" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="327-331" text="form" lemma="form"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="332-333" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="334-339" text="dimer" lemma="dimer"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="340-343" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="VBP" charOffset="344-348" text="bind" lemma="bind"/>
+            <token xml:space="preserve" id="stt_11" POS="TO" charOffset="349-351" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="352-355" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="356-361" text="after" lemma="after"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="362-371" text="migration" lemma="migration"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="372-376" text="into" lemma="into"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="377-380" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="381-388" text="nucleus" lemma="nucleus"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="388-389" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR
+            (WHADVP=H (WRB=H When))
+            (S
+            (VP=H (VBN=H activated))))
+            (, ,)
+            (NP (NN glucocorticoid) (NNS=H receptors))
+            (VP=H
+            (VP=H (VBP=H form)
+            (NP (DT a) (NN=H dimer)))
+            (CC and)
+            (VP (VBP=H bind)
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN=H DNA))
+            (PP (IN=H after)
+            (NP (NN=H migration)))))
+            (PP (IN=H into)
+            (NP (DT the) (NN=H nucleus)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="390-505" id="S6">
+        <text xml:space="preserve">Interaction to DNA induces changes in the transcription rate, leading to either gene induction or gene repression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="390-401" text="Interaction" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_2" POS="TO" charOffset="402-404" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="405-408" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="409-416" text="induces" lemma="induce"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="417-424" text="changes" lemma="change"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="425-427" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="428-431" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="432-445" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="446-450" text="rate" lemma="rate"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="450-451" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="VBG" charOffset="452-459" text="leading" lemma="lead"/>
+            <token xml:space="preserve" id="stt_12" POS="TO" charOffset="460-462" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="463-469" text="either" lemma="either"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="470-474" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="475-484" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="485-487" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="488-492" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="493-503" text="repression" lemma="repression"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="503-504" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Interaction))
+            (PP (TO=H to)
+            (NP (NN=H DNA))))
+            (VP=H (VBZ=H induces)
+            (NP
+            (NP=H (NNS=H changes))
+            (PP (IN=H in)
+            (NP (DT the) (NN transcription) (NN=H rate))))
+            (, ,)
+            (S
+            (VP=H (VBG=H leading)
+            (PP (TO=H to)
+            (NP (CC either)
+            (NP=H (NN gene) (NN=H induction))
+            (CC or)
+            (NP (NN gene) (NN=H repression)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="505-660" id="S7">
+        <text xml:space="preserve">Glucocorticoid receptors are also able to interact with transcriptional factors such as AP-1 (activator protein-1) of NF-kappa B (nuclear factor-kappa B). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="505-519" text="Glucocorticoid" lemma="glucocorticoid"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="520-529" text="receptors" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="530-533" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="534-538" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="539-543" text="able" lemma="able"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="544-546" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="VB" charOffset="547-555" text="interact" lemma="interact"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="556-560" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="561-576" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="577-584" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="585-589" text="such" lemma="such"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="590-592" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="593-597" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_14" POS="-LRB-" charOffset="598-599" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="599-608" text="activator" lemma="activator"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="609-618" text="protein-1" lemma="protein-1"/>
+            <token xml:space="preserve" id="stt_17" POS="-RRB-" charOffset="618-619" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="620-622" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="623-631" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="632-633" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_21" POS="-LRB-" charOffset="634-635" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="635-642" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="643-655" text="factor-kappa" lemma="factor-kappa"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="656-657" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_25" POS="-RRB-" charOffset="657-658" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="658-659" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Glucocorticoid) (NNS=H receptors))
+            (VP=H (VBP=H are)
+            (ADVP (RB=H also))
+            (ADJP (JJ=H able)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H interact)
+            (PP (IN=H with)
+            (NP
+            (NP=H (JJ transcriptional) (NNS=H factors))
+            (PP (JJ such) (IN=H as)
+            (NP
+            (NP=H
+            (NP=H (NN=H AP-1))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN activator) (NN=H protein-1))
+            (-RRB- -RRB-)))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN NF-kappa) (NN=H B))
+            (PRN (-LRB- -LRB-)
+            (NP=H (JJ nuclear) (NN factor-kappa) (NN=H B))
+            (-RRB- -RRB-)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="660-796" id="S8">
+        <text xml:space="preserve">Through these actions glucocorticosteroids are susceptible to modify functions of cells involved in the allergic inflammatory response. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="660-667" text="Through" lemma="through"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="668-673" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="674-681" text="actions" lemma="action"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="682-702" text="glucocorticosteroids" lemma="glucocorticosteroid"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="703-706" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="707-718" text="susceptible" lemma="susceptible"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="719-721" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="VB" charOffset="722-728" text="modify" lemma="modify"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="729-738" text="functions" lemma="function"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="739-741" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="742-747" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="748-756" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="757-759" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="760-763" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="764-772" text="allergic" lemma="allergic"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="773-785" text="inflammatory" lemma="inflammatory"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="786-794" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="794-795" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H Through)
+            (NP (DT these) (NNS=H actions)))
+            (NP (NNS=H glucocorticosteroids))
+            (VP=H (VBP=H are)
+            (ADJP (JJ=H susceptible)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H modify)
+            (NP
+            (NP=H (NNS=H functions))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H cells))
+            (VP (VBN=H involved)
+            (PP (IN=H in)
+            (NP (DT the) (JJ allergic) (JJ inflammatory) (NN=H response))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="796-895" id="S9">
+        <text xml:space="preserve">They are in particular able to inhibit most of the pro-inflammatory functions of the eosinophils. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="796-800" text="They" lemma="they"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="801-804" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="805-807" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="808-818" text="particular" lemma="particular"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="819-823" text="able" lemma="able"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="824-826" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="VB" charOffset="827-834" text="inhibit" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_8" POS="JJS" charOffset="835-839" text="most" lemma="most"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="840-842" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="843-846" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="847-863" text="pro-inflammatory" lemma="pro-inflammatory"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="864-873" text="functions" lemma="function"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="874-876" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="877-880" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="881-892" text="eosinophils" lemma="eosinophil"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="892-893" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H They))
+            (VP=H (VBP=H are)
+            (PP (IN=H in)
+            (ADJP (JJ=H particular)))
+            (ADJP (JJ=H able)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H inhibit)
+            (NP
+            (NP=H (JJS=H most))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (JJ pro-inflammatory) (NNS=H functions))
+            (PP (IN=H of)
+            (NP (DT the) (NNS=H eosinophils)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="ZeroArticleNP" charOffset="682-702" headOffset="682-702" text="glucocorticosteroids"/>
+    <Term xml:space="preserve" id="T2" type="PersonalPronoun" charOffset="796-800" headOffset="796-800" text="They"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T2"/>
+        <Antecedent idref="T1"/>
+    </Relation>
+</document>

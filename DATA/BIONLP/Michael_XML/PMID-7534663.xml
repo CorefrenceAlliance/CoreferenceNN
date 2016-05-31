@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-7534663">
+    <text xml:space="preserve">Aspirin inhibits nuclear factor-kappa B mobilization and monocyte adhesion in stimulated human endothelial cells. 
+BACKGROUND: The induction of vascular cell adhesion molecule-1 (VCAM-1) and E-selectin by tumor necrosis factor-alpha (TNF) is mediated by mobilization of the transcription factor nuclear factor-kappa B (NF-kappa B). Since salicylates have been reported to inhibit NF-kappa B activation by preventing the degradation of its inhibitor I kappa B, we studied a potential inhibition of this pathway by acetylsalicylate (aspirin) in human umbilical vein endothelial cells (HUVECs). METHODS AND RESULTS: Gel-shift analyses demonstrated dose-dependent inhibition of TNF-induced NF-kappa B mobilization by aspirin at concentrations ranging from 1 to 10 mmol/L. Induction of VCAM-1 and E-selectin surface expression by TNF was dose-dependently reduced by aspirin over the same range, while induction of intercellular adhesion molecule-1 (ICAM-1) was hardly affected. Aspirin appeared to prevent VCAM-1 transcription, since it dose-dependently inhibited induction of VCAM-1 mRNA by TNF. As a functional consequence, adhesion of U937 monocytes to TNF-stimulated HUVECs was markedly reduced by aspirin due to suppression of VCAM-1 and E-selectin upregulation. These effects of aspirin were not related to the inhibition of cyclooxygenase activity, since indomethacin was ineffective. CONCLUSIONS: Our data suggest that aspirin inhibits NF-kappa B mobilization, induction of VCAM-1 and E-selectin, and subsequent monocyte adhesion in endothelial cells stimulated by TNF, thereby providing an additional mechanism for therapeutic effects of aspirin. 
+</text>
+    <sentence charOffset="0-115" id="S1">
+        <text xml:space="preserve">Aspirin inhibits nuclear factor-kappa B mobilization and monocyte adhesion in stimulated human endothelial cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-7" text="Aspirin" lemma="aspirin"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="8-16" text="inhibits" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="17-24" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="25-37" text="factor-kappa" lemma="factor-kappa"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="38-39" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="40-52" text="mobilization" lemma="mobilization"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="53-56" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="57-65" text="monocyte" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="66-74" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="75-77" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="78-88" text="stimulated" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="89-94" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="95-106" text="endothelial" lemma="endothelial"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="107-112" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="112-113" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Aspirin))
+            (VP=H (VBZ=H inhibits)
+            (NP
+            (NP=H (JJ nuclear) (NN factor-kappa) (NN B) (NN mobilization)
+            (CC and)
+            (NN monocyte) (NN=H adhesion))
+            (PP (IN=H in)
+            (S
+            (VP=H (VBN=H stimulated)
+            (NP (JJ human) (JJ endothelial) (NNS=H cells)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="115-332" id="S2">
+        <text xml:space="preserve">BACKGROUND: The induction of vascular cell adhesion molecule-1 (VCAM-1) and E-selectin by tumor necrosis factor-alpha (TNF) is mediated by mobilization of the transcription factor nuclear factor-kappa B (NF-kappa B). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="115-125" text="BACKGROUND" lemma="background"/>
+            <token xml:space="preserve" id="stt_2" POS=":" charOffset="125-126" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="127-130" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="131-140" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="141-143" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="144-152" text="vascular" lemma="vascular"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="153-157" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="158-166" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="167-177" text="molecule-1" lemma="molecule-1"/>
+            <token xml:space="preserve" id="stt_10" POS="-LRB-" charOffset="178-179" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="179-185" text="VCAM-1" lemma="vcam-1"/>
+            <token xml:space="preserve" id="stt_12" POS="-RRB-" charOffset="185-186" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="187-190" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="191-201" text="E-selectin" lemma="e-selectin"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="202-204" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="205-210" text="tumor" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="211-219" text="necrosis" lemma="necrosis"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="220-232" text="factor-alpha" lemma="factor-alpha"/>
+            <token xml:space="preserve" id="stt_19" POS="-LRB-" charOffset="233-234" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="234-237" text="TNF" lemma="tnf"/>
+            <token xml:space="preserve" id="stt_21" POS="-RRB-" charOffset="237-238" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_22" POS="VBZ" charOffset="239-241" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="242-250" text="mediated" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="251-253" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="254-266" text="mobilization" lemma="mobilization"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="267-269" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="270-273" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="274-287" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="288-294" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="295-302" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="303-315" text="factor-kappa" lemma="factor-kappa"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="316-317" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_33" POS="-LRB-" charOffset="318-319" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="319-327" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="328-329" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_36" POS="-RRB-" charOffset="329-330" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="330-331" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (FRAG=H
+            (NP (NN=H BACKGROUND))
+            (: :)
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (NP=H (JJ vascular) (NN cell) (NN adhesion) (NN=H molecule-1))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H VCAM-1))
+            (-RRB- -RRB-)))
+            (CC and)
+            (NP
+            (NP=H (NN=H E-selectin))
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN tumor) (NN necrosis) (NN=H factor-alpha))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H TNF))
+            (-RRB- -RRB-))))))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H mediated)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H mobilization))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN transcription) (NN factor) (JJ nuclear) (NN factor-kappa) (NN=H B))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN NF-kappa) (NN=H B))
+            (-RRB- -RRB-)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="332-592" id="S3">
+        <text xml:space="preserve">Since salicylates have been reported to inhibit NF-kappa B activation by preventing the degradation of its inhibitor I kappa B, we studied a potential inhibition of this pathway by acetylsalicylate (aspirin) in human umbilical vein endothelial cells (HUVECs). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="332-337" text="Since" lemma="since"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="338-349" text="salicylates" lemma="salicylate"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="350-354" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="355-359" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="360-368" text="reported" lemma="report"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="369-371" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="VB" charOffset="372-379" text="inhibit" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="380-388" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="389-390" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="391-401" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="402-404" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_12" POS="VBG" charOffset="405-415" text="preventing" lemma="prevent"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="416-419" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="420-431" text="degradation" lemma="degradation"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="432-434" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="PRP$" charOffset="435-438" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="439-448" text="inhibitor" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="449-450" text="I" lemma="i"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="451-456" text="kappa" lemma="kappa"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="457-458" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="458-459" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="PRP" charOffset="460-462" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_23" POS="VBD" charOffset="463-470" text="studied" lemma="study"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="471-472" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="473-482" text="potential" lemma="potential"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="483-493" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="494-496" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_28" POS="DT" charOffset="497-501" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="502-509" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="510-512" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="513-529" text="acetylsalicylate" lemma="acetylsalicylate"/>
+            <token xml:space="preserve" id="stt_32" POS="-LRB-" charOffset="530-531" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="531-538" text="aspirin" lemma="aspirin"/>
+            <token xml:space="preserve" id="stt_34" POS="-RRB-" charOffset="538-539" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_35" POS="IN" charOffset="540-542" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_36" POS="JJ" charOffset="543-548" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_37" POS="JJ" charOffset="549-558" text="umbilical" lemma="umbilical"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="559-563" text="vein" lemma="vein"/>
+            <token xml:space="preserve" id="stt_39" POS="JJ" charOffset="564-575" text="endothelial" lemma="endothelial"/>
+            <token xml:space="preserve" id="stt_40" POS="NNS" charOffset="576-581" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_41" POS="-LRB-" charOffset="582-583" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_42" POS="NNS" charOffset="583-589" text="HUVECs" lemma="huvec"/>
+            <token xml:space="preserve" id="stt_43" POS="-RRB-" charOffset="589-590" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_44" POS="." charOffset="590-591" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H Since)
+            (S
+            (NP (NNS=H salicylates))
+            (VP=H (VBP=H have)
+            (VP (VBN=H been)
+            (VP (VBN=H reported)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H inhibit)
+            (NP (NN NF-kappa) (NN B) (NN=H activation))
+            (PP (IN=H by)
+            (S
+            (VP=H (VBG=H preventing)
+            (NP
+            (NP=H (DT the) (NN=H degradation))
+            (PP (IN=H of)
+            (NP (PRP$ its) (NN inhibitor) (NN I) (NN kappa) (NN=H B)))))))))))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H studied)
+            (NP
+            (NP=H (DT a) (JJ potential) (NN=H inhibition))
+            (PP (IN=H of)
+            (NP (DT this) (NN=H pathway))))
+            (PP (IN=H by)
+            (NP
+            (NP=H
+            (NP=H (NN=H acetylsalicylate))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H aspirin))
+            (-RRB- -RRB-)))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ human) (JJ umbilical) (NN vein) (JJ endothelial) (NNS=H cells))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NNS=H HUVECs))
+            (-RRB- -RRB-)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="592-768" id="S4">
+        <text xml:space="preserve">METHODS AND RESULTS: Gel-shift analyses demonstrated dose-dependent inhibition of TNF-induced NF-kappa B mobilization by aspirin at concentrations ranging from 1 to 10 mmol/L. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="592-599" text="METHODS" lemma="method"/>
+            <token xml:space="preserve" id="stt_2" POS="CC" charOffset="600-603" text="AND" lemma="and"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="604-611" text="RESULTS" lemma="result"/>
+            <token xml:space="preserve" id="stt_4" POS=":" charOffset="611-612" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="613-622" text="Gel-shift" lemma="gel-shift"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="623-631" text="analyses" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="632-644" text="demonstrated" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="645-659" text="dose-dependent" lemma="dose-dependent"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="660-670" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="671-673" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="674-685" text="TNF-induced" lemma="tnf-induced"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="686-694" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="695-696" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="697-709" text="mobilization" lemma="mobilization"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="710-712" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="713-720" text="aspirin" lemma="aspirin"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="721-723" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="724-738" text="concentrations" lemma="concentration"/>
+            <token xml:space="preserve" id="stt_19" POS="VBG" charOffset="739-746" text="ranging" lemma="range"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="747-751" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_21" POS="CD" charOffset="752-753" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_22" POS="TO" charOffset="754-756" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_23" POS="CD" charOffset="757-759" text="10" lemma="10"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="760-766" text="mmol/L" lemma="mmol/l"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="766-767" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (FRAG=H
+            (NP (NNS=H METHODS)
+            (CC AND)
+            (NNS RESULTS))
+            (: :)
+            (S=H
+            (NP (NN Gel-shift) (NNS=H analyses))
+            (VP=H (VBD=H demonstrated)
+            (NP
+            (NP=H (JJ dose-dependent) (NN=H inhibition))
+            (PP (IN=H of)
+            (NP (JJ TNF-induced) (NN NF-kappa) (NN B) (NN=H mobilization))))
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H aspirin))
+            (PP (IN=H at)
+            (NP
+            (NP=H (NNS=H concentrations))
+            (VP (VBG=H ranging)
+            (PP (IN=H from)
+            (NP
+            (QP (CD=H 1) (TO to) (CD 10))
+            (NN=H mmol/L))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="768-973" id="S5">
+        <text xml:space="preserve">Induction of VCAM-1 and E-selectin surface expression by TNF was dose-dependently reduced by aspirin over the same range, while induction of intercellular adhesion molecule-1 (ICAM-1) was hardly affected. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="768-777" text="Induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="778-780" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="781-787" text="VCAM-1" lemma="vcam-1"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="788-791" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="792-802" text="E-selectin" lemma="e-selectin"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="803-810" text="surface" lemma="surface"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="811-821" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="822-824" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="825-828" text="TNF" lemma="tnf"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="829-832" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="RB" charOffset="833-849" text="dose-dependently" lemma="dose-dependently"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="850-857" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="858-860" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="861-868" text="aspirin" lemma="aspirin"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="869-873" text="over" lemma="over"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="874-877" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="878-882" text="same" lemma="same"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="883-888" text="range" lemma="range"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="888-889" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="890-895" text="while" lemma="while"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="896-905" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="906-908" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="909-922" text="intercellular" lemma="intercellular"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="923-931" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="932-942" text="molecule-1" lemma="molecule-1"/>
+            <token xml:space="preserve" id="stt_26" POS="-LRB-" charOffset="943-944" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="944-950" text="ICAM-1" lemma="icam-1"/>
+            <token xml:space="preserve" id="stt_28" POS="-RRB-" charOffset="950-951" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_29" POS="VBD" charOffset="952-955" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_30" POS="RB" charOffset="956-962" text="hardly" lemma="hardly"/>
+            <token xml:space="preserve" id="stt_31" POS="VBN" charOffset="963-971" text="affected" lemma="affect"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="971-972" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN VCAM-1)
+            (CC and)
+            (NN E-selectin) (NN surface) (NN=H expression))
+            (PP (IN=H by)
+            (NP (NN=H TNF))))))
+            (VP=H (VBD=H was)
+            (VP
+            (ADVP (RB=H dose-dependently))
+            (VBN=H reduced)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H aspirin))
+            (PP (IN=H over)
+            (NP (DT the) (JJ same) (NN=H range)))))
+            (, ,)
+            (SBAR (IN=H while)
+            (S
+            (NP
+            (NP=H (NN=H induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ intercellular) (NN adhesion) (NN=H molecule-1))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H ICAM-1))
+            (-RRB- -RRB-)))))
+            (VP=H (VBD=H was)
+            (VP
+            (ADVP (RB=H hardly))
+            (VBN=H affected)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="973-1092" id="S6">
+        <text xml:space="preserve">Aspirin appeared to prevent VCAM-1 transcription, since it dose-dependently inhibited induction of VCAM-1 mRNA by TNF. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="973-980" text="Aspirin" lemma="aspirin"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="981-989" text="appeared" lemma="appear"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="990-992" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="VB" charOffset="993-1000" text="prevent" lemma="prevent"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1001-1007" text="VCAM-1" lemma="vcam-1"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1008-1021" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="1021-1022" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1023-1028" text="since" lemma="since"/>
+            <token xml:space="preserve" id="stt_9" POS="PRP" charOffset="1029-1031" text="it" lemma="it"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="1032-1048" text="dose-dependently" lemma="dose-dependently"/>
+            <token xml:space="preserve" id="stt_11" POS="VBD" charOffset="1049-1058" text="inhibited" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1059-1068" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1069-1071" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1072-1078" text="VCAM-1" lemma="vcam-1"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1079-1083" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1084-1086" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1087-1090" text="TNF" lemma="tnf"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="1090-1091" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Aspirin))
+            (VP=H (VBD=H appeared)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H prevent)
+            (NP (NN VCAM-1) (NN=H transcription)))))
+            (, ,)
+            (SBAR (IN=H since)
+            (S
+            (NP (PRP=H it))
+            (ADVP (RB=H dose-dependently))
+            (VP=H (VBD=H inhibited)
+            (NP
+            (NP=H (NN=H induction))
+            (PP (IN=H of)
+            (NP (NN VCAM-1) (NN=H mRNA))))
+            (PP (IN=H by)
+            (NP (NN=H TNF)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1092-1263" id="S7">
+        <text xml:space="preserve">As a functional consequence, adhesion of U937 monocytes to TNF-stimulated HUVECs was markedly reduced by aspirin due to suppression of VCAM-1 and E-selectin upregulation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1092-1094" text="As" lemma="as"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="1095-1096" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="1097-1107" text="functional" lemma="functional"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1108-1119" text="consequence" lemma="consequence"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="1119-1120" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1121-1129" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1130-1132" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1133-1137" text="U937" lemma="u937"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1138-1147" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_10" POS="TO" charOffset="1148-1150" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1151-1165" text="TNF-stimulated" lemma="tnf-stimulated"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="1166-1172" text="HUVECs" lemma="huvec"/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="1173-1176" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="1177-1185" text="markedly" lemma="markedly"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="1186-1193" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1194-1196" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1197-1204" text="aspirin" lemma="aspirin"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1205-1208" text="due" lemma="due"/>
+            <token xml:space="preserve" id="stt_19" POS="TO" charOffset="1209-1211" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1212-1223" text="suppression" lemma="suppression"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1224-1226" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1227-1233" text="VCAM-1" lemma="vcam-1"/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="1234-1237" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1238-1248" text="E-selectin" lemma="e-selectin"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1249-1261" text="upregulation" lemma="upregulation"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="1261-1262" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H As)
+            (NP (DT a) (JJ functional) (NN=H consequence)))
+            (, ,)
+            (NP
+            (NP=H (NN=H adhesion))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN U937) (NNS=H monocytes))
+            (PP (TO=H to)
+            (NP (JJ TNF-stimulated) (NNS=H HUVECs))))))
+            (VP=H (VBD=H was)
+            (ADVP (RB=H markedly))
+            (VP (VBN=H reduced)
+            (PP (IN=H by)
+            (NP (NN=H aspirin)))
+            (PP (JJ due) (TO=H to)
+            (NP
+            (NP=H (NN=H suppression))
+            (PP (IN=H of)
+            (NP (NN VCAM-1)
+            (CC and)
+            (NN E-selectin) (NN=H upregulation)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1263-1387" id="S8">
+        <text xml:space="preserve">These effects of aspirin were not related to the inhibition of cyclooxygenase activity, since indomethacin was ineffective. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1263-1268" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1269-1276" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1277-1279" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1280-1287" text="aspirin" lemma="aspirin"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="1288-1292" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="1293-1296" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="1297-1304" text="related" lemma="relate"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="1305-1307" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="1308-1311" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1312-1322" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1323-1325" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1326-1340" text="cyclooxygenase" lemma="cyclooxygenase"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1341-1349" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="1349-1350" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1351-1356" text="since" lemma="since"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1357-1369" text="indomethacin" lemma="indomethacin"/>
+            <token xml:space="preserve" id="stt_17" POS="VBD" charOffset="1370-1373" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1374-1385" text="ineffective" lemma="ineffective"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="1385-1386" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT These) (NNS=H effects))
+            (PP (IN=H of)
+            (NP (NN=H aspirin))))
+            (VP=H (VBD=H were) (RB not)
+            (VP (VBN=H related)
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT the) (NN=H inhibition))
+            (PP (IN=H of)
+            (NP (NN cyclooxygenase) (NN=H activity)))))
+            (, ,)
+            (SBAR (IN=H since)
+            (S
+            (NP (NN=H indomethacin))
+            (VP=H (VBD=H was)
+            (ADJP (JJ=H ineffective)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1387-1652" id="S9">
+        <text xml:space="preserve">CONCLUSIONS: Our data suggest that aspirin inhibits NF-kappa B mobilization, induction of VCAM-1 and E-selectin, and subsequent monocyte adhesion in endothelial cells stimulated by TNF, thereby providing an additional mechanism for therapeutic effects of aspirin. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="1387-1398" text="CONCLUSIONS" lemma="conclusion"/>
+            <token xml:space="preserve" id="stt_2" POS=":" charOffset="1398-1399" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_3" POS="PRP$" charOffset="1400-1403" text="Our" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1404-1408" text="data" lemma="datum"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="1409-1416" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1417-1421" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1422-1429" text="aspirin" lemma="aspirin"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="1430-1438" text="inhibits" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1439-1447" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1448-1449" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1450-1462" text="mobilization" lemma="mobilization"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="1462-1463" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1464-1473" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1474-1476" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1477-1483" text="VCAM-1" lemma="vcam-1"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="1484-1487" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1488-1498" text="E-selectin" lemma="e-selectin"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="1498-1499" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="1500-1503" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="1504-1514" text="subsequent" lemma="subsequent"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1515-1523" text="monocyte" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1524-1532" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1533-1535" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="1536-1547" text="endothelial" lemma="endothelial"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="1548-1553" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_26" POS="VBN" charOffset="1554-1564" text="stimulated" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1565-1567" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1568-1571" text="TNF" lemma="tnf"/>
+            <token xml:space="preserve" id="stt_29" POS="," charOffset="1571-1572" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_30" POS="RB" charOffset="1573-1580" text="thereby" lemma="thereby"/>
+            <token xml:space="preserve" id="stt_31" POS="VBG" charOffset="1581-1590" text="providing" lemma="provide"/>
+            <token xml:space="preserve" id="stt_32" POS="DT" charOffset="1591-1593" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_33" POS="JJ" charOffset="1594-1604" text="additional" lemma="additional"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1605-1614" text="mechanism" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_35" POS="IN" charOffset="1615-1618" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_36" POS="JJ" charOffset="1619-1630" text="therapeutic" lemma="therapeutic"/>
+            <token xml:space="preserve" id="stt_37" POS="NNS" charOffset="1631-1638" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="1639-1641" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="1642-1649" text="aspirin" lemma="aspirin"/>
+            <token xml:space="preserve" id="stt_40" POS="." charOffset="1649-1650" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NNS=H CONCLUSIONS))
+            (: :)
+            (S
+            (NP (PRP$ Our) (NNS=H data))
+            (VP=H (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H aspirin))
+            (VP=H (VBZ=H inhibits)
+            (NP
+            (NP=H (NN NF-kappa) (NN B) (NN=H mobilization))
+            (, ,)
+            (NP
+            (NP=H (NN=H induction))
+            (PP (IN=H of)
+            (NP (NN=H VCAM-1)
+            (CC and)
+            (NN E-selectin))))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (JJ subsequent) (NN monocyte) (NN=H adhesion))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ endothelial) (NNS=H cells))
+            (VP (VBN=H stimulated)
+            (PP (IN=H by)
+            (NP (NN=H TNF)))
+            (, ,)
+            (S
+            (ADVP (RB=H thereby))
+            (VP=H (VBG=H providing)
+            (NP (DT an) (JJ additional) (NN=H mechanism))
+            (PP (IN=H for)
+            (NP
+            (NP=H (JJ therapeutic) (NNS=H effects))
+            (PP (IN=H of)
+            (NP (NN=H aspirin)))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T21" type="ZeroArticleNP" charOffset="380-401" headOffset="391-401" text="NF-kappa B activation"/>
+    <Term xml:space="preserve" id="T22" type="PossessivePronoun" charOffset="435-438" headOffset="435-438" text="its"/>
+    <Term xml:space="preserve" id="T23" type="ZeroArticleNP" charOffset="973-980" headOffset="973-980" text="Aspirin"/>
+    <Term xml:space="preserve" id="T24" type="PersonalPronoun" charOffset="1029-1031" headOffset="1029-1031" text="it"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T22"/>
+        <Antecedent idref="T21"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T24"/>
+        <Antecedent idref="T23"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="144-177" headOffset="167-177" text="vascular cell adhesion molecule-1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="179-185" headOffset="179-185" text="VCAM-1"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="191-201" headOffset="191-201" text="E-selectin"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="205-232" headOffset="220-232" text="tumor necrosis factor-alpha"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="234-237" headOffset="234-237" text="TNF"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="674-677" headOffset="674-677" text="TNF"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="781-787" headOffset="781-787" text="VCAM-1"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="792-802" headOffset="792-802" text="E-selectin"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="825-828" headOffset="825-828" text="TNF"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="909-942" headOffset="932-942" text="intercellular adhesion molecule-1"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="944-950" headOffset="944-950" text="ICAM-1"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="1001-1007" headOffset="1001-1007" text="VCAM-1"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="1072-1078" headOffset="1072-1078" text="VCAM-1"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1087-1090" headOffset="1087-1090" text="TNF"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1151-1154" headOffset="1151-1154" text="TNF"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="1227-1233" headOffset="1227-1233" text="VCAM-1"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="1238-1248" headOffset="1238-1248" text="E-selectin"/>
+    <Term xml:space="preserve" id="T18" type="Protein" charOffset="1477-1483" headOffset="1477-1483" text="VCAM-1"/>
+    <Term xml:space="preserve" id="T19" type="Protein" charOffset="1488-1498" headOffset="1488-1498" text="E-selectin"/>
+    <Term xml:space="preserve" id="T20" type="Protein" charOffset="1568-1571" headOffset="1568-1571" text="TNF"/>
+</document>

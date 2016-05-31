@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9178107">
+    <text xml:space="preserve">Reactive oxygen species and antioxidants in inflammatory diseases. 
+This paper aims to review the role of free radical-induced tissue damage and antioxidant defence mechanisms in inflammatory diseases that involve pathogenic processes similar to the periodontal diseases. There is a clearly defined and substantial role for free radicals or reactive oxygen species (ROS) in periodontitis, but little research has been performed in this area. This paper reviews the considerable data available relating ROS activity and antioxidant defence to inflammatory diseases and attempts to draw parallels with periodontitis, in an effort to stimulate more periodontal research in this important area. The recent discovery of the transcription factor nuclear factor kappa B (NF-kappa B) is reviewed and several potential pathways for cytokine-induced periodontal tissue damage, mediated by NF-kappa B1 are discussed. Emphasis is placed on cytokines that have been studied in periodontitis, principally TNF-alpha, IL-1, IL-6, IL-8 and beta-interferon. The link between cellular production of such important mediators of inflammation and the antioxidant (AO) thiols, cysteine and reduced glutathione (GSH), is discussed and it is hypothesised that NF-kappa B antagonists may offer important therapeutic benefits. 
+</text>
+    <sentence charOffset="0-68" id="S1">
+        <text xml:space="preserve">Reactive oxygen species and antioxidants in inflammatory diseases. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-8" text="Reactive" lemma="reactive"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="9-15" text="oxygen" lemma="oxygen"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="16-23" text="species" lemma="species"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="24-27" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="28-40" text="antioxidants" lemma="antioxidant"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="41-43" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="44-56" text="inflammatory" lemma="inflammatory"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="57-65" text="diseases" lemma="disease"/>
+            <token xml:space="preserve" id="stt_9" POS="." charOffset="65-66" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (JJ Reactive) (NN oxygen) (NNS=H species)
+            (CC and)
+            (NNS antioxidants))
+            (PP (IN=H in)
+            (NP (JJ inflammatory) (NNS=H diseases)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="68-272" id="S2">
+        <text xml:space="preserve">This paper aims to review the role of free radical-induced tissue damage and antioxidant defence mechanisms in inflammatory diseases that involve pathogenic processes similar to the periodontal diseases. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="68-72" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="73-78" text="paper" lemma="paper"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="79-83" text="aims" lemma="aim"/>
+            <token xml:space="preserve" id="stt_4" POS="TO" charOffset="84-86" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_5" POS="VB" charOffset="87-93" text="review" lemma="review"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="94-97" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="98-102" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="103-105" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="106-110" text="free" lemma="free"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="111-126" text="radical-induced" lemma="radical-induced"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="127-133" text="tissue" lemma="tissue"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="134-140" text="damage" lemma="damage"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="141-144" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="145-156" text="antioxidant" lemma="antioxidant"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="157-164" text="defence" lemma="defence"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="165-175" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="176-178" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="179-191" text="inflammatory" lemma="inflammatory"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="192-200" text="diseases" lemma="disease"/>
+            <token xml:space="preserve" id="stt_20" POS="WDT" charOffset="201-205" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_21" POS="VBP" charOffset="206-213" text="involve" lemma="involve"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="214-224" text="pathogenic" lemma="pathogenic"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="225-234" text="processes" lemma="process"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="235-242" text="similar" lemma="similar"/>
+            <token xml:space="preserve" id="stt_25" POS="TO" charOffset="243-245" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="246-249" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="250-261" text="periodontal" lemma="periodontal"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="262-270" text="diseases" lemma="disease"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="270-271" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H paper))
+            (VP=H (VBZ=H aims)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H review)
+            (NP
+            (NP=H (DT the) (NN=H role))
+            (PP (IN=H of)
+            (NP (JJ free) (JJ radical-induced) (NN tissue) (NN damage)
+            (CC and)
+            (JJ antioxidant) (NN defence) (NNS=H mechanisms))))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ inflammatory) (NNS=H diseases))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H involve)
+            (S
+            (NP (JJ pathogenic) (NNS=H processes))
+            (ADJP=H (JJ=H similar)
+            (PP (TO=H to)
+            (NP (DT the) (JJ periodontal) (NNS=H diseases))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="272-442" id="S3">
+        <text xml:space="preserve">There is a clearly defined and substantial role for free radicals or reactive oxygen species (ROS) in periodontitis, but little research has been performed in this area. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="EX" charOffset="272-277" text="There" lemma="there"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="278-280" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="281-282" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="283-290" text="clearly" lemma="clearly"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="291-298" text="defined" lemma="define"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="299-302" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="303-314" text="substantial" lemma="substantial"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="315-319" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="320-323" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="324-328" text="free" lemma="free"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="329-337" text="radicals" lemma="radical"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="338-340" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="341-349" text="reactive" lemma="reactive"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="350-356" text="oxygen" lemma="oxygen"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="357-364" text="species" lemma="species"/>
+            <token xml:space="preserve" id="stt_16" POS="-LRB-" charOffset="365-366" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="366-369" text="ROS" lemma="ros"/>
+            <token xml:space="preserve" id="stt_18" POS="-RRB-" charOffset="369-370" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="371-373" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="374-387" text="periodontitis" lemma="periodontitis"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="387-388" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="CC" charOffset="389-392" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="393-399" text="little" lemma="little"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="400-408" text="research" lemma="research"/>
+            <token xml:space="preserve" id="stt_25" POS="VBZ" charOffset="409-412" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_26" POS="VBN" charOffset="413-417" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_27" POS="VBN" charOffset="418-427" text="performed" lemma="perform"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="428-430" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="431-435" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="436-440" text="area" lemma="area"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="440-441" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (EX=H There))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H
+            (NP=H (DT a)
+            (ADJP
+            (ADJP=H (RB clearly) (VBN=H defined))
+            (CC and)
+            (ADJP (JJ=H substantial)))
+            (NN=H role))
+            (PP (IN=H for)
+            (NP (JJ free) (NNS=H radicals))))
+            (CC or)
+            (NP
+            (NP=H
+            (NP=H (JJ reactive) (NN oxygen) (NNS=H species))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H ROS))
+            (-RRB- -RRB-)))
+            (PP (IN=H in)
+            (NP (NN=H periodontitis)))))))
+            (, ,)
+            (CC but)
+            (S
+            (NP (JJ little) (NN=H research))
+            (VP=H (VBZ=H has)
+            (VP (VBN=H been)
+            (VP (VBN=H performed)
+            (PP (IN=H in)
+            (NP (DT this) (NN=H area)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="442-691" id="S4">
+        <text xml:space="preserve">This paper reviews the considerable data available relating ROS activity and antioxidant defence to inflammatory diseases and attempts to draw parallels with periodontitis, in an effort to stimulate more periodontal research in this important area. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="442-446" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="447-452" text="paper" lemma="paper"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="453-460" text="reviews" lemma="review"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="461-464" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="465-477" text="considerable" lemma="considerable"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="478-482" text="data" lemma="datum"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="483-492" text="available" lemma="available"/>
+            <token xml:space="preserve" id="stt_8" POS="VBG" charOffset="493-501" text="relating" lemma="relate"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="502-505" text="ROS" lemma="ros"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="506-514" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="515-518" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="519-530" text="antioxidant" lemma="antioxidant"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="531-538" text="defence" lemma="defence"/>
+            <token xml:space="preserve" id="stt_14" POS="TO" charOffset="539-541" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="542-554" text="inflammatory" lemma="inflammatory"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="555-563" text="diseases" lemma="disease"/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="564-567" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="568-576" text="attempts" lemma="attempt"/>
+            <token xml:space="preserve" id="stt_19" POS="TO" charOffset="577-579" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_20" POS="VB" charOffset="580-584" text="draw" lemma="draw"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="585-594" text="parallels" lemma="parallel"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="595-599" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="600-613" text="periodontitis" lemma="periodontitis"/>
+            <token xml:space="preserve" id="stt_24" POS="," charOffset="613-614" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="615-617" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="618-620" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="621-627" text="effort" lemma="effort"/>
+            <token xml:space="preserve" id="stt_28" POS="TO" charOffset="628-630" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_29" POS="VB" charOffset="631-640" text="stimulate" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_30" POS="JJR" charOffset="641-645" text="more" lemma="more"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="646-657" text="periodontal" lemma="periodontal"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="658-666" text="research" lemma="research"/>
+            <token xml:space="preserve" id="stt_33" POS="IN" charOffset="667-669" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_34" POS="DT" charOffset="670-674" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_35" POS="JJ" charOffset="675-684" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="685-689" text="area" lemma="area"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="689-690" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H paper))
+            (VP=H (VBZ=H reviews)
+            (S
+            (NP (DT the) (JJ considerable) (NNS=H data))
+            (ADJP (JJ=H available))
+            (S=H
+            (VP=H (VBG=H relating)
+            (NP
+            (NP=H (NN ROS) (NN activity)
+            (CC and)
+            (JJ antioxidant) (NN=H defence))
+            (PP (TO=H to)
+            (NP (JJ inflammatory) (NNS=H diseases)
+            (CC and)
+            (NNS attempts))))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H draw)
+            (NP (NNS=H parallels))
+            (PP (IN=H with)
+            (NP (NN=H periodontitis)))
+            (, ,)
+            (PP (IN=H in)
+            (NP (DT an) (NN=H effort)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H stimulate)
+            (NP
+            (NP=H (JJR more) (JJ periodontal) (NN=H research))
+            (PP (IN=H in)
+            (NP (DT this) (JJ important) (NN=H area))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="691-906" id="S5">
+        <text xml:space="preserve">The recent discovery of the transcription factor nuclear factor kappa B (NF-kappa B) is reviewed and several potential pathways for cytokine-induced periodontal tissue damage, mediated by NF-kappa B1 are discussed. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="691-694" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="695-701" text="recent" lemma="recent"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="702-711" text="discovery" lemma="discovery"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="712-714" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="715-718" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="719-732" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="733-739" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="740-747" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="748-754" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="755-760" text="kappa" lemma="kappa"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="761-762" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_12" POS="-LRB-" charOffset="763-764" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="764-772" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="773-774" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_15" POS="-RRB-" charOffset="774-775" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="776-778" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="779-787" text="reviewed" lemma="review"/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="788-791" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="792-799" text="several" lemma="several"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="800-809" text="potential" lemma="potential"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="810-818" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="819-822" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="823-839" text="cytokine-induced" lemma="cytokine-induced"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="840-851" text="periodontal" lemma="periodontal"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="852-858" text="tissue" lemma="tissue"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="859-865" text="damage" lemma="damage"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="865-866" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="VBN" charOffset="867-875" text="mediated" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="876-878" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="879-887" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="888-890" text="B1" lemma="b1"/>
+            <token xml:space="preserve" id="stt_32" POS="VBP" charOffset="891-894" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_33" POS="VBN" charOffset="895-904" text="discussed" lemma="discuss"/>
+            <token xml:space="preserve" id="stt_34" POS="." charOffset="904-905" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (JJ recent) (NN=H discovery))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (NP=H (DT the) (NN transcription) (NN=H factor))
+            (SBAR
+            (S=H
+            (NP
+            (NP=H (JJ nuclear) (NN factor) (NN kappa) (NN=H B))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN NF-kappa) (NN=H B))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H reviewed))))))
+            (CC and)
+            (NP
+            (NP=H (JJ several) (JJ potential) (NNS=H pathways))
+            (PP (IN=H for)
+            (NP
+            (NP=H (JJ cytokine-induced) (JJ periodontal) (NN tissue) (NN=H damage))
+            (, ,)
+            (VP (VBN=H mediated)
+            (PP (IN=H by)
+            (NP (NN NF-kappa) (NN=H B1))))))))))
+            (VP=H (VBP=H are)
+            (VP (VBN=H discussed)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="906-1040" id="S6">
+        <text xml:space="preserve">Emphasis is placed on cytokines that have been studied in periodontitis, principally TNF-alpha, IL-1, IL-6, IL-8 and beta-interferon. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="906-914" text="Emphasis" lemma="emphasis"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="915-917" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="918-924" text="placed" lemma="place"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="925-927" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="928-937" text="cytokines" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_6" POS="WDT" charOffset="938-942" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_7" POS="VBP" charOffset="943-947" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="948-952" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="953-960" text="studied" lemma="study"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="961-963" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="964-977" text="periodontitis" lemma="periodontitis"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="977-978" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="RB" charOffset="979-990" text="principally" lemma="principally"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="991-1000" text="TNF-alpha" lemma="tnf-alpha"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="1000-1001" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1002-1006" text="IL-1" lemma="il-1"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="1006-1007" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1008-1012" text="IL-6" lemma="il-6"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="1012-1013" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1014-1018" text="IL-8" lemma="il-8"/>
+            <token xml:space="preserve" id="stt_21" POS="CC" charOffset="1019-1022" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1023-1038" text="beta-interferon" lemma="beta-interferon"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="1038-1039" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Emphasis))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H placed)
+            (PP (IN=H on)
+            (NP
+            (NP=H
+            (NP=H (NNS=H cytokines))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H have)
+            (VP (VBN=H been)
+            (VP (VBN=H studied)
+            (PP (IN=H in)
+            (NP (NN=H periodontitis)))))))))
+            (, ,)
+            (ADVP (RB=H principally))
+            (NP (NN TNF-alpha) (, ,) (NN IL-1) (, ,) (NN IL-6) (, ,) (NN=H IL-8)
+            (CC and)
+            (NN beta-interferon))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1040-1301" id="S7">
+        <text xml:space="preserve">The link between cellular production of such important mediators of inflammation and the antioxidant (AO) thiols, cysteine and reduced glutathione (GSH), is discussed and it is hypothesised that NF-kappa B antagonists may offer important therapeutic benefits. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1040-1043" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1044-1048" text="link" lemma="link"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1049-1056" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1057-1065" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1066-1076" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1077-1079" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1080-1084" text="such" lemma="such"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1085-1094" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1095-1104" text="mediators" lemma="mediator"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1105-1107" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1108-1120" text="inflammation" lemma="inflammation"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="1121-1124" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="1125-1128" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1129-1140" text="antioxidant" lemma="antioxidant"/>
+            <token xml:space="preserve" id="stt_15" POS="-LRB-" charOffset="1141-1142" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1142-1144" text="AO" lemma="ao"/>
+            <token xml:space="preserve" id="stt_17" POS="-RRB-" charOffset="1144-1145" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="1146-1152" text="thiols" lemma="thiol"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="1152-1153" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1154-1162" text="cysteine" lemma="cysteine"/>
+            <token xml:space="preserve" id="stt_21" POS="CC" charOffset="1163-1166" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_22" POS="VBD" charOffset="1167-1174" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1175-1186" text="glutathione" lemma="glutathione"/>
+            <token xml:space="preserve" id="stt_24" POS="-LRB-" charOffset="1187-1188" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1188-1191" text="GSH" lemma="gsh"/>
+            <token xml:space="preserve" id="stt_26" POS="-RRB-" charOffset="1191-1192" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="1192-1193" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="VBZ" charOffset="1194-1196" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_29" POS="VBN" charOffset="1197-1206" text="discussed" lemma="discuss"/>
+            <token xml:space="preserve" id="stt_30" POS="CC" charOffset="1207-1210" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_31" POS="PRP" charOffset="1211-1213" text="it" lemma="it"/>
+            <token xml:space="preserve" id="stt_32" POS="VBZ" charOffset="1214-1216" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_33" POS="VBN" charOffset="1217-1229" text="hypothesised" lemma="hypothesise"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="1230-1234" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1235-1243" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1244-1245" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_37" POS="NNS" charOffset="1246-1257" text="antagonists" lemma="antagonist"/>
+            <token xml:space="preserve" id="stt_38" POS="MD" charOffset="1258-1261" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_39" POS="VB" charOffset="1262-1267" text="offer" lemma="offer"/>
+            <token xml:space="preserve" id="stt_40" POS="JJ" charOffset="1268-1277" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_41" POS="JJ" charOffset="1278-1289" text="therapeutic" lemma="therapeutic"/>
+            <token xml:space="preserve" id="stt_42" POS="NNS" charOffset="1290-1298" text="benefits" lemma="benefit"/>
+            <token xml:space="preserve" id="stt_43" POS="." charOffset="1298-1299" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H link))
+            (PP (IN=H between)
+            (NP (JJ cellular) (NN=H production))))
+            (VP=H
+            (VP=H
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (NP=H (JJ such) (JJ important) (NNS=H mediators))
+            (PP (IN=H of)
+            (NP (NN=H inflammation))))
+            (CC and)
+            (NP
+            (NP=H (DT the) (NN=H antioxidant))
+            (PRN (-LRB- -LRB-)
+            (NP=H (JJ=H AO))
+            (-RRB- -RRB-))
+            (NP (NNS=H thiols)))))
+            (, ,)
+            (NP=H (NN=H cysteine)))
+            (CC and)
+            (VP (VBD=H reduced)
+            (SBAR
+            (S=H
+            (S=H
+            (NP
+            (NP=H (NN=H glutathione))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H GSH))
+            (-RRB- -RRB-))
+            (, ,))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H discussed))))
+            (CC and)
+            (S
+            (NP (PRP=H it))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H hypothesised)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN NF-kappa) (NN B) (NNS=H antagonists))
+            (VP=H (MD=H may)
+            (VP (VB=H offer)
+            (NP (JJ important) (JJ therapeutic) (NNS=H benefits)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T6" type="ZeroArticleNP" charOffset="179-200" headOffset="192-200" text="inflammatory diseases"/>
+    <Term xml:space="preserve" id="T7" type="RelativePronoun" charOffset="201-205" headOffset="201-205" text="that"/>
+    <Term xml:space="preserve" id="T8" type="ZeroArticleNP" charOffset="928-937" headOffset="928-937" text="cytokines"/>
+    <Term xml:space="preserve" id="T9" type="RelativePronoun" charOffset="938-942" headOffset="938-942" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T7"/>
+        <Antecedent idref="T6"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T9"/>
+        <Antecedent idref="T8"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="879-890" headOffset="888-890" text="NF-kappa B1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="991-1000" headOffset="991-1000" text="TNF-alpha"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="1008-1012" headOffset="1008-1012" text="IL-6"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="1014-1018" headOffset="1014-1018" text="IL-8"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="1023-1038" headOffset="1023-1038" text="beta-interferon"/>
+</document>

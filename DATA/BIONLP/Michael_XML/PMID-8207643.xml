@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8207643">
+    <text xml:space="preserve">Stimulation of HIV replication in mononuclear phagocytes by leukemia inhibitory factor. 
+This study examined the effects of leukemia inhibitory factor (LIF) on human immunodeficiency virus (HIV) replication in mononuclear phagocytes (MNP). LIF induced a dose-dependent increase in p24 antigen production in the chronically infected promonocytic cell line U1. The magnitude and time kinetics of the LIF effects were similar to interleukin 1 (IL-1), IL-6, and tumor necrosis factor (TNF), other cytokines known to induce HIV replication in this cell line. To characterize mechanisms responsible for these LIF effects, levels of HIV mRNA, activation of the DNA binding protein nuclear factor (NF)-kB, signal transduction pathways, and potential interactions with other cytokines were analyzed. LIF increased steady-state levels of HIV mRNA at 2.0, 4.3, and 9.2 kB. This was detectable by 24 h and persisted until 72 h. The DNA binding protein NF-kB is a central mediator in cytokine activation of HIV transcription. NF-kB levels were higher in unstimulated U1 cells as compared to the parent cell line U937. In both cell lines LIF increased NF-kB activity. Induction of NF-kB and HIV replication by cytokines are at least in part dependent on reactive oxygen intermediates. The oxygen radical scavenger N-acetyl-L-cysteine, but not an inhibitor of nitric oxide synthase, inhibited LIF-induced HIV replication. LIF induces the production of other cytokines in monocytes but its effects on HIV replication were not inhibited by antibodies to IL-1, TNF, or IL-6. These results identify LIF as a stimulus of HIV replication. (ABSTRACT TRUNCATED AT 250 WORDS) 
+</text>
+    <sentence charOffset="0-89" id="S1">
+        <text xml:space="preserve">Stimulation of HIV replication in mononuclear phagocytes by leukemia inhibitory factor. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-11" text="Stimulation" lemma="stimulation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="12-14" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="15-18" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="19-30" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="31-33" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="34-45" text="mononuclear" lemma="mononuclear"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="46-56" text="phagocytes" lemma="phagocyte"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="57-59" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="60-68" text="leukemia" lemma="leukemia"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="69-79" text="inhibitory" lemma="inhibitory"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="80-86" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="86-87" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Stimulation))
+            (PP (IN=H of)
+            (NP (NN HIV) (NN=H replication)))
+            (PP (IN=H in)
+            (NP (JJ mononuclear) (NNS=H phagocytes)))
+            (PP (IN=H by)
+            (NP (NN leukemia) (JJ inhibitory) (NN=H factor)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="89-240" id="S2">
+        <text xml:space="preserve">This study examined the effects of leukemia inhibitory factor (LIF) on human immunodeficiency virus (HIV) replication in mononuclear phagocytes (MNP). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="89-93" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="94-99" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="100-108" text="examined" lemma="examine"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="109-112" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="113-120" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="121-123" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="124-132" text="leukemia" lemma="leukemia"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="133-143" text="inhibitory" lemma="inhibitory"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="144-150" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_10" POS="-LRB-" charOffset="151-152" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="152-155" text="LIF" lemma="lif"/>
+            <token xml:space="preserve" id="stt_12" POS="-RRB-" charOffset="155-156" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="157-159" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="160-165" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="166-182" text="immunodeficiency" lemma="immunodeficiency"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="183-188" text="virus" lemma="virus"/>
+            <token xml:space="preserve" id="stt_17" POS="-LRB-" charOffset="189-190" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="190-193" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_19" POS="-RRB-" charOffset="193-194" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="195-206" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="207-209" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="210-221" text="mononuclear" lemma="mononuclear"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="222-232" text="phagocytes" lemma="phagocyte"/>
+            <token xml:space="preserve" id="stt_24" POS="-LRB-" charOffset="233-234" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="234-237" text="MNP" lemma="mnp"/>
+            <token xml:space="preserve" id="stt_26" POS="-RRB-" charOffset="237-238" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="238-239" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H study))
+            (VP=H (VBD=H examined)
+            (NP
+            (NP=H (DT the) (NNS=H effects))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN leukemia) (JJ inhibitory) (NN=H factor))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H LIF))
+            (-RRB- -RRB-)))))
+            (PP (IN=H on)
+            (NP
+            (NP=H (JJ human) (NN immunodeficiency) (NN virus) (-LRB- -LRB-) (NN HIV) (-RRB- -RRB-) (NN=H replication))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ mononuclear) (NNS=H phagocytes))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H MNP))
+            (-RRB- -RRB-)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="240-359" id="S3">
+        <text xml:space="preserve">LIF induced a dose-dependent increase in p24 antigen production in the chronically infected promonocytic cell line U1. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="240-243" text="LIF" lemma="lif"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="244-251" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="252-253" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="254-268" text="dose-dependent" lemma="dose-dependent"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="269-277" text="increase" lemma="increase"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="278-280" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="281-284" text="p24" lemma="p24"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="285-292" text="antigen" lemma="antigen"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="293-303" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="304-306" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="307-310" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="311-322" text="chronically" lemma="chronically"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="323-331" text="infected" lemma="infected"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="332-344" text="promonocytic" lemma="promonocytic"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="345-349" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="350-354" text="line" lemma="line"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="355-357" text="U1" lemma="u1"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="357-358" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H LIF))
+            (VP=H (VBD=H induced)
+            (NP (DT a) (JJ dose-dependent) (NN=H increase))
+            (PP (IN=H in)
+            (NP (NN p24) (NN antigen) (NN=H production)))
+            (PP (IN=H in)
+            (NP (DT the)
+            (ADJP (RB chronically) (JJ=H infected))
+            (JJ promonocytic) (NN cell) (NN line) (NN=H U1))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="359-554" id="S4">
+        <text xml:space="preserve">The magnitude and time kinetics of the LIF effects were similar to interleukin 1 (IL-1), IL-6, and tumor necrosis factor (TNF), other cytokines known to induce HIV replication in this cell line. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="359-362" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="363-372" text="magnitude" lemma="magnitude"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="373-376" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="377-381" text="time" lemma="time"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="382-390" text="kinetics" lemma="kinetics"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="391-393" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="394-397" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="398-401" text="LIF" lemma="lif"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="402-409" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="410-414" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="415-422" text="similar" lemma="similar"/>
+            <token xml:space="preserve" id="stt_12" POS="TO" charOffset="423-425" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="426-437" text="interleukin" lemma="interleukin"/>
+            <token xml:space="preserve" id="stt_14" POS="CD" charOffset="438-439" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_15" POS="-LRB-" charOffset="440-441" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="441-445" text="IL-1" lemma="il-1"/>
+            <token xml:space="preserve" id="stt_17" POS="-RRB-" charOffset="445-446" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="446-447" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="448-452" text="IL-6" lemma="il-6"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="452-453" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="CC" charOffset="454-457" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="458-463" text="tumor" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="464-472" text="necrosis" lemma="necrosis"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="473-479" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_25" POS="-LRB-" charOffset="480-481" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="481-484" text="TNF" lemma="tnf"/>
+            <token xml:space="preserve" id="stt_27" POS="-RRB-" charOffset="484-485" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_28" POS="," charOffset="485-486" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="487-492" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="493-502" text="cytokines" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_31" POS="VBN" charOffset="503-508" text="known" lemma="know"/>
+            <token xml:space="preserve" id="stt_32" POS="TO" charOffset="509-511" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_33" POS="VB" charOffset="512-518" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="519-522" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="523-534" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_36" POS="IN" charOffset="535-537" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_37" POS="DT" charOffset="538-542" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="543-547" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="548-552" text="line" lemma="line"/>
+            <token xml:space="preserve" id="stt_40" POS="." charOffset="552-553" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN magnitude)
+            (CC and)
+            (NN time) (NNS=H kinetics))
+            (PP (IN=H of)
+            (NP (DT the) (NN LIF) (NNS=H effects))))
+            (VP=H (VBD=H were)
+            (ADJP (JJ=H similar)
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN=H interleukin) (CD 1))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IL-1))
+            (-RRB- -RRB-))
+            (, ,)
+            (NP (NN=H IL-6))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (NN tumor) (NN necrosis) (NN=H factor))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H TNF))
+            (-RRB- -RRB-)))
+            (, ,)
+            (NP
+            (NP=H (JJ other) (NNS=H cytokines))
+            (VP (VBN=H known)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H induce)
+            (NP (NN HIV) (NN=H replication))
+            (PP (IN=H in)
+            (NP (DT this) (NN cell) (NN=H line))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="554-791" id="S5">
+        <text xml:space="preserve">To characterize mechanisms responsible for these LIF effects, levels of HIV mRNA, activation of the DNA binding protein nuclear factor (NF)-kB, signal transduction pathways, and potential interactions with other cytokines were analyzed. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="554-556" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="VB" charOffset="557-569" text="characterize" lemma="characterize"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="570-580" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="581-592" text="responsible" lemma="responsible"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="593-596" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="597-602" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="603-606" text="LIF" lemma="lif"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="607-614" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="614-615" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="616-622" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="623-625" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="626-629" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="630-634" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="634-635" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="636-646" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="647-649" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="650-653" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="654-657" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="658-665" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="666-673" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="674-681" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="682-688" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_23" POS="-LRB-" charOffset="689-690" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="690-692" text="NF" lemma="nf"/>
+            <token xml:space="preserve" id="stt_25" POS="-RRB-" charOffset="692-693" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_26" POS=":" charOffset="693-694" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="694-696" text="kB" lemma="kb"/>
+            <token xml:space="preserve" id="stt_28" POS="," charOffset="696-697" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="698-704" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="705-717" text="transduction" lemma="transduction"/>
+            <token xml:space="preserve" id="stt_31" POS="NNS" charOffset="718-726" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_32" POS="," charOffset="726-727" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_33" POS="CC" charOffset="728-731" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_34" POS="JJ" charOffset="732-741" text="potential" lemma="potential"/>
+            <token xml:space="preserve" id="stt_35" POS="NNS" charOffset="742-754" text="interactions" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_36" POS="IN" charOffset="755-759" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_37" POS="JJ" charOffset="760-765" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_38" POS="NNS" charOffset="766-775" text="cytokines" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_39" POS="VBD" charOffset="776-780" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_40" POS="VBN" charOffset="781-789" text="analyzed" lemma="analyze"/>
+            <token xml:space="preserve" id="stt_41" POS="." charOffset="789-790" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP (VB=H characterize)
+            (NP
+            (NP=H
+            (NP=H (NNS=H mechanisms))
+            (NP
+            (ADJP (JJ=H responsible)
+            (PP (IN=H for)
+            (NP (DT these) (NN=H LIF))))
+            (NNS=H effects)))
+            (, ,)
+            (NP
+            (NP=H (NNS=H levels))
+            (PP (IN=H of)
+            (NP (NN HIV) (NN=H mRNA))))
+            (, ,)
+            (NP
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN DNA) (NN binding) (NN protein) (JJ nuclear) (NN=H factor))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H NF))
+            (-RRB- -RRB-)))))
+            (: -)
+            (NP
+            (NP=H (NN=H kB))
+            (, ,)
+            (NP (NN signal) (NN transduction) (NNS=H pathways)))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (JJ potential) (NNS=H interactions))
+            (PP (IN=H with)
+            (NP (JJ other) (NNS=H cytokines))))))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H analyzed)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="791-862" id="S6">
+        <text xml:space="preserve">LIF increased steady-state levels of HIV mRNA at 2.0, 4.3, and 9.2 kB. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="791-794" text="LIF" lemma="lif"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="795-804" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="805-817" text="steady-state" lemma="steady-state"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="818-824" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="825-827" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="828-831" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="832-836" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="837-839" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_9" POS="CD" charOffset="840-843" text="2.0" lemma="2.0"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="843-844" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="CD" charOffset="845-848" text="4.3" lemma="4.3"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="848-849" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="850-853" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="CD" charOffset="854-857" text="9.2" lemma="9.2"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="858-860" text="kB" lemma="kb"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="860-861" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H LIF))
+            (VP=H (VBD=H increased)
+            (NP
+            (NP=H (JJ steady-state) (NNS=H levels))
+            (PP (IN=H of)
+            (NP (NN HIV) (NN=H mRNA))))
+            (PP (IN=H at)
+            (NP
+            (NP=H (CD=H 2.0))
+            (, ,)
+            (NP (CD=H 4.3))
+            (, ,)
+            (CC and)
+            (NP (CD 9.2) (NN=H kB)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="862-916" id="S7">
+        <text xml:space="preserve">This was detectable by 24 h and persisted until 72 h. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="862-866" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="867-870" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="871-881" text="detectable" lemma="detectable"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="882-884" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_5" POS="CD" charOffset="885-887" text="24" lemma="24"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="888-889" text="h" lemma="h"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="890-893" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="894-903" text="persisted" lemma="persist"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="904-909" text="until" lemma="until"/>
+            <token xml:space="preserve" id="stt_10" POS="CD" charOffset="910-912" text="72" lemma="72"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="913-915" text="h." lemma="h."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT=H This))
+            (VP=H
+            (VP=H (VBD=H was)
+            (ADJP (JJ=H detectable))
+            (PP (IN=H by)
+            (NP (CD 24) (NN=H h))))
+            (CC and)
+            (VP (VBD=H persisted)
+            (PP (IN=H until)
+            (NP (CD 72) (NN=H h.)))))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="916-1013" id="S8">
+        <text xml:space="preserve">The DNA binding protein NF-kB is a central mediator in cytokine activation of HIV transcription. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="916-919" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="920-923" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="924-931" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="932-939" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="940-945" text="NF-kB" lemma="nf-kb"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="946-948" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="949-950" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="951-958" text="central" lemma="central"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="959-967" text="mediator" lemma="mediator"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="968-970" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="971-979" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="980-990" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="991-993" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="994-997" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="998-1011" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="1011-1012" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NN DNA) (NN binding) (NN protein) (NN=H NF-kB))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (JJ central) (NN=H mediator))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN cytokine) (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN HIV) (NN=H transcription)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1013-1105" id="S9">
+        <text xml:space="preserve">NF-kB levels were higher in unstimulated U1 cells as compared to the parent cell line U937. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1013-1018" text="NF-kB" lemma="nf-kb"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1019-1025" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="1026-1030" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="JJR" charOffset="1031-1037" text="higher" lemma="higher"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1038-1040" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1041-1053" text="unstimulated" lemma="unstimulated"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1054-1056" text="U1" lemma="u1"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1057-1062" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1063-1065" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="1066-1074" text="compared" lemma="compare"/>
+            <token xml:space="preserve" id="stt_11" POS="TO" charOffset="1075-1077" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1078-1081" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1082-1088" text="parent" lemma="parent"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1089-1093" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1094-1098" text="line" lemma="line"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1099-1103" text="U937" lemma="u937"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="1103-1104" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN NF-kB) (NNS=H levels))
+            (VP=H (VBD=H were)
+            (ADJP
+            (ADJP=H (JJR=H higher))
+            (PP (IN=H in)
+            (NP (JJ unstimulated) (NN U1) (NNS=H cells))))
+            (PP (IN=H as))
+            (PP (VBN=H compared)
+            (PP (TO=H to)
+            (NP (DT the) (NN parent) (NN cell) (NN line) (NN=H U937)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1105-1154" id="S10">
+        <text xml:space="preserve">In both cell lines LIF increased NF-kB activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1105-1107" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="1108-1112" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1113-1117" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1118-1123" text="lines" lemma="line"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1124-1127" text="LIF" lemma="lif"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="1128-1137" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1138-1143" text="NF-kB" lemma="nf-kb"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1144-1152" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_9" POS="." charOffset="1152-1153" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (DT both) (NN cell) (NNS=H lines)))
+            (NP (NN=H LIF))
+            (VP=H (VBD=H increased)
+            (NP (NN NF-kB) (NN=H activity)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1154-1271" id="S11">
+        <text xml:space="preserve">Induction of NF-kB and HIV replication by cytokines are at least in part dependent on reactive oxygen intermediates. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1154-1163" text="Induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1164-1166" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1167-1172" text="NF-kB" lemma="nf-kb"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="1173-1176" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1177-1180" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1181-1192" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1193-1195" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1196-1205" text="cytokines" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_9" POS="VBP" charOffset="1206-1209" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1210-1212" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_11" POS="JJS" charOffset="1213-1218" text="least" lemma="least"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1219-1221" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1222-1226" text="part" lemma="part"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="1227-1236" text="dependent" lemma="dependent"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1237-1239" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1240-1248" text="reactive" lemma="reactive"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1249-1255" text="oxygen" lemma="oxygen"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="1256-1269" text="intermediates" lemma="intermediate"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="1269-1270" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN NF-kB)
+            (CC and)
+            (NN HIV) (NN=H replication))
+            (PP (IN=H by)
+            (NP (NNS=H cytokines))))))
+            (VP=H (VBP=H are)
+            (ADVP
+            (ADVP=H (IN=H at) (JJS least))
+            (PP (IN=H in)
+            (NP (NN=H part))))
+            (ADJP (JJ=H dependent)
+            (PP (IN=H on)
+            (NP (JJ reactive) (NN oxygen) (NNS=H intermediates)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1271-1407" id="S12">
+        <text xml:space="preserve">The oxygen radical scavenger N-acetyl-L-cysteine, but not an inhibitor of nitric oxide synthase, inhibited LIF-induced HIV replication. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1271-1274" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1275-1281" text="oxygen" lemma="oxygen"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="1282-1289" text="radical" lemma="radical"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1290-1299" text="scavenger" lemma="scavenger"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1300-1319" text="N-acetyl-L-cysteine" lemma="n-acetyl-l-cysteine"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="1319-1320" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="1321-1324" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_8" POS="RB" charOffset="1325-1328" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="1329-1331" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1332-1341" text="inhibitor" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1342-1344" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1345-1351" text="nitric" lemma="nitric"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1352-1357" text="oxide" lemma="oxide"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1358-1366" text="synthase" lemma="synthase"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="1366-1367" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="VBD" charOffset="1368-1377" text="inhibited" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="1378-1389" text="LIF-induced" lemma="lif-induced"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1390-1393" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1394-1405" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="1405-1406" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN oxygen) (JJ radical) (NN scavenger) (NN=H N-acetyl-L-cysteine))
+            (, ,)
+            (CC but)
+            (NP
+            (NP=H (RB not) (DT an) (NN=H inhibitor))
+            (PP (IN=H of)
+            (NP (JJ nitric) (NN oxide) (NN=H synthase))))
+            (, ,))
+            (VP=H (VBD=H inhibited)
+            (NP (JJ LIF-induced) (NN HIV) (NN=H replication)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1407-1557" id="S13">
+        <text xml:space="preserve">LIF induces the production of other cytokines in monocytes but its effects on HIV replication were not inhibited by antibodies to IL-1, TNF, or IL-6. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1407-1410" text="LIF" lemma="lif"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="1411-1418" text="induces" lemma="induce"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1419-1422" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1423-1433" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1434-1436" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1437-1442" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1443-1452" text="cytokines" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1453-1455" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1456-1465" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="1466-1469" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_11" POS="PRP$" charOffset="1470-1473" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="1474-1481" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1482-1484" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1485-1488" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1489-1500" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_16" POS="VBD" charOffset="1501-1505" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_17" POS="RB" charOffset="1506-1509" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="1510-1519" text="inhibited" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1520-1522" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="1523-1533" text="antibodies" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_21" POS="TO" charOffset="1534-1536" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1537-1541" text="IL-1" lemma="il-1"/>
+            <token xml:space="preserve" id="stt_23" POS="," charOffset="1541-1542" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1543-1546" text="TNF" lemma="tnf"/>
+            <token xml:space="preserve" id="stt_25" POS="," charOffset="1546-1547" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_26" POS="CC" charOffset="1548-1550" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1551-1555" text="IL-6" lemma="il-6"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="1555-1556" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (NN=H LIF))
+            (VP=H (VBZ=H induces)
+            (NP
+            (NP=H (DT the) (NN=H production))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ other) (NNS=H cytokines))
+            (PP (IN=H in)
+            (NP (NNS=H monocytes))))))))
+            (CC but)
+            (S
+            (NP
+            (NP=H (PRP$ its) (NNS=H effects))
+            (PP (IN=H on)
+            (NP (NN HIV) (NN=H replication))))
+            (VP=H (VBD=H were) (RB not)
+            (VP (VBN=H inhibited)
+            (PP (IN=H by)
+            (NP (NNS=H antibodies)))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN=H IL-1))
+            (, ,)
+            (NP (NN=H TNF))
+            (, ,)
+            (CC or)
+            (NP (NN=H IL-6)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1557-1618" id="S14">
+        <text xml:space="preserve">These results identify LIF as a stimulus of HIV replication. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1557-1562" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1563-1570" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1571-1579" text="identify" lemma="identify"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1580-1583" text="LIF" lemma="lif"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1584-1586" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1587-1588" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1589-1597" text="stimulus" lemma="stimulus"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1598-1600" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1601-1604" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1605-1616" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="1616-1617" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H results))
+            (VP=H (VBP=H identify)
+            (NP (NN=H LIF))
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT a) (NN=H stimulus))
+            (PP (IN=H of)
+            (NP (NN HIV) (NN=H replication))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1618-1653" id="S15">
+        <text xml:space="preserve">(ABSTRACT TRUNCATED AT 250 WORDS) 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="-LRB-" charOffset="1618-1619" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1619-1627" text="ABSTRACT" lemma="abstract"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="1628-1637" text="TRUNCATED" lemma="truncate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1638-1640" text="AT" lemma="at"/>
+            <token xml:space="preserve" id="stt_5" POS="CD" charOffset="1641-1644" text="250" lemma="250"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="1645-1650" text="WORDS" lemma="word"/>
+            <token xml:space="preserve" id="stt_7" POS="-RRB-" charOffset="1650-1651" text=")" lemma=")"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (PRN=H (-LRB- -LRB-)
+            (NP=H
+            (NP=H (NN=H ABSTRACT))
+            (VP (VBN=H TRUNCATED)
+            (PP (IN=H AT)
+            (NP (CD 250) (NNS=H WORDS)))))
+            (-RRB- -RRB-)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T15" type="ZeroArticleNP" charOffset="1407-1410" headOffset="1407-1410" text="LIF"/>
+    <Term xml:space="preserve" id="T16" type="PossessivePronoun" charOffset="1470-1473" headOffset="1470-1473" text="its"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T16"/>
+        <Antecedent idref="T15"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="60-86" headOffset="80-86" text="leukemia inhibitory factor"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="124-150" headOffset="144-150" text="leukemia inhibitory factor"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="152-155" headOffset="152-155" text="LIF"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="240-243" headOffset="240-243" text="LIF"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="281-292" headOffset="285-292" text="p24 antigen"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="398-401" headOffset="398-401" text="LIF"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="448-452" headOffset="448-452" text="IL-6"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="603-606" headOffset="603-606" text="LIF"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="791-794" headOffset="791-794" text="LIF"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="1124-1127" headOffset="1124-1127" text="LIF"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="1378-1381" headOffset="1378-1381" text="LIF"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="1407-1410" headOffset="1407-1410" text="LIF"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="1551-1555" headOffset="1551-1555" text="IL-6"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1580-1583" headOffset="1580-1583" text="LIF"/>
+</document>

@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10328874">
+    <text xml:space="preserve">Non-steroidal anti-inflammatory drugs inhibit the expression of cytokines and induce HSP70 in human monocytes. 
+Recent studies have shown that the non-steroidal anti-inflammatory drugs (NSAIDs) activate heat shock transcription factor (HSF1) from a latent cytoplasmic form to a nuclear, DNA binding state. As HSF1 can function as both an activator of heat shock genes and a repressor of non-heat shock genes such as IL1B and c- fos, we have examined the potential role of HSF1 in the effects of NSAIDs on gene expression in a human monocytic cell line THP-1. We found that two members of the NSAIDs, sodium salicylate and sulindac repress the IL1B promoter to similar degree to heat shock or HSF1 overexpression. In addition, sodium salicylate and additional NSAIDs used at concentrations that activate HSF1 also inhibited the expression of other monocytic genes (TNF-alpha, IL-1beta, IL-6, IL-8, IL-10, ICAM-1) activated by exposure to a pro-inflammatory stimulus (lipopolysaccharide, LPS). At least in the case of the IL1B promoter, repression did not seem to involve another factor whose activity is affected by the NSAIDs, NFkappaB as the IL1B promoter fragment used in our studies is not NFkappaB responsive and binds specifically to HSF1. Exposure to NSAIDs had a complex effect on HSP gene expression and while sulindac activated the stress responsive HSP70B promoter, sodium salicylate did not. In addition, only a subset of the NSAIDs induced HSP70 mRNA species. These findings reflect the properties of HSF1 which can be activated to at least two DNA binding forms only one of which activates heat shock promoters and suggest that individual NSAID family members may differentially induce one or other of these forms. Overall therefore, exposure to NSAIDs leads to a profound switch in gene expression in monocytic cells, with suppression of genes involved in macrophage activation and induction of stress genes and HSF1 appears to play a regulatory role in these effects. Copyright 1999 Academic Press. 
+</text>
+    <sentence charOffset="0-112" id="S1">
+        <text xml:space="preserve">Non-steroidal anti-inflammatory drugs inhibit the expression of cytokines and induce HSP70 in human monocytes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-13" text="Non-steroidal" lemma="non-steroidal"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="14-31" text="anti-inflammatory" lemma="anti-inflammatory"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="32-37" text="drugs" lemma="drug"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="38-45" text="inhibit" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="46-49" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="50-60" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="61-63" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="64-73" text="cytokines" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="74-77" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="VBP" charOffset="78-84" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="85-90" text="HSP70" lemma="hsp70"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="91-93" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="94-99" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="100-109" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="109-110" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Non-steroidal) (JJ anti-inflammatory) (NNS=H drugs))
+            (VP=H
+            (VP=H (VBP=H inhibit)
+            (NP
+            (NP=H (DT the) (NN=H expression))
+            (PP (IN=H of)
+            (NP (NNS=H cytokines)))))
+            (CC and)
+            (VP (VBP=H induce)
+            (NP (NN=H HSP70))
+            (PP (IN=H in)
+            (NP (JJ human) (NNS=H monocytes)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="112-306" id="S2">
+        <text xml:space="preserve">Recent studies have shown that the non-steroidal anti-inflammatory drugs (NSAIDs) activate heat shock transcription factor (HSF1) from a latent cytoplasmic form to a nuclear, DNA binding state. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="112-118" text="Recent" lemma="recent"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="119-126" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="127-131" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="132-137" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="138-142" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="143-146" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="147-160" text="non-steroidal" lemma="non-steroidal"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="161-178" text="anti-inflammatory" lemma="anti-inflammatory"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="179-184" text="drugs" lemma="drug"/>
+            <token xml:space="preserve" id="stt_10" POS="-LRB-" charOffset="185-186" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="186-192" text="NSAIDs" lemma="nsaid"/>
+            <token xml:space="preserve" id="stt_12" POS="-RRB-" charOffset="192-193" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_13" POS="VBP" charOffset="194-202" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="203-207" text="heat" lemma="heat"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="208-213" text="shock" lemma="shock"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="214-227" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="228-234" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_18" POS="-LRB-" charOffset="235-236" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="236-240" text="HSF1" lemma="hsf1"/>
+            <token xml:space="preserve" id="stt_20" POS="-RRB-" charOffset="240-241" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="242-246" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="247-248" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="249-255" text="latent" lemma="latent"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="256-267" text="cytoplasmic" lemma="cytoplasmic"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="268-272" text="form" lemma="form"/>
+            <token xml:space="preserve" id="stt_26" POS="TO" charOffset="273-275" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="276-277" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="278-285" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_29" POS="," charOffset="285-286" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="287-290" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="291-298" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="299-304" text="state" lemma="state"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="304-305" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Recent) (NNS=H studies))
+            (VP=H (VBP=H have)
+            (VP (VBN=H shown)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (JJ non-steroidal) (JJ anti-inflammatory) (NNS=H drugs))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NNS=H NSAIDs))
+            (-RRB- -RRB-)))
+            (VP=H (VBP=H activate)
+            (NP
+            (NP=H
+            (NP=H (NN heat) (NN shock) (NN transcription) (NN=H factor))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H HSF1))
+            (-RRB- -RRB-)))
+            (PP (IN=H from)
+            (NP
+            (NP=H (DT a)
+            (ADJP (JJ latent) (JJ=H cytoplasmic))
+            (NN=H form))
+            (TO to)
+            (NP (DT a) (JJ nuclear) (, ,) (NN DNA) (NN binding) (NN=H state))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="306-559" id="S3">
+        <text xml:space="preserve">As HSF1 can function as both an activator of heat shock genes and a repressor of non-heat shock genes such as IL1B and c- fos, we have examined the potential role of HSF1 in the effects of NSAIDs on gene expression in a human monocytic cell line THP-1. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="306-308" text="As" lemma="as"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="309-313" text="HSF1" lemma="hsf1"/>
+            <token xml:space="preserve" id="stt_3" POS="MD" charOffset="314-317" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_4" POS="VB" charOffset="318-326" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="327-329" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="330-334" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="335-337" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="338-347" text="activator" lemma="activator"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="348-350" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="351-355" text="heat" lemma="heat"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="356-361" text="shock" lemma="shock"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="362-367" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="368-371" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="372-373" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="374-383" text="repressor" lemma="repressor"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="384-386" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="387-395" text="non-heat" lemma="non-heat"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="396-401" text="shock" lemma="shock"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="402-407" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="408-412" text="such" lemma="such"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="413-415" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="416-420" text="IL1B" lemma="il1b"/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="421-424" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="SYM" charOffset="425-426" text="c" lemma="c"/>
+            <token xml:space="preserve" id="stt_25" POS=":" charOffset="426-427" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="428-431" text="fos" lemma="fos"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="431-432" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="PRP" charOffset="433-435" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_29" POS="VBP" charOffset="436-440" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_30" POS="VBN" charOffset="441-449" text="examined" lemma="examine"/>
+            <token xml:space="preserve" id="stt_31" POS="DT" charOffset="450-453" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="454-463" text="potential" lemma="potential"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="464-468" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="469-471" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="472-476" text="HSF1" lemma="hsf1"/>
+            <token xml:space="preserve" id="stt_36" POS="IN" charOffset="477-479" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_37" POS="DT" charOffset="480-483" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_38" POS="NNS" charOffset="484-491" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_39" POS="IN" charOffset="492-494" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_40" POS="NNS" charOffset="495-501" text="NSAIDs" lemma="nsaid"/>
+            <token xml:space="preserve" id="stt_41" POS="IN" charOffset="502-504" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="505-509" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_43" POS="NN" charOffset="510-520" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_44" POS="IN" charOffset="521-523" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_45" POS="DT" charOffset="524-525" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_46" POS="JJ" charOffset="526-531" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_47" POS="JJ" charOffset="532-541" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_48" POS="NN" charOffset="542-546" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_49" POS="NN" charOffset="547-551" text="line" lemma="line"/>
+            <token xml:space="preserve" id="stt_50" POS="NN" charOffset="552-557" text="THP-1" lemma="thp-1"/>
+            <token xml:space="preserve" id="stt_51" POS="." charOffset="557-558" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H As)
+            (S
+            (NP (NN=H HSF1))
+            (VP=H (MD=H can)
+            (VP (VB=H function)
+            (PP (IN=H as)
+            (NP (DT=H both)))
+            (NP-TMP
+            (NP=H (DT an) (NN=H activator))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN heat) (NN shock) (NNS=H genes))
+            (CC and)
+            (NP
+            (NP=H (DT a) (NN=H repressor))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ non-heat) (NN shock) (NNS=H genes))
+            (PP (JJ such) (IN=H as)
+            (NP
+            (NP=H (NN=H IL1B))
+            (CC and)
+            (NP (SYM=H c)))))))))
+            (: -)
+            (NP (NN=H fos)))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H have)
+            (VP (VBN=H examined)
+            (NP
+            (NP=H (DT the) (JJ potential) (NN=H role))
+            (PP (IN=H of)
+            (NP (NN=H HSF1))))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NNS=H effects))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H NSAIDs))
+            (PP (IN=H on)
+            (NP (NN gene) (NN=H expression)))))))
+            (PP (IN=H in)
+            (NP (DT a) (JJ human) (JJ monocytic) (NN cell) (NN line) (NN=H THP-1)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="559-713" id="S4">
+        <text xml:space="preserve">We found that two members of the NSAIDs, sodium salicylate and sulindac repress the IL1B promoter to similar degree to heat shock or HSF1 overexpression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="559-561" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="562-567" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="568-572" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="CD" charOffset="573-576" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="577-584" text="members" lemma="member"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="585-587" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="588-591" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="592-598" text="NSAIDs" lemma="nsaid"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="598-599" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="600-606" text="sodium" lemma="sodium"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="607-617" text="salicylate" lemma="salicylate"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="618-621" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="622-630" text="sulindac" lemma="sulindac"/>
+            <token xml:space="preserve" id="stt_14" POS="VBP" charOffset="631-638" text="repress" lemma="repress"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="639-642" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="643-647" text="IL1B" lemma="il1b"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="648-656" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_18" POS="TO" charOffset="657-659" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="660-667" text="similar" lemma="similar"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="668-674" text="degree" lemma="degree"/>
+            <token xml:space="preserve" id="stt_21" POS="TO" charOffset="675-677" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="678-682" text="heat" lemma="heat"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="683-688" text="shock" lemma="shock"/>
+            <token xml:space="preserve" id="stt_24" POS="CC" charOffset="689-691" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="692-696" text="HSF1" lemma="hsf1"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="697-711" text="overexpression" lemma="overexpression"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="711-712" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H found)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (CD two) (NNS=H members))
+            (PP (IN=H of)
+            (NP (DT the) (NNS NSAIDs) (, ,) (NN sodium) (NN=H salicylate)
+            (CC and)
+            (NN sulindac))))
+            (VP=H (VBP=H repress)
+            (NP (DT the) (NN IL1B) (NN=H promoter))
+            (PP (TO=H to)
+            (NP (JJ similar) (NN=H degree)))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN heat) (NN=H shock))
+            (CC or)
+            (NP (NN HSF1) (NN=H overexpression))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="713-992" id="S5">
+        <text xml:space="preserve">In addition, sodium salicylate and additional NSAIDs used at concentrations that activate HSF1 also inhibited the expression of other monocytic genes (TNF-alpha, IL-1beta, IL-6, IL-8, IL-10, ICAM-1) activated by exposure to a pro-inflammatory stimulus (lipopolysaccharide, LPS). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="713-715" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="716-724" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="724-725" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="726-732" text="sodium" lemma="sodium"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="733-743" text="salicylate" lemma="salicylate"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="744-747" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="748-758" text="additional" lemma="additional"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="759-765" text="NSAIDs" lemma="nsaid"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="766-770" text="used" lemma="use"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="771-773" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="774-788" text="concentrations" lemma="concentration"/>
+            <token xml:space="preserve" id="stt_12" POS="WDT" charOffset="789-793" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_13" POS="VBP" charOffset="794-802" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="803-807" text="HSF1" lemma="hsf1"/>
+            <token xml:space="preserve" id="stt_15" POS="RB" charOffset="808-812" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_16" POS="VBD" charOffset="813-822" text="inhibited" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="823-826" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="827-837" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="838-840" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="841-846" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="847-856" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="857-862" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_23" POS="-LRB-" charOffset="863-864" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="864-873" text="TNF-alpha" lemma="tnf-alpha"/>
+            <token xml:space="preserve" id="stt_25" POS="," charOffset="873-874" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="875-883" text="IL-1beta" lemma="il-1beta"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="883-884" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="885-889" text="IL-6" lemma="il-6"/>
+            <token xml:space="preserve" id="stt_29" POS="," charOffset="889-890" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="891-895" text="IL-8" lemma="il-8"/>
+            <token xml:space="preserve" id="stt_31" POS="," charOffset="895-896" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="897-902" text="IL-10" lemma="il-10"/>
+            <token xml:space="preserve" id="stt_33" POS="," charOffset="902-903" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="904-910" text="ICAM-1" lemma="icam-1"/>
+            <token xml:space="preserve" id="stt_35" POS="-RRB-" charOffset="910-911" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_36" POS="VBN" charOffset="912-921" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_37" POS="IN" charOffset="922-924" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="925-933" text="exposure" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_39" POS="TO" charOffset="934-936" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_40" POS="DT" charOffset="937-938" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_41" POS="JJ" charOffset="939-955" text="pro-inflammatory" lemma="pro-inflammatory"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="956-964" text="stimulus" lemma="stimulus"/>
+            <token xml:space="preserve" id="stt_43" POS="-LRB-" charOffset="965-966" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_44" POS="NN" charOffset="966-984" text="lipopolysaccharide" lemma="lipopolysaccharide"/>
+            <token xml:space="preserve" id="stt_45" POS="," charOffset="984-985" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="986-989" text="LPS" lemma="lps"/>
+            <token xml:space="preserve" id="stt_47" POS="-RRB-" charOffset="989-990" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_48" POS="." charOffset="990-991" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H addition)))
+            (, ,)
+            (NP
+            (NP=H (NN sodium) (NN=H salicylate))
+            (CC and)
+            (NP (JJ additional) (NNS=H NSAIDs)))
+            (VP=H (VBN=H used)
+            (PP (IN=H at)
+            (NP
+            (NP=H (NNS=H concentrations))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H activate)
+            (SBAR
+            (S=H
+            (NP (NN=H HSF1))
+            (ADVP (RB=H also))
+            (VP=H (VBD=H inhibited)
+            (NP
+            (NP=H (DT the) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ other) (JJ monocytic) (NNS=H genes))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN TNF-alpha) (, ,) (NN IL-1beta) (, ,) (NN=H IL-6))
+            (, ,)
+            (NP (NN IL-8) (, ,) (NN IL-10) (, ,) (NN=H ICAM-1))
+            (-RRB- -RRB-))
+            (VP (VBN=H activated)
+            (PP (IN=H by)
+            (NP (NN=H exposure)))
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT a) (JJ pro-inflammatory) (NN=H stimulus))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (NN=H lipopolysaccharide))
+            (, ,)
+            (NP (NN=H LPS)))
+            (-RRB- -RRB-)))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="992-1245" id="S6">
+        <text xml:space="preserve">At least in the case of the IL1B promoter, repression did not seem to involve another factor whose activity is affected by the NSAIDs, NFkappaB as the IL1B promoter fragment used in our studies is not NFkappaB responsive and binds specifically to HSF1. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="992-994" text="At" lemma="at"/>
+            <token xml:space="preserve" id="stt_2" POS="JJS" charOffset="995-1000" text="least" lemma="least"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1001-1003" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="1004-1007" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1008-1012" text="case" lemma="case"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1013-1015" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="1016-1019" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1020-1024" text="IL1B" lemma="il1b"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1025-1033" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="1033-1034" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1035-1045" text="repression" lemma="repression"/>
+            <token xml:space="preserve" id="stt_12" POS="VBD" charOffset="1046-1049" text="did" lemma="do"/>
+            <token xml:space="preserve" id="stt_13" POS="RB" charOffset="1050-1053" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_14" POS="VB" charOffset="1054-1058" text="seem" lemma="seem"/>
+            <token xml:space="preserve" id="stt_15" POS="TO" charOffset="1059-1061" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_16" POS="VB" charOffset="1062-1069" text="involve" lemma="involve"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="1070-1077" text="another" lemma="another"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1078-1084" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_19" POS="WP$" charOffset="1085-1090" text="whose" lemma="whose"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1091-1099" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_21" POS="VBZ" charOffset="1100-1102" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_22" POS="VBN" charOffset="1103-1111" text="affected" lemma="affect"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1112-1114" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="1115-1118" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="1119-1125" text="NSAIDs" lemma="nsaid"/>
+            <token xml:space="preserve" id="stt_26" POS="," charOffset="1125-1126" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1127-1135" text="NFkappaB" lemma="nfkappab"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="1136-1138" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="1139-1142" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1143-1147" text="IL1B" lemma="il1b"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1148-1156" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1157-1165" text="fragment" lemma="fragment"/>
+            <token xml:space="preserve" id="stt_33" POS="VBN" charOffset="1166-1170" text="used" lemma="use"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="1171-1173" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_35" POS="PRP$" charOffset="1174-1177" text="our" lemma="we"/>
+            <token xml:space="preserve" id="stt_36" POS="NNS" charOffset="1178-1185" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_37" POS="VBZ" charOffset="1186-1188" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_38" POS="RB" charOffset="1189-1192" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="1193-1201" text="NFkappaB" lemma="nfkappab"/>
+            <token xml:space="preserve" id="stt_40" POS="JJ" charOffset="1202-1212" text="responsive" lemma="responsive"/>
+            <token xml:space="preserve" id="stt_41" POS="CC" charOffset="1213-1216" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_42" POS="VBZ" charOffset="1217-1222" text="binds" lemma="bind"/>
+            <token xml:space="preserve" id="stt_43" POS="RB" charOffset="1223-1235" text="specifically" lemma="specifically"/>
+            <token xml:space="preserve" id="stt_44" POS="TO" charOffset="1236-1238" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_45" POS="NN" charOffset="1239-1243" text="HSF1" lemma="hsf1"/>
+            <token xml:space="preserve" id="stt_46" POS="." charOffset="1243-1244" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP
+            (ADVP=H (IN=H At) (JJS least))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H case))
+            (PP (IN=H of)
+            (NP (DT the) (NN IL1B) (NN=H promoter))))))
+            (PRN (, ,)
+            (S=H
+            (NP (NN=H repression))
+            (VP=H (VBD=H did) (RB not)
+            (VP (VB=H seem)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H involve)
+            (NP
+            (NP=H (DT another) (NN=H factor))
+            (SBAR
+            (WHNP=H (WP$=H whose) (NN activity))
+            (S
+            (VP=H (VBZ=H is)
+            (VP (VBN=H affected)
+            (PP (IN=H by)
+            (NP (DT the) (NNS=H NSAIDs))))))))))))))
+            (, ,))
+            (NP
+            (NP=H (NN=H NFkappaB))
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT the) (NN IL1B) (NN promoter) (NN=H fragment))
+            (VP (VBN=H used)
+            (PP (IN=H in)
+            (NP (PRP$ our) (NNS=H studies)))))))
+            (VP=H
+            (VP=H (VBZ=H is) (RB not)
+            (ADJP
+            (NP (NN=H NFkappaB))
+            (JJ=H responsive)))
+            (CC and)
+            (VP (VBZ=H binds)
+            (ADVP (RB=H specifically))
+            (PP (TO=H to)
+            (NP (NN=H HSF1)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1245-1403" id="S7">
+        <text xml:space="preserve">Exposure to NSAIDs had a complex effect on HSP gene expression and while sulindac activated the stress responsive HSP70B promoter, sodium salicylate did not. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1245-1253" text="Exposure" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_2" POS="TO" charOffset="1254-1256" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="1257-1263" text="NSAIDs" lemma="nsaid"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="1264-1267" text="had" lemma="have"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="1268-1269" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1270-1277" text="complex" lemma="complex"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1278-1284" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1285-1287" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1288-1291" text="HSP" lemma="hsp"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1292-1296" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1297-1307" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="1308-1311" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1312-1317" text="while" lemma="while"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1318-1326" text="sulindac" lemma="sulindac"/>
+            <token xml:space="preserve" id="stt_15" POS="VBD" charOffset="1327-1336" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="1337-1340" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1341-1347" text="stress" lemma="stress"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1348-1358" text="responsive" lemma="responsive"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1359-1365" text="HSP70B" lemma="hsp70b"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1366-1374" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="1374-1375" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1376-1382" text="sodium" lemma="sodium"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1383-1393" text="salicylate" lemma="salicylate"/>
+            <token xml:space="preserve" id="stt_24" POS="VBD" charOffset="1394-1397" text="did" lemma="do"/>
+            <token xml:space="preserve" id="stt_25" POS="RB" charOffset="1398-1401" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="1401-1402" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP
+            (NP=H (NN=H Exposure))
+            (PP (TO=H to)
+            (NP (NNS=H NSAIDs))))
+            (VP=H (VBD=H had)
+            (NP
+            (NP=H (DT a) (JJ complex) (NN=H effect))
+            (PP (IN=H on)
+            (NP (NN HSP) (NN gene) (NN=H expression))))))
+            (CC and)
+            (S
+            (SBAR (IN=H while)
+            (S
+            (NP (NN=H sulindac))
+            (VP=H (VBD=H activated)
+            (NP
+            (ADJP
+            (NP (DT the) (NN=H stress))
+            (JJ=H responsive))
+            (NN HSP70B) (NN=H promoter)))))
+            (, ,)
+            (NP (NN sodium) (NN=H salicylate))
+            (VP=H (VBD=H did) (RB not)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1403-1472" id="S8">
+        <text xml:space="preserve">In addition, only a subset of the NSAIDs induced HSP70 mRNA species. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1403-1405" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1406-1414" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="1414-1415" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="1416-1420" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="1421-1422" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1423-1429" text="subset" lemma="subset"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1430-1432" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="1433-1436" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1437-1443" text="NSAIDs" lemma="nsaid"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="1444-1451" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1452-1457" text="HSP70" lemma="hsp70"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1458-1462" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="1463-1470" text="species" lemma="species"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="1470-1471" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H addition)))
+            (, ,)
+            (NP
+            (NP=H (RB only) (DT a) (NN=H subset))
+            (PP (IN=H of)
+            (NP (DT the) (NNS=H NSAIDs))))
+            (VP=H (VBD=H induced)
+            (NP (NN HSP70) (NN mRNA) (NNS=H species)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1472-1728" id="S9">
+        <text xml:space="preserve">These findings reflect the properties of HSF1 which can be activated to at least two DNA binding forms only one of which activates heat shock promoters and suggest that individual NSAID family members may differentially induce one or other of these forms. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1472-1477" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1478-1486" text="findings" lemma="finding"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1487-1494" text="reflect" lemma="reflect"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="1495-1498" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="1499-1509" text="properties" lemma="property"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1510-1512" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1513-1517" text="HSF1" lemma="hsf1"/>
+            <token xml:space="preserve" id="stt_8" POS="WDT" charOffset="1518-1523" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_9" POS="MD" charOffset="1524-1527" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_10" POS="VB" charOffset="1528-1530" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="1531-1540" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_12" POS="TO" charOffset="1541-1543" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1544-1546" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_14" POS="JJS" charOffset="1547-1552" text="least" lemma="least"/>
+            <token xml:space="preserve" id="stt_15" POS="CD" charOffset="1553-1556" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1557-1560" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1561-1568" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="1569-1574" text="forms" lemma="form"/>
+            <token xml:space="preserve" id="stt_19" POS="RB" charOffset="1575-1579" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_20" POS="CD" charOffset="1580-1583" text="one" lemma="one"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1584-1586" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="WDT" charOffset="1587-1592" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_23" POS="VBZ" charOffset="1593-1602" text="activates" lemma="activate"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1603-1607" text="heat" lemma="heat"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1608-1613" text="shock" lemma="shock"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="1614-1623" text="promoters" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_27" POS="CC" charOffset="1624-1627" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_28" POS="VBP" charOffset="1628-1635" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="1636-1640" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="1641-1651" text="individual" lemma="individual"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1652-1657" text="NSAID" lemma="nsaid"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1658-1664" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_33" POS="NNS" charOffset="1665-1672" text="members" lemma="member"/>
+            <token xml:space="preserve" id="stt_34" POS="MD" charOffset="1673-1676" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_35" POS="RB" charOffset="1677-1691" text="differentially" lemma="differentially"/>
+            <token xml:space="preserve" id="stt_36" POS="VB" charOffset="1692-1698" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_37" POS="CD" charOffset="1699-1702" text="one" lemma="one"/>
+            <token xml:space="preserve" id="stt_38" POS="CC" charOffset="1703-1705" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_39" POS="JJ" charOffset="1706-1711" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_40" POS="IN" charOffset="1712-1714" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_41" POS="DT" charOffset="1715-1720" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_42" POS="NNS" charOffset="1721-1726" text="forms" lemma="form"/>
+            <token xml:space="preserve" id="stt_43" POS="." charOffset="1726-1727" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H findings))
+            (VP=H (VBP=H reflect)
+            (NP
+            (NP=H (DT the) (NNS=H properties))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H HSF1))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (MD=H can)
+            (VP (VB=H be)
+            (VP (VBN=H activated)
+            (PP (TO=H to)
+            (NP
+            (QP (IN=H at) (JJS least) (CD two))
+            (NN DNA) (NN binding) (NNS=H forms))))))))))
+            (SBAR
+            (WHNP=H
+            (WHNP
+            (QP=H (RB only) (CD=H one)))
+            (WHPP=H (IN=H of)
+            (WHNP (WDT=H which))))
+            (S
+            (VP=H
+            (VP=H (VBZ=H activates)
+            (NP (NN heat) (NN shock) (NNS=H promoters)))
+            (CC and)
+            (VP (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP (JJ individual) (NN NSAID) (NN family) (NNS=H members))
+            (VP=H (MD=H may)
+            (ADVP (RB=H differentially))
+            (VP (VB=H induce)
+            (NP
+            (NP=H (CD=H one))
+            (CC or)
+            (NP
+            (NP=H (JJ=H other))
+            (PP (IN=H of)
+            (NP (DT these) (NNS=H forms)))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1728-1983" id="S10">
+        <text xml:space="preserve">Overall therefore, exposure to NSAIDs leads to a profound switch in gene expression in monocytic cells, with suppression of genes involved in macrophage activation and induction of stress genes and HSF1 appears to play a regulatory role in these effects. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1728-1735" text="Overall" lemma="overall"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="1736-1745" text="therefore" lemma="therefore"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="1745-1746" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1747-1755" text="exposure" lemma="exposure"/>
+            <token xml:space="preserve" id="stt_5" POS="TO" charOffset="1756-1758" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="1759-1765" text="NSAIDs" lemma="nsaid"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="1766-1771" text="leads" lemma="lead"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="1772-1774" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="1775-1776" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1777-1785" text="profound" lemma="profound"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1786-1792" text="switch" lemma="switch"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1793-1795" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1796-1800" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1801-1811" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1812-1814" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1815-1824" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="1825-1830" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="1830-1831" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1832-1836" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1837-1848" text="suppression" lemma="suppression"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1849-1851" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="1852-1857" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="1858-1866" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="1867-1869" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1870-1880" text="macrophage" lemma="macrophage"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1881-1891" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_27" POS="CC" charOffset="1892-1895" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1896-1905" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="1906-1908" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1909-1915" text="stress" lemma="stress"/>
+            <token xml:space="preserve" id="stt_31" POS="NNS" charOffset="1916-1921" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_32" POS="CC" charOffset="1922-1925" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1926-1930" text="HSF1" lemma="hsf1"/>
+            <token xml:space="preserve" id="stt_34" POS="VBZ" charOffset="1931-1938" text="appears" lemma="appear"/>
+            <token xml:space="preserve" id="stt_35" POS="TO" charOffset="1939-1941" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_36" POS="VB" charOffset="1942-1946" text="play" lemma="play"/>
+            <token xml:space="preserve" id="stt_37" POS="DT" charOffset="1947-1948" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_38" POS="JJ" charOffset="1949-1959" text="regulatory" lemma="regulatory"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="1960-1964" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_40" POS="IN" charOffset="1965-1967" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_41" POS="DT" charOffset="1968-1973" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_42" POS="NNS" charOffset="1974-1981" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_43" POS="." charOffset="1981-1982" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (JJ=H Overall))
+            (S=H
+            (ADVP (RB=H therefore))
+            (, ,)
+            (NP
+            (NP=H (NN=H exposure))
+            (PP (TO=H to)
+            (NP (NNS=H NSAIDs))))
+            (VP=H (VBZ=H leads)
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT a) (JJ profound) (NN=H switch))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN gene) (NN=H expression))
+            (PP (IN=H in)
+            (NP (JJ monocytic) (NNS=H cells)))))))
+            (, ,)
+            (PP (IN=H with)
+            (NP
+            (NP=H (NN=H suppression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H genes))
+            (VP (VBN=H involved)
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN macrophage) (NN=H activation)
+            (CC and)
+            (NN induction))
+            (PP (IN=H of)
+            (NP (NN stress) (NNS=H genes))))))))))))
+            (CC and)
+            (S
+            (NP (NN=H HSF1))
+            (VP=H (VBZ=H appears)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H play)
+            (NP (DT a) (JJ regulatory) (NN=H role))
+            (PP (IN=H in)
+            (NP (DT these) (NNS=H effects))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1983-2015" id="S11">
+        <text xml:space="preserve">Copyright 1999 Academic Press. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1983-1992" text="Copyright" lemma="copyright"/>
+            <token xml:space="preserve" id="stt_2" POS="CD" charOffset="1993-1997" text="1999" lemma="1999"/>
+            <token xml:space="preserve" id="stt_3" POS="NNP" charOffset="1998-2006" text="Academic" lemma="Academic"/>
+            <token xml:space="preserve" id="stt_4" POS="NNP" charOffset="2007-2012" text="Press" lemma="Press"/>
+            <token xml:space="preserve" id="stt_5" POS="." charOffset="2012-2013" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Copyright) (CD 1999))
+            (NP (NNP Academic) (NNP=H Press))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T22" type="ZeroArticleNP" charOffset="774-788" headOffset="774-788" text="concentrations"/>
+    <Term xml:space="preserve" id="T23" type="RelativePronoun" charOffset="789-793" headOffset="789-793" text="that"/>
+    <Term xml:space="preserve" id="T24" type="IndefiniteNP" charOffset="1070-1084" headOffset="1078-1084" text="another factor"/>
+    <Term xml:space="preserve" id="T25" type="RelativePronoun" charOffset="1085-1090" headOffset="1085-1090" text="whose"/>
+    <Term xml:space="preserve" id="T26" type="DefiniteNP" charOffset="1495-1517" headOffset="1499-1509" text="the properties of HSF1"/>
+    <Term xml:space="preserve" id="T27" type="RelativePronoun" charOffset="1518-1523" headOffset="1518-1523" text="which"/>
+    <Term xml:space="preserve" id="T28" type="ZeroArticleNP" charOffset="1544-1574" headOffset="1569-1574" text="at least two DNA binding forms"/>
+    <Term xml:space="preserve" id="T29" type="RelativePronoun" charOffset="1587-1592" headOffset="1587-1592" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T23"/>
+        <Antecedent idref="T22"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T25"/>
+        <Antecedent idref="T24"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T27"/>
+        <Antecedent idref="T26"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T29"/>
+        <Antecedent idref="T28"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="236-240" headOffset="236-240" text="HSF1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="309-313" headOffset="309-313" text="HSF1"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="416-420" headOffset="416-420" text="IL1B"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="425-431" headOffset="428-431" text="c- fos"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="472-476" headOffset="472-476" text="HSF1"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="643-647" headOffset="643-647" text="IL1B"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="692-696" headOffset="692-696" text="HSF1"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="803-807" headOffset="803-807" text="HSF1"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="864-873" headOffset="864-873" text="TNF-alpha"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="875-883" headOffset="875-883" text="IL-1beta"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="885-889" headOffset="885-889" text="IL-6"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="891-895" headOffset="891-895" text="IL-8"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="897-902" headOffset="897-902" text="IL-10"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="904-910" headOffset="904-910" text="ICAM-1"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1020-1024" headOffset="1020-1024" text="IL1B"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="1143-1147" headOffset="1143-1147" text="IL1B"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="1239-1243" headOffset="1239-1243" text="HSF1"/>
+    <Term xml:space="preserve" id="T18" type="Protein" charOffset="1359-1365" headOffset="1359-1365" text="HSP70B"/>
+    <Term xml:space="preserve" id="T19" type="Protein" charOffset="1452-1457" headOffset="1452-1457" text="HSP70"/>
+    <Term xml:space="preserve" id="T20" type="Protein" charOffset="1513-1517" headOffset="1513-1517" text="HSF1"/>
+    <Term xml:space="preserve" id="T21" type="Protein" charOffset="1926-1930" headOffset="1926-1930" text="HSF1"/>
+</document>

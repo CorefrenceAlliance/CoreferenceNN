@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8809111">
+    <text xml:space="preserve">Characterization of the human myeloid cell nuclear differentiation antigen gene promoter. 
+MNDA (myeloid cell nuclear differentiation antigen) is an interferon alpha regulated nuclear protein expressed only in cells of the human myelomonocytic lineage. To identify mechanisms responsible for this lineage-specific and interferon-regulated expression, the 5' flanking sequence of the gene has been characterized. Two interferon-stimulated response elements (ISRE) flank a multiple transcription start site region identifying MNDA as a TATA-less interferon-regulated gene. Other DNA elements present include a cluster of Myb sites, several Ets, an Ets related PU.1 site and an Sp1 site located within 600 bp of the transcription start sites. In addition, DNA methylation was revealed as one of the possible factors in establishing MNDA expression. The 5' flanking sequence has promoter activity which is elevated by interferon alpha. The findings indicate that MNDA expression is regulated by mechanisms similar to other myelomonocytic cell specific genes and genes up-regulated by interferon alpha. 
+</text>
+    <sentence charOffset="0-91" id="S1">
+        <text xml:space="preserve">Characterization of the human myeloid cell nuclear differentiation antigen gene promoter. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-16" text="Characterization" lemma="characterization"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="17-19" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="20-23" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="24-29" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="30-37" text="myeloid" lemma="myeloid"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="38-42" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="43-50" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="51-66" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="67-74" text="antigen" lemma="antigen"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="75-79" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="80-88" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="88-89" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H
+            (NP=H (NN=H Characterization))
+            (PP (IN=H of)
+            (NP (DT the) (JJ human) (JJ myeloid) (NN=H cell))))
+            (NP
+            (NP=H (JJ nuclear) (NN differentiation) (NN=H antigen))
+            (NP (NN gene) (NN=H promoter)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="91-253" id="S2">
+        <text xml:space="preserve">MNDA (myeloid cell nuclear differentiation antigen) is an interferon alpha regulated nuclear protein expressed only in cells of the human myelomonocytic lineage. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="91-95" text="MNDA" lemma="mnda"/>
+            <token xml:space="preserve" id="stt_2" POS="-LRB-" charOffset="96-97" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="97-104" text="myeloid" lemma="myeloid"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="105-109" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="110-117" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="118-133" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="134-141" text="antigen" lemma="antigen"/>
+            <token xml:space="preserve" id="stt_8" POS="-RRB-" charOffset="141-142" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="143-145" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="146-148" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="149-159" text="interferon" lemma="interferon"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="160-165" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_13" POS="VBN" charOffset="166-175" text="regulated" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="176-183" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="184-191" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_16" POS="VBD" charOffset="192-201" text="expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_17" POS="RB" charOffset="202-206" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="207-209" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="210-215" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="216-218" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="219-222" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="223-228" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="229-243" text="myelomonocytic" lemma="myelomonocytic"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="244-251" text="lineage" lemma="lineage"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="251-252" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H MNDA))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (JJ myeloid) (NN=H cell))
+            (NP (JJ nuclear) (NN differentiation) (NN=H antigen)))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT an) (NN interferon) (NN=H alpha))
+            (VP (VBN=H regulated)
+            (SBAR
+            (S=H
+            (NP (JJ nuclear) (NN=H protein))
+            (VP=H (VBD=H expressed)
+            (ADVP (RB=H only))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NNS=H cells))
+            (PP (IN=H of)
+            (NP (DT the) (JJ human) (JJ myelomonocytic) (NN=H lineage)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="253-412" id="S3">
+        <text xml:space="preserve">To identify mechanisms responsible for this lineage-specific and interferon-regulated expression, the 5' flanking sequence of the gene has been characterized. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="253-255" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="VB" charOffset="256-264" text="identify" lemma="identify"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="265-275" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="276-287" text="responsible" lemma="responsible"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="288-291" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="292-296" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="297-313" text="lineage-specific" lemma="lineage-specific"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="314-317" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="318-338" text="interferon-regulated" lemma="interferon-regulated"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="339-349" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="349-350" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="351-354" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="CD" charOffset="355-356" text="5" lemma="5"/>
+            <token xml:space="preserve" id="stt_14" POS="''" charOffset="356-357" text="'" lemma="'"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="358-366" text="flanking" lemma="flanking"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="367-375" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="376-378" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="379-382" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="383-387" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_20" POS="VBZ" charOffset="388-391" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_21" POS="VBN" charOffset="392-396" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_22" POS="VBN" charOffset="397-410" text="characterized" lemma="characterize"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="410-411" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP (VB=H identify)
+            (NP
+            (NP=H (NNS=H mechanisms))
+            (ADJP (JJ=H responsible)
+            (PP (IN=H for)
+            (NP
+            (NP=H (DT this)
+            (ADJP (JJ=H lineage-specific)
+            (CC and)
+            (JJ interferon-regulated))
+            (NN=H expression))
+            (, ,)
+            (NP (DT the) (CD=H 5))))))
+            ('' ')
+            (NP
+            (NP=H (JJ flanking) (NN=H sequence))
+            (PP (IN=H of)
+            (NP (DT the) (NN=H gene)))))))
+            (VP=H (VBZ=H has)
+            (VP (VBN=H been)
+            (VP (VBN=H characterized))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="412-571" id="S4">
+        <text xml:space="preserve">Two interferon-stimulated response elements (ISRE) flank a multiple transcription start site region identifying MNDA as a TATA-less interferon-regulated gene. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="CD" charOffset="412-415" text="Two" lemma="two"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="416-437" text="interferon-stimulated" lemma="interferon-stimulated"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="438-446" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="447-455" text="elements" lemma="element"/>
+            <token xml:space="preserve" id="stt_5" POS="-LRB-" charOffset="456-457" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="457-461" text="ISRE" lemma="isre"/>
+            <token xml:space="preserve" id="stt_7" POS="-RRB-" charOffset="461-462" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_8" POS="VBP" charOffset="463-468" text="flank" lemma="flank"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="469-470" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="471-479" text="multiple" lemma="multiple"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="480-493" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="494-499" text="start" lemma="start"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="500-504" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="505-511" text="region" lemma="region"/>
+            <token xml:space="preserve" id="stt_15" POS="VBG" charOffset="512-523" text="identifying" lemma="identify"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="524-528" text="MNDA" lemma="mnda"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="529-531" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="532-533" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="534-543" text="TATA-less" lemma="tata-less"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="544-564" text="interferon-regulated" lemma="interferon-regulated"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="565-569" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="569-570" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (CD Two) (JJ interferon-stimulated) (NN response) (NNS=H elements))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H ISRE))
+            (-RRB- -RRB-)))
+            (VP=H (VBP=H flank)
+            (NP (DT a) (JJ multiple) (NN transcription) (NN start) (NN site) (NN=H region))
+            (S
+            (VP=H (VBG=H identifying)
+            (NP (NN=H MNDA))
+            (PP (IN=H as)
+            (NP (DT a) (JJ TATA-less) (JJ interferon-regulated) (NN=H gene))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="571-740" id="S5">
+        <text xml:space="preserve">Other DNA elements present include a cluster of Myb sites, several Ets, an Ets related PU.1 site and an Sp1 site located within 600 bp of the transcription start sites. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="571-576" text="Other" lemma="other"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="577-580" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="581-589" text="elements" lemma="element"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="590-597" text="present" lemma="present"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="598-605" text="include" lemma="include"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="606-607" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="608-615" text="cluster" lemma="cluster"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="616-618" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="619-622" text="Myb" lemma="myb"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="623-628" text="sites" lemma="site"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="628-629" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="630-637" text="several" lemma="several"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="638-641" text="Ets" lemma="ets"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="641-642" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="643-645" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="646-649" text="Ets" lemma="ets"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="650-657" text="related" lemma="related"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="658-660" text="PU" lemma="pu"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="660-662" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="663-667" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_21" POS="CC" charOffset="668-671" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="672-674" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="675-678" text="Sp1" lemma="sp1"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="679-683" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="684-691" text="located" lemma="located"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="692-698" text="within" lemma="within"/>
+            <token xml:space="preserve" id="stt_27" POS="CD" charOffset="699-702" text="600" lemma="600"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="703-705" text="bp" lemma="bp"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="706-708" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_30" POS="DT" charOffset="709-712" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="713-726" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="727-732" text="start" lemma="start"/>
+            <token xml:space="preserve" id="stt_33" POS="NNS" charOffset="733-738" text="sites" lemma="site"/>
+            <token xml:space="preserve" id="stt_34" POS="." charOffset="738-739" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Other) (NN DNA) (NNS=H elements))
+            (ADJP (JJ=H present)))
+            (VP=H (VBP=H include)
+            (NP
+            (NP=H
+            (NP=H (DT a) (NN=H cluster))
+            (PP (IN=H of)
+            (NP (NN Myb) (NNS=H sites))))
+            (, ,)
+            (NP
+            (NP=H (JJ several) (NN=H Ets))
+            (, ,)
+            (NP
+            (NP=H (DT an) (NN=H Ets))
+            (NP (JJ related) (NN PU) (NN .1) (NN=H site))))
+            (CC and)
+            (NP
+            (NP=H (DT an) (NN Sp1) (NN=H site))
+            (NP
+            (ADJP (JJ=H located)
+            (PP (IN=H within)
+            (NP
+            (NP=H (CD 600) (NN=H bp))
+            (PP (IN=H of)
+            (NP (DT the) (NN transcription) (NN=H start))))))
+            (NNS=H sites)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="740-846" id="S6">
+        <text xml:space="preserve">In addition, DNA methylation was revealed as one of the possible factors in establishing MNDA expression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="740-742" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="743-751" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="751-752" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="753-756" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="757-768" text="methylation" lemma="methylation"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="769-772" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="773-781" text="revealed" lemma="reveal"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="782-784" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_9" POS="CD" charOffset="785-788" text="one" lemma="one"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="789-791" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="792-795" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="796-804" text="possible" lemma="possible"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="805-812" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="813-815" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="VBG" charOffset="816-828" text="establishing" lemma="establish"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="829-833" text="MNDA" lemma="mnda"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="834-844" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="844-845" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H addition)))
+            (, ,)
+            (NP (NN DNA) (NN=H methylation))
+            (VP=H (VBD=H was)
+            (VP (VBN=H revealed)
+            (PP (IN=H as)
+            (NP
+            (NP=H (CD=H one))
+            (PP (IN=H of)
+            (NP (DT the) (JJ possible) (NNS=H factors)))))
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H establishing)
+            (NP (NN MNDA) (NN=H expression)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="846-932" id="S7">
+        <text xml:space="preserve">The 5' flanking sequence has promoter activity which is elevated by interferon alpha. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="846-849" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="CD" charOffset="850-851" text="5" lemma="5"/>
+            <token xml:space="preserve" id="stt_3" POS="''" charOffset="851-852" text="'" lemma="'"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="853-861" text="flanking" lemma="flanking"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="862-870" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="871-874" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="875-883" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="884-892" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_9" POS="WDT" charOffset="893-898" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="899-901" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="902-910" text="elevated" lemma="elevated"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="911-913" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="914-924" text="interferon" lemma="interferon"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="925-930" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="930-931" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (VP=H
+            (NP=H
+            (NP=H (DT The) (CD=H 5))
+            ('' ')
+            (SBAR
+            (S=H
+            (NP (JJ flanking) (NN=H sequence))
+            (VP=H (VBZ=H has)
+            (NP
+            (NP=H (NN promoter) (NN=H activity))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H is)
+            (ADJP
+            (ADVP (JJ=H elevated)
+            (PP (IN=H by)
+            (NP (NN=H interferon))))
+            (NN=H alpha)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="932-1099" id="S8">
+        <text xml:space="preserve">The findings indicate that MNDA expression is regulated by mechanisms similar to other myelomonocytic cell specific genes and genes up-regulated by interferon alpha. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="932-935" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="936-944" text="findings" lemma="finding"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="945-953" text="indicate" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="954-958" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="959-963" text="MNDA" lemma="mnda"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="964-974" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="975-977" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="978-987" text="regulated" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="988-990" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="991-1001" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1002-1009" text="similar" lemma="similar"/>
+            <token xml:space="preserve" id="stt_12" POS="TO" charOffset="1010-1012" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1013-1018" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="1019-1033" text="myelomonocytic" lemma="myelomonocytic"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1034-1038" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1039-1047" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="1048-1053" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="1054-1057" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="1058-1063" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_20" POS="VBN" charOffset="1064-1076" text="up-regulated" lemma="up-regulate"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1077-1079" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1080-1090" text="interferon" lemma="interferon"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1091-1096" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="1096-1097" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NNS=H findings))
+            (VP=H (VBP=H indicate)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN MNDA) (NN=H expression))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H regulated)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NNS=H mechanisms))
+            (ADJP (JJ=H similar)
+            (PP (TO=H to)
+            (NP
+            (NP=H (JJ other) (JJ myelomonocytic) (NN cell) (JJ specific) (NNS=H genes)
+            (CC and)
+            (NNS genes))
+            (VP (VBN=H up-regulated)
+            (PP (IN=H by)
+            (NP (NN interferon) (NN=H alpha))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T8" type="ZeroArticleNP" charOffset="91-142" headOffset="134-141" text="MNDA (myeloid cell nuclear differentiation antigen)"/>
+    <Term xml:space="preserve" id="T9" type="DefiniteNP" charOffset="379-387" headOffset="383-387" text="the gene"/>
+    <Term xml:space="preserve" id="T10" type="ZeroArticleNP" charOffset="875-892" headOffset="884-892" text="promoter activity"/>
+    <Term xml:space="preserve" id="T11" type="RelativePronoun" charOffset="893-898" headOffset="893-898" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T9"/>
+        <Antecedent idref="T8"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T11"/>
+        <Antecedent idref="T10"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="91-95" headOffset="91-95" text="MNDA"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="97-141" headOffset="134-141" text="myeloid cell nuclear differentiation antigen"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="524-528" headOffset="524-528" text="MNDA"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="658-662" headOffset="660-662" text="PU.1"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="675-678" headOffset="675-678" text="Sp1"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="829-833" headOffset="829-833" text="MNDA"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="959-963" headOffset="959-963" text="MNDA"/>
+</document>

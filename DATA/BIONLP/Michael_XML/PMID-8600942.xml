@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8600942">
+    <text xml:space="preserve">Surfactant suppresses NF-kappa B activation in human monocytic cells. 
+In addition to biophysical properties, pulmonary surfactant has immunomodulatory activity. We previously demonstrated that both synthetic (Exosurf) and modified natural surfactant (Survanta) downregulated endotoxin-stimulated inflammatory cytokine mRNA levels and protein products (tumor necrosis factor-alpha [TNF], interleukin-1-beta [IL-1], interleukin-6 [IL-6]) in human alveolar macrophages. In this study, we report that both Exosurf and Survanta suppress TNF mRNA and secretion (85 +/- 4% mean percent inhibition +/- SEM by Exosurf; 71 +/- 6% by Survanta) by endotoxin-stimulated THP-1, a human monocytic cell line. Because surfactant downregulated inflammatory cytokine production similarly in both normal human alveolar macrophages and the THP-1 cell line, we used this cell line to investigate whether surfactant affected transcriptional mechanisms. Specifically, we examined nuclear factor-kappa B (NF-kappa B) activation because it is crucial in transcriptional regulation of many inflammatory cytokine genes including TNF, IL-1, and IL-6. Electrophoretic mobility shift assays showed that both surfactants decreased activation of NF-kappa B. The presence of both p65 and p50 NF-kappa B components in LPS-activated THP-1 cells was confirmed by specific antibody induction of supershifts in mobility assays. These results are the first to suggest that surfactant's suppressive effects on inflammatory cytokine production may involve transcriptional regulation through inhibition of NF-kappa B activation. 
+</text>
+    <sentence charOffset="0-71" id="S1">
+        <text xml:space="preserve">Surfactant suppresses NF-kappa B activation in human monocytic cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-10" text="Surfactant" lemma="surfactant"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="11-21" text="suppresses" lemma="suppress"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="22-30" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="31-32" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="33-43" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="44-46" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="47-52" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="53-62" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="63-68" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="68-69" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Surfactant))
+            (VP=H (VBZ=H suppresses)
+            (NP
+            (NP=H (NN NF-kappa) (NN B) (NN=H activation))
+            (PP (IN=H in)
+            (NP (JJ human) (JJ monocytic) (NNS=H cells)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="71-162" id="S2">
+        <text xml:space="preserve">In addition to biophysical properties, pulmonary surfactant has immunomodulatory activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="71-73" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="74-82" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="83-85" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="86-97" text="biophysical" lemma="biophysical"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="98-108" text="properties" lemma="property"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="108-109" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="110-119" text="pulmonary" lemma="pulmonary"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="120-130" text="surfactant" lemma="surfactant"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="131-134" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="135-151" text="immunomodulatory" lemma="immunomodulatory"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="152-160" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="160-161" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP
+            (NP=H (NN=H addition))
+            (PP (TO=H to)
+            (NP (JJ biophysical) (NNS=H properties)))))
+            (, ,)
+            (NP (JJ pulmonary) (NN=H surfactant))
+            (VP=H (VBZ=H has)
+            (NP (JJ immunomodulatory) (NN=H activity)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="162-468" id="S3">
+        <text xml:space="preserve">We previously demonstrated that both synthetic (Exosurf) and modified natural surfactant (Survanta) downregulated endotoxin-stimulated inflammatory cytokine mRNA levels and protein products (tumor necrosis factor-alpha [TNF], interleukin-1-beta [IL-1], interleukin-6 [IL-6]) in human alveolar macrophages. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="162-164" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="165-175" text="previously" lemma="previously"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="176-188" text="demonstrated" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="189-193" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="194-198" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="199-208" text="synthetic" lemma="synthetic"/>
+            <token xml:space="preserve" id="stt_7" POS="-LRB-" charOffset="209-210" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="210-217" text="Exosurf" lemma="exosurf"/>
+            <token xml:space="preserve" id="stt_9" POS="-RRB-" charOffset="217-218" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="219-222" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="223-231" text="modified" lemma="modify"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="232-239" text="natural" lemma="natural"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="240-250" text="surfactant" lemma="surfactant"/>
+            <token xml:space="preserve" id="stt_14" POS="-LRB-" charOffset="251-252" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="252-260" text="Survanta" lemma="survanta"/>
+            <token xml:space="preserve" id="stt_16" POS="-RRB-" charOffset="260-261" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_17" POS="VBD" charOffset="262-275" text="downregulated" lemma="downregulate"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="276-296" text="endotoxin-stimulated" lemma="endotoxin-stimulated"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="297-309" text="inflammatory" lemma="inflammatory"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="310-318" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="319-323" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="324-330" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="331-334" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="335-342" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="343-351" text="products" lemma="product"/>
+            <token xml:space="preserve" id="stt_26" POS="-LRB-" charOffset="352-353" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="353-358" text="tumor" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="359-367" text="necrosis" lemma="necrosis"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="368-380" text="factor-alpha" lemma="factor-alpha"/>
+            <token xml:space="preserve" id="stt_30" POS="-LRB-" charOffset="381-382" text="[" lemma="["/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="382-385" text="TNF" lemma="tnf"/>
+            <token xml:space="preserve" id="stt_32" POS="-RRB-" charOffset="385-386" text="]" lemma="]"/>
+            <token xml:space="preserve" id="stt_33" POS="," charOffset="386-387" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="388-406" text="interleukin-1-beta" lemma="interleukin-1-beta"/>
+            <token xml:space="preserve" id="stt_35" POS="-LRB-" charOffset="407-408" text="[" lemma="["/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="408-412" text="IL-1" lemma="il-1"/>
+            <token xml:space="preserve" id="stt_37" POS="-RRB-" charOffset="412-413" text="]" lemma="]"/>
+            <token xml:space="preserve" id="stt_38" POS="," charOffset="413-414" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="415-428" text="interleukin-6" lemma="interleukin-6"/>
+            <token xml:space="preserve" id="stt_40" POS="-LRB-" charOffset="429-430" text="[" lemma="["/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="430-434" text="IL-6" lemma="il-6"/>
+            <token xml:space="preserve" id="stt_42" POS="-RRB-" charOffset="434-435" text="]" lemma="]"/>
+            <token xml:space="preserve" id="stt_43" POS="-RRB-" charOffset="435-436" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_44" POS="IN" charOffset="437-439" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_45" POS="JJ" charOffset="440-445" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_46" POS="JJ" charOffset="446-454" text="alveolar" lemma="alveolar"/>
+            <token xml:space="preserve" id="stt_47" POS="NNS" charOffset="455-466" text="macrophages" lemma="macrophage"/>
+            <token xml:space="preserve" id="stt_48" POS="." charOffset="466-467" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (ADVP (RB=H previously))
+            (VP=H (VBD=H demonstrated)
+            (SBAR (IN=H that)
+            (S
+            (S=H (CC both)
+            (NP
+            (NP=H (JJ synthetic) (-LRB- -LRB-) (NN=H Exosurf) (-RRB- -RRB-))
+            (CC and)
+            (NP
+            (NP=H (VBN modified) (JJ natural) (NN=H surfactant))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H Survanta))
+            (-RRB- -RRB-))))
+            (VP=H (VBD=H downregulated)
+            (NP (JJ endotoxin-stimulated) (JJ inflammatory) (NN cytokine) (NN mRNA) (NNS=H levels))))
+            (CC and)
+            (S
+            (NP=H
+            (NP=H (NN protein) (NNS=H products))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (NN tumor) (NN necrosis) (NN factor-alpha) (-LRB- -LSB-) (NN=H TNF) (-RRB- -RSB-))
+            (, ,)
+            (NP (NN interleukin-1-beta) (-LRB- -LSB-) (NN IL-1) (-RRB- -RSB-) (, ,) (NN interleukin-6) (-LRB- -LSB-) (NN=H IL-6) (-RRB- -RSB-)))
+            (-RRB- -RRB-)))
+            (PP (IN=H in)
+            (NP (JJ human) (JJ alveolar) (NNS=H macrophages)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="468-694" id="S4">
+        <text xml:space="preserve">In this study, we report that both Exosurf and Survanta suppress TNF mRNA and secretion (85 +/- 4% mean percent inhibition +/- SEM by Exosurf; 71 +/- 6% by Survanta) by endotoxin-stimulated THP-1, a human monocytic cell line. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="468-470" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="471-475" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="476-481" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="481-482" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="483-485" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="486-492" text="report" lemma="report"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="493-497" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="498-502" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="503-510" text="Exosurf" lemma="exosurf"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="511-514" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="515-523" text="Survanta" lemma="survanta"/>
+            <token xml:space="preserve" id="stt_12" POS="VBP" charOffset="524-532" text="suppress" lemma="suppress"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="533-536" text="TNF" lemma="tnf"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="537-541" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="542-545" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="546-555" text="secretion" lemma="secretion"/>
+            <token xml:space="preserve" id="stt_17" POS="-LRB-" charOffset="556-557" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_18" POS="CD" charOffset="557-559" text="85" lemma="85"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="560-561" text="+" lemma="+"/>
+            <token xml:space="preserve" id="stt_20" POS=":" charOffset="561-562" text="/" lemma="/"/>
+            <token xml:space="preserve" id="stt_21" POS=":" charOffset="562-563" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_22" POS="CD" charOffset="564-565" text="4" lemma="4"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="565-566" text="%" lemma="%"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="567-571" text="mean" lemma="mean"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="572-579" text="percent" lemma="percent"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="580-590" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_27" POS="CC" charOffset="591-592" text="+" lemma="+"/>
+            <token xml:space="preserve" id="stt_28" POS=":" charOffset="592-593" text="/" lemma="/"/>
+            <token xml:space="preserve" id="stt_29" POS=":" charOffset="593-594" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="595-598" text="SEM" lemma="sem"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="599-601" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="602-609" text="Exosurf" lemma="exosurf"/>
+            <token xml:space="preserve" id="stt_33" POS=":" charOffset="609-610" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_34" POS="CD" charOffset="611-613" text="71" lemma="71"/>
+            <token xml:space="preserve" id="stt_35" POS="CC" charOffset="614-615" text="+" lemma="+"/>
+            <token xml:space="preserve" id="stt_36" POS=":" charOffset="615-616" text="/" lemma="/"/>
+            <token xml:space="preserve" id="stt_37" POS=":" charOffset="616-617" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_38" POS="CD" charOffset="618-619" text="6" lemma="6"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="619-620" text="%" lemma="%"/>
+            <token xml:space="preserve" id="stt_40" POS="IN" charOffset="621-623" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="624-632" text="Survanta" lemma="survanta"/>
+            <token xml:space="preserve" id="stt_42" POS="-RRB-" charOffset="632-633" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_43" POS="IN" charOffset="634-636" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_44" POS="JJ" charOffset="637-657" text="endotoxin-stimulated" lemma="endotoxin-stimulated"/>
+            <token xml:space="preserve" id="stt_45" POS="NN" charOffset="658-663" text="THP-1" lemma="thp-1"/>
+            <token xml:space="preserve" id="stt_46" POS="," charOffset="663-664" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_47" POS="DT" charOffset="665-666" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_48" POS="JJ" charOffset="667-672" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_49" POS="JJ" charOffset="673-682" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_50" POS="NN" charOffset="683-687" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_51" POS="NN" charOffset="688-692" text="line" lemma="line"/>
+            <token xml:space="preserve" id="stt_52" POS="." charOffset="692-693" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (IN=H In))
+            (SBAR
+            (FRAG=H
+            (ADVP (DT this) (NN=H study))
+            (, ,)
+            (S=H
+            (NP (PRP=H we))
+            (VP=H (VBP=H report)
+            (SBAR (IN=H that)
+            (S
+            (NP (CC both)
+            (NP=H (NN=H Exosurf))
+            (CC and)
+            (NP (NN=H Survanta)))
+            (VP=H (VBP=H suppress)
+            (NP
+            (NP=H (NN TNF) (NN=H mRNA))
+            (CC and)
+            (NP
+            (NP=H (NN=H secretion))
+            (-LRB- -LRB-)
+            (NP
+            (NP=H (CD=H 85))
+            (SBAR
+            (S=H
+            (NP=H (CC=H +))))))))))))
+            (: /)))
+            (PRN (: -)
+            (S=H
+            (NP=H
+            (NP=H (CD 4) (NN=H %))
+            (NP (NN mean) (NN percent) (NN=H inhibition)))
+            (NP (CC=H +)))
+            (: /)))
+            (VP=H
+            (PRN=H (: -)
+            (FRAG=H
+            (ADJP=H
+            (ADJP=H (NN=H SEM))
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H Exosurf))
+            (: ;)
+            (NP (CD=H 71)
+            (CC +)))))
+            (: /))
+            (: -))
+            (PP
+            (NP
+            (NP=H (CD 6) (NN=H %))
+            (PP (IN=H by)
+            (NP (NN=H Survanta)))
+            (-RRB- -RRB-))
+            (IN=H by)
+            (NP
+            (ADJP (JJ=H endotoxin-stimulated)
+            (NP-TMP
+            (NP=H (NN=H THP-1))
+            (, ,)
+            (NP (DT a) (JJ human) (JJ monocytic) (NN=H cell))))
+            (NN=H line))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="694-931" id="S5">
+        <text xml:space="preserve">Because surfactant downregulated inflammatory cytokine production similarly in both normal human alveolar macrophages and the THP-1 cell line, we used this cell line to investigate whether surfactant affected transcriptional mechanisms. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="694-701" text="Because" lemma="because"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="702-712" text="surfactant" lemma="surfactant"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="713-726" text="downregulated" lemma="downregulated"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="727-739" text="inflammatory" lemma="inflammatory"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="740-748" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="749-759" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="760-769" text="similarly" lemma="similarly"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="770-772" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="773-777" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="778-784" text="normal" lemma="normal"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="785-790" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="791-799" text="alveolar" lemma="alveolar"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="800-811" text="macrophages" lemma="macrophage"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="812-815" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="816-819" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="820-825" text="THP-1" lemma="thp-1"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="826-830" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="831-835" text="line" lemma="line"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="835-836" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="PRP" charOffset="837-839" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_21" POS="VBD" charOffset="840-844" text="used" lemma="use"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="845-849" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="850-854" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="855-859" text="line" lemma="line"/>
+            <token xml:space="preserve" id="stt_25" POS="TO" charOffset="860-862" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_26" POS="VB" charOffset="863-874" text="investigate" lemma="investigate"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="875-882" text="whether" lemma="whether"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="883-893" text="surfactant" lemma="surfactant"/>
+            <token xml:space="preserve" id="stt_29" POS="VBN" charOffset="894-902" text="affected" lemma="affect"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="903-918" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_31" POS="NNS" charOffset="919-929" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="929-930" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H Because)
+            (NP
+            (NP=H (JJ surfactant) (JJ downregulated) (JJ inflammatory) (NN cytokine) (NN=H production))
+            (PP
+            (ADVP (RB=H similarly))
+            (IN=H in)
+            (NP (CC both)
+            (NP=H (JJ normal) (JJ human) (JJ alveolar) (NNS=H macrophages))
+            (CC and)
+            (NP (DT the) (NN THP-1) (NN cell) (NN=H line))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H used)
+            (NP (DT this) (NN cell) (NN=H line))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H investigate)
+            (PP (IN=H whether)
+            (NP (JJ surfactant) (VBN affected) (JJ transcriptional) (NNS=H mechanisms)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="931-1123" id="S6">
+        <text xml:space="preserve">Specifically, we examined nuclear factor-kappa B (NF-kappa B) activation because it is crucial in transcriptional regulation of many inflammatory cytokine genes including TNF, IL-1, and IL-6. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="931-943" text="Specifically" lemma="specifically"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="943-944" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP" charOffset="945-947" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="948-956" text="examined" lemma="examine"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="957-964" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="965-977" text="factor-kappa" lemma="factor-kappa"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="978-979" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_8" POS="-LRB-" charOffset="980-981" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="981-989" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="990-991" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_11" POS="-RRB-" charOffset="991-992" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="993-1003" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1004-1011" text="because" lemma="because"/>
+            <token xml:space="preserve" id="stt_14" POS="PRP" charOffset="1012-1014" text="it" lemma="it"/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="1015-1017" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1018-1025" text="crucial" lemma="crucial"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1026-1028" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1029-1044" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1045-1055" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1056-1058" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="1059-1063" text="many" lemma="many"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="1064-1076" text="inflammatory" lemma="inflammatory"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1077-1085" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="1086-1091" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_25" POS="VBG" charOffset="1092-1101" text="including" lemma="include"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1102-1105" text="TNF" lemma="tnf"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="1105-1106" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1107-1111" text="IL-1" lemma="il-1"/>
+            <token xml:space="preserve" id="stt_29" POS="," charOffset="1111-1112" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_30" POS="CC" charOffset="1113-1116" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1117-1121" text="IL-6" lemma="il-6"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="1121-1122" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Specifically))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H examined)
+            (NP
+            (NP=H (JJ nuclear) (NN factor-kappa) (NN=H B))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN NF-kappa) (NN=H B))
+            (-RRB- -RRB-)))
+            (SBAR
+            (NP (NN=H activation))
+            (IN=H because)
+            (S
+            (NP (PRP=H it))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H crucial)
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ transcriptional) (NN=H regulation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ many) (JJ inflammatory) (NN cytokine) (NNS=H genes))
+            (PP (VBG=H including)
+            (NP
+            (NP=H (NN=H TNF))
+            (, ,)
+            (NP (NN=H IL-1))
+            (, ,)
+            (CC and)
+            (NP (NN=H IL-6)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1123-1226" id="S7">
+        <text xml:space="preserve">Electrophoretic mobility shift assays showed that both surfactants decreased activation of NF-kappa B. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1123-1138" text="Electrophoretic" lemma="electrophoretic"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1139-1147" text="mobility" lemma="mobility"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1148-1153" text="shift" lemma="shift"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1154-1160" text="assays" lemma="assay"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="1161-1167" text="showed" lemma="show"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1168-1172" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="1173-1177" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1178-1189" text="surfactants" lemma="surfactant"/>
+            <token xml:space="preserve" id="stt_9" POS="VBD" charOffset="1190-1199" text="decreased" lemma="decrease"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1200-1210" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1211-1213" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1214-1222" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_13" POS="NNP" charOffset="1223-1225" text="B." lemma="B."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Electrophoretic) (NN mobility) (NN shift) (NNS=H assays))
+            (VP=H (VBD=H showed)
+            (SBAR (IN=H that)
+            (S
+            (ADVP (CC=H both))
+            (NP (NNS=H surfactants))
+            (VP=H (VBD=H decreased)
+            (NP
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN NF-kappa) (NNP=H B.))))))))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1226-1390" id="S8">
+        <text xml:space="preserve">The presence of both p65 and p50 NF-kappa B components in LPS-activated THP-1 cells was confirmed by specific antibody induction of supershifts in mobility assays. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1226-1229" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1230-1238" text="presence" lemma="presence"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1239-1241" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="1242-1246" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1247-1250" text="p65" lemma="p65"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="1251-1254" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1255-1258" text="p50" lemma="p50"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1259-1267" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1268-1269" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1270-1280" text="components" lemma="component"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1281-1283" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1284-1297" text="LPS-activated" lemma="lps-activated"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1298-1303" text="THP-1" lemma="thp-1"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="1304-1309" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_15" POS="VBD" charOffset="1310-1313" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="1314-1323" text="confirmed" lemma="confirm"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1324-1326" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1327-1335" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1336-1344" text="antibody" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1345-1354" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1355-1357" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="1358-1369" text="supershifts" lemma="supershift"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1370-1372" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1373-1381" text="mobility" lemma="mobility"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="1382-1388" text="assays" lemma="assay"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="1388-1389" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H presence))
+            (PP (IN=H of)
+            (NP (CC both)
+            (NP=H (NN=H p65))
+            (CC and)
+            (NP (NN p50) (NN NF-kappa) (NN B) (NNS=H components))))
+            (PP (IN=H in)
+            (NP (JJ LPS-activated) (NN THP-1) (NNS=H cells))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H confirmed)
+            (PP (IN=H by)
+            (NP
+            (NP=H (JJ specific) (NN antibody) (NN=H induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H supershifts))
+            (PP (IN=H in)
+            (NP (NN mobility) (NNS=H assays)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1390-1588" id="S9">
+        <text xml:space="preserve">These results are the first to suggest that surfactant's suppressive effects on inflammatory cytokine production may involve transcriptional regulation through inhibition of NF-kappa B activation. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1390-1395" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1396-1403" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1404-1407" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="1408-1411" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1412-1417" text="first" lemma="first"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="1418-1420" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="VB" charOffset="1421-1428" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1429-1433" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1434-1444" text="surfactant" lemma="surfactant"/>
+            <token xml:space="preserve" id="stt_10" POS="POS" charOffset="1444-1446" text="'s" lemma="'s"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1447-1458" text="suppressive" lemma="suppressive"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="1459-1466" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1467-1469" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="1470-1482" text="inflammatory" lemma="inflammatory"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1483-1491" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1492-1502" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_17" POS="MD" charOffset="1503-1506" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_18" POS="VB" charOffset="1507-1514" text="involve" lemma="involve"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="1515-1530" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1531-1541" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1542-1549" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1550-1560" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1561-1563" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1564-1572" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1573-1574" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1575-1585" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="1585-1586" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H results))
+            (VP=H (VBP=H are)
+            (NP (DT the)
+            (ADJP (JJ=H first)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H
+            (NP (NN surfactant) (POS=H 's))
+            (JJ suppressive) (NNS=H effects))
+            (PP (IN=H on)
+            (NP (JJ inflammatory) (NN cytokine) (NN=H production))))
+            (VP=H (MD=H may)
+            (VP (VB=H involve)
+            (NP (JJ transcriptional) (NN=H regulation))
+            (PP (IN=H through)
+            (NP
+            (NP=H (NN=H inhibition))
+            (PP (IN=H of)
+            (NP (NN NF-kappa) (NN=H B)))))))))))))
+            (NN=H activation)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T13" type="ZeroArticleNP" charOffset="957-1003" headOffset="993-1003" text="nuclear factor-kappa B (NF-kappa B) activation"/>
+    <Term xml:space="preserve" id="T14" type="PersonalPronoun" charOffset="1012-1014" headOffset="1012-1014" text="it"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T14"/>
+        <Antecedent idref="T13"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="353-380" headOffset="368-380" text="tumor necrosis factor-alpha"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="382-385" headOffset="382-385" text="TNF"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="388-406" headOffset="388-406" text="interleukin-1-beta"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="408-412" headOffset="408-412" text="IL-1"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="415-428" headOffset="415-428" text="interleukin-6"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="430-434" headOffset="430-434" text="IL-6"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="533-536" headOffset="533-536" text="TNF"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="1102-1105" headOffset="1102-1105" text="TNF"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="1107-1111" headOffset="1107-1111" text="IL-1"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="1117-1121" headOffset="1117-1121" text="IL-6"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="1247-1250" headOffset="1247-1250" text="p65"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="1255-1258" headOffset="1255-1258" text="p50"/>
+</document>

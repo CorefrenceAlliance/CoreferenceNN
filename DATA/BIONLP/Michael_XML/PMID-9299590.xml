@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9299590">
+    <text xml:space="preserve">The role of Rel/NF-kappa B proteins in viral oncogenesis and the regulation of viral transcription. 
+Rel/NF-kappa B is a ubiquitous transcription factor that consists of multiple polypeptide subunits, and is subject to complex regulatory mechanisms that involve protein-protein interactions, phosphorylation, ubiquitination, proteolytic degradation, and nucleocytoplasmic translocation. The sophisticated control of Rel/NF-kappa B activity is not surprising since this transcription factor is involved in a wide array of cellular responses to extracellular cues, associated with growth, development, apoptosis, and pathogen invasion. Thus, it is not unexpected that this versatile cellular homeostatic switch would be affected by a variety of viral pathogens, which have evolved mechanisms to utilize various aspects of Rel/NF-kappa B activity to facilitate their replication, cell survival and possibly evasion of immune responses. This review will cover the molecular mechanisms that are utilized by mammalian oncogenic viruses to affect the activity of Rel/NF-kappa B transcription factors and the role of Rel/NF-kappa B in the regulation of viral gene expression and replication. 
+</text>
+    <sentence charOffset="0-101" id="S1">
+        <text xml:space="preserve">The role of Rel/NF-kappa B proteins in viral oncogenesis and the regulation of viral transcription. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="0-3" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="4-8" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="9-11" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="12-24" text="Rel/NF-kappa" lemma="rel/nf-kappa"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="25-26" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="27-35" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="36-38" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="39-44" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="45-56" text="oncogenesis" lemma="oncogenesis"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="57-60" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="61-64" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="65-75" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="76-78" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="79-84" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="85-98" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="98-99" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (DT The) (NN=H role))
+            (PP (IN=H of)
+            (NP (NN Rel/NF-kappa) (NN B) (NNS=H proteins)))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ viral) (NN=H oncogenesis))
+            (CC and)
+            (NP (DT the) (NN=H regulation))))
+            (PP (IN=H of)
+            (NP (JJ viral) (NN=H transcription)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="101-387" id="S2">
+        <text xml:space="preserve">Rel/NF-kappa B is a ubiquitous transcription factor that consists of multiple polypeptide subunits, and is subject to complex regulatory mechanisms that involve protein-protein interactions, phosphorylation, ubiquitination, proteolytic degradation, and nucleocytoplasmic translocation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="101-113" text="Rel/NF-kappa" lemma="rel/nf-kappa"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="114-115" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="116-118" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="119-120" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="121-131" text="ubiquitous" lemma="ubiquitous"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="132-145" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="146-152" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_8" POS="WDT" charOffset="153-157" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="158-166" text="consists" lemma="consist"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="167-169" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="170-178" text="multiple" lemma="multiple"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="179-190" text="polypeptide" lemma="polypeptide"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="191-199" text="subunits" lemma="subunit"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="199-200" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="201-204" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="205-207" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="208-215" text="subject" lemma="subject"/>
+            <token xml:space="preserve" id="stt_18" POS="TO" charOffset="216-218" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="219-226" text="complex" lemma="complex"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="227-237" text="regulatory" lemma="regulatory"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="238-248" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_22" POS="WDT" charOffset="249-253" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_23" POS="VBP" charOffset="254-261" text="involve" lemma="involve"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="262-277" text="protein-protein" lemma="protein-protein"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="278-290" text="interactions" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_26" POS="," charOffset="290-291" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="292-307" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_28" POS="," charOffset="307-308" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="309-323" text="ubiquitination" lemma="ubiquitination"/>
+            <token xml:space="preserve" id="stt_30" POS="," charOffset="323-324" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="325-336" text="proteolytic" lemma="proteolytic"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="337-348" text="degradation" lemma="degradation"/>
+            <token xml:space="preserve" id="stt_33" POS="," charOffset="348-349" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_34" POS="CC" charOffset="350-353" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_35" POS="JJ" charOffset="354-371" text="nucleocytoplasmic" lemma="nucleocytoplasmic"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="372-385" text="translocation" lemma="translocation"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="385-386" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Rel/NF-kappa) (NN=H B))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (JJ ubiquitous) (NN transcription) (NN=H factor))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H
+            (VP=H (VBZ=H consists)
+            (PP (IN=H of)
+            (NP (JJ multiple) (NN polypeptide) (NNS=H subunits))))
+            (, ,)
+            (CC and)
+            (VP (VBZ=H is)
+            (ADJP (JJ=H subject)
+            (PP (TO=H to)
+            (NP
+            (NP=H (JJ complex) (JJ regulatory) (NNS=H mechanisms))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H involve)
+            (NP
+            (NP=H (JJ protein-protein) (NNS=H interactions))
+            (, ,)
+            (NP (NN=H phosphorylation))
+            (, ,)
+            (NP (NN=H ubiquitination))
+            (, ,)
+            (NP (JJ proteolytic) (NN=H degradation))
+            (, ,)
+            (CC and)
+            (NP (JJ nucleocytoplasmic) (NN=H translocation)))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="387-634" id="S3">
+        <text xml:space="preserve">The sophisticated control of Rel/NF-kappa B activity is not surprising since this transcription factor is involved in a wide array of cellular responses to extracellular cues, associated with growth, development, apoptosis, and pathogen invasion. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="387-390" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="391-404" text="sophisticated" lemma="sophisticated"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="405-412" text="control" lemma="control"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="413-415" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="416-428" text="Rel/NF-kappa" lemma="rel/nf-kappa"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="429-430" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="431-439" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="440-442" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="443-446" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="447-457" text="surprising" lemma="surprising"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="458-463" text="since" lemma="since"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="464-468" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="469-482" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="483-489" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="490-492" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="493-501" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="502-504" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="505-506" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="507-511" text="wide" lemma="wide"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="512-517" text="array" lemma="array"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="518-520" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="521-529" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="530-539" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_24" POS="TO" charOffset="540-542" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="543-556" text="extracellular" lemma="extracellular"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="557-561" text="cues" lemma="cue"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="561-562" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="VBN" charOffset="563-573" text="associated" lemma="associate"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="574-578" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="579-585" text="growth" lemma="growth"/>
+            <token xml:space="preserve" id="stt_31" POS="," charOffset="585-586" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="587-598" text="development" lemma="development"/>
+            <token xml:space="preserve" id="stt_33" POS="," charOffset="598-599" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="600-609" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_35" POS="," charOffset="609-610" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_36" POS="CC" charOffset="611-614" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="615-623" text="pathogen" lemma="pathogen"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="624-632" text="invasion" lemma="invasion"/>
+            <token xml:space="preserve" id="stt_39" POS="." charOffset="632-633" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (JJ sophisticated) (NN=H control))
+            (PP (IN=H of)
+            (NP (NN Rel/NF-kappa) (NN B) (NN=H activity))))
+            (VP=H (VBZ=H is) (RB not)
+            (ADJP (JJ=H surprising))
+            (SBAR (IN=H since)
+            (S
+            (NP (DT this) (NN transcription) (NN=H factor))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H involved)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT a) (JJ wide) (NN=H array))
+            (PP (IN=H of)
+            (NP (JJ cellular) (NNS=H responses)))))
+            (PP (TO=H to)
+            (NP
+            (NP=H (JJ extracellular) (NNS=H cues))
+            (, ,)
+            (VP (VBN=H associated)
+            (PP (IN=H with)
+            (NP (NN growth) (, ,) (NN development) (, ,) (NN apoptosis) (, ,)
+            (CC and)
+            (NN pathogen) (NN=H invasion)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="634-933" id="S4">
+        <text xml:space="preserve">Thus, it is not unexpected that this versatile cellular homeostatic switch would be affected by a variety of viral pathogens, which have evolved mechanisms to utilize various aspects of Rel/NF-kappa B activity to facilitate their replication, cell survival and possibly evasion of immune responses. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="634-638" text="Thus" lemma="thus"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="638-639" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP" charOffset="640-642" text="it" lemma="it"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="643-645" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="646-649" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="650-660" text="unexpected" lemma="unexpected"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="661-665" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="666-670" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="671-680" text="versatile" lemma="versatile"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="681-689" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="690-701" text="homeostatic" lemma="homeostatic"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="702-708" text="switch" lemma="switch"/>
+            <token xml:space="preserve" id="stt_13" POS="MD" charOffset="709-714" text="would" lemma="would"/>
+            <token xml:space="preserve" id="stt_14" POS="VB" charOffset="715-717" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="718-726" text="affected" lemma="affect"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="727-729" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="730-731" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="732-739" text="variety" lemma="variety"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="740-742" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="743-748" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="749-758" text="pathogens" lemma="pathogen"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="758-759" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="WDT" charOffset="760-765" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_24" POS="VBP" charOffset="766-770" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_25" POS="VBN" charOffset="771-778" text="evolved" lemma="evolve"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="779-789" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_27" POS="TO" charOffset="790-792" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_28" POS="VB" charOffset="793-800" text="utilize" lemma="utilize"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="801-808" text="various" lemma="various"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="809-816" text="aspects" lemma="aspect"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="817-819" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="820-832" text="Rel/NF-kappa" lemma="rel/nf-kappa"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="833-834" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="835-843" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_35" POS="TO" charOffset="844-846" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_36" POS="VB" charOffset="847-857" text="facilitate" lemma="facilitate"/>
+            <token xml:space="preserve" id="stt_37" POS="PRP$" charOffset="858-863" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="864-875" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_39" POS="," charOffset="875-876" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="877-881" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="882-890" text="survival" lemma="survival"/>
+            <token xml:space="preserve" id="stt_42" POS="CC" charOffset="891-894" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_43" POS="RB" charOffset="895-903" text="possibly" lemma="possibly"/>
+            <token xml:space="preserve" id="stt_44" POS="NN" charOffset="904-911" text="evasion" lemma="evasion"/>
+            <token xml:space="preserve" id="stt_45" POS="IN" charOffset="912-914" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_46" POS="JJ" charOffset="915-921" text="immune" lemma="immune"/>
+            <token xml:space="preserve" id="stt_47" POS="NNS" charOffset="922-931" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_48" POS="." charOffset="931-932" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Thus))
+            (, ,)
+            (NP (PRP=H it))
+            (VP=H (VBZ=H is) (RB not)
+            (ADJP (JJ=H unexpected))
+            (SBAR (IN=H that)
+            (S
+            (NP (DT this) (JJ versatile) (JJ cellular) (JJ homeostatic) (NN=H switch))
+            (VP=H (MD=H would)
+            (VP (VB=H be)
+            (VP (VBN=H affected)
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT a) (NN=H variety))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ viral) (NNS=H pathogens))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBP=H have)
+            (VP (VBN=H evolved)
+            (NP (NNS=H mechanisms))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H utilize)
+            (NP
+            (NP=H (JJ various) (NNS=H aspects))
+            (PP (IN=H of)
+            (NP (NN Rel/NF-kappa) (NN B) (NN=H activity))))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H facilitate)
+            (NP
+            (NP=H (PRP$ their) (NN=H replication))
+            (, ,)
+            (NP (NN cell) (NN=H survival))
+            (CC and)
+            (NP
+            (NP=H (RB possibly) (NN=H evasion))
+            (PP (IN=H of)
+            (NP (JJ immune) (NNS=H responses)))))))))))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="933-1185" id="S5">
+        <text xml:space="preserve">This review will cover the molecular mechanisms that are utilized by mammalian oncogenic viruses to affect the activity of Rel/NF-kappa B transcription factors and the role of Rel/NF-kappa B in the regulation of viral gene expression and replication. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="933-937" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="938-944" text="review" lemma="review"/>
+            <token xml:space="preserve" id="stt_3" POS="MD" charOffset="945-949" text="will" lemma="will"/>
+            <token xml:space="preserve" id="stt_4" POS="VB" charOffset="950-955" text="cover" lemma="cover"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="956-959" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="960-969" text="molecular" lemma="molecular"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="970-980" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_8" POS="WDT" charOffset="981-985" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_9" POS="VBP" charOffset="986-989" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="990-998" text="utilized" lemma="utilize"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="999-1001" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1002-1011" text="mammalian" lemma="mammalian"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1012-1021" text="oncogenic" lemma="oncogenic"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="1022-1029" text="viruses" lemma="virus"/>
+            <token xml:space="preserve" id="stt_15" POS="TO" charOffset="1030-1032" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_16" POS="VB" charOffset="1033-1039" text="affect" lemma="affect"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="1040-1043" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1044-1052" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1053-1055" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1056-1068" text="Rel/NF-kappa" lemma="rel/nf-kappa"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1069-1070" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1071-1084" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="1085-1092" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_24" POS="CC" charOffset="1093-1096" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_25" POS="DT" charOffset="1097-1100" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1101-1105" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1106-1108" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1109-1121" text="Rel/NF-kappa" lemma="rel/nf-kappa"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1122-1123" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="1124-1126" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_31" POS="DT" charOffset="1127-1130" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1131-1141" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_33" POS="IN" charOffset="1142-1144" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_34" POS="JJ" charOffset="1145-1150" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1151-1155" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1156-1166" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_37" POS="CC" charOffset="1167-1170" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="1171-1182" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_39" POS="." charOffset="1182-1183" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H review))
+            (VP=H (MD=H will)
+            (VP (VB=H cover)
+            (NP
+            (NP=H (DT the) (JJ molecular) (NNS=H mechanisms))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H are)
+            (VP (VBN=H utilized)
+            (PP (IN=H by)
+            (NP (JJ mammalian) (JJ oncogenic) (NNS=H viruses)))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H affect)
+            (NP
+            (NP=H
+            (NP=H (DT the) (NN=H activity))
+            (PP (IN=H of)
+            (NP (NN Rel/NF-kappa) (NN B) (NN transcription) (NNS=H factors))))
+            (CC and)
+            (NP
+            (NP=H (DT the) (NN=H role))
+            (PP (IN=H of)
+            (NP (NN Rel/NF-kappa) (NN=H B)))))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H regulation))
+            (PP (IN=H of)
+            (NP (JJ viral) (NN gene) (NN=H expression)
+            (CC and)
+            (NN replication)))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="IndefiniteNP" charOffset="119-152" headOffset="146-152" text="a ubiquitous transcription factor"/>
+    <Term xml:space="preserve" id="T2" type="RelativePronoun" charOffset="153-157" headOffset="153-157" text="that"/>
+    <Term xml:space="preserve" id="T3" type="ZeroArticleNP" charOffset="219-248" headOffset="238-248" text="complex regulatory mechanisms"/>
+    <Term xml:space="preserve" id="T4" type="RelativePronoun" charOffset="249-253" headOffset="249-253" text="that"/>
+    <Term xml:space="preserve" id="T5" type="ZeroArticleNP" charOffset="743-758" headOffset="749-758" text="viral pathogens"/>
+    <Term xml:space="preserve" id="T6" type="RelativePronoun" charOffset="760-765" headOffset="760-765" text="which"/>
+    <Term xml:space="preserve" id="T7" type="PossessivePronoun" charOffset="858-863" headOffset="858-863" text="their"/>
+    <Term xml:space="preserve" id="T8" type="DefiniteNP" charOffset="956-980" headOffset="970-980" text="the molecular mechanisms"/>
+    <Term xml:space="preserve" id="T9" type="RelativePronoun" charOffset="981-985" headOffset="981-985" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T2"/>
+        <Antecedent idref="T1"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T4"/>
+        <Antecedent idref="T3"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T6"/>
+        <Antecedent idref="T5"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T7"/>
+        <Antecedent idref="T5"/>
+    </Relation>
+    <Relation id="R5" type="Anaphora">
+        <Anaphor idref="T9"/>
+        <Antecedent idref="T8"/>
+    </Relation>
+</document>

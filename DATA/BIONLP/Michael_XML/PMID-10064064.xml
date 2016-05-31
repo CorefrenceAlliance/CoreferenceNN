@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10064064">
+    <text xml:space="preserve">AML and Ets proteins regulate the I alpha1 germ-line promoter. 
+The immunoglobulin heavy chain (IgH) class switch recombination of B lymphocytes preferentially targets unrearranged IgH genes that have already been rendered transcriptionally active. Transcription of the germ-line IgH genes is controlled by intervening (I) regions upstream of their switch regions. The I alpha1 promoter activates transcription of the human germ-line C alpha1 gene for IgA1 and mediates the transforming growth factor (TGF)-beta1 responsiveness of this locus. Here we show that the I alpha1 promoter contains several binding sites for the AML/PEBP2/CBF family of transcription factors and that AML and Ets proteins are major regulators of the basal and TGF-beta-inducible promoter activity. Our data constitute a starting point for studies to elucidate the molecular mechanism by which TGF-beta regulates IgA production. 
+</text>
+    <sentence charOffset="0-64" id="S1">
+        <text xml:space="preserve">AML and Ets proteins regulate the I alpha1 germ-line promoter. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-3" text="AML" lemma="aml"/>
+            <token xml:space="preserve" id="stt_2" POS="CC" charOffset="4-7" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="8-11" text="Ets" lemma="ets"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="12-20" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="21-29" text="regulate" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="30-33" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="34-35" text="I" lemma="i"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="36-42" text="alpha1" lemma="alpha1"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="43-52" text="germ-line" lemma="germ-line"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="53-61" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="61-62" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN AML)
+            (CC and)
+            (NN Ets) (NNS=H proteins))
+            (VP=H (VBP=H regulate)
+            (NP (DT the) (NN I) (NN alpha1) (NN germ-line) (NN=H promoter)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="64-249" id="S2">
+        <text xml:space="preserve">The immunoglobulin heavy chain (IgH) class switch recombination of B lymphocytes preferentially targets unrearranged IgH genes that have already been rendered transcriptionally active. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="64-67" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="68-82" text="immunoglobulin" lemma="immunoglobulin"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="83-88" text="heavy" lemma="heavy"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="89-94" text="chain" lemma="chain"/>
+            <token xml:space="preserve" id="stt_5" POS="-LRB-" charOffset="95-96" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="96-99" text="IgH" lemma="igh"/>
+            <token xml:space="preserve" id="stt_7" POS="-RRB-" charOffset="99-100" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="101-106" text="class" lemma="class"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="107-113" text="switch" lemma="switch"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="114-127" text="recombination" lemma="recombination"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="128-130" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="131-132" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="133-144" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="145-159" text="preferentially" lemma="preferentially"/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="160-167" text="targets" lemma="target"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="168-180" text="unrearranged" lemma="unrearranged"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="181-184" text="IgH" lemma="igh"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="185-190" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_19" POS="WDT" charOffset="191-195" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_20" POS="VBP" charOffset="196-200" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_21" POS="RB" charOffset="201-208" text="already" lemma="already"/>
+            <token xml:space="preserve" id="stt_22" POS="VBN" charOffset="209-213" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="214-222" text="rendered" lemma="render"/>
+            <token xml:space="preserve" id="stt_24" POS="RB" charOffset="223-240" text="transcriptionally" lemma="transcriptionally"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="241-247" text="active" lemma="active"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="247-248" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The)
+            (NP
+            (NP=H (NN immunoglobulin) (JJ heavy) (NN=H chain))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IgH))
+            (-RRB- -RRB-)))
+            (NN class) (NN switch) (NN=H recombination))
+            (PP (IN=H of)
+            (NP (NN B) (NNS=H lymphocytes))))
+            (ADVP (RB=H preferentially))
+            (VP=H (VBZ=H targets)
+            (NP
+            (NP=H (JJ unrearranged) (NN IgH) (NNS=H genes))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H have)
+            (ADVP (RB=H already))
+            (VP (VBN=H been)
+            (VP (VBN=H rendered)
+            (S
+            (ADJP=H (RB transcriptionally) (JJ=H active))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="249-365" id="S3">
+        <text xml:space="preserve">Transcription of the germ-line IgH genes is controlled by intervening (I) regions upstream of their switch regions. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="249-262" text="Transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="263-265" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="266-269" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="270-279" text="germ-line" lemma="germ-line"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="280-283" text="IgH" lemma="igh"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="284-289" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="290-292" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="293-303" text="controlled" lemma="control"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="304-306" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_10" POS="VBG" charOffset="307-318" text="intervening" lemma="intervene"/>
+            <token xml:space="preserve" id="stt_11" POS="-LRB-" charOffset="319-320" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_12" POS="PRP" charOffset="320-321" text="I" lemma="I"/>
+            <token xml:space="preserve" id="stt_13" POS="-RRB-" charOffset="321-322" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="323-330" text="regions" lemma="region"/>
+            <token xml:space="preserve" id="stt_15" POS="RB" charOffset="331-339" text="upstream" lemma="upstream"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="340-342" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="PRP$" charOffset="343-348" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="349-355" text="switch" lemma="switch"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="356-363" text="regions" lemma="region"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="363-364" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Transcription))
+            (PP (IN=H of)
+            (NP (DT the) (NN germ-line) (NN IgH) (NNS=H genes))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H controlled)
+            (PP (IN=H by)
+            (S
+            (VP=H (VBG=H intervening)
+            (NP
+            (PRN (-LRB- -LRB-)
+            (NP=H (PRP=H I))
+            (-RRB- -RRB-))
+            (NNS=H regions))
+            (ADVP (RB=H upstream)
+            (PP (IN=H of)
+            (NP (PRP$ their) (NN switch) (NNS=H regions)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="365-543" id="S4">
+        <text xml:space="preserve">The I alpha1 promoter activates transcription of the human germ-line C alpha1 gene for IgA1 and mediates the transforming growth factor (TGF)-beta1 responsiveness of this locus. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="365-368" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="369-370" text="I" lemma="i"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="371-377" text="alpha1" lemma="alpha1"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="378-386" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="387-396" text="activates" lemma="activate"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="397-410" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="411-413" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="414-417" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="418-423" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="424-433" text="germ-line" lemma="germ-line"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="434-435" text="C" lemma="c"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="436-442" text="alpha1" lemma="alpha1"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="443-447" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="448-451" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="452-456" text="IgA1" lemma="iga1"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="457-460" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="VBZ" charOffset="461-469" text="mediates" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="470-473" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="VBG" charOffset="474-486" text="transforming" lemma="transform"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="487-493" text="growth" lemma="growth"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="494-500" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_22" POS="-LRB-" charOffset="501-502" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="502-505" text="TGF" lemma="tgf"/>
+            <token xml:space="preserve" id="stt_24" POS="-RRB-" charOffset="505-506" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_25" POS=":" charOffset="506-507" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="507-512" text="beta1" lemma="beta1"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="513-527" text="responsiveness" lemma="responsiveness"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="528-530" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="531-535" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="536-541" text="locus" lemma="locus"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="541-542" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NN I) (NN alpha1) (NN=H promoter))
+            (VP=H
+            (VP=H (VBZ=H activates)
+            (NP
+            (NP=H (NN=H transcription))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (JJ human) (NN germ-line) (NN C) (NN alpha1) (NN=H gene))
+            (PP (IN=H for)
+            (NP (NN=H IgA1)))))))
+            (CC and)
+            (VP
+            (VP=H (VBZ=H mediates)
+            (NP
+            (NP=H (DT the) (VBG transforming) (NN growth) (NN=H factor))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H TGF))
+            (-RRB- -RRB-))))
+            (: -)
+            (NP
+            (NP=H (NN beta1) (NN=H responsiveness))
+            (PP (IN=H of)
+            (NP (DT this) (NN=H locus))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="543-774" id="S5">
+        <text xml:space="preserve">Here we show that the I alpha1 promoter contains several binding sites for the AML/PEBP2/CBF family of transcription factors and that AML and Ets proteins are major regulators of the basal and TGF-beta-inducible promoter activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="543-547" text="Here" lemma="here"/>
+            <token xml:space="preserve" id="stt_2" POS="PRP" charOffset="548-550" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="551-555" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="556-560" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="561-564" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="565-566" text="I" lemma="i"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="567-573" text="alpha1" lemma="alpha1"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="574-582" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="583-591" text="contains" lemma="contain"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="592-599" text="several" lemma="several"/>
+            <token xml:space="preserve" id="stt_11" POS="VBG" charOffset="600-607" text="binding" lemma="bind"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="608-613" text="sites" lemma="site"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="614-617" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="618-621" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="622-635" text="AML/PEBP2/CBF" lemma="aml/pebp2/cbf"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="636-642" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="643-645" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="646-659" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="660-667" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="668-671" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="672-676" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="677-680" text="AML" lemma="aml"/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="681-684" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="685-688" text="Ets" lemma="ets"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="689-697" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_26" POS="VBP" charOffset="698-701" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="702-707" text="major" lemma="major"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="708-718" text="regulators" lemma="regulator"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="719-721" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_30" POS="DT" charOffset="722-725" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="726-731" text="basal" lemma="basal"/>
+            <token xml:space="preserve" id="stt_32" POS="CC" charOffset="732-735" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_33" POS="JJ" charOffset="736-754" text="TGF-beta-inducible" lemma="tgf-beta-inducible"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="755-763" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="764-772" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_36" POS="." charOffset="772-773" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Here))
+            (NP (PRP=H we))
+            (VP=H (VBP=H show)
+            (SBAR
+            (SBAR=H (IN=H that)
+            (S
+            (NP (DT the) (NN I) (NN alpha1) (NN=H promoter))
+            (VP=H (VBZ=H contains)
+            (NP
+            (NP=H (JJ several) (VBG binding) (NNS=H sites))
+            (PP (IN=H for)
+            (NP
+            (NP=H (DT the) (NN AML/PEBP2/CBF) (NN=H family))
+            (PP (IN=H of)
+            (NP (NN transcription) (NNS=H factors)))))))))
+            (CC and)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN AML)
+            (CC and)
+            (NN Ets) (NNS=H proteins))
+            (VP=H (VBP=H are)
+            (NP
+            (NP=H (JJ major) (NNS=H regulators))
+            (PP (IN=H of)
+            (NP (DT the)
+            (ADJP (JJ=H basal)
+            (CC and)
+            (JJ TGF-beta-inducible))
+            (NN promoter) (NN=H activity)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="774-905" id="S6">
+        <text xml:space="preserve">Our data constitute a starting point for studies to elucidate the molecular mechanism by which TGF-beta regulates IgA production. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP$" charOffset="774-777" text="Our" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="778-782" text="data" lemma="datum"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="783-793" text="constitute" lemma="constitute"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="794-795" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="VBG" charOffset="796-804" text="starting" lemma="start"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="805-810" text="point" lemma="point"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="811-814" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="815-822" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_9" POS="TO" charOffset="823-825" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_10" POS="VB" charOffset="826-835" text="elucidate" lemma="elucidate"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="836-839" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="840-849" text="molecular" lemma="molecular"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="850-859" text="mechanism" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="860-862" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_15" POS="WDT" charOffset="863-868" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="869-877" text="TGF-beta" lemma="tgf-beta"/>
+            <token xml:space="preserve" id="stt_17" POS="VBZ" charOffset="878-887" text="regulates" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="888-891" text="IgA" lemma="iga"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="892-902" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="902-903" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP$ Our) (NNS=H data))
+            (VP=H (VBP=H constitute)
+            (S
+            (NP
+            (NP=H (DT a) (VBG starting) (NN=H point))
+            (PP (IN=H for)
+            (NP (NNS=H studies))))
+            (VP=H (TO=H to)
+            (VP (VB=H elucidate)
+            (NP (DT the) (JJ molecular) (NN=H mechanism))
+            (PP (IN=H by)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (NP (NN=H TGF-beta))
+            (VP=H (VBZ=H regulates)
+            (NP (NN IgA) (NN=H production))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T2" type="ZeroArticleNP" charOffset="168-190" headOffset="185-190" text="unrearranged IgH genes"/>
+    <Term xml:space="preserve" id="T3" type="RelativePronoun" charOffset="191-195" headOffset="191-195" text="that"/>
+    <Term xml:space="preserve" id="T4" type="PersonalPronoun" charOffset="307-330" headOffset="323-330" text="intervening (I) regions"/>
+    <Term xml:space="preserve" id="T5" type="PossessivePronoun" charOffset="343-348" headOffset="343-348" text="their"/>
+    <Term xml:space="preserve" id="T6" type="DefiniteNP" charOffset="836-859" headOffset="850-859" text="the molecular mechanism"/>
+    <Term xml:space="preserve" id="T7" type="RelativePronoun" charOffset="863-868" headOffset="863-868" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T3"/>
+        <Antecedent idref="T2"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T5"/>
+        <Antecedent idref="T4"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T7"/>
+        <Antecedent idref="T6"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="474-512" headOffset="507-512" text="transforming growth factor (TGF)-beta1"/>
+</document>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8790371">
+    <text xml:space="preserve">Apoptosis mediated by HIV protease is preceded by cleavage of Bcl-2. 
+Expression of the human immunodeficiency virus type 1 (HIV) protease in cultured cells leads to apoptosis, preceded by cleavage of bcl-2, a key negative regulator of cell death. In contrast, a high level of bcl-2 protects cells in vitro and in vivo from the viral protease and prevents cell death following HIV infection of human lymphocytes, while reducing the yields of viral structural proteins, infectivity, and tumor necrosis factor alpha. We present a model for HIV replication in which the viral protease depletes the infected cells of bcl-2, leading to oxidative stress-dependent activation of NF kappa B, a cellular factor required for HIV transcription, and ultimately to cell death. Purified bcl-2 is cleaved by HIV protease between phenylalanine 112 and alanine 113. The results suggest a new option for HIV gene therapy; bcl-2 muteins that have noncleavable alterations surrounding the HIV protease cleavage site. 
+</text>
+    <sentence charOffset="0-70" id="S1">
+        <text xml:space="preserve">Apoptosis mediated by HIV protease is preceded by cleavage of Bcl-2. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-9" text="Apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_2" POS="VBN" charOffset="10-18" text="mediated" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="19-21" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="22-25" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="26-34" text="protease" lemma="protease"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="35-37" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="38-46" text="preceded" lemma="precede"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="47-49" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="50-58" text="cleavage" lemma="cleavage"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="59-61" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="62-67" text="Bcl-2" lemma="bcl-2"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="67-68" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Apoptosis))
+            (VP (VBN=H mediated)
+            (PP (IN=H by)
+            (NP (NN HIV) (NN=H protease)))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H preceded)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H cleavage))
+            (PP (IN=H of)
+            (NP (NN=H Bcl-2)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="70-248" id="S2">
+        <text xml:space="preserve">Expression of the human immunodeficiency virus type 1 (HIV) protease in cultured cells leads to apoptosis, preceded by cleavage of bcl-2, a key negative regulator of cell death. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="70-80" text="Expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="81-83" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="84-87" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="88-93" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="94-110" text="immunodeficiency" lemma="immunodeficiency"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="111-116" text="virus" lemma="virus"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="117-121" text="type" lemma="type"/>
+            <token xml:space="preserve" id="stt_8" POS="CD" charOffset="122-123" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_9" POS="-LRB-" charOffset="124-125" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="125-128" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_11" POS="-RRB-" charOffset="128-129" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="130-138" text="protease" lemma="protease"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="139-141" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="142-150" text="cultured" lemma="culture"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="151-156" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="157-162" text="leads" lemma="lead"/>
+            <token xml:space="preserve" id="stt_17" POS="TO" charOffset="163-165" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="166-175" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="175-176" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="VBN" charOffset="177-185" text="preceded" lemma="precede"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="186-188" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="189-197" text="cleavage" lemma="cleavage"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="198-200" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="201-206" text="bcl-2" lemma="bcl-2"/>
+            <token xml:space="preserve" id="stt_25" POS="," charOffset="206-207" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="208-209" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="210-213" text="key" lemma="key"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="214-222" text="negative" lemma="negative"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="223-232" text="regulator" lemma="regulator"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="233-235" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="236-240" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="241-246" text="death" lemma="death"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="246-247" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (JJ human) (NN immunodeficiency) (NN virus) (NN type) (CD 1) (-LRB- -LRB-) (NN HIV) (-RRB- -RRB-) (NN=H protease))
+            (PP (IN=H in)
+            (S
+            (VP=H (VBN=H cultured)
+            (NP (NNS=H cells))))))))
+            (VP=H (VBZ=H leads)
+            (PP (TO=H to)
+            (NP (NN=H apoptosis)))
+            (, ,)
+            (VP (VBN=H preceded)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H cleavage))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H bcl-2))
+            (, ,)
+            (NP
+            (NP=H (DT a) (JJ key) (JJ negative) (NN=H regulator))
+            (PP (IN=H of)
+            (NP (NN cell) (NN=H death))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="248-515" id="S3">
+        <text xml:space="preserve">In contrast, a high level of bcl-2 protects cells in vitro and in vivo from the viral protease and prevents cell death following HIV infection of human lymphocytes, while reducing the yields of viral structural proteins, infectivity, and tumor necrosis factor alpha. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="248-250" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="251-259" text="contrast" lemma="contrast"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="259-260" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="261-262" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="263-267" text="high" lemma="high"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="268-273" text="level" lemma="level"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="274-276" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="277-282" text="bcl-2" lemma="bcl-2"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="283-291" text="protects" lemma="protect"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="292-297" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="FW" charOffset="298-300" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="FW" charOffset="301-306" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="307-310" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="FW" charOffset="311-313" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="FW" charOffset="314-318" text="vivo" lemma="vivo"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="319-323" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="324-327" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="328-333" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="334-342" text="protease" lemma="protease"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="343-346" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="VBZ" charOffset="347-355" text="prevents" lemma="prevent"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="356-360" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="361-366" text="death" lemma="death"/>
+            <token xml:space="preserve" id="stt_24" POS="VBG" charOffset="367-376" text="following" lemma="follow"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="377-380" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="381-390" text="infection" lemma="infection"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="391-393" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="394-399" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="400-411" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_30" POS="," charOffset="411-412" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="413-418" text="while" lemma="while"/>
+            <token xml:space="preserve" id="stt_32" POS="VBG" charOffset="419-427" text="reducing" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_33" POS="DT" charOffset="428-431" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_34" POS="NNS" charOffset="432-438" text="yields" lemma="yield"/>
+            <token xml:space="preserve" id="stt_35" POS="IN" charOffset="439-441" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_36" POS="JJ" charOffset="442-447" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_37" POS="JJ" charOffset="448-458" text="structural" lemma="structural"/>
+            <token xml:space="preserve" id="stt_38" POS="NNS" charOffset="459-467" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_39" POS="," charOffset="467-468" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="469-480" text="infectivity" lemma="infectivity"/>
+            <token xml:space="preserve" id="stt_41" POS="," charOffset="480-481" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_42" POS="CC" charOffset="482-485" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_43" POS="NN" charOffset="486-491" text="tumor" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_44" POS="NN" charOffset="492-500" text="necrosis" lemma="necrosis"/>
+            <token xml:space="preserve" id="stt_45" POS="NN" charOffset="501-507" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="508-513" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_47" POS="." charOffset="513-514" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H contrast)))
+            (, ,)
+            (NP
+            (NP=H (DT a) (JJ high) (NN=H level))
+            (PP (IN=H of)
+            (NP (NN=H bcl-2))))
+            (VP=H
+            (VP=H (VBZ=H protects)
+            (NP
+            (NP=H (NNS=H cells))
+            (UCP
+            (ADVP=H (FW in) (FW=H vitro))
+            (CC and)
+            (PP (FW=H in)
+            (NP (FW=H vivo)))))
+            (PP (IN=H from)
+            (NP (DT the) (JJ viral) (NN=H protease))))
+            (CC and)
+            (VP (VBZ=H prevents)
+            (NP
+            (NP=H (NN cell) (NN=H death))
+            (PP (VBG=H following)
+            (NP
+            (NP=H (NN HIV) (NN=H infection))
+            (PP (IN=H of)
+            (NP (JJ human) (NNS=H lymphocytes)))))))
+            (, ,)
+            (PP (IN=H while)
+            (S
+            (VP=H (VBG=H reducing)
+            (S
+            (NP
+            (NP=H (DT the) (NNS=H yields))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ viral) (JJ structural) (NNS=H proteins))
+            (, ,)
+            (NP (NN=H infectivity))
+            (, ,)
+            (CC and)
+            (NP (NN tumor) (NN necrosis) (NN=H factor)))))
+            (ADJP=H (NN=H alpha)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="515-764" id="S4">
+        <text xml:space="preserve">We present a model for HIV replication in which the viral protease depletes the infected cells of bcl-2, leading to oxidative stress-dependent activation of NF kappa B, a cellular factor required for HIV transcription, and ultimately to cell death. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="515-517" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="518-525" text="present" lemma="present"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="526-527" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="528-533" text="model" lemma="model"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="534-537" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="538-541" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="542-553" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="554-556" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="WDT" charOffset="557-562" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="563-566" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="567-572" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="573-581" text="protease" lemma="protease"/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="582-590" text="depletes" lemma="deplete"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="591-594" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="595-603" text="infected" lemma="infected"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="604-609" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="610-612" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="613-618" text="bcl-2" lemma="bcl-2"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="618-619" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="VBG" charOffset="620-627" text="leading" lemma="lead"/>
+            <token xml:space="preserve" id="stt_21" POS="TO" charOffset="628-630" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="631-640" text="oxidative" lemma="oxidative"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="641-657" text="stress-dependent" lemma="stress-dependent"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="658-668" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="669-671" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="672-674" text="NF" lemma="nf"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="675-680" text="kappa" lemma="kappa"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="681-682" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_29" POS="," charOffset="682-683" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_30" POS="DT" charOffset="684-685" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="686-694" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="695-701" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_33" POS="VBN" charOffset="702-710" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="711-714" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="715-718" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="719-732" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_37" POS="," charOffset="732-733" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_38" POS="CC" charOffset="734-737" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_39" POS="RB" charOffset="738-748" text="ultimately" lemma="ultimately"/>
+            <token xml:space="preserve" id="stt_40" POS="TO" charOffset="749-751" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="752-756" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="757-762" text="death" lemma="death"/>
+            <token xml:space="preserve" id="stt_43" POS="." charOffset="762-763" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H present)
+            (NP
+            (NP=H (DT a) (NN=H model))
+            (PP (IN=H for)
+            (NP (NN HIV) (NN=H replication)))
+            (SBAR
+            (WHPP=H (IN=H in)
+            (WHNP (WDT=H which)))
+            (S
+            (NP (DT the) (JJ viral) (NN=H protease))
+            (VP=H (VBZ=H depletes)
+            (NP
+            (NP=H (DT the) (JJ infected) (NNS=H cells))
+            (PP (IN=H of)
+            (NP (NN=H bcl-2))))
+            (, ,)
+            (S
+            (VP=H (VBG=H leading)
+            (PP
+            (PP=H (TO=H to)
+            (NP
+            (NP=H (JJ oxidative) (JJ stress-dependent) (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN NF) (NN kappa) (NN=H B))
+            (, ,)
+            (NP
+            (NP=H (DT a) (JJ cellular) (NN=H factor))
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP (NN HIV) (NN=H transcription)))))))))
+            (, ,)
+            (CC and)
+            (ADVP (RB=H ultimately))
+            (PP (TO=H to)
+            (NP (NN cell) (NN=H death)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="764-849" id="S5">
+        <text xml:space="preserve">Purified bcl-2 is cleaved by HIV protease between phenylalanine 112 and alanine 113. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBN" charOffset="764-772" text="Purified" lemma="purify"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="773-778" text="bcl-2" lemma="bcl-2"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="779-781" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="782-789" text="cleaved" lemma="cleave"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="790-792" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="793-796" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="797-805" text="protease" lemma="protease"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="806-813" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="814-827" text="phenylalanine" lemma="phenylalanine"/>
+            <token xml:space="preserve" id="stt_10" POS="CD" charOffset="828-831" text="112" lemma="112"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="832-835" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="836-843" text="alanine" lemma="alanine"/>
+            <token xml:space="preserve" id="stt_13" POS="CD" charOffset="844-847" text="113" lemma="113"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="847-848" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (VBN=H Purified)
+            (NP (NN=H bcl-2))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H cleaved)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN HIV) (NN=H protease))
+            (PP (IN=H between)
+            (NP
+            (NP=H (NN=H phenylalanine) (CD 112))
+            (CC and)
+            (NP (NN=H alanine) (CD 113))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="849-998" id="S6">
+        <text xml:space="preserve">The results suggest a new option for HIV gene therapy; bcl-2 muteins that have noncleavable alterations surrounding the HIV protease cleavage site. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="849-852" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="853-860" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="861-868" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="869-870" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="871-874" text="new" lemma="new"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="875-881" text="option" lemma="option"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="882-885" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="886-889" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="890-894" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="895-902" text="therapy" lemma="therapy"/>
+            <token xml:space="preserve" id="stt_11" POS=":" charOffset="902-903" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="904-909" text="bcl-2" lemma="bcl-2"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="910-917" text="muteins" lemma="mutein"/>
+            <token xml:space="preserve" id="stt_14" POS="WDT" charOffset="918-922" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_15" POS="VBP" charOffset="923-927" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="928-940" text="noncleavable" lemma="noncleavable"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="941-952" text="alterations" lemma="alteration"/>
+            <token xml:space="preserve" id="stt_18" POS="VBG" charOffset="953-964" text="surrounding" lemma="surround"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="965-968" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="969-972" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="973-981" text="protease" lemma="protease"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="982-990" text="cleavage" lemma="cleavage"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="991-995" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="995-996" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NNS=H results))
+            (VP=H (VBP=H suggest)
+            (NP
+            (NP=H
+            (NP=H (DT a) (JJ new) (NN=H option))
+            (PP (IN=H for)
+            (NP (NN HIV) (NN gene) (NN=H therapy))))
+            (: ;)
+            (NP
+            (NP=H (NN bcl-2) (NNS=H muteins))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H have)
+            (NP
+            (NP=H (JJ noncleavable) (NNS=H alterations))
+            (VP (VBG=H surrounding)
+            (NP (DT the) (NN HIV) (NN protease) (NN cleavage) (NN=H site))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T12" type="IndefiniteNP" charOffset="526-553" headOffset="528-533" text="a model for HIV replication"/>
+    <Term xml:space="preserve" id="T13" type="RelativePronoun" charOffset="557-562" headOffset="557-562" text="which"/>
+    <Term xml:space="preserve" id="T14" type="ZeroArticleNP" charOffset="904-917" headOffset="910-917" text="bcl-2 muteins"/>
+    <Term xml:space="preserve" id="T15" type="RelativePronoun" charOffset="918-922" headOffset="918-922" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T13"/>
+        <Antecedent idref="T12"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T15"/>
+        <Antecedent idref="T14"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="22-34" headOffset="26-34" text="HIV protease"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="62-67" headOffset="62-67" text="Bcl-2"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="88-138" headOffset="130-138" text="human immunodeficiency virus type 1 (HIV) protease"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="201-206" headOffset="201-206" text="bcl-2"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="277-282" headOffset="277-282" text="bcl-2"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="486-513" headOffset="508-513" text="tumor necrosis factor alpha"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="613-618" headOffset="613-618" text="bcl-2"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="773-778" headOffset="773-778" text="bcl-2"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="793-805" headOffset="797-805" text="HIV protease"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="904-909" headOffset="904-909" text="bcl-2"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="969-981" headOffset="973-981" text="HIV protease"/>
+</document>

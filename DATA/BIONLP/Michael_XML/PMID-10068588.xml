@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10068588">
+    <text xml:space="preserve">Activation of human immunodeficiency virus type 1 expression by Gardnerella vaginalis. 
+Bacterial vaginosis (BV) is associated with an increased rate of sexual transmission of human immunodeficiency virus (HIV) type 1, and Gardnerella vaginalis is frequently isolated from the genital tracts of women with BV. G. vaginalis lysates were found to significantly stimulate HIV expression in monocytoid cells. Stimulation was significantly higher when lysates were heated at 100 degrees C for 5 min but was reduced by treatment with lysozyme or protease. G. vaginalis lysates also activated HIV expression in certain T cell lines. G. vaginalis lysates activated HIV long-terminal repeat transcription in HIV-infected cells and increased NF-kappaB binding activity, indicating an effect by G. vaginalis on HIV transcription. The activation of HIV production by G. vaginalis suggests that genital tract infection with G. vaginalis increases the risk of HIV transmission by increasing HIV expression in the genital tract. This may explain, at least in part, the increased rate of HIV transmission in women with BV. 
+</text>
+    <sentence charOffset="0-88" id="S1">
+        <text xml:space="preserve">Activation of human immunodeficiency virus type 1 expression by Gardnerella vaginalis. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-10" text="Activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="11-13" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="14-19" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="20-36" text="immunodeficiency" lemma="immunodeficiency"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="37-42" text="virus" lemma="virus"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="43-47" text="type" lemma="type"/>
+            <token xml:space="preserve" id="stt_7" POS="CD" charOffset="48-49" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="50-60" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="61-63" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_10" POS="FW" charOffset="64-75" text="Gardnerella" lemma="gardnerella"/>
+            <token xml:space="preserve" id="stt_11" POS="FW" charOffset="76-85" text="vaginalis" lemma="vaginalis"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="85-86" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H
+            (NP=H (NN=H Activation))
+            (PP (IN=H of)
+            (NP (JJ human) (NN immunodeficiency) (NN virus) (NN=H type))))
+            (NP
+            (NP=H (CD 1) (NN=H expression))
+            (PP (IN=H by)
+            (NP (FW Gardnerella) (FW=H vaginalis))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="88-310" id="S2">
+        <text xml:space="preserve">Bacterial vaginosis (BV) is associated with an increased rate of sexual transmission of human immunodeficiency virus (HIV) type 1, and Gardnerella vaginalis is frequently isolated from the genital tracts of women with BV. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="88-97" text="Bacterial" lemma="bacterial"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="98-107" text="vaginosis" lemma="vaginosis"/>
+            <token xml:space="preserve" id="stt_3" POS="-LRB-" charOffset="108-109" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="109-111" text="BV" lemma="bv"/>
+            <token xml:space="preserve" id="stt_5" POS="-RRB-" charOffset="111-112" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="113-115" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="116-126" text="associated" lemma="associate"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="127-131" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="132-134" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="135-144" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="145-149" text="rate" lemma="rate"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="150-152" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="153-159" text="sexual" lemma="sexual"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="160-172" text="transmission" lemma="transmission"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="173-175" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="176-181" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="182-198" text="immunodeficiency" lemma="immunodeficiency"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="199-204" text="virus" lemma="virus"/>
+            <token xml:space="preserve" id="stt_19" POS="-LRB-" charOffset="205-206" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="206-209" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_21" POS="-RRB-" charOffset="209-210" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="211-215" text="type" lemma="type"/>
+            <token xml:space="preserve" id="stt_23" POS="CD" charOffset="216-217" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_24" POS="," charOffset="217-218" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_25" POS="CC" charOffset="219-222" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_26" POS="FW" charOffset="223-234" text="Gardnerella" lemma="gardnerella"/>
+            <token xml:space="preserve" id="stt_27" POS="FW" charOffset="235-244" text="vaginalis" lemma="vaginalis"/>
+            <token xml:space="preserve" id="stt_28" POS="VBZ" charOffset="245-247" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_29" POS="RB" charOffset="248-258" text="frequently" lemma="frequently"/>
+            <token xml:space="preserve" id="stt_30" POS="VBN" charOffset="259-267" text="isolated" lemma="isolate"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="268-272" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_32" POS="DT" charOffset="273-276" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_33" POS="JJ" charOffset="277-284" text="genital" lemma="genital"/>
+            <token xml:space="preserve" id="stt_34" POS="NNS" charOffset="285-291" text="tracts" lemma="tract"/>
+            <token xml:space="preserve" id="stt_35" POS="IN" charOffset="292-294" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_36" POS="NNS" charOffset="295-300" text="women" lemma="woman"/>
+            <token xml:space="preserve" id="stt_37" POS="IN" charOffset="301-305" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="306-308" text="BV" lemma="bv"/>
+            <token xml:space="preserve" id="stt_39" POS="." charOffset="308-309" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Bacterial) (NN=H vaginosis))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H BV))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H associated)
+            (PP (IN=H with)
+            (NP
+            (NP=H
+            (NP=H
+            (NP=H (DT an) (VBN increased) (NN=H rate))
+            (PP (IN=H of)
+            (NP (JJ sexual) (NN=H transmission)))
+            (PP (IN=H of)
+            (NP (JJ human) (NN immunodeficiency) (NN=H virus))))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H HIV))
+            (-RRB- -RRB-)))
+            (ADJP (NN=H type) (CD 1))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (FW Gardnerella) (FW=H vaginalis))
+            (SBAR
+            (S=H
+            (VP=H (VBZ=H is)
+            (ADVP (RB=H frequently))
+            (VP (VBN=H isolated)
+            (PP (IN=H from)
+            (NP
+            (NP=H (DT the) (JJ genital) (NNS=H tracts))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H women))
+            (PP (IN=H with)
+            (NP (NN=H BV))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="310-405" id="S3">
+        <text xml:space="preserve">G. vaginalis lysates were found to significantly stimulate HIV expression in monocytoid cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="FW" charOffset="310-312" text="G." lemma="g."/>
+            <token xml:space="preserve" id="stt_2" POS="FW" charOffset="313-322" text="vaginalis" lemma="vaginalis"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="323-330" text="lysates" lemma="lysate"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="331-335" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="336-341" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="342-344" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="345-358" text="significantly" lemma="significantly"/>
+            <token xml:space="preserve" id="stt_8" POS="VB" charOffset="359-368" text="stimulate" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="369-372" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="373-383" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="384-386" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="387-397" text="monocytoid" lemma="monocytoid"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="398-403" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="403-404" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (FW G.) (FW=H vaginalis))
+            (NP (NNS=H lysates)))
+            (VP=H (VBD=H were)
+            (VP (VBN=H found)
+            (S
+            (VP=H (TO=H to)
+            (VP
+            (ADVP (RB=H significantly))
+            (VB=H stimulate)
+            (NP
+            (NP=H (NN HIV) (NN=H expression))
+            (PP (IN=H in)
+            (NP (JJ monocytoid) (NNS=H cells)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="405-550" id="S4">
+        <text xml:space="preserve">Stimulation was significantly higher when lysates were heated at 100 degrees C for 5 min but was reduced by treatment with lysozyme or protease. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="405-416" text="Stimulation" lemma="stimulation"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="417-420" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="421-434" text="significantly" lemma="significantly"/>
+            <token xml:space="preserve" id="stt_4" POS="JJR" charOffset="435-441" text="higher" lemma="higher"/>
+            <token xml:space="preserve" id="stt_5" POS="WRB" charOffset="442-446" text="when" lemma="when"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="447-454" text="lysates" lemma="lysate"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="455-459" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="460-466" text="heated" lemma="heat"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="467-469" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_10" POS="CD" charOffset="470-473" text="100" lemma="100"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="474-481" text="degrees" lemma="degree"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="482-483" text="C" lemma="c"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="484-487" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_14" POS="CD" charOffset="488-489" text="5" lemma="5"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="490-493" text="min" lemma="min"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="494-497" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_17" POS="VBD" charOffset="498-501" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="502-509" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="510-512" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="513-522" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="523-527" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="528-536" text="lysozyme" lemma="lysozyme"/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="537-539" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="540-548" text="protease" lemma="protease"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="548-549" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Stimulation))
+            (VP=H
+            (VP=H (VBD=H was)
+            (ADJP
+            (ADJP=H (RB significantly) (JJR=H higher))
+            (SBAR
+            (WHADVP=H (WRB=H when))
+            (S
+            (NP (NNS=H lysates))
+            (VP=H (VBD=H were)
+            (VP (VBN=H heated)
+            (PP (IN=H at)
+            (NP (CD 100) (NNS degrees) (NN=H C))))))))
+            (PP (IN=H for)
+            (NP (CD 5) (NN=H min))))
+            (CC but)
+            (VP (VBD=H was)
+            (VP (VBN=H reduced)
+            (PP (IN=H by)
+            (NP (NN=H treatment)))
+            (PP (IN=H with)
+            (NP (NN=H lysozyme)
+            (CC or)
+            (NN protease))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="550-626" id="S5">
+        <text xml:space="preserve">G. vaginalis lysates also activated HIV expression in certain T cell lines. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="FW" charOffset="550-552" text="G." lemma="g."/>
+            <token xml:space="preserve" id="stt_2" POS="FW" charOffset="553-562" text="vaginalis" lemma="vaginalis"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="563-570" text="lysates" lemma="lysate"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="571-575" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="576-585" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="586-589" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="590-600" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="601-603" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="604-611" text="certain" lemma="certain"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="612-613" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="614-618" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="619-624" text="lines" lemma="line"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="624-625" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (FW G.) (FW vaginalis) (NNS=H lysates))
+            (ADVP (RB=H also)))
+            (VP=H (VBD=H activated)
+            (NP (NN HIV) (NN=H expression))
+            (PP (IN=H in)
+            (NP (JJ certain) (NN T) (NN cell) (NNS=H lines))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="626-819" id="S6">
+        <text xml:space="preserve">G. vaginalis lysates activated HIV long-terminal repeat transcription in HIV-infected cells and increased NF-kappaB binding activity, indicating an effect by G. vaginalis on HIV transcription. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="FW" charOffset="626-628" text="G." lemma="g."/>
+            <token xml:space="preserve" id="stt_2" POS="FW" charOffset="629-638" text="vaginalis" lemma="vaginalis"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="639-646" text="lysates" lemma="lysate"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="647-656" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="657-660" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="661-674" text="long-terminal" lemma="long-terminal"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="675-681" text="repeat" lemma="repeat"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="682-695" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="696-698" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="699-711" text="HIV-infected" lemma="hiv-infected"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="712-717" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="718-721" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="722-731" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="732-741" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="742-749" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="750-758" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="758-759" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="VBG" charOffset="760-770" text="indicating" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="771-773" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="774-780" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="781-783" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_22" POS="FW" charOffset="784-786" text="G." lemma="g."/>
+            <token xml:space="preserve" id="stt_23" POS="FW" charOffset="787-796" text="vaginalis" lemma="vaginalis"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="797-799" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="800-803" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="804-817" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="817-818" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (FW G.) (FW=H vaginalis))
+            (NP (NNS=H lysates)))
+            (VP=H
+            (VP=H (VBD=H activated)
+            (NP (NN=H HIV))
+            (NP
+            (NP=H (JJ long-terminal) (NN repeat) (NN=H transcription))
+            (PP (IN=H in)
+            (NP (JJ HIV-infected) (NNS=H cells)))))
+            (CC and)
+            (VP (VBD=H increased)
+            (NP (NN NF-kappaB) (NN binding) (NN=H activity)))
+            (, ,)
+            (S
+            (VP=H (VBG=H indicating)
+            (NP (DT an) (NN=H effect))
+            (PP (IN=H by)
+            (NP
+            (NP=H (FW G.) (FW=H vaginalis))
+            (PP (IN=H on)
+            (NP (NN HIV) (NN=H transcription))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="819-1014" id="S7">
+        <text xml:space="preserve">The activation of HIV production by G. vaginalis suggests that genital tract infection with G. vaginalis increases the risk of HIV transmission by increasing HIV expression in the genital tract. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="819-822" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="823-833" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="834-836" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="837-840" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="841-851" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="852-854" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_7" POS="FW" charOffset="855-857" text="G." lemma="g."/>
+            <token xml:space="preserve" id="stt_8" POS="FW" charOffset="858-867" text="vaginalis" lemma="vaginalis"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="868-876" text="suggests" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="877-881" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="882-889" text="genital" lemma="genital"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="890-895" text="tract" lemma="tract"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="896-905" text="infection" lemma="infection"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="906-910" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_15" POS="FW" charOffset="911-913" text="G." lemma="g."/>
+            <token xml:space="preserve" id="stt_16" POS="FW" charOffset="914-923" text="vaginalis" lemma="vaginalis"/>
+            <token xml:space="preserve" id="stt_17" POS="VBZ" charOffset="924-933" text="increases" lemma="increase"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="934-937" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="938-942" text="risk" lemma="risk"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="943-945" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="946-949" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="950-962" text="transmission" lemma="transmission"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="963-965" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_24" POS="VBG" charOffset="966-976" text="increasing" lemma="increase"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="977-980" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="981-991" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="992-994" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_28" POS="DT" charOffset="995-998" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="999-1006" text="genital" lemma="genital"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1007-1012" text="tract" lemma="tract"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="1012-1013" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN HIV) (NN=H production))
+            (PP (IN=H by)
+            (NP (FW G.) (FW=H vaginalis))))))
+            (VP=H (VBZ=H suggests)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (JJ genital) (NN tract) (NN=H infection))
+            (PP (IN=H with)
+            (NP (FW G.) (FW=H vaginalis))))
+            (VP=H (VBZ=H increases)
+            (NP
+            (NP=H (DT the) (NN=H risk))
+            (PP (IN=H of)
+            (NP (NN HIV) (NN=H transmission))))
+            (PP (IN=H by)
+            (NP
+            (NP=H (VBG increasing) (NN HIV) (NN=H expression))
+            (PP (IN=H in)
+            (NP (DT the) (JJ genital) (NN=H tract)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1014-1108" id="S8">
+        <text xml:space="preserve">This may explain, at least in part, the increased rate of HIV transmission in women with BV. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1014-1018" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="MD" charOffset="1019-1022" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_3" POS="VB" charOffset="1023-1030" text="explain" lemma="explain"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="1030-1031" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1032-1034" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_6" POS="JJS" charOffset="1035-1040" text="least" lemma="least"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1041-1043" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1044-1048" text="part" lemma="part"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="1048-1049" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="1050-1053" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="1054-1063" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1064-1068" text="rate" lemma="rate"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1069-1071" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1072-1075" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1076-1088" text="transmission" lemma="transmission"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1089-1091" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="1092-1097" text="women" lemma="woman"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1098-1102" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1103-1105" text="BV" lemma="bv"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="1105-1106" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT=H This))
+            (VP=H (MD=H may)
+            (VP (VB=H explain) (, ,)
+            (ADVP
+            (ADVP=H (IN=H at) (JJS least))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H part))
+            (, ,)
+            (NP
+            (NP=H (DT the) (VBN increased) (NN=H rate))
+            (PP (IN=H of)
+            (NP (NN HIV) (NN=H transmission)))
+            (PP (IN=H in)
+            (NP (NNS=H women)))
+            (PP (IN=H with)
+            (NP (NN=H BV)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+</document>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8088776">
+    <text xml:space="preserve">Structure and expression of the human GATA3 gene. 
+GATA3, a member of the GATA family that is abundantly expressed in the T-lymphocyte lineage, is thought to participate in T-cell receptor gene activation through binding to enhancers. To understand GATA3 gene regulation, we cloned the human gene and the 5' end of the mouse GATA3 gene. We show that the human GATA3 gene contains six exons distributed over 17 kb of DNA. The two human GATA3 zinc fingers are encoded by two separate exons highly conserved with those of GATA1, but no other structural homologies between these two genes can be found. The human and mouse GATA3 transcription units start at a major initiation site. The promoter sequence analysis of these two genes revealed that they are embedded within a CpG island and share structural features often found in the promoters of housekeeping genes. Finally, we show that a DNA fragment containing the human GATA3 transcription unit, 3 kb upstream from the initiation site and 4 kb downstream from the polyadenylation site, displays T-cell specificity. 
+</text>
+    <sentence charOffset="0-51" id="S1">
+        <text xml:space="preserve">Structure and expression of the human GATA3 gene. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-9" text="Structure" lemma="structure"/>
+            <token xml:space="preserve" id="stt_2" POS="CC" charOffset="10-13" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="14-24" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="25-27" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="28-31" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="32-37" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="38-43" text="GATA3" lemma="gata3"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="44-48" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_9" POS="." charOffset="48-49" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Structure)
+            (CC and)
+            (NN expression))
+            (PP (IN=H of)
+            (NP (DT the) (JJ human) (NN GATA3) (NN=H gene)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="51-235" id="S2">
+        <text xml:space="preserve">GATA3, a member of the GATA family that is abundantly expressed in the T-lymphocyte lineage, is thought to participate in T-cell receptor gene activation through binding to enhancers. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="51-56" text="GATA3" lemma="gata3"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="56-57" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="58-59" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="60-66" text="member" lemma="member"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="67-69" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="70-73" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="74-78" text="GATA" lemma="gata"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="79-85" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_9" POS="WDT" charOffset="86-90" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="91-93" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="RB" charOffset="94-104" text="abundantly" lemma="abundantly"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="105-114" text="expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="115-117" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="118-121" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="122-134" text="T-lymphocyte" lemma="t-lymphocyte"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="135-142" text="lineage" lemma="lineage"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="142-143" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="VBZ" charOffset="144-146" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_19" POS="VBN" charOffset="147-154" text="thought" lemma="think"/>
+            <token xml:space="preserve" id="stt_20" POS="TO" charOffset="155-157" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_21" POS="VB" charOffset="158-169" text="participate" lemma="participate"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="170-172" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="173-179" text="T-cell" lemma="t-cell"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="180-188" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="189-193" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="194-204" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="205-212" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="213-220" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_29" POS="TO" charOffset="221-223" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="224-233" text="enhancers" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="233-234" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H GATA3))
+            (, ,)
+            (NP
+            (NP=H (DT a) (NN=H member))
+            (PP (IN=H of)
+            (NP (DT the) (NN GATA) (NN=H family)))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H is)
+            (ADVP (RB=H abundantly))
+            (VP (VBN=H expressed)
+            (PP (IN=H in)
+            (NP (DT the) (NN T-lymphocyte) (NN=H lineage))))))))
+            (, ,))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H thought)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H participate)
+            (PP (IN=H in)
+            (NP (NN T-cell) (NN receptor) (NN gene) (NN=H activation)))
+            (PP (IN=H through)
+            (NP (NN=H binding)))
+            (PP (TO=H to)
+            (NP (NNS=H enhancers))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="235-337" id="S3">
+        <text xml:space="preserve">To understand GATA3 gene regulation, we cloned the human gene and the 5' end of the mouse GATA3 gene. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="235-237" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="VB" charOffset="238-248" text="understand" lemma="understand"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="249-254" text="GATA3" lemma="gata3"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="255-259" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="260-270" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="270-271" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="PRP" charOffset="272-274" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="275-281" text="cloned" lemma="clone"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="282-285" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="286-291" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="292-296" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="297-300" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="301-304" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="CD" charOffset="305-306" text="5" lemma="5"/>
+            <token xml:space="preserve" id="stt_15" POS="''" charOffset="306-307" text="'" lemma="'"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="308-311" text="end" lemma="end"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="312-314" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="315-318" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="319-324" text="mouse" lemma="mouse"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="325-330" text="GATA3" lemma="gata3"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="331-335" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="335-336" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP (VB=H understand)
+            (NP (NN GATA3) (NN gene) (NN=H regulation)))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H cloned)
+            (NP
+            (NP=H (DT the) (JJ human) (NN=H gene))
+            (CC and)
+            (NP
+            (NP=H (DT the)
+            (ADJP (CD=H 5))
+            ('' ') (NN=H end))
+            (PP (IN=H of)
+            (NP (DT the) (NN mouse) (NN GATA3) (NN=H gene))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="337-421" id="S4">
+        <text xml:space="preserve">We show that the human GATA3 gene contains six exons distributed over 17 kb of DNA. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="337-339" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="340-344" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="345-349" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="350-353" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="354-359" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="360-365" text="GATA3" lemma="gata3"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="366-370" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="371-379" text="contains" lemma="contain"/>
+            <token xml:space="preserve" id="stt_9" POS="CD" charOffset="380-383" text="six" lemma="six"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="384-389" text="exons" lemma="exon"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="390-401" text="distributed" lemma="distribute"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="402-406" text="over" lemma="over"/>
+            <token xml:space="preserve" id="stt_13" POS="CD" charOffset="407-409" text="17" lemma="17"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="410-412" text="kb" lemma="kb"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="413-415" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="416-419" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="419-420" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H show)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT the) (JJ human) (NN GATA3) (NN=H gene))
+            (VP=H (VBZ=H contains)
+            (NP
+            (NP=H (CD six) (NNS=H exons))
+            (VP (VBN=H distributed)
+            (PP (IN=H over)
+            (NP
+            (NP=H (CD 17) (NN=H kb))
+            (PP (IN=H of)
+            (NP (NN=H DNA)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="421-599" id="S5">
+        <text xml:space="preserve">The two human GATA3 zinc fingers are encoded by two separate exons highly conserved with those of GATA1, but no other structural homologies between these two genes can be found. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="421-424" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="CD" charOffset="425-428" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="429-434" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="435-440" text="GATA3" lemma="gata3"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="441-445" text="zinc" lemma="zinc"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="446-453" text="fingers" lemma="finger"/>
+            <token xml:space="preserve" id="stt_7" POS="VBP" charOffset="454-457" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="458-465" text="encoded" lemma="encode"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="466-468" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_10" POS="CD" charOffset="469-472" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="473-481" text="separate" lemma="separate"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="482-487" text="exons" lemma="exon"/>
+            <token xml:space="preserve" id="stt_13" POS="RB" charOffset="488-494" text="highly" lemma="highly"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="495-504" text="conserved" lemma="conserve"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="505-509" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="510-515" text="those" lemma="those"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="516-518" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="519-524" text="GATA1" lemma="gata1"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="524-525" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="526-529" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="530-532" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="533-538" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="539-549" text="structural" lemma="structural"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="550-560" text="homologies" lemma="homology"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="561-568" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="569-574" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_27" POS="CD" charOffset="575-578" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="579-584" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_29" POS="MD" charOffset="585-588" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_30" POS="VB" charOffset="589-591" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_31" POS="VBN" charOffset="592-597" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="597-598" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (DT The) (CD two) (JJ human) (NN GATA3) (NN zinc) (NNS=H fingers))
+            (VP=H (VBP=H are)
+            (VP (VBN=H encoded)
+            (PP (IN=H by)
+            (NP
+            (NP=H (CD two) (JJ separate) (NNS=H exons))
+            (VP
+            (ADVP (RB=H highly))
+            (VBN=H conserved)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT=H those))
+            (PP (IN=H of)
+            (NP (NN=H GATA1)))))))))))
+            (, ,)
+            (CC but)
+            (S
+            (NP
+            (NP=H (DT no) (JJ other) (JJ structural) (NNS=H homologies))
+            (PP (IN=H between)
+            (NP (DT these) (CD two) (NNS=H genes))))
+            (VP=H (MD=H can)
+            (VP (VB=H be)
+            (VP (VBN=H found)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="599-679" id="S6">
+        <text xml:space="preserve">The human and mouse GATA3 transcription units start at a major initiation site. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="599-602" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="603-608" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="609-612" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="613-618" text="mouse" lemma="mouse"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="619-624" text="GATA3" lemma="gata3"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="625-638" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="639-644" text="units" lemma="unit"/>
+            <token xml:space="preserve" id="stt_8" POS="VBP" charOffset="645-650" text="start" lemma="start"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="651-653" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="654-655" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="656-661" text="major" lemma="major"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="662-672" text="initiation" lemma="initiation"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="673-677" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="677-678" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (JJ=H human))
+            (CC and)
+            (NP (NN mouse) (NN GATA3) (NN transcription) (NNS=H units)))
+            (VP=H (VBP=H start)
+            (PP (IN=H at)
+            (NP (DT a) (JJ major) (NN initiation) (NN=H site))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="679-863" id="S7">
+        <text xml:space="preserve">The promoter sequence analysis of these two genes revealed that they are embedded within a CpG island and share structural features often found in the promoters of housekeeping genes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="679-682" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="683-691" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="692-700" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="701-709" text="analysis" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="710-712" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="713-718" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_7" POS="CD" charOffset="719-722" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="723-728" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_9" POS="VBD" charOffset="729-737" text="revealed" lemma="reveal"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="738-742" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_11" POS="PRP" charOffset="743-747" text="they" lemma="they"/>
+            <token xml:space="preserve" id="stt_12" POS="VBP" charOffset="748-751" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="752-760" text="embedded" lemma="embedded"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="761-767" text="within" lemma="within"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="768-769" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="770-773" text="CpG" lemma="cpg"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="774-780" text="island" lemma="island"/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="781-784" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="785-790" text="share" lemma="share"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="791-801" text="structural" lemma="structural"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="802-810" text="features" lemma="feature"/>
+            <token xml:space="preserve" id="stt_22" POS="RB" charOffset="811-816" text="often" lemma="often"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="817-822" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="823-825" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_25" POS="DT" charOffset="826-829" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="830-839" text="promoters" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="840-842" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="843-855" text="housekeeping" lemma="housekeeping"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="856-861" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_30" POS="." charOffset="861-862" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN promoter) (NN sequence) (NN=H analysis))
+            (PP (IN=H of)
+            (NP (DT these) (CD two) (NNS=H genes))))
+            (VP=H (VBD=H revealed)
+            (SBAR (IN=H that)
+            (S
+            (NP (PRP=H they))
+            (VP=H (VBP=H are)
+            (ADJP (JJ=H embedded)
+            (PP (IN=H within)
+            (NP
+            (NP=H (DT a) (NN CpG) (NN=H island))
+            (CC and)
+            (NP
+            (NP=H (NN share) (JJ structural) (NNS=H features))
+            (VP
+            (ADVP (RB=H often))
+            (VBN=H found)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NNS=H promoters))
+            (PP (IN=H of)
+            (NP (JJ housekeeping) (NNS=H genes))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="863-1067" id="S8">
+        <text xml:space="preserve">Finally, we show that a DNA fragment containing the human GATA3 transcription unit, 3 kb upstream from the initiation site and 4 kb downstream from the polyadenylation site, displays T-cell specificity. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="863-870" text="Finally" lemma="finally"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="870-871" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP" charOffset="872-874" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="875-879" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="880-884" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="885-886" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="887-890" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="891-899" text="fragment" lemma="fragment"/>
+            <token xml:space="preserve" id="stt_9" POS="VBG" charOffset="900-910" text="containing" lemma="contain"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="911-914" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="915-920" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="921-926" text="GATA3" lemma="gata3"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="927-940" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="941-945" text="unit" lemma="unit"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="945-946" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="CD" charOffset="947-948" text="3" lemma="3"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="949-951" text="kb" lemma="kb"/>
+            <token xml:space="preserve" id="stt_18" POS="RB" charOffset="952-960" text="upstream" lemma="upstream"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="961-965" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="966-969" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="970-980" text="initiation" lemma="initiation"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="981-985" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="986-989" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="CD" charOffset="990-991" text="4" lemma="4"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="992-994" text="kb" lemma="kb"/>
+            <token xml:space="preserve" id="stt_26" POS="RB" charOffset="995-1005" text="downstream" lemma="downstream"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1006-1010" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_28" POS="DT" charOffset="1011-1014" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1015-1030" text="polyadenylation" lemma="polyadenylation"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1031-1035" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_31" POS="," charOffset="1035-1036" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_32" POS="VBZ" charOffset="1037-1045" text="displays" lemma="display"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1046-1052" text="T-cell" lemma="t-cell"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1053-1064" text="specificity" lemma="specificity"/>
+            <token xml:space="preserve" id="stt_35" POS="." charOffset="1064-1065" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Finally))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H show)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT a) (NN DNA) (NN=H fragment))
+            (VP (VBG=H containing)
+            (NP
+            (NP=H (DT the) (JJ human) (NN GATA3) (NN transcription) (NN=H unit))
+            (, ,)
+            (PP
+            (PP=H
+            (ADVP
+            (NP (CD 3) (NN=H kb))
+            (RB=H upstream))
+            (IN=H from)
+            (NP (DT the) (NN initiation) (NN=H site)))
+            (CC and)
+            (ADVP
+            (NP (CD 4) (NN=H kb))
+            (RB=H downstream))
+            (PP (IN=H from)
+            (NP (DT the) (NN polyadenylation) (NN=H site))))
+            (, ,))))
+            (VP=H (VBZ=H displays)
+            (NP (NN T-cell) (NN=H specificity))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T10" type="ZeroArticleNP" charOffset="51-56" headOffset="51-56" text="GATA3"/>
+    <Term xml:space="preserve" id="T11" type="IndefiniteNP" charOffset="58-85" headOffset="60-66" text="a member of the GATA family"/>
+    <Term xml:space="preserve" id="T12" type="RelativePronoun" charOffset="86-90" headOffset="86-90" text="that"/>
+    <Term xml:space="preserve" id="T13" type="ZeroArticleNP" charOffset="249-259" headOffset="255-259" text="GATA3 gene"/>
+    <Term xml:space="preserve" id="T14" type="DefiniteNP" charOffset="282-296" headOffset="292-296" text="the human gene"/>
+    <Term xml:space="preserve" id="T15" type="ZeroArticleNP" charOffset="435-440" headOffset="435-440" text="GATA3"/>
+    <Term xml:space="preserve" id="T16" type="ZeroArticleNP" charOffset="469-487" headOffset="482-487" text="two separate exons"/>
+    <Term xml:space="preserve" id="T17" type="DemonstrativePronoun" charOffset="510-515" headOffset="510-515" text="those"/>
+    <Term xml:space="preserve" id="T18" type="ZeroArticleNP" charOffset="519-524" headOffset="519-524" text="GATA1"/>
+    <Term xml:space="preserve" id="T19" type="DemonstrativeNP" charOffset="569-584" headOffset="579-584" text="these two genes"/>
+    <Term xml:space="preserve" id="T20" type="ZeroArticleNP" charOffset="603-624" headOffset="619-624" text="human and mouse GATA3"/>
+    <Term xml:space="preserve" id="T21" type="DemonstrativeNP" charOffset="713-728" headOffset="723-728" text="these two genes"/>
+    <Term xml:space="preserve" id="T22" type="PersonalPronoun" charOffset="743-747" headOffset="743-747" text="they"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T11"/>
+        <Antecedent idref="T10"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T12"/>
+        <Antecedent idref="T11"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T14"/>
+        <Antecedent idref="T13"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T17"/>
+        <Antecedent idref="T16"/>
+    </Relation>
+    <Relation id="R5" type="Anaphora">
+        <Anaphor idref="T19"/>
+        <Antecedent idref="T15"/>
+        <Antecedent idref="T18"/>
+    </Relation>
+    <Relation id="R6" type="Anaphora">
+        <Anaphor idref="T21"/>
+        <Antecedent idref="T20"/>
+    </Relation>
+    <Relation id="R7" type="Anaphora">
+        <Anaphor idref="T22"/>
+        <Antecedent idref="T21"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="38-43" headOffset="38-43" text="GATA3"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="51-56" headOffset="51-56" text="GATA3"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="249-254" headOffset="249-254" text="GATA3"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="325-330" headOffset="325-330" text="GATA3"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="360-365" headOffset="360-365" text="GATA3"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="435-440" headOffset="435-440" text="GATA3"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="519-524" headOffset="519-524" text="GATA1"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="619-624" headOffset="619-624" text="GATA3"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="921-926" headOffset="921-926" text="GATA3"/>
+</document>

@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10430908">
+    <text xml:space="preserve">NF-kappaB-mediated up-regulation of Bcl-x and Bfl-1/A1 is required for CD40 survival signaling in B lymphocytes. 
+Activation of CD40 is essential for thymus-dependent humoral immune responses and rescuing B cells from apoptosis. Many of the effects of CD40 are believed to be achieved through altered gene expression. In addition to Bcl-x, a known CD40-regulated antiapoptotic molecule, we identified a related antiapoptotic molecule, A1/Bfl-1, as a CD40-inducible gene. Inhibition of the NF-kappaB pathway by overexpression of a dominant-active inhibitor of NF-kappaB abolished CD40-induced up-regulation of both the Bfl-1 and Bcl-x genes and also eliminated the ability of CD40 to rescue Fas-induced cell death. Within the upstream promoter region of Bcl-x, a potential NF-kappaB-binding sequence was found to support NF-kappaB-dependent transcriptional activation. Furthermore, expression of physiological levels of Bcl-x protected B cells from Fas-mediated apoptosis in the absence of NF-kappaB signaling. Thus, our results suggest that CD40-mediated cell survival proceeds through NF-kappaB-dependent up-regulation of Bcl-2 family members. 
+</text>
+    <sentence charOffset="0-114" id="S1">
+        <text xml:space="preserve">NF-kappaB-mediated up-regulation of Bcl-x and Bfl-1/A1 is required for CD40 survival signaling in B lymphocytes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-18" text="NF-kappaB-mediated" lemma="nf-kappab-mediated"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="19-32" text="up-regulation" lemma="up-regulation"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="33-35" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="36-41" text="Bcl-x" lemma="bcl-x"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="42-45" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="46-51" text="Bfl-1" lemma="bfl-1"/>
+            <token xml:space="preserve" id="stt_7" POS=":" charOffset="51-52" text="/" lemma="/"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="52-54" text="A1" lemma="a1"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="55-57" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="58-66" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="67-70" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="71-75" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="76-84" text="survival" lemma="survival"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="85-94" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="95-97" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="98-99" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="100-111" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="111-112" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (FRAG=H
+            (NP
+            (NP=H (JJ NF-kappaB-mediated) (NN=H up-regulation))
+            (PP (IN=H of)
+            (NP (NN=H Bcl-x)
+            (CC and)
+            (NN Bfl-1))))
+            (: /)
+            (S=H
+            (NP (NN=H A1))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN CD40) (NN survival) (NN=H signaling))
+            (PP (IN=H in)
+            (NP (NN B) (NNS=H lymphocytes))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="114-229" id="S2">
+        <text xml:space="preserve">Activation of CD40 is essential for thymus-dependent humoral immune responses and rescuing B cells from apoptosis. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="114-124" text="Activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="125-127" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="128-132" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="133-135" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="136-145" text="essential" lemma="essential"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="146-149" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="150-166" text="thymus-dependent" lemma="thymus-dependent"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="167-174" text="humoral" lemma="humoral"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="175-181" text="immune" lemma="immune"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="182-191" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="192-195" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="VBG" charOffset="196-204" text="rescuing" lemma="rescue"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="205-206" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="207-212" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="213-217" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="218-227" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="227-228" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Activation))
+            (PP (IN=H of)
+            (NP (NN=H CD40))))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H essential)
+            (PP (IN=H for)
+            (NP
+            (NP=H (JJ thymus-dependent) (JJ humoral) (JJ immune) (NNS=H responses))
+            (CC and)
+            (NP
+            (NP=H (VBG rescuing) (NN B) (NNS=H cells))
+            (PP (IN=H from)
+            (NP (NN=H apoptosis))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="229-318" id="S3">
+        <text xml:space="preserve">Many of the effects of CD40 are believed to be achieved through altered gene expression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="229-233" text="Many" lemma="many"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="234-236" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="237-240" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="241-248" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="249-251" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="252-256" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_7" POS="VBP" charOffset="257-260" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="261-269" text="believed" lemma="believe"/>
+            <token xml:space="preserve" id="stt_9" POS="TO" charOffset="270-272" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_10" POS="VB" charOffset="273-275" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="276-284" text="achieved" lemma="achieve"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="285-292" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="293-300" text="altered" lemma="altered"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="301-305" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="306-316" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="316-317" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ=H Many))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NNS=H effects))
+            (PP (IN=H of)
+            (NP (NN=H CD40))))))
+            (VP=H (VBP=H are)
+            (VP (VBN=H believed)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (VP (VBN=H achieved)
+            (PP (IN=H through)
+            (NP (JJ altered) (NN gene) (NN=H expression)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="318-471" id="S4">
+        <text xml:space="preserve">In addition to Bcl-x, a known CD40-regulated antiapoptotic molecule, we identified a related antiapoptotic molecule, A1/Bfl-1, as a CD40-inducible gene. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="318-320" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="321-329" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="330-332" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="333-338" text="Bcl-x" lemma="bcl-x"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="338-339" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="340-341" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="342-347" text="known" lemma="known"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="348-362" text="CD40-regulated" lemma="cd40-regulated"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="363-376" text="antiapoptotic" lemma="antiapoptotic"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="377-385" text="molecule" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="385-386" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="PRP" charOffset="387-389" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="390-400" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="401-402" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="403-410" text="related" lemma="related"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="411-424" text="antiapoptotic" lemma="antiapoptotic"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="425-433" text="molecule" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="433-434" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="435-441" text="A1/Bfl" lemma="a1/bfl"/>
+            <token xml:space="preserve" id="stt_20" POS="CD" charOffset="441-443" text="-1" lemma="-1"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="443-444" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="445-447" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="448-449" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="450-464" text="CD40-inducible" lemma="cd40-inducible"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="465-469" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="469-470" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP
+            (NP=H (NN=H addition))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN=H Bcl-x))
+            (, ,)
+            (NP (DT a)
+            (ADJP (JJ known) (JJ=H CD40-regulated))
+            (JJ antiapoptotic) (NN=H molecule))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H identified)
+            (NP
+            (NP=H (DT a)
+            (ADJP (JJ related) (JJ=H antiapoptotic))
+            (NN=H molecule))
+            (, ,)
+            (NP (NN=H A1/Bfl) (CD -1))
+            (, ,))
+            (PP (IN=H as)
+            (NP (DT a) (JJ CD40-inducible) (NN=H gene))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="471-714" id="S5">
+        <text xml:space="preserve">Inhibition of the NF-kappaB pathway by overexpression of a dominant-active inhibitor of NF-kappaB abolished CD40-induced up-regulation of both the Bfl-1 and Bcl-x genes and also eliminated the ability of CD40 to rescue Fas-induced cell death. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="471-481" text="Inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="482-484" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="485-488" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="489-498" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="499-506" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="507-509" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="510-524" text="overexpression" lemma="overexpression"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="525-527" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="528-529" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="530-545" text="dominant-active" lemma="dominant-active"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="546-555" text="inhibitor" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="556-558" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="559-568" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_14" POS="VBD" charOffset="569-578" text="abolished" lemma="abolish"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="579-591" text="CD40-induced" lemma="cd40-induced"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="592-605" text="up-regulation" lemma="up-regulation"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="606-608" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="609-613" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="614-617" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="618-623" text="Bfl-1" lemma="bfl-1"/>
+            <token xml:space="preserve" id="stt_21" POS="CC" charOffset="624-627" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="628-633" text="Bcl-x" lemma="bcl-x"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="634-639" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_24" POS="CC" charOffset="640-643" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_25" POS="RB" charOffset="644-648" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_26" POS="VBD" charOffset="649-659" text="eliminated" lemma="eliminate"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="660-663" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="664-671" text="ability" lemma="ability"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="672-674" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="675-679" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_31" POS="TO" charOffset="680-682" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="683-689" text="rescue" lemma="rescue"/>
+            <token xml:space="preserve" id="stt_33" POS="JJ" charOffset="690-701" text="Fas-induced" lemma="fas-induced"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="702-706" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="707-712" text="death" lemma="death"/>
+            <token xml:space="preserve" id="stt_36" POS="." charOffset="712-713" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Inhibition))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN NF-kappaB) (NN=H pathway))
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H overexpression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a) (JJ dominant-active) (NN=H inhibitor))
+            (PP (IN=H of)
+            (NP (NN=H NF-kappaB))))))))))
+            (VP=H
+            (VP=H (VBD=H abolished)
+            (NP
+            (NP=H (JJ CD40-induced) (NN=H up-regulation))
+            (PP (IN=H of)
+            (NP (CC both)
+            (NP=H (DT the) (NN=H Bfl-1))
+            (CC and)
+            (NP (NN Bcl-x) (NNS=H genes))))))
+            (CC and)
+            (VP
+            (ADVP (RB=H also))
+            (VBD=H eliminated)
+            (NP
+            (NP=H (DT the) (NN=H ability))
+            (PP (IN=H of)
+            (NP (NN=H CD40))))
+            (PP (TO=H to)
+            (NP (NN rescue) (JJ Fas-induced) (NN cell) (NN=H death)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="714-868" id="S6">
+        <text xml:space="preserve">Within the upstream promoter region of Bcl-x, a potential NF-kappaB-binding sequence was found to support NF-kappaB-dependent transcriptional activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="714-720" text="Within" lemma="within"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="721-724" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="725-733" text="upstream" lemma="upstream"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="734-742" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="743-749" text="region" lemma="region"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="750-752" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="753-758" text="Bcl-x" lemma="bcl-x"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="758-759" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="760-761" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="762-771" text="potential" lemma="potential"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="772-789" text="NF-kappaB-binding" lemma="nf-kappab-binding"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="790-798" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="799-802" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="803-808" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_15" POS="TO" charOffset="809-811" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_16" POS="VB" charOffset="812-819" text="support" lemma="support"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="820-839" text="NF-kappaB-dependent" lemma="nf-kappab-dependent"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="840-855" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="856-866" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="866-867" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H Within)
+            (NP
+            (NP=H (DT the) (JJ upstream) (NN promoter) (NN=H region))
+            (PP (IN=H of)
+            (NP (NN=H Bcl-x)))))
+            (, ,)
+            (NP (DT a) (JJ potential) (JJ NF-kappaB-binding) (NN=H sequence))
+            (VP=H (VBD=H was)
+            (VP (VBN=H found)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H support)
+            (NP (JJ NF-kappaB-dependent) (JJ transcriptional) (NN=H activation)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="868-1010" id="S7">
+        <text xml:space="preserve">Furthermore, expression of physiological levels of Bcl-x protected B cells from Fas-mediated apoptosis in the absence of NF-kappaB signaling. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="868-879" text="Furthermore" lemma="furthermore"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="879-880" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="881-891" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="892-894" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="895-908" text="physiological" lemma="physiological"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="909-915" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="916-918" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="919-924" text="Bcl-x" lemma="bcl-x"/>
+            <token xml:space="preserve" id="stt_9" POS="VBD" charOffset="925-934" text="protected" lemma="protect"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="935-936" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="937-942" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="943-947" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="948-960" text="Fas-mediated" lemma="fas-mediated"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="961-970" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="971-973" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="974-977" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="978-985" text="absence" lemma="absence"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="986-988" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="989-998" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="999-1008" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="1008-1009" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Furthermore))
+            (, ,)
+            (NP
+            (NP=H (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ physiological) (NNS=H levels))
+            (PP (IN=H of)
+            (NP (NN=H Bcl-x))))))
+            (VP=H (VBD=H protected)
+            (NP (NN B) (NNS=H cells))
+            (PP (IN=H from)
+            (NP (JJ Fas-mediated) (NN=H apoptosis)))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H absence))
+            (PP (IN=H of)
+            (NP (NN NF-kappaB) (NN=H signaling))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1010-1146" id="S8">
+        <text xml:space="preserve">Thus, our results suggest that CD40-mediated cell survival proceeds through NF-kappaB-dependent up-regulation of Bcl-2 family members. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1010-1014" text="Thus" lemma="thus"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1014-1015" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP$" charOffset="1016-1019" text="our" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1020-1027" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="1028-1035" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1036-1040" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1041-1054" text="CD40-mediated" lemma="cd40-mediated"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1055-1059" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1060-1068" text="survival" lemma="survival"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="1069-1077" text="proceeds" lemma="proceed"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1078-1085" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1086-1105" text="NF-kappaB-dependent" lemma="nf-kappab-dependent"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1106-1119" text="up-regulation" lemma="up-regulation"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1120-1122" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1123-1128" text="Bcl-2" lemma="bcl-2"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1129-1135" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="1136-1143" text="members" lemma="member"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="1143-1144" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Thus))
+            (, ,)
+            (NP (PRP$ our) (NNS=H results))
+            (VP=H (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP (JJ CD40-mediated) (NN cell) (NN=H survival))
+            (VP=H (VBZ=H proceeds)
+            (PP (IN=H through)
+            (NP
+            (NP=H (JJ NF-kappaB-dependent) (NN=H up-regulation))
+            (PP (IN=H of)
+            (NP (NN Bcl-2) (NN family) (NNS=H members)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="36-41" headOffset="36-41" text="Bcl-x"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="46-54" headOffset="52-54" text="Bfl-1/A1"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="71-75" headOffset="71-75" text="CD40"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="128-132" headOffset="128-132" text="CD40"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="252-256" headOffset="252-256" text="CD40"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="333-338" headOffset="333-338" text="Bcl-x"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="348-352" headOffset="348-352" text="CD40"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="435-443" headOffset="435-441" text="A1/Bfl-1"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="450-454" headOffset="450-454" text="CD40"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="579-583" headOffset="579-583" text="CD40"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="618-623" headOffset="618-623" text="Bfl-1"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="628-633" headOffset="628-633" text="Bcl-x"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="675-679" headOffset="675-679" text="CD40"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="690-693" headOffset="690-693" text="Fas"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="753-758" headOffset="753-758" text="Bcl-x"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="919-924" headOffset="919-924" text="Bcl-x"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="948-951" headOffset="948-951" text="Fas"/>
+    <Term xml:space="preserve" id="T18" type="Protein" charOffset="1041-1045" headOffset="1041-1045" text="CD40"/>
+</document>

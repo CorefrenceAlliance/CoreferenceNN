@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8670269">
+    <text xml:space="preserve">An alternatively spliced isoform of the Spi-B transcription factor. 
+Spi-B is an Ets transcription factor related to the oncoprotein Spi-1/PU.1 and highly expressed in B lymphoid cells. The Ets proteins share a conserved Ets domain that mediates specific DNA binding. Spi-B binds DNA sequences containing a core 5'-GGAA-3' and activates transcription through this motif. Up to date, the biological function of Spi-B remains unknown. Here, we describe the characterization of an alternatively spliced variant of Spi-B, named deltaSpi-B, which has lost the Ets domain. In B lymphoid cells, deltaspi-B and spi-B mRNAs were present simultaneously in a ratio of around 10%. DeltaSpi-B product was not able to bind DNA and was recovered in cytoplasmic cellular extracts. We raise the hypothesis that delta Spi-B might affect Spi-B function by recruiting factors involved in Spi-B activity. 
+</text>
+    <sentence charOffset="0-69" id="S1">
+        <text xml:space="preserve">An alternatively spliced isoform of the Spi-B transcription factor. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="0-2" text="An" lemma="a"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="3-16" text="alternatively" lemma="alternatively"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="17-24" text="spliced" lemma="splice"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="25-32" text="isoform" lemma="isoform"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="33-35" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="36-39" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="40-45" text="Spi-B" lemma="spi-b"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="46-59" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="60-66" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="66-67" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT An) (RB=H alternatively))
+            (VP=H (VBN=H spliced)
+            (NP
+            (NP=H (NN=H isoform))
+            (PP (IN=H of)
+            (NP (DT the) (NN Spi-B) (NN transcription) (NN=H factor)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="69-186" id="S2">
+        <text xml:space="preserve">Spi-B is an Ets transcription factor related to the oncoprotein Spi-1/PU.1 and highly expressed in B lymphoid cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="69-74" text="Spi-B" lemma="spi-b"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="75-77" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="78-80" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="81-84" text="Ets" lemma="ets"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="85-98" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="99-105" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="106-113" text="related" lemma="related"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="114-116" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="117-120" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="121-132" text="oncoprotein" lemma="oncoprotein"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="133-138" text="Spi-1" lemma="spi-1"/>
+            <token xml:space="preserve" id="stt_12" POS=":" charOffset="138-139" text="/" lemma="/"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="139-141" text="PU" lemma="pu"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="141-143" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="144-147" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="148-154" text="highly" lemma="highly"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="155-164" text="expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="165-167" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="168-169" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="170-178" text="lymphoid" lemma="lymphoid"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="179-184" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="184-185" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Spi-B))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT an) (NN Ets) (NN transcription) (NN=H factor))
+            (VP
+            (VP=H (JJ=H related)
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT the) (NN oncoprotein) (NN=H Spi-1))
+            (PRN (: /)
+            (NP=H (NN PU) (NN=H .1))))))
+            (CC and)
+            (VP
+            (ADVP (RB=H highly))
+            (VBN=H expressed)
+            (PP (IN=H in)
+            (NP (NN B) (JJ lymphoid) (NNS=H cells)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="186-268" id="S3">
+        <text xml:space="preserve">The Ets proteins share a conserved Ets domain that mediates specific DNA binding. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="186-189" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="190-193" text="Ets" lemma="ets"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="194-202" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="203-208" text="share" lemma="share"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="209-210" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="211-220" text="conserved" lemma="conserve"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="221-224" text="Ets" lemma="ets"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="225-231" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_9" POS="WDT" charOffset="232-236" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="237-245" text="mediates" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="246-254" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="255-258" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="259-266" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="266-267" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NN Ets) (NNS=H proteins))
+            (VP=H (VBP=H share)
+            (NP
+            (NP=H (DT=H a))
+            (VP (VBN=H conserved)
+            (NP
+            (NP=H (NN Ets) (NN=H domain))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H mediates)
+            (NP (JJ specific) (NN DNA) (NN=H binding)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="268-371" id="S4">
+        <text xml:space="preserve">Spi-B binds DNA sequences containing a core 5'-GGAA-3' and activates transcription through this motif. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="268-273" text="Spi-B" lemma="spi-b"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="274-279" text="binds" lemma="bind"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="280-283" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="284-293" text="sequences" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_5" POS="VBG" charOffset="294-304" text="containing" lemma="contain"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="305-306" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="307-311" text="core" lemma="core"/>
+            <token xml:space="preserve" id="stt_8" POS="CD" charOffset="312-313" text="5" lemma="5"/>
+            <token xml:space="preserve" id="stt_9" POS="''" charOffset="313-314" text="'" lemma="'"/>
+            <token xml:space="preserve" id="stt_10" POS=":" charOffset="314-315" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="315-321" text="GGAA-3" lemma="ggaa-3"/>
+            <token xml:space="preserve" id="stt_12" POS="''" charOffset="321-322" text="'" lemma="'"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="323-326" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="VBZ" charOffset="327-336" text="activates" lemma="activate"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="337-350" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="351-358" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="359-363" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="364-369" text="motif" lemma="motif"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="369-370" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Spi-B))
+            (VP=H
+            (VP=H (VBZ=H binds)
+            (NP
+            (NP=H (NN DNA) (NNS=H sequences))
+            (VP (VBG=H containing)
+            (NP (DT a) (NN=H core) (CD 5))
+            ('' '))
+            (: -)
+            (NP (NN=H GGAA-3))))
+            ('' ')
+            (CC and)
+            (VP (VBZ=H activates)
+            (NP (NN=H transcription))
+            (PP (IN=H through)
+            (NP (DT this) (NN=H motif)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="371-433" id="S5">
+        <text xml:space="preserve">Up to date, the biological function of Spi-B remains unknown. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="371-373" text="Up" lemma="up"/>
+            <token xml:space="preserve" id="stt_2" POS="TO" charOffset="374-376" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="377-381" text="date" lemma="date"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="381-382" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="383-386" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="387-397" text="biological" lemma="biological"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="398-406" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="407-409" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="410-415" text="Spi-B" lemma="spi-b"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="416-423" text="remains" lemma="remain"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="424-431" text="unknown" lemma="unknown"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="431-432" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H Up)
+            (PP (TO=H to)
+            (NP (NN=H date))))
+            (, ,)
+            (NP
+            (NP=H (DT the) (JJ biological) (NN=H function))
+            (PP (IN=H of)
+            (NP (NN=H Spi-B))))
+            (VP=H (VBZ=H remains)
+            (ADJP (JJ=H unknown)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="433-567" id="S6">
+        <text xml:space="preserve">Here, we describe the characterization of an alternatively spliced variant of Spi-B, named deltaSpi-B, which has lost the Ets domain. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="433-437" text="Here" lemma="here"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="437-438" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP" charOffset="439-441" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="442-450" text="describe" lemma="describe"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="451-454" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="455-471" text="characterization" lemma="characterization"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="472-474" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="475-477" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="478-491" text="alternatively" lemma="alternatively"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="492-499" text="spliced" lemma="splice"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="500-507" text="variant" lemma="variant"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="508-510" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="511-516" text="Spi-B" lemma="spi-b"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="516-517" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="518-523" text="named" lemma="name"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="524-534" text="deltaSpi-B" lemma="deltaspi-b"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="534-535" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="WDT" charOffset="536-541" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_19" POS="VBZ" charOffset="542-545" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_20" POS="VBN" charOffset="546-550" text="lost" lemma="lose"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="551-554" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="555-558" text="Ets" lemma="ets"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="559-565" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="565-566" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Here))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H describe)
+            (NP
+            (NP=H (DT the) (NN=H characterization))
+            (PP (IN=H of)
+            (NP (DT an)
+            (S
+            (VP=H
+            (ADVP (RB=H alternatively))
+            (VBN=H spliced)))
+            (NN=H variant)))
+            (PP (IN=H of)
+            (NP (NN=H Spi-B)))
+            (, ,)
+            (VP (VBN=H named)
+            (NP
+            (NP=H (NN=H deltaSpi-B))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H has)
+            (VP (VBN=H lost)
+            (NP (DT the) (NN Ets) (NN=H domain))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="567-669" id="S7">
+        <text xml:space="preserve">In B lymphoid cells, deltaspi-B and spi-B mRNAs were present simultaneously in a ratio of around 10%. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="567-569" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="570-571" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="572-580" text="lymphoid" lemma="lymphoid"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="581-586" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="586-587" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="588-598" text="deltaspi-B" lemma="deltaspi-b"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="599-602" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="603-608" text="spi-B" lemma="spi-b"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="609-614" text="mRNAs" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="615-619" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="620-627" text="present" lemma="present"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="628-642" text="simultaneously" lemma="simultaneously"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="643-645" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="646-647" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="648-653" text="ratio" lemma="ratio"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="654-656" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="657-663" text="around" lemma="around"/>
+            <token xml:space="preserve" id="stt_18" POS="CD" charOffset="664-666" text="10" lemma="10"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="666-667" text="%" lemma="%"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="667-668" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN B) (JJ lymphoid) (NNS=H cells)))
+            (, ,)
+            (NP (NN deltaspi-B)
+            (CC and)
+            (NN spi-B) (NNS=H mRNAs))
+            (VP=H (VBD=H were)
+            (ADJP (JJ=H present))
+            (PP
+            (ADVP (RB=H simultaneously))
+            (IN=H in)
+            (NP
+            (NP=H (DT a) (NN=H ratio))
+            (PP (IN=H of)
+            (NP (IN around) (CD 10) (NN=H %))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="669-765" id="S8">
+        <text xml:space="preserve">DeltaSpi-B product was not able to bind DNA and was recovered in cytoplasmic cellular extracts. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="669-679" text="DeltaSpi-B" lemma="deltaspi-b"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="680-687" text="product" lemma="product"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="688-691" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="692-695" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="696-700" text="able" lemma="able"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="701-703" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="VB" charOffset="704-708" text="bind" lemma="bind"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="709-712" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="713-716" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="717-720" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="721-730" text="recovered" lemma="recover"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="731-733" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="734-745" text="cytoplasmic" lemma="cytoplasmic"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="746-754" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="755-763" text="extracts" lemma="extract"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="763-764" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN DeltaSpi-B) (NN=H product))
+            (VP=H
+            (VP=H (VBD=H was) (RB not)
+            (ADJP (JJ=H able)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H bind)
+            (NP (NN=H DNA)))))))
+            (CC and)
+            (VP (VBD=H was)
+            (VP (VBN=H recovered)
+            (PP (IN=H in)
+            (NP (JJ cytoplasmic) (JJ cellular) (NNS=H extracts))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="765-885" id="S9">
+        <text xml:space="preserve">We raise the hypothesis that delta Spi-B might affect Spi-B function by recruiting factors involved in Spi-B activity. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="765-767" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="768-773" text="raise" lemma="raise"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="774-777" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="778-788" text="hypothesis" lemma="hypothesis"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="789-793" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="794-799" text="delta" lemma="delta"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="800-805" text="Spi-B" lemma="spi-b"/>
+            <token xml:space="preserve" id="stt_8" POS="MD" charOffset="806-811" text="might" lemma="might"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="812-818" text="affect" lemma="affect"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="819-824" text="Spi-B" lemma="spi-b"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="825-833" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="834-836" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_13" POS="VBG" charOffset="837-847" text="recruiting" lemma="recruit"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="848-855" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="856-864" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="865-867" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="868-873" text="Spi-B" lemma="spi-b"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="874-882" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="882-883" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H raise)
+            (NP (DT the) (NN=H hypothesis))
+            (SBAR (IN=H that)
+            (S
+            (NP (NN delta) (NN=H Spi-B))
+            (VP=H (MD=H might)
+            (VP (VB=H affect)
+            (NP (NN Spi-B) (NN=H function))
+            (PP (IN=H by)
+            (NP
+            (NP=H (VBG recruiting) (NNS=H factors))
+            (VP (VBN=H involved)
+            (PP (IN=H in)
+            (NP (NN Spi-B) (NN=H activity)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T15" type="IndefiniteNP" charOffset="209-231" headOffset="225-231" text="a conserved Ets domain"/>
+    <Term xml:space="preserve" id="T16" type="RelativePronoun" charOffset="232-236" headOffset="232-236" text="that"/>
+    <Term xml:space="preserve" id="T17" type="ZeroArticleNP" charOffset="524-534" headOffset="524-534" text="deltaSpi-B"/>
+    <Term xml:space="preserve" id="T18" type="RelativePronoun" charOffset="536-541" headOffset="536-541" text="which"/>
+    <Term xml:space="preserve" id="T19" type="DefiniteNP" charOffset="774-788" headOffset="778-788" text="the hypothesis"/>
+    <Term xml:space="preserve" id="T20" type="RelativePronoun" charOffset="789-793" headOffset="789-793" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T16"/>
+        <Antecedent idref="T15"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T18"/>
+        <Antecedent idref="T17"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T20"/>
+        <Antecedent idref="T19"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="40-45" headOffset="40-45" text="Spi-B"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="69-74" headOffset="69-74" text="Spi-B"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="133-138" headOffset="133-138" text="Spi-1"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="139-143" headOffset="141-143" text="PU.1"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="268-273" headOffset="268-273" text="Spi-B"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="410-415" headOffset="410-415" text="Spi-B"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="511-516" headOffset="511-516" text="Spi-B"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="524-534" headOffset="524-534" text="deltaSpi-B"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="588-598" headOffset="588-598" text="deltaspi-B"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="603-608" headOffset="603-608" text="spi-B"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="669-679" headOffset="669-679" text="DeltaSpi-B"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="794-805" headOffset="800-805" text="delta Spi-B"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="819-824" headOffset="819-824" text="Spi-B"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="868-873" headOffset="868-873" text="Spi-B"/>
+</document>

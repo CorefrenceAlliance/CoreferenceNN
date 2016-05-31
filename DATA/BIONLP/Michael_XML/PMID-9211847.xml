@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9211847">
+    <text xml:space="preserve">Inducible expression and phosphorylation of coactivator BOB.1/OBF.1 in T cells [see comments] 
+BOB.1/OBF.1 is a transcriptional coactivator that is constitutively expressed in B cells and interacts with the Oct1 and Oct2 transcription factors. Upon activation of Jurkat T cells and primary murine thymocytes with phorbol esters and ionomycin, BOB.1/OBF.1 expression and transactivation function were induced. BOB.1/OBF.1 was phosphorylated at Ser184 both in vivo and in vitro, and this modification was required for inducible activation. Mutation of Ser184 also diminished transactivation function in B cells, suggesting that the activating phosphorylation that is inducible in T cells is constitutively present in B cells. Thus, BOB.1/OBF.1 is a transcriptional coactivator that is critically regulated by posttranslational modifications to mediate cell type-specific gene expression. 
+</text>
+    <sentence charOffset="0-95" id="S1">
+        <text xml:space="preserve">Inducible expression and phosphorylation of coactivator BOB.1/OBF.1 in T cells [see comments] 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-9" text="Inducible" lemma="inducible"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="10-20" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="21-24" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="25-40" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="41-43" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="44-55" text="coactivator" lemma="coactivator"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="56-59" text="BOB" lemma="bob"/>
+            <token xml:space="preserve" id="stt_8" POS="CD" charOffset="59-61" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_9" POS=":" charOffset="61-62" text="/" lemma="/"/>
+            <token xml:space="preserve" id="stt_10" POS="CD" charOffset="62-65" text="OBF" lemma="obf"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="65-67" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="68-70" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="71-72" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="73-78" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_15" POS="-LRB-" charOffset="79-80" text="[" lemma="["/>
+            <token xml:space="preserve" id="stt_16" POS="VB" charOffset="80-83" text="see" lemma="see"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="84-92" text="comments" lemma="comment"/>
+            <token xml:space="preserve" id="stt_18" POS="-RRB-" charOffset="92-93" text="]" lemma="]"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (FRAG=H
+            (NP
+            (NP=H (JJ Inducible) (NN=H expression)
+            (CC and)
+            (NN phosphorylation))
+            (PP (IN=H of)
+            (NP (NN coactivator) (NN=H BOB) (CD .1))))
+            (: /)
+            (S=H
+            (NP
+            (NP=H (CD OBF) (NN=H .1))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells))))
+            (VP=H (-LRB- -LSB-)
+            (VP=H (VB=H see)
+            (NP (NNS=H comments)))))
+            (-RRB- -RSB-)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="95-244" id="S2">
+        <text xml:space="preserve">BOB.1/OBF.1 is a transcriptional coactivator that is constitutively expressed in B cells and interacts with the Oct1 and Oct2 transcription factors. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="95-98" text="BOB" lemma="bob"/>
+            <token xml:space="preserve" id="stt_2" POS="CD" charOffset="98-100" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_3" POS=":" charOffset="100-101" text="/" lemma="/"/>
+            <token xml:space="preserve" id="stt_4" POS="CD" charOffset="101-104" text="OBF" lemma="obf"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="104-106" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="107-109" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="110-111" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="112-127" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="128-139" text="coactivator" lemma="coactivator"/>
+            <token xml:space="preserve" id="stt_10" POS="WDT" charOffset="140-144" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="145-147" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="148-162" text="constitutively" lemma="constitutively"/>
+            <token xml:space="preserve" id="stt_13" POS="VBN" charOffset="163-172" text="expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="173-175" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="176-177" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="178-183" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="184-187" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="VBZ" charOffset="188-197" text="interacts" lemma="interact"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="198-202" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="203-206" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="207-211" text="Oct1" lemma="oct1"/>
+            <token xml:space="preserve" id="stt_22" POS="CC" charOffset="212-215" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="216-220" text="Oct2" lemma="oct2"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="221-234" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="235-242" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="242-243" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H BOB) (CD .1))
+            (PRN (: /)
+            (NP=H (CD OBF) (NN=H .1))))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (JJ transcriptional) (NN=H coactivator))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H
+            (VP=H (VBZ=H is)
+            (ADVP (RB=H constitutively))
+            (VP (VBN=H expressed)
+            (PP (IN=H in)
+            (NP (NN B) (NNS=H cells)))))
+            (CC and)
+            (VP (VBZ=H interacts)
+            (PP (IN=H with)
+            (NP (DT the) (NN Oct1)
+            (CC and)
+            (NN Oct2) (NN transcription) (NNS=H factors)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="244-409" id="S3">
+        <text xml:space="preserve">Upon activation of Jurkat T cells and primary murine thymocytes with phorbol esters and ionomycin, BOB.1/OBF.1 expression and transactivation function were induced. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="244-248" text="Upon" lemma="upon"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="249-259" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="260-262" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="263-269" text="Jurkat" lemma="jurkat"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="270-271" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="272-277" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="278-281" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="282-289" text="primary" lemma="primary"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="290-296" text="murine" lemma="murine"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="297-307" text="thymocytes" lemma="thymocyte"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="308-312" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="313-320" text="phorbol" lemma="phorbol"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="321-327" text="esters" lemma="ester"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="328-331" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="332-341" text="ionomycin" lemma="ionomycin"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="341-342" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="NNP" charOffset="343-346" text="BOB" lemma="BOB"/>
+            <token xml:space="preserve" id="stt_18" POS="CD" charOffset="346-348" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_19" POS=":" charOffset="348-349" text="/" lemma="/"/>
+            <token xml:space="preserve" id="stt_20" POS="CD" charOffset="349-352" text="OBF" lemma="obf"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="352-354" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="355-365" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="366-369" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="370-385" text="transactivation" lemma="transactivation"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="386-394" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_26" POS="VBD" charOffset="395-399" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_27" POS="VBN" charOffset="400-407" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="407-408" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H Upon)
+            (NP
+            (NP=H
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN Jurkat) (NN T) (NNS=H cells))))
+            (CC and)
+            (NP
+            (NP=H (JJ primary) (JJ murine) (NNS=H thymocytes))
+            (PP (IN=H with)
+            (NP
+            (NP=H (NN phorbol) (NNS=H esters))
+            (CC and)
+            (NP (NN=H ionomycin)))))))
+            (, ,)
+            (NP
+            (NP=H (NNP=H BOB) (CD .1))
+            (PRN (: /)
+            (NP=H
+            (NP=H (CD OBF) (NN .1) (NN=H expression))
+            (CC and)
+            (NP (NN transactivation) (NN=H function)))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H induced)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="409-538" id="S4">
+        <text xml:space="preserve">BOB.1/OBF.1 was phosphorylated at Ser184 both in vivo and in vitro, and this modification was required for inducible activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="409-412" text="BOB" lemma="bob"/>
+            <token xml:space="preserve" id="stt_2" POS="CD" charOffset="412-414" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_3" POS=":" charOffset="414-415" text="/" lemma="/"/>
+            <token xml:space="preserve" id="stt_4" POS="CD" charOffset="415-418" text="OBF" lemma="obf"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="418-420" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="421-424" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="425-439" text="phosphorylated" lemma="phosphorylate"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="440-442" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="443-449" text="Ser184" lemma="ser184"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="450-454" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_11" POS="FW" charOffset="455-457" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="FW" charOffset="458-462" text="vivo" lemma="vivo"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="463-466" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="FW" charOffset="467-469" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="FW" charOffset="470-475" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="475-476" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="477-480" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="481-485" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="486-498" text="modification" lemma="modification"/>
+            <token xml:space="preserve" id="stt_20" POS="VBD" charOffset="499-502" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_21" POS="VBN" charOffset="503-511" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="512-515" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="516-525" text="inducible" lemma="inducible"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="526-536" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="536-537" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP
+            (NP=H (NN=H BOB) (CD .1))
+            (PRN (: /)
+            (NP=H (CD OBF) (NN=H .1))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H phosphorylated)
+            (UCP
+            (PP=H (IN=H at)
+            (NP
+            (NP=H (NN=H Ser184))
+            (ADVP (CC=H both))
+            (PP (FW=H in)
+            (NP (FW=H vivo)))))
+            (CC and)
+            (ADVP (FW in) (FW=H vitro))))))
+            (, ,)
+            (CC and)
+            (S
+            (NP (DT this) (NN=H modification))
+            (VP=H (VBD=H was)
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP (JJ inducible) (NN=H activation))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="538-724" id="S5">
+        <text xml:space="preserve">Mutation of Ser184 also diminished transactivation function in B cells, suggesting that the activating phosphorylation that is inducible in T cells is constitutively present in B cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="538-546" text="Mutation" lemma="mutation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="547-549" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="550-556" text="Ser184" lemma="ser184"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="557-561" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="562-572" text="diminished" lemma="diminish"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="573-588" text="transactivation" lemma="transactivation"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="589-597" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="598-600" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="601-602" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="603-608" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="608-609" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="VBG" charOffset="610-620" text="suggesting" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="621-625" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="626-629" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="VBG" charOffset="630-640" text="activating" lemma="activate"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="641-656" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_17" POS="WDT" charOffset="657-661" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_18" POS="VBZ" charOffset="662-664" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="665-674" text="inducible" lemma="inducible"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="675-677" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="678-679" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="680-685" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_23" POS="VBZ" charOffset="686-688" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_24" POS="RB" charOffset="689-703" text="constitutively" lemma="constitutively"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="704-711" text="present" lemma="present"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="712-714" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="715-716" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="717-722" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="722-723" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Mutation))
+            (PP (IN=H of)
+            (NP (NN=H Ser184))))
+            (ADVP (RB=H also))
+            (VP=H (VBD=H diminished)
+            (NP (NN transactivation) (NN=H function))
+            (PP (IN=H in)
+            (NP (NN B) (NNS=H cells)))
+            (, ,)
+            (S
+            (VP=H (VBG=H suggesting)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT the) (VBG activating) (NN=H phosphorylation)
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H inducible)
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells))))))))
+            (VP=H (VBZ=H is)
+            (ADJP (RB constitutively) (JJ=H present)
+            (PP (IN=H in)
+            (NP (NN B) (NNS=H cells))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="724-887" id="S6">
+        <text xml:space="preserve">Thus, BOB.1/OBF.1 is a transcriptional coactivator that is critically regulated by posttranslational modifications to mediate cell type-specific gene expression. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="724-728" text="Thus" lemma="thus"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="728-729" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NNP" charOffset="730-733" text="BOB" lemma="BOB"/>
+            <token xml:space="preserve" id="stt_4" POS="CD" charOffset="733-735" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_5" POS=":" charOffset="735-736" text="/" lemma="/"/>
+            <token xml:space="preserve" id="stt_6" POS="CD" charOffset="736-739" text="OBF" lemma="obf"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="739-741" text=".1" lemma=".1"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="742-744" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="745-746" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="747-762" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="763-774" text="coactivator" lemma="coactivator"/>
+            <token xml:space="preserve" id="stt_12" POS="WDT" charOffset="775-779" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="780-782" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="783-793" text="critically" lemma="critically"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="794-803" text="regulated" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="804-806" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="807-824" text="posttranslational" lemma="posttranslational"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="825-838" text="modifications" lemma="modification"/>
+            <token xml:space="preserve" id="stt_19" POS="TO" charOffset="839-841" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_20" POS="VB" charOffset="842-849" text="mediate" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="850-854" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="855-868" text="type-specific" lemma="type-specific"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="869-873" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="874-884" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="884-885" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Thus))
+            (, ,)
+            (NP
+            (NP=H (NNP=H BOB) (CD .1))
+            (PRN (: /)
+            (NP=H (CD OBF) (NN=H .1))))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (JJ transcriptional) (NN=H coactivator))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H is)
+            (VP
+            (ADVP (RB=H critically))
+            (VBN=H regulated)
+            (PP (IN=H by)
+            (NP (JJ posttranslational) (NNS=H modifications)))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H mediate)
+            (NP
+            (NP=H (NN=H cell))
+            (NP (JJ type-specific) (NN gene) (NN=H expression))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T13" type="ZeroArticleNP" charOffset="95-106" headOffset="104-106" text="BOB.1/OBF.1"/>
+    <Term xml:space="preserve" id="T14" type="IndefiniteNP" charOffset="110-139" headOffset="128-139" text="a transcriptional coactivator"/>
+    <Term xml:space="preserve" id="T15" type="RelativePronoun" charOffset="140-144" headOffset="140-144" text="that"/>
+    <Term xml:space="preserve" id="T16" type="DefiniteNP" charOffset="626-656" headOffset="641-656" text="the activating phosphorylation"/>
+    <Term xml:space="preserve" id="T17" type="RelativePronoun" charOffset="657-661" headOffset="657-661" text="that"/>
+    <Term xml:space="preserve" id="T18" type="IndefiniteNP" charOffset="745-774" headOffset="763-774" text="a transcriptional coactivator"/>
+    <Term xml:space="preserve" id="T19" type="RelativePronoun" charOffset="775-779" headOffset="775-779" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T14"/>
+        <Antecedent idref="T13"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T15"/>
+        <Antecedent idref="T14"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T17"/>
+        <Antecedent idref="T16"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T18"/>
+        <Antecedent idref="T14"/>
+    </Relation>
+    <Relation id="R5" type="Anaphora">
+        <Anaphor idref="T19"/>
+        <Antecedent idref="T18"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="56-61" headOffset="56-59" text="BOB.1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="62-67" headOffset="65-67" text="OBF.1"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="95-100" headOffset="95-98" text="BOB.1"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="101-106" headOffset="104-106" text="OBF.1"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="207-211" headOffset="207-211" text="Oct1"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="216-220" headOffset="216-220" text="Oct2"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="343-348" headOffset="343-346" text="BOB.1"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="349-354" headOffset="352-354" text="OBF.1"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="409-414" headOffset="409-412" text="BOB.1"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="415-420" headOffset="418-420" text="OBF.1"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="730-735" headOffset="730-733" text="BOB.1"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="736-741" headOffset="739-741" text="OBF.1"/>
+</document>

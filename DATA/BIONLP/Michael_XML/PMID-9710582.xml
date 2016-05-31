@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9710582">
+    <text xml:space="preserve">The small GTP-binding protein Rho potentiates AP-1 transcription in T cells. 
+The Rho family of small GTP-binding proteins is involved in the regulation of cytoskeletal structure, gene transcription, specific cell fate development, and transformation. We demonstrate in this report that overexpression of an activated form of Rho enhances AP-1 activity in Jurkat T cells in the presence of phorbol myristate acetate (PMA), but activated Rho (V14Rho) has little or no effect on NFAT, Oct-1, and NF-kappaB enhancer element activities under similar conditions. Overexpression of a V14Rho construct incapable of membrane localization (CAAX deleted) abolishes PMA-induced AP-1 transcriptional activation. The effect of Rho on AP-1 is independent of the mitogen-activated protein kinase pathway, as a dominant-negative MEK and a MEK inhibitor (PD98059) did not affect Rho-induced AP-1 activity. V14Rho binds strongly to protein kinase Calpha (PKCalpha) in vivo; however, deletion of the CAAX site on V14Rho severely diminished this association. Evidence for a role for PKCalpha as an effector of Rho was obtained by the observation that coexpression of the N-terminal domain of PKCalpha blocked the effects of activated Rho plus PMA on AP-1 transcriptional activity. These data suggest that Rho potentiates AP-1 transcription during T-cell activation. 
+</text>
+    <sentence charOffset="0-78" id="S1">
+        <text xml:space="preserve">The small GTP-binding protein Rho potentiates AP-1 transcription in T cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="0-3" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="4-9" text="small" lemma="small"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="10-21" text="GTP-binding" lemma="gtp-binding"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="22-29" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="30-33" text="Rho" lemma="rho"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="34-45" text="potentiates" lemma="potentiate"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="46-50" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="51-64" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="65-67" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="68-69" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="70-75" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="75-76" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (JJ small) (JJ GTP-binding) (NN protein) (NN=H Rho))
+            (VP=H (VBZ=H potentiates)
+            (NP
+            (NP=H (NN AP-1) (NN=H transcription))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="78-252" id="S2">
+        <text xml:space="preserve">The Rho family of small GTP-binding proteins is involved in the regulation of cytoskeletal structure, gene transcription, specific cell fate development, and transformation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="78-81" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="82-85" text="Rho" lemma="rho"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="86-92" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="93-95" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="96-101" text="small" lemma="small"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="102-113" text="GTP-binding" lemma="gtp-binding"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="114-122" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="123-125" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="126-134" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="135-137" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="138-141" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="142-152" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="153-155" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="156-168" text="cytoskeletal" lemma="cytoskeletal"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="169-178" text="structure" lemma="structure"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="178-179" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="180-184" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="185-198" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="198-199" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="200-208" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="209-213" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="214-218" text="fate" lemma="fate"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="219-230" text="development" lemma="development"/>
+            <token xml:space="preserve" id="stt_24" POS="," charOffset="230-231" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_25" POS="CC" charOffset="232-235" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="236-250" text="transformation" lemma="transformation"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="250-251" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN Rho) (NN=H family))
+            (PP (IN=H of)
+            (NP (JJ small) (JJ GTP-binding) (NNS=H proteins))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H involved)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H regulation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ cytoskeletal) (NN=H structure))
+            (, ,)
+            (NP (NN gene) (NN=H transcription))
+            (, ,)
+            (NP (JJ specific) (NN cell) (NN fate) (NN=H development))
+            (, ,)
+            (CC and)
+            (NP (NN=H transformation))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="252-558" id="S3">
+        <text xml:space="preserve">We demonstrate in this report that overexpression of an activated form of Rho enhances AP-1 activity in Jurkat T cells in the presence of phorbol myristate acetate (PMA), but activated Rho (V14Rho) has little or no effect on NFAT, Oct-1, and NF-kappaB enhancer element activities under similar conditions. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="252-254" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="255-266" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="267-269" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="270-274" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="275-281" text="report" lemma="report"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="282-286" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="287-301" text="overexpression" lemma="overexpression"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="302-304" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="305-307" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="308-317" text="activated" lemma="activated"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="318-322" text="form" lemma="form"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="323-325" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="326-329" text="Rho" lemma="rho"/>
+            <token xml:space="preserve" id="stt_14" POS="VBZ" charOffset="330-338" text="enhances" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="339-343" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="344-352" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="353-355" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="356-362" text="Jurkat" lemma="jurkat"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="363-364" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="365-370" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="371-373" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="374-377" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="378-386" text="presence" lemma="presence"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="387-389" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="390-397" text="phorbol" lemma="phorbol"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="398-407" text="myristate" lemma="myristate"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="408-415" text="acetate" lemma="acetate"/>
+            <token xml:space="preserve" id="stt_28" POS="-LRB-" charOffset="416-417" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="417-420" text="PMA" lemma="pma"/>
+            <token xml:space="preserve" id="stt_30" POS="-RRB-" charOffset="420-421" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_31" POS="," charOffset="421-422" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_32" POS="CC" charOffset="423-426" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_33" POS="VBD" charOffset="427-436" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="437-440" text="Rho" lemma="rho"/>
+            <token xml:space="preserve" id="stt_35" POS="-LRB-" charOffset="441-442" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="442-448" text="V14Rho" lemma="v14rho"/>
+            <token xml:space="preserve" id="stt_37" POS="-RRB-" charOffset="448-449" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_38" POS="VBZ" charOffset="450-453" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_39" POS="JJ" charOffset="454-460" text="little" lemma="little"/>
+            <token xml:space="preserve" id="stt_40" POS="CC" charOffset="461-463" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_41" POS="DT" charOffset="464-466" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="467-473" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_43" POS="IN" charOffset="474-476" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_44" POS="NN" charOffset="477-481" text="NFAT" lemma="nfat"/>
+            <token xml:space="preserve" id="stt_45" POS="," charOffset="481-482" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="483-488" text="Oct-1" lemma="oct-1"/>
+            <token xml:space="preserve" id="stt_47" POS="," charOffset="488-489" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_48" POS="CC" charOffset="490-493" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_49" POS="NN" charOffset="494-503" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_50" POS="NN" charOffset="504-512" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_51" POS="NN" charOffset="513-520" text="element" lemma="element"/>
+            <token xml:space="preserve" id="stt_52" POS="NNS" charOffset="521-531" text="activities" lemma="activity"/>
+            <token xml:space="preserve" id="stt_53" POS="IN" charOffset="532-537" text="under" lemma="under"/>
+            <token xml:space="preserve" id="stt_54" POS="JJ" charOffset="538-545" text="similar" lemma="similar"/>
+            <token xml:space="preserve" id="stt_55" POS="NNS" charOffset="546-556" text="conditions" lemma="condition"/>
+            <token xml:space="preserve" id="stt_56" POS="." charOffset="556-557" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H demonstrate)
+            (PP (IN=H in)
+            (NP (DT this) (NN=H report)))
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H overexpression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT an) (JJ activated) (NN=H form))
+            (PP (IN=H of)
+            (NP (NN=H Rho))))))
+            (VP=H
+            (VP=H (VBZ=H enhances)
+            (NP
+            (NP=H (NN AP-1) (NN=H activity))
+            (PP (IN=H in)
+            (NP (NN Jurkat) (NN T) (NNS=H cells))))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H presence))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN phorbol) (NN myristate) (NN=H acetate))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H PMA))
+            (-RRB- -RRB-)))))))
+            (, ,)
+            (CC but)
+            (VP (VBD=H activated)
+            (SBAR
+            (S=H
+            (NP
+            (NP=H (NN=H Rho))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H V14Rho))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H has)
+            (NP
+            (NP=H
+            (UCP
+            (ADJP=H (JJ=H little))
+            (CC or)
+            (NP
+            (NP=H (DT no) (NN=H effect))
+            (PP (IN=H on)
+            (NP (NN NFAT) (, ,) (NN Oct-1) (, ,)
+            (CC and)
+            (NN NF-kappaB) (NN=H enhancer)))))
+            (NN element) (NNS=H activities))
+            (PP (IN=H under)
+            (NP (JJ similar) (NNS=H conditions))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="558-700" id="S4">
+        <text xml:space="preserve">Overexpression of a V14Rho construct incapable of membrane localization (CAAX deleted) abolishes PMA-induced AP-1 transcriptional activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="558-572" text="Overexpression" lemma="overexpression"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="573-575" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="576-577" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="578-584" text="V14Rho" lemma="v14rho"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="585-594" text="construct" lemma="construct"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="595-604" text="incapable" lemma="incapable"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="605-607" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="608-616" text="membrane" lemma="membrane"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="617-629" text="localization" lemma="localization"/>
+            <token xml:space="preserve" id="stt_10" POS="-LRB-" charOffset="630-631" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="631-635" text="CAAX" lemma="caax"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="636-643" text="deleted" lemma="delete"/>
+            <token xml:space="preserve" id="stt_13" POS="-RRB-" charOffset="643-644" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_14" POS="VBZ" charOffset="645-654" text="abolishes" lemma="abolish"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="655-666" text="PMA-induced" lemma="pma-induced"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="667-671" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="672-687" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="688-698" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="698-699" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (NN=H Overexpression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a) (NN V14Rho) (NN=H construct))
+            (ADJP (JJ=H incapable))
+            (PP (IN=H of)
+            (NP (NN membrane) (NN=H localization))))))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (NN=H CAAX))
+            (VP (VBN=H deleted)))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H abolishes)
+            (NP (JJ PMA-induced) (NN AP-1) (JJ transcriptional) (NN=H activation)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="700-889" id="S5">
+        <text xml:space="preserve">The effect of Rho on AP-1 is independent of the mitogen-activated protein kinase pathway, as a dominant-negative MEK and a MEK inhibitor (PD98059) did not affect Rho-induced AP-1 activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="700-703" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="704-710" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="711-713" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="714-717" text="Rho" lemma="rho"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="718-720" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="721-725" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="726-728" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="729-740" text="independent" lemma="independent"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="741-743" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="744-747" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="748-765" text="mitogen-activated" lemma="mitogen-activated"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="766-773" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="774-780" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="781-788" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="788-789" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="790-792" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="793-794" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="795-812" text="dominant-negative" lemma="dominant-negative"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="813-816" text="MEK" lemma="mek"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="817-820" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="821-822" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="823-826" text="MEK" lemma="mek"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="827-836" text="inhibitor" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_24" POS="-LRB-" charOffset="837-838" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="838-845" text="PD98059" lemma="pd98059"/>
+            <token xml:space="preserve" id="stt_26" POS="-RRB-" charOffset="845-846" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_27" POS="VBD" charOffset="847-850" text="did" lemma="do"/>
+            <token xml:space="preserve" id="stt_28" POS="RB" charOffset="851-854" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_29" POS="VB" charOffset="855-861" text="affect" lemma="affect"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="862-873" text="Rho-induced" lemma="rho-induced"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="874-878" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="879-887" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="887-888" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H effect))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H Rho))
+            (PP (IN=H on)
+            (NP (NN=H AP-1))))))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H independent)
+            (PP (IN=H of)
+            (NP (DT the) (JJ mitogen-activated) (NN protein) (NN kinase) (NN=H pathway))))
+            (, ,)
+            (SBAR (IN=H as)
+            (S
+            (NP
+            (NP=H (DT a) (JJ dominant-negative) (NN=H MEK))
+            (CC and)
+            (NP
+            (NP=H (DT a) (NN MEK) (NN=H inhibitor))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H PD98059))
+            (-RRB- -RRB-))))
+            (VP=H (VBD=H did) (RB not)
+            (VP (VB=H affect)
+            (NP (JJ Rho-induced) (NN AP-1) (NN=H activity)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="889-1039" id="S6">
+        <text xml:space="preserve">V14Rho binds strongly to protein kinase Calpha (PKCalpha) in vivo; however, deletion of the CAAX site on V14Rho severely diminished this association. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="889-895" text="V14Rho" lemma="v14rho"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="896-901" text="binds" lemma="bind"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="902-910" text="strongly" lemma="strongly"/>
+            <token xml:space="preserve" id="stt_4" POS="TO" charOffset="911-913" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="914-921" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="922-928" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="929-935" text="Calpha" lemma="calpha"/>
+            <token xml:space="preserve" id="stt_8" POS="-LRB-" charOffset="936-937" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="937-945" text="PKCalpha" lemma="pkcalpha"/>
+            <token xml:space="preserve" id="stt_10" POS="-RRB-" charOffset="945-946" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_11" POS="FW" charOffset="947-949" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="FW" charOffset="950-954" text="vivo" lemma="vivo"/>
+            <token xml:space="preserve" id="stt_13" POS=":" charOffset="954-955" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="956-963" text="however" lemma="however"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="963-964" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="965-973" text="deletion" lemma="deletion"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="974-976" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="977-980" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="981-985" text="CAAX" lemma="caax"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="986-990" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="991-993" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="994-1000" text="V14Rho" lemma="v14rho"/>
+            <token xml:space="preserve" id="stt_23" POS="RB" charOffset="1001-1009" text="severely" lemma="severely"/>
+            <token xml:space="preserve" id="stt_24" POS="VBD" charOffset="1010-1020" text="diminished" lemma="diminish"/>
+            <token xml:space="preserve" id="stt_25" POS="DT" charOffset="1021-1025" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1026-1037" text="association" lemma="association"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="1037-1038" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (NN=H V14Rho))
+            (VP=H (VBZ=H binds)
+            (ADVP (RB=H strongly))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN protein) (NN kinase) (NN=H Calpha))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H PKCalpha))
+            (-RRB- -RRB-))))
+            (ADVP (FW in) (FW=H vivo))))
+            (: ;)
+            (S
+            (ADVP (RB=H however))
+            (, ,)
+            (NP
+            (NP=H (NN=H deletion))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN CAAX) (NN=H site))
+            (PP (IN=H on)
+            (NP (NN=H V14Rho))))))
+            (ADVP (RB=H severely))
+            (VP=H (VBD=H diminished)
+            (NP (DT this) (NN=H association))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1039-1261" id="S7">
+        <text xml:space="preserve">Evidence for a role for PKCalpha as an effector of Rho was obtained by the observation that coexpression of the N-terminal domain of PKCalpha blocked the effects of activated Rho plus PMA on AP-1 transcriptional activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1039-1047" text="Evidence" lemma="evidence"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1048-1051" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1052-1053" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1054-1058" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1059-1062" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1063-1071" text="PKCalpha" lemma="pkcalpha"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1072-1074" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="1075-1077" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1078-1086" text="effector" lemma="effector"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1087-1089" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1090-1093" text="Rho" lemma="rho"/>
+            <token xml:space="preserve" id="stt_12" POS="VBD" charOffset="1094-1097" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_13" POS="VBN" charOffset="1098-1106" text="obtained" lemma="obtain"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1107-1109" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="1110-1113" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1114-1125" text="observation" lemma="observation"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1126-1130" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1131-1143" text="coexpression" lemma="coexpression"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1144-1146" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="1147-1150" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="1151-1161" text="N-terminal" lemma="n-terminal"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1162-1168" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1169-1171" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1172-1180" text="PKCalpha" lemma="pkcalpha"/>
+            <token xml:space="preserve" id="stt_25" POS="VBD" charOffset="1181-1188" text="blocked" lemma="block"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="1189-1192" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="1193-1200" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="1201-1203" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_29" POS="VBN" charOffset="1204-1213" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1214-1217" text="Rho" lemma="rho"/>
+            <token xml:space="preserve" id="stt_31" POS="CC" charOffset="1218-1222" text="plus" lemma="plus"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1223-1226" text="PMA" lemma="pma"/>
+            <token xml:space="preserve" id="stt_33" POS="IN" charOffset="1227-1229" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1230-1234" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_35" POS="JJ" charOffset="1235-1250" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1251-1259" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="1259-1260" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Evidence))
+            (PP (IN=H for)
+            (NP
+            (NP=H (DT a) (NN=H role))
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN=H PKCalpha))
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT an) (NN=H effector))
+            (PP (IN=H of)
+            (NP (NN=H Rho))))))))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H obtained)
+            (PP (IN=H by)
+            (NP (DT the) (NN=H observation)))
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H coexpression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (JJ N-terminal) (NN=H domain))
+            (PP (IN=H of)
+            (NP (NN=H PKCalpha))))))
+            (VP=H (VBD=H blocked)
+            (NP
+            (NP=H (DT the) (NNS=H effects))
+            (PP (IN=H of)
+            (NP
+            (NP=H (VBN activated) (NN=H Rho))
+            (PP (CC=H plus)
+            (NP
+            (NP=H (NN=H PMA))
+            (PP (IN=H on)
+            (NP (NN AP-1) (JJ transcriptional) (NN=H activity)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1261-1347" id="S8">
+        <text xml:space="preserve">These data suggest that Rho potentiates AP-1 transcription during T-cell activation. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1261-1266" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1267-1271" text="data" lemma="datum"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1272-1279" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1280-1284" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1285-1288" text="Rho" lemma="rho"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="1289-1300" text="potentiates" lemma="potentiate"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1301-1305" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1306-1319" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1320-1326" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1327-1333" text="T-cell" lemma="t-cell"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1334-1344" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="1344-1345" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H data))
+            (VP=H (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H Rho))
+            (VP=H (VBZ=H potentiates)
+            (NP (NN AP-1) (NN=H transcription))
+            (PP (IN=H during)
+            (NP (NN T-cell) (NN=H activation)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T6" type="DefiniteNP" charOffset="1110-1125" headOffset="1114-1125" text="the observation"/>
+    <Term xml:space="preserve" id="T7" type="RelativePronoun" charOffset="1126-1130" headOffset="1126-1130" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T7"/>
+        <Antecedent idref="T6"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="483-488" headOffset="483-488" text="Oct-1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="914-935" headOffset="929-935" text="protein kinase Calpha"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="937-945" headOffset="937-945" text="PKCalpha"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="1063-1071" headOffset="1063-1071" text="PKCalpha"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="1172-1180" headOffset="1172-1180" text="PKCalpha"/>
+</document>

@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8978306">
+    <text xml:space="preserve">Engagement of the Lewis X antigen (CD15) results in monocyte activation. 
+We previously reported that monocyte adhesion to tumor necrosis factor-alpha (TNF-alpha)-treated endothelial cells increased expression of tissue factor and CD36 on monocytes. Using immunological cross-linking to mimic receptor engagement by natural ligands, we now show that CD15 (Lewis X), a monocyte counter-receptor for endothelial selectins may participate in this response. We used cytokine production as a readout for monocyte activation and found that CD15 cross-linking induced TNF-alpha release from peripheral blood monocytes and cells from the monocytic cell line MM6. Quantitative reverse transcriptase-polymerase chain reaction (RT-PCR) showed an increase in steady-state TNF-alpha mRNA after 3 to 4 hours of cross-linking. CD15 cross-linking also concomitantly increased interleukin-1 beta (IL-1 beta) mRNA, while no apparent change was observed in the levels of beta-actin mRNA, indicating specificity. To examine transcriptional regulation of cytokine genes by CD15 engagement, a CAT plasmid reporter construct containing IL-1 beta promoter/enhancer sequences was introduced into MM6. Subsequent cross-linking of CD15 increased CAT activity. CD15 engagement by monoclonal antibody also attenuated IL-1 beta transcript degradation, demonstrating that signaling via CD15 also had posttranscriptional effects. Nuclear extracts of anti-CD15 cross-linked cells demonstrated enhanced levels of the transcriptional factor activator protein-1, minimally changed nuclear factor-kappa B, and did not affect SV40 promoter specific protein-1. We conclude that engagement of CD15 on monocytes results in monocyte activation. In addition to its well-recognized adhesive role, CD15 may function as an important signaling molecule capable of initiating proinflammatory events in monocytes that come into contact with activated endothelium. 
+</text>
+    <sentence charOffset="0-74" id="S1">
+        <text xml:space="preserve">Engagement of the Lewis X antigen (CD15) results in monocyte activation. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-10" text="Engagement" lemma="engagement"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="11-13" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="14-17" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NNP" charOffset="18-23" text="Lewis" lemma="Lewis"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="24-25" text="X" lemma="x"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="26-33" text="antigen" lemma="antigen"/>
+            <token xml:space="preserve" id="stt_7" POS="-LRB-" charOffset="34-35" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="35-39" text="CD15" lemma="cd15"/>
+            <token xml:space="preserve" id="stt_9" POS="-RRB-" charOffset="39-40" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="41-48" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="49-51" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="52-60" text="monocyte" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="61-71" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="71-72" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (NN=H Engagement))
+            (PP (IN=H of)
+            (NP (DT the) (NNP Lewis) (NN X) (NN=H antigen))))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H CD15))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H results)
+            (PP (IN=H in)
+            (NP (NN monocyte) (NN=H activation))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="74-250" id="S2">
+        <text xml:space="preserve">We previously reported that monocyte adhesion to tumor necrosis factor-alpha (TNF-alpha)-treated endothelial cells increased expression of tissue factor and CD36 on monocytes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="74-76" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="77-87" text="previously" lemma="previously"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="88-96" text="reported" lemma="report"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="97-101" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="102-110" text="monocyte" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="111-119" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="120-122" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="123-128" text="tumor" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="129-137" text="necrosis" lemma="necrosis"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="138-150" text="factor-alpha" lemma="factor-alpha"/>
+            <token xml:space="preserve" id="stt_11" POS="-LRB-" charOffset="151-152" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="152-161" text="TNF-alpha" lemma="tnf-alpha"/>
+            <token xml:space="preserve" id="stt_13" POS="-RRB-" charOffset="161-162" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_14" POS=":" charOffset="162-163" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="163-170" text="treated" lemma="treat"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="171-182" text="endothelial" lemma="endothelial"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="183-188" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="189-198" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="199-209" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="210-212" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="213-219" text="tissue" lemma="tissue"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="220-226" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="227-230" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="231-235" text="CD36" lemma="cd36"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="236-238" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="239-248" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="248-249" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (ADVP (RB=H previously))
+            (VP=H (VBD=H reported)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN monocyte) (NN=H adhesion))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN tumor) (NN necrosis) (NN=H factor-alpha))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H TNF-alpha))
+            (-RRB- -RRB-))
+            (: -)
+            (S
+            (VP=H (VBN=H treated)
+            (NP (JJ endothelial) (NNS=H cells)))))))
+            (VP=H (VBN=H increased)
+            (NP
+            (NP=H (NN=H expression))
+            (PP (IN=H of)
+            (NP (NN tissue) (NN=H factor)
+            (CC and)
+            (NN CD36))))
+            (PP (IN=H on)
+            (NP (NNS=H monocytes)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="250-454" id="S3">
+        <text xml:space="preserve">Using immunological cross-linking to mimic receptor engagement by natural ligands, we now show that CD15 (Lewis X), a monocyte counter-receptor for endothelial selectins may participate in this response. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBG" charOffset="250-255" text="Using" lemma="use"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="256-269" text="immunological" lemma="immunological"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="270-283" text="cross-linking" lemma="cross-linking"/>
+            <token xml:space="preserve" id="stt_4" POS="TO" charOffset="284-286" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_5" POS="VB" charOffset="287-292" text="mimic" lemma="mimic"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="293-301" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="302-312" text="engagement" lemma="engagement"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="313-315" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="316-323" text="natural" lemma="natural"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="324-331" text="ligands" lemma="ligand"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="331-332" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="PRP" charOffset="333-335" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_13" POS="RB" charOffset="336-339" text="now" lemma="now"/>
+            <token xml:space="preserve" id="stt_14" POS="VBP" charOffset="340-344" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="345-349" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="350-354" text="CD15" lemma="cd15"/>
+            <token xml:space="preserve" id="stt_17" POS="-LRB-" charOffset="355-356" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_18" POS="NNP" charOffset="356-361" text="Lewis" lemma="Lewis"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="362-363" text="X" lemma="x"/>
+            <token xml:space="preserve" id="stt_20" POS="-RRB-" charOffset="363-364" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="364-365" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="366-367" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="368-376" text="monocyte" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="377-393" text="counter-receptor" lemma="counter-receptor"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="394-397" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="398-409" text="endothelial" lemma="endothelial"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="410-419" text="selectins" lemma="selectin"/>
+            <token xml:space="preserve" id="stt_28" POS="MD" charOffset="420-423" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_29" POS="VB" charOffset="424-435" text="participate" lemma="participate"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="436-438" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_31" POS="DT" charOffset="439-443" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="444-452" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="452-453" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (VBG=H Using)
+            (NP (JJ immunological) (NN=H cross-linking))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H mimic)
+            (NP (NN receptor) (NN=H engagement))
+            (PP (IN=H by)
+            (NP (JJ natural) (NNS=H ligands))))))))
+            (, ,)
+            (NP (PRP=H we))
+            (ADVP (RB=H now))
+            (VP=H (VBP=H show)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H
+            (NP=H (NN=H CD15))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NNP Lewis) (NN=H X))
+            (-RRB- -RRB-)))
+            (, ,)
+            (NP
+            (NP=H (DT a) (NN monocyte) (NN=H counter-receptor))
+            (PP (IN=H for)
+            (NP (JJ endothelial) (NNS=H selectins)))))
+            (VP=H (MD=H may)
+            (VP (VB=H participate)
+            (PP (IN=H in)
+            (NP (DT this) (NN=H response))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="454-655" id="S4">
+        <text xml:space="preserve">We used cytokine production as a readout for monocyte activation and found that CD15 cross-linking induced TNF-alpha release from peripheral blood monocytes and cells from the monocytic cell line MM6. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="454-456" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="457-461" text="used" lemma="use"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="462-470" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="471-481" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="482-484" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="485-486" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="487-494" text="readout" lemma="readout"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="495-498" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="499-507" text="monocyte" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="508-518" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="519-522" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="VBD" charOffset="523-528" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="529-533" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="534-538" text="CD15" lemma="cd15"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="539-552" text="cross-linking" lemma="cross-linking"/>
+            <token xml:space="preserve" id="stt_16" POS="VBD" charOffset="553-560" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="561-570" text="TNF-alpha" lemma="tnf-alpha"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="571-578" text="release" lemma="release"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="579-583" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="584-594" text="peripheral" lemma="peripheral"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="595-600" text="blood" lemma="blood"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="601-610" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="611-614" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="615-620" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="621-625" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="626-629" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="630-639" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="640-644" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="645-649" text="line" lemma="line"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="650-653" text="MM6" lemma="mm6"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="653-654" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H
+            (VP=H (VBD=H used)
+            (NP (NN cytokine) (NN=H production))
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT a) (NN=H readout))
+            (PP (IN=H for)
+            (NP (NN monocyte) (NN=H activation))))))
+            (CC and)
+            (VP (VBD=H found)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN CD15) (NN=H cross-linking))
+            (VP=H (VBD=H induced)
+            (NP (NN TNF-alpha) (NN=H release))
+            (PP (IN=H from)
+            (NP (JJ peripheral) (NN blood) (NNS=H monocytes)
+            (CC and)
+            (NNS cells)))
+            (PP (IN=H from)
+            (NP (DT the) (JJ monocytic) (NN cell) (NN line) (NN=H MM6))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="655-812" id="S5">
+        <text xml:space="preserve">Quantitative reverse transcriptase-polymerase chain reaction (RT-PCR) showed an increase in steady-state TNF-alpha mRNA after 3 to 4 hours of cross-linking. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="655-667" text="Quantitative" lemma="quantitative"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="668-675" text="reverse" lemma="reverse"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="676-700" text="transcriptase-polymerase" lemma="transcriptase-polymerase"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="701-706" text="chain" lemma="chain"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="707-715" text="reaction" lemma="reaction"/>
+            <token xml:space="preserve" id="stt_6" POS="-LRB-" charOffset="716-717" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="717-723" text="RT-PCR" lemma="rt-pcr"/>
+            <token xml:space="preserve" id="stt_8" POS="-RRB-" charOffset="723-724" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_9" POS="VBD" charOffset="725-731" text="showed" lemma="show"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="732-734" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="735-743" text="increase" lemma="increase"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="744-746" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="747-759" text="steady-state" lemma="steady-state"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="760-769" text="TNF-alpha" lemma="tnf-alpha"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="770-774" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="775-780" text="after" lemma="after"/>
+            <token xml:space="preserve" id="stt_17" POS="CD" charOffset="781-782" text="3" lemma="3"/>
+            <token xml:space="preserve" id="stt_18" POS="TO" charOffset="783-785" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_19" POS="CD" charOffset="786-787" text="4" lemma="4"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="788-793" text="hours" lemma="hour"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="794-796" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="797-810" text="cross-linking" lemma="cross-linking"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="810-811" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (JJ Quantitative) (JJ reverse) (NN=H transcriptase-polymerase))
+            (NP (NN chain) (NN=H reaction)))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H RT-PCR))
+            (-RRB- -RRB-)))
+            (VP=H (VBD=H showed)
+            (NP (DT an) (NN=H increase))
+            (PP (IN=H in)
+            (NP (JJ steady-state) (NN TNF-alpha) (NN=H mRNA)))
+            (PP (IN=H after)
+            (NP
+            (NP=H
+            (QP (CD=H 3) (TO to) (CD 4))
+            (NNS=H hours))
+            (PP (IN=H of)
+            (NP (NN=H cross-linking))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="812-993" id="S6">
+        <text xml:space="preserve">CD15 cross-linking also concomitantly increased interleukin-1 beta (IL-1 beta) mRNA, while no apparent change was observed in the levels of beta-actin mRNA, indicating specificity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="812-816" text="CD15" lemma="cd15"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="817-830" text="cross-linking" lemma="cross-linking"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="831-835" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="836-849" text="concomitantly" lemma="concomitantly"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="850-859" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="860-873" text="interleukin-1" lemma="interleukin-1"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="874-878" text="beta" lemma="beta"/>
+            <token xml:space="preserve" id="stt_8" POS="-LRB-" charOffset="879-880" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="880-884" text="IL-1" lemma="il-1"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="885-889" text="beta" lemma="beta"/>
+            <token xml:space="preserve" id="stt_11" POS="-RRB-" charOffset="889-890" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="891-895" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="895-896" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="897-902" text="while" lemma="while"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="903-905" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="906-914" text="apparent" lemma="apparent"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="915-921" text="change" lemma="change"/>
+            <token xml:space="preserve" id="stt_18" POS="VBD" charOffset="922-925" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_19" POS="VBN" charOffset="926-934" text="observed" lemma="observe"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="935-937" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="938-941" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="942-948" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="949-951" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="952-962" text="beta-actin" lemma="beta-actin"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="963-967" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_26" POS="," charOffset="967-968" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_27" POS="VBG" charOffset="969-979" text="indicating" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="980-991" text="specificity" lemma="specificity"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="991-992" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN CD15) (NN=H cross-linking))
+            (ADVP (RB=H also))
+            (VP=H
+            (ADVP (RB=H concomitantly))
+            (VBN=H increased)
+            (NP
+            (NP=H
+            (NP=H (NN interleukin-1) (NN=H beta))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN IL-1) (NN=H beta))
+            (-RRB- -RRB-))
+            (NP (NN=H mRNA)))
+            (, ,)
+            (SBAR (IN=H while)
+            (S
+            (NP (DT no) (JJ apparent) (NN=H change))
+            (VP=H (VBD=H was)
+            (VP (VBN=H observed)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NNS=H levels))
+            (PP (IN=H of)
+            (NP (NN beta-actin) (NN=H mRNA)))))
+            (, ,)
+            (S
+            (VP=H (VBG=H indicating)
+            (NP (NN=H specificity))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="993-1176" id="S7">
+        <text xml:space="preserve">To examine transcriptional regulation of cytokine genes by CD15 engagement, a CAT plasmid reporter construct containing IL-1 beta promoter/enhancer sequences was introduced into MM6. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="993-995" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="VB" charOffset="996-1003" text="examine" lemma="examine"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="1004-1019" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1020-1030" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1031-1033" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1034-1042" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1043-1048" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1049-1051" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1052-1056" text="CD15" lemma="cd15"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1057-1067" text="engagement" lemma="engagement"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="1067-1068" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1069-1070" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1071-1074" text="CAT" lemma="cat"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1075-1082" text="plasmid" lemma="plasmid"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1083-1091" text="reporter" lemma="reporter"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1092-1101" text="construct" lemma="construct"/>
+            <token xml:space="preserve" id="stt_17" POS="VBG" charOffset="1102-1112" text="containing" lemma="contain"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1113-1117" text="IL-1" lemma="il-1"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1118-1122" text="beta" lemma="beta"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1123-1140" text="promoter/enhancer" lemma="promoter/enhancer"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="1141-1150" text="sequences" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_22" POS="VBD" charOffset="1151-1154" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="1155-1165" text="introduced" lemma="introduce"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="1166-1170" text="into" lemma="into"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1171-1174" text="MM6" lemma="mm6"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="1174-1175" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP (VB=H examine)
+            (NP
+            (NP=H (JJ transcriptional) (NN=H regulation))
+            (PP (IN=H of)
+            (NP (NN cytokine) (NNS=H genes))))
+            (PP (IN=H by)
+            (NP (NN CD15) (NN=H engagement))))))
+            (, ,)
+            (NP
+            (NP=H (DT a) (NN CAT) (NN plasmid) (NN reporter) (NN=H construct))
+            (VP (VBG=H containing)
+            (NP (NN IL-1) (NN beta) (NN promoter/enhancer) (NNS=H sequences))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H introduced)
+            (PP (IN=H into)
+            (NP (NN=H MM6)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1176-1233" id="S8">
+        <text xml:space="preserve">Subsequent cross-linking of CD15 increased CAT activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1176-1186" text="Subsequent" lemma="subsequent"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1187-1200" text="cross-linking" lemma="cross-linking"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1201-1203" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1204-1208" text="CD15" lemma="cd15"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="1209-1218" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1219-1222" text="CAT" lemma="cat"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1223-1231" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_8" POS="." charOffset="1231-1232" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Subsequent) (NN=H cross-linking))
+            (PP (IN=H of)
+            (NP (NN=H CD15))))
+            (VP=H (VBD=H increased)
+            (NP (NN CAT) (NN=H activity)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1233-1398" id="S9">
+        <text xml:space="preserve">CD15 engagement by monoclonal antibody also attenuated IL-1 beta transcript degradation, demonstrating that signaling via CD15 also had posttranscriptional effects. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1233-1237" text="CD15" lemma="cd15"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1238-1248" text="engagement" lemma="engagement"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1249-1251" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1252-1262" text="monoclonal" lemma="monoclonal"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1263-1271" text="antibody" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="1272-1276" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="1277-1287" text="attenuated" lemma="attenuate"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1288-1292" text="IL-1" lemma="il-1"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1293-1297" text="beta" lemma="beta"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1298-1308" text="transcript" lemma="transcript"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1309-1320" text="degradation" lemma="degradation"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="1320-1321" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="VBG" charOffset="1322-1335" text="demonstrating" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1336-1340" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1341-1350" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1351-1354" text="via" lemma="via"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1355-1359" text="CD15" lemma="cd15"/>
+            <token xml:space="preserve" id="stt_18" POS="RB" charOffset="1360-1364" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_19" POS="VBD" charOffset="1365-1368" text="had" lemma="have"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="1369-1388" text="posttranscriptional" lemma="posttranscriptional"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="1389-1396" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="1396-1397" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN CD15) (NN=H engagement))
+            (PP (IN=H by)
+            (NP (JJ monoclonal) (NN=H antibody))))
+            (ADVP (RB=H also))
+            (VP=H (VBD=H attenuated)
+            (NP (NN IL-1) (NN beta) (NN transcript) (NN=H degradation))
+            (, ,)
+            (S
+            (VP=H (VBG=H demonstrating)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H signaling))
+            (PP (IN=H via)
+            (NP (NN=H CD15))))
+            (ADVP (RB=H also))
+            (VP=H (VBD=H had)
+            (NP (JJ posttranscriptional) (NNS=H effects))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1398-1622" id="S10">
+        <text xml:space="preserve">Nuclear extracts of anti-CD15 cross-linked cells demonstrated enhanced levels of the transcriptional factor activator protein-1, minimally changed nuclear factor-kappa B, and did not affect SV40 promoter specific protein-1. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1398-1405" text="Nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1406-1414" text="extracts" lemma="extract"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1415-1417" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1418-1427" text="anti-CD15" lemma="anti-cd15"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1428-1440" text="cross-linked" lemma="cross-linked"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="1441-1446" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="1447-1459" text="demonstrated" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="1460-1468" text="enhanced" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1469-1475" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1476-1478" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="1479-1482" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1483-1498" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1499-1505" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1506-1515" text="activator" lemma="activator"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1516-1525" text="protein-1" lemma="protein-1"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="1525-1526" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="RB" charOffset="1527-1536" text="minimally" lemma="minimally"/>
+            <token xml:space="preserve" id="stt_18" POS="VBD" charOffset="1537-1544" text="changed" lemma="change"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="1545-1552" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1553-1565" text="factor-kappa" lemma="factor-kappa"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1566-1567" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="1567-1568" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="1569-1572" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="VBD" charOffset="1573-1576" text="did" lemma="do"/>
+            <token xml:space="preserve" id="stt_25" POS="RB" charOffset="1577-1580" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_26" POS="VB" charOffset="1581-1587" text="affect" lemma="affect"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1588-1592" text="SV40" lemma="sv40"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1593-1601" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="1602-1610" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1611-1620" text="protein-1" lemma="protein-1"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="1620-1621" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Nuclear) (NNS=H extracts))
+            (PP (IN=H of)
+            (NP (JJ anti-CD15) (JJ cross-linked) (NNS=H cells))))
+            (VP=H
+            (VP=H (VBD=H demonstrated)
+            (NP
+            (NP=H (VBN enhanced) (NNS=H levels))
+            (PP (IN=H of)
+            (NP (DT the) (JJ transcriptional) (NN factor) (NN activator) (NN=H protein-1)))))
+            (, ,)
+            (VP
+            (ADVP (RB=H minimally))
+            (VBD=H changed)
+            (NP (JJ nuclear) (NN factor-kappa) (NN=H B)))
+            (, ,)
+            (CC and)
+            (VP (VBD=H did) (RB not)
+            (VP (VB=H affect)
+            (NP
+            (NP=H (NN SV40) (NN=H promoter))
+            (NP (JJ specific) (NN=H protein-1))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1622-1703" id="S11">
+        <text xml:space="preserve">We conclude that engagement of CD15 on monocytes results in monocyte activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="1622-1624" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="1625-1633" text="conclude" lemma="conclude"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1634-1638" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1639-1649" text="engagement" lemma="engagement"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1650-1652" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1653-1657" text="CD15" lemma="cd15"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1658-1660" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1661-1670" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="1671-1678" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1679-1681" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1682-1690" text="monocyte" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1691-1701" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="1701-1702" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H conclude)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H engagement))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H CD15))
+            (PP (IN=H on)
+            (NP (NNS=H monocytes))))))
+            (VP=H (VBZ=H results)
+            (PP (IN=H in)
+            (NP (NN monocyte) (NN=H activation)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1703-1916" id="S12">
+        <text xml:space="preserve">In addition to its well-recognized adhesive role, CD15 may function as an important signaling molecule capable of initiating proinflammatory events in monocytes that come into contact with activated endothelium. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1703-1705" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1706-1714" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="1715-1717" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="PRP$" charOffset="1718-1721" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1722-1737" text="well-recognized" lemma="well-recognized"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1738-1746" text="adhesive" lemma="adhesive"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1747-1751" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="1751-1752" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1753-1757" text="CD15" lemma="cd15"/>
+            <token xml:space="preserve" id="stt_10" POS="MD" charOffset="1758-1761" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_11" POS="VB" charOffset="1762-1770" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1771-1773" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="1774-1776" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="1777-1786" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1787-1796" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1797-1805" text="molecule" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="1806-1813" text="capable" lemma="capable"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1814-1816" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="VBG" charOffset="1817-1827" text="initiating" lemma="initiate"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="1828-1843" text="proinflammatory" lemma="proinflammatory"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="1844-1850" text="events" lemma="event"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1851-1853" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="1854-1863" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_24" POS="WDT" charOffset="1864-1868" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_25" POS="VBP" charOffset="1869-1873" text="come" lemma="come"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="1874-1878" text="into" lemma="into"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1879-1886" text="contact" lemma="contact"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="1887-1891" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_29" POS="VBN" charOffset="1892-1901" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1902-1913" text="endothelium" lemma="endothelium"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="1913-1914" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP
+            (NP=H (NN=H addition))
+            (PP (TO=H to)
+            (NP (PRP$ its) (JJ well-recognized) (JJ adhesive) (NN=H role)))))
+            (, ,)
+            (NP (NN=H CD15))
+            (VP=H (MD=H may)
+            (VP (VB=H function)
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT an) (JJ important) (NN signaling) (NN=H molecule))
+            (ADJP (JJ=H capable)
+            (PP (IN=H of)
+            (S
+            (VP=H (VBG=H initiating)
+            (NP (JJ proinflammatory) (NNS=H events))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NNS=H monocytes))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H come)
+            (PP (IN=H into)
+            (NP
+            (NP=H (NN=H contact))
+            (PP (IN=H with)
+            (NP (VBN activated) (NN=H endothelium))))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T16" type="ZeroArticleNP" charOffset="1653-1657" headOffset="1653-1657" text="CD15"/>
+    <Term xml:space="preserve" id="T17" type="PossessivePronoun" charOffset="1718-1721" headOffset="1718-1721" text="its"/>
+    <Term xml:space="preserve" id="T18" type="ZeroArticleNP" charOffset="1854-1863" headOffset="1854-1863" text="monocytes"/>
+    <Term xml:space="preserve" id="T19" type="RelativePronoun" charOffset="1864-1868" headOffset="1864-1868" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T17"/>
+        <Antecedent idref="T16"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T19"/>
+        <Antecedent idref="T18"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="123-150" headOffset="138-150" text="tumor necrosis factor-alpha"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="152-161" headOffset="152-161" text="TNF-alpha"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="213-226" headOffset="220-226" text="tissue factor"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="231-235" headOffset="231-235" text="CD36"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="398-419" headOffset="410-419" text="endothelial selectins"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="561-570" headOffset="561-570" text="TNF-alpha"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="760-769" headOffset="760-769" text="TNF-alpha"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="860-878" headOffset="874-878" text="interleukin-1 beta"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="880-889" headOffset="885-889" text="IL-1 beta"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="952-962" headOffset="952-962" text="beta-actin"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="1071-1074" headOffset="1071-1074" text="CAT"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="1113-1122" headOffset="1118-1122" text="IL-1 beta"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="1219-1222" headOffset="1219-1222" text="CAT"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1288-1297" headOffset="1293-1297" text="IL-1 beta"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1588-1620" headOffset="1611-1620" text="SV40 promoter specific protein-1"/>
+</document>

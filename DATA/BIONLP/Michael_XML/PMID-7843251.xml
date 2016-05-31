@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-7843251">
+    <text xml:space="preserve">Protein kinase C is not a downstream effector of p21ras in activated T cells. 
+The aim of this present study was to investigate the role of protein kinase C (PKC), downstream of p21ras, in activating interleukin-2 (IL-2) gene expression. It has been reported that PKC is an effector of p21ras in T cells. Data is presented, using the potent and selective PKC inhibitor Ro 31-8425 and transient expression of a constitutively active ras mutant, which clearly shows that PKC is not downstream of p21ras in the induction of NF-AT and AP-1 transcriptional activity and in the expression of IL-2 in human Jurkat T cells. Reporter gene experiments demonstrated that NF-kappa B transcriptional activity is not affected by expression of activated p21ras. The signaling pathways involving PKC activation, calcium mobilization and ras activation combine to provide the necessary components for production of IL-2 during T cell activation. 
+</text>
+    <sentence charOffset="0-79" id="S1">
+        <text xml:space="preserve">Protein kinase C is not a downstream effector of p21ras in activated T cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-7" text="Protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="8-14" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="15-16" text="C" lemma="c"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="17-19" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="20-23" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="24-25" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="26-36" text="downstream" lemma="downstream"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="37-45" text="effector" lemma="effector"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="46-48" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="49-55" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="56-58" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="59-68" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="69-70" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="71-76" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="76-77" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Protein) (NN kinase) (NN=H C))
+            (VP=H (VBZ=H is) (RB not)
+            (NP
+            (NP=H (DT a) (JJ downstream) (NN=H effector))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H p21ras))
+            (PP (IN=H in)
+            (NP (VBN activated) (NN T) (NNS=H cells)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="79-238" id="S2">
+        <text xml:space="preserve">The aim of this present study was to investigate the role of protein kinase C (PKC), downstream of p21ras, in activating interleukin-2 (IL-2) gene expression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="79-82" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="83-86" text="aim" lemma="aim"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="87-89" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="90-94" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="95-102" text="present" lemma="present"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="103-108" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="109-112" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="113-115" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="116-127" text="investigate" lemma="investigate"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="128-131" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="132-136" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="137-139" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="140-147" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="148-154" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="155-156" text="C" lemma="c"/>
+            <token xml:space="preserve" id="stt_16" POS="-LRB-" charOffset="157-158" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="158-161" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_18" POS="-RRB-" charOffset="161-162" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="162-163" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="164-174" text="downstream" lemma="downstream"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="175-177" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="178-184" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_23" POS="," charOffset="184-185" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="186-188" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_25" POS="VBG" charOffset="189-199" text="activating" lemma="activate"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="200-213" text="interleukin-2" lemma="interleukin-2"/>
+            <token xml:space="preserve" id="stt_27" POS="-LRB-" charOffset="214-215" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="215-219" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_29" POS="-RRB-" charOffset="219-220" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="221-225" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="226-236" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="236-237" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H aim))
+            (PP (IN=H of)
+            (NP (DT this) (JJ present) (NN=H study))))
+            (VP=H (VBD=H was)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H investigate)
+            (NP
+            (NP=H (DT the) (NN=H role))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (NP=H (NN protein) (NN kinase) (NN=H C))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H PKC))
+            (-RRB- -RRB-)))
+            (, ,)
+            (NP
+            (NP=H (JJ=H downstream))
+            (PP (IN=H of)
+            (NP (NN=H p21ras))))
+            (, ,))))
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H activating)
+            (S
+            (NP=H
+            (NP=H (NN=H interleukin-2))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IL-2))
+            (-RRB- -RRB-)))
+            (NP (NN gene) (NN=H expression))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="238-305" id="S3">
+        <text xml:space="preserve">It has been reported that PKC is an effector of p21ras in T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="238-240" text="It" lemma="it"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="241-244" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="245-249" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="250-258" text="reported" lemma="report"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="259-263" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="264-267" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="268-270" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="271-273" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="274-282" text="effector" lemma="effector"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="283-285" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="286-292" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="293-295" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="296-297" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="298-303" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="303-304" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H It))
+            (VP=H (VBZ=H has)
+            (VP (VBN=H been)
+            (VP (VBN=H reported)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H PKC))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT an) (NN=H effector))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H p21ras))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="305-616" id="S4">
+        <text xml:space="preserve">Data is presented, using the potent and selective PKC inhibitor Ro 31-8425 and transient expression of a constitutively active ras mutant, which clearly shows that PKC is not downstream of p21ras in the induction of NF-AT and AP-1 transcriptional activity and in the expression of IL-2 in human Jurkat T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="305-309" text="Data" lemma="datum"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="310-312" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="313-322" text="presented" lemma="present"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="322-323" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="VBG" charOffset="324-329" text="using" lemma="use"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="330-333" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="334-340" text="potent" lemma="potent"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="341-344" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="345-354" text="selective" lemma="selective"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="355-358" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="359-368" text="inhibitor" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="369-371" text="Ro" lemma="ro"/>
+            <token xml:space="preserve" id="stt_13" POS="CD" charOffset="372-379" text="31-8425" lemma="31-8425"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="380-383" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="384-393" text="transient" lemma="transient"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="394-404" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="405-407" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="408-409" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_19" POS="RB" charOffset="410-424" text="constitutively" lemma="constitutively"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="425-431" text="active" lemma="active"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="432-435" text="ras" lemma="ras"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="436-442" text="mutant" lemma="mutant"/>
+            <token xml:space="preserve" id="stt_23" POS="," charOffset="442-443" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_24" POS="WDT" charOffset="444-449" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_25" POS="RB" charOffset="450-457" text="clearly" lemma="clearly"/>
+            <token xml:space="preserve" id="stt_26" POS="VBZ" charOffset="458-463" text="shows" lemma="show"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="464-468" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="469-472" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_29" POS="VBZ" charOffset="473-475" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_30" POS="RB" charOffset="476-479" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="480-490" text="downstream" lemma="downstream"/>
+            <token xml:space="preserve" id="stt_32" POS="IN" charOffset="491-493" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="494-500" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="501-503" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_35" POS="DT" charOffset="504-507" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="508-517" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_37" POS="IN" charOffset="518-520" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="521-526" text="NF-AT" lemma="nf-at"/>
+            <token xml:space="preserve" id="stt_39" POS="CC" charOffset="527-530" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="531-535" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_41" POS="JJ" charOffset="536-551" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="552-560" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_43" POS="CC" charOffset="561-564" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_44" POS="IN" charOffset="565-567" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_45" POS="DT" charOffset="568-571" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="572-582" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_47" POS="IN" charOffset="583-585" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_48" POS="NN" charOffset="586-590" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_49" POS="IN" charOffset="591-593" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_50" POS="JJ" charOffset="594-599" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_51" POS="NN" charOffset="600-606" text="Jurkat" lemma="jurkat"/>
+            <token xml:space="preserve" id="stt_52" POS="NN" charOffset="607-608" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_53" POS="NNS" charOffset="609-614" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_54" POS="." charOffset="614-615" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NNS=H Data))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H presented) (, ,)
+            (S
+            (VP=H (VBG=H using)
+            (NP
+            (NP=H
+            (NP=H (DT the)
+            (ADJP (JJ=H potent)
+            (CC and)
+            (JJ selective))
+            (NN PKC) (NN inhibitor) (NN=H Ro))
+            (NP (CD=H 31-8425)))
+            (CC and)
+            (NP
+            (NP=H (JJ transient) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a)
+            (ADJP (RB constitutively) (JJ=H active))
+            (NN ras) (NN=H mutant))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (ADVP (RB=H clearly))
+            (VP=H (VBZ=H shows)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H PKC))
+            (VP=H (VBZ=H is) (RB not)
+            (NP
+            (NP=H (JJ=H downstream))
+            (PP (IN=H of)
+            (NP (NN=H p21ras))))
+            (PP
+            (PP=H (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H induction))
+            (PP (IN=H of)
+            (NP (NN NF-AT)
+            (CC and)
+            (NN AP-1) (JJ transcriptional) (NN=H activity)))))
+            (CC and)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H IL-2))
+            (PP (IN=H in)
+            (NP (JJ human) (NN Jurkat) (NN T) (NNS=H cells))))))))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="616-747" id="S5">
+        <text xml:space="preserve">Reporter gene experiments demonstrated that NF-kappa B transcriptional activity is not affected by expression of activated p21ras. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="616-624" text="Reporter" lemma="reporter"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="625-629" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="630-641" text="experiments" lemma="experiment"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="642-654" text="demonstrated" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="655-659" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="660-668" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="669-670" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="671-686" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="687-695" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="696-698" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="RB" charOffset="699-702" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="703-711" text="affected" lemma="affect"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="712-714" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="715-725" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="726-728" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="729-738" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="739-745" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="745-746" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Reporter) (NN gene) (NNS=H experiments))
+            (VP=H (VBD=H demonstrated)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN NF-kappa) (NN=H B))
+            (NP (JJ transcriptional) (NN=H activity)))
+            (VP=H (VBZ=H is) (RB not)
+            (VP (VBN=H affected)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H expression))
+            (PP (IN=H of)
+            (NP (VBN activated) (NN=H p21ras))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="747-930" id="S6">
+        <text xml:space="preserve">The signaling pathways involving PKC activation, calcium mobilization and ras activation combine to provide the necessary components for production of IL-2 during T cell activation. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="747-750" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="751-760" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="761-769" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_4" POS="VBG" charOffset="770-779" text="involving" lemma="involve"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="780-783" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="784-794" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="794-795" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="796-803" text="calcium" lemma="calcium"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="804-816" text="mobilization" lemma="mobilization"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="817-820" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="821-824" text="ras" lemma="ras"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="825-835" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_13" POS="VBP" charOffset="836-843" text="combine" lemma="combine"/>
+            <token xml:space="preserve" id="stt_14" POS="TO" charOffset="844-846" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_15" POS="VB" charOffset="847-854" text="provide" lemma="provide"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="855-858" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="859-868" text="necessary" lemma="necessary"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="869-879" text="components" lemma="component"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="880-883" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="884-894" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="895-897" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="898-902" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="903-909" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="910-911" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="912-916" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="917-927" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="927-928" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN signaling) (NNS=H pathways))
+            (PP (VBG=H involving)
+            (NP
+            (NP=H (NN PKC) (NN=H activation))
+            (, ,)
+            (NP (NN calcium) (NN=H mobilization))
+            (CC and)
+            (NP (NN ras) (NN=H activation)))))
+            (VP=H (VBP=H combine)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H provide)
+            (NP
+            (NP=H (DT the) (JJ necessary) (NNS=H components))
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN=H production))
+            (PP (IN=H of)
+            (NP (NN=H IL-2))))))
+            (PP (IN=H during)
+            (NP (NN T) (NN cell) (NN=H activation)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T9" type="ZeroArticleNP" charOffset="384-442" headOffset="394-404" text="transient expression of a constitutively active ras mutant"/>
+    <Term xml:space="preserve" id="T10" type="RelativePronoun" charOffset="444-449" headOffset="444-449" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T10"/>
+        <Antecedent idref="T9"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="49-55" headOffset="49-55" text="p21ras"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="178-184" headOffset="178-184" text="p21ras"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="200-213" headOffset="200-213" text="interleukin-2"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="215-219" headOffset="215-219" text="IL-2"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="286-292" headOffset="286-292" text="p21ras"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="586-590" headOffset="586-590" text="IL-2"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="739-745" headOffset="739-745" text="p21ras"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="898-902" headOffset="898-902" text="IL-2"/>
+</document>

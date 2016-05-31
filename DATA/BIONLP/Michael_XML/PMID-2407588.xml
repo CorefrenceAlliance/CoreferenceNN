@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-2407588">
+    <text xml:space="preserve">Octamer transcription factors and the cell type-specificity of immunoglobulin gene expression. 
+Antibodies are produced exclusively in B lymphocytes. The expression of the antibody-encoding genes, the immunoglobulin (Ig) genes, is also restricted to B cells. The octamer sequence ATGCAAAT is present in the promoter and the enhancer of Ig genes, and plays an important role in its tissue-specific expression. This sequence motif is a binding site for nuclear proteins, the so-called octamer transcription factors (Oct or OTF factors). The Oct-1 protein is present in all cell types analyzed so far, whereas Oct-2A and Oct-2B are found mainly in B lymphocytes. All three proteins show the same sequence specificity and binding affinity. It appears that the B cell-specific expression of Ig genes is mediated at least in part by cell type-specific Oct factors, and that there are both quantitative and qualitative differences between Oct-1 and Oct-2 factors. Recently, a number of other octamer factor variants were identified. Many of these may be created by alternative splicing of a primary transcript of one Oct factor gene and may serve a specific function in the fine tuning of gene expression. 
+</text>
+    <sentence charOffset="0-96" id="S1">
+        <text xml:space="preserve">Octamer transcription factors and the cell type-specificity of immunoglobulin gene expression. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-7" text="Octamer" lemma="octamer"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="8-21" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="22-29" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="30-33" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="34-37" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="38-42" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="43-59" text="type-specificity" lemma="type-specificity"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="60-62" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="63-77" text="immunoglobulin" lemma="immunoglobulin"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="78-82" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="83-93" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="93-94" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Octamer))
+            (NP
+            (NP=H (NN transcription) (NNS=H factors))
+            (CC and)
+            (NP (DT the) (NN cell) (NN=H type-specificity)))
+            (PP (IN=H of)
+            (NP (NN immunoglobulin) (NN gene) (NN=H expression)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="96-150" id="S2">
+        <text xml:space="preserve">Antibodies are produced exclusively in B lymphocytes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="96-106" text="Antibodies" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="107-110" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="111-119" text="produced" lemma="produce"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="120-131" text="exclusively" lemma="exclusively"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="132-134" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="135-136" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="137-148" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_8" POS="." charOffset="148-149" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NNS=H Antibodies))
+            (VP=H (VBP=H are)
+            (VP (VBN=H produced)
+            (ADVP (RB=H exclusively))
+            (PP (IN=H in)
+            (NP (NN B) (NNS=H lymphocytes)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="150-259" id="S3">
+        <text xml:space="preserve">The expression of the antibody-encoding genes, the immunoglobulin (Ig) genes, is also restricted to B cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="150-153" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="154-164" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="165-167" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="168-171" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="172-189" text="antibody-encoding" lemma="antibody-encoding"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="190-195" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="195-196" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="197-200" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="201-215" text="immunoglobulin" lemma="immunoglobulin"/>
+            <token xml:space="preserve" id="stt_10" POS="-LRB-" charOffset="216-217" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="217-219" text="Ig" lemma="ig"/>
+            <token xml:space="preserve" id="stt_12" POS="-RRB-" charOffset="219-220" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="221-226" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="226-227" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="228-230" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="231-235" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="236-246" text="restricted" lemma="restricted"/>
+            <token xml:space="preserve" id="stt_18" POS="TO" charOffset="247-249" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="250-251" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="252-257" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="257-258" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (DT The) (NN=H expression))
+            (PP (IN=H of)
+            (NP (DT the) (JJ antibody-encoding) (NNS=H genes))))
+            (, ,)
+            (NP (DT the) (NN immunoglobulin)
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H Ig))
+            (-RRB- -RRB-))
+            (NNS=H genes))
+            (, ,))
+            (VP=H (VBZ=H is)
+            (ADVP (RB=H also))
+            (ADJP (JJ=H restricted)
+            (PP (TO=H to)
+            (NP (NN B) (NNS=H cells)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="259-409" id="S4">
+        <text xml:space="preserve">The octamer sequence ATGCAAAT is present in the promoter and the enhancer of Ig genes, and plays an important role in its tissue-specific expression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="259-262" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="263-270" text="octamer" lemma="octamer"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="271-279" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="280-288" text="ATGCAAAT" lemma="atgcaaat"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="289-291" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="292-299" text="present" lemma="present"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="300-302" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="303-306" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="307-315" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="316-319" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="320-323" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="324-332" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="333-335" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="336-338" text="Ig" lemma="ig"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="339-344" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="344-345" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="346-349" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="VBZ" charOffset="350-355" text="plays" lemma="play"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="356-358" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="359-368" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="369-373" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="374-376" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_23" POS="PRP$" charOffset="377-380" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="381-396" text="tissue-specific" lemma="tissue-specific"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="397-407" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="407-408" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NN octamer) (NN sequence) (NN=H ATGCAAAT))
+            (VP=H
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H present)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H promoter))
+            (CC and)
+            (NP
+            (NP=H (DT the) (NN=H enhancer))
+            (PP (IN=H of)
+            (NP (NN Ig) (NNS=H genes))))))))
+            (, ,)
+            (CC and)
+            (VP (VBZ=H plays)
+            (NP (DT an) (JJ important) (NN=H role))
+            (PP (IN=H in)
+            (NP (PRP$ its) (JJ tissue-specific) (NN=H expression)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="409-535" id="S5">
+        <text xml:space="preserve">This sequence motif is a binding site for nuclear proteins, the so-called octamer transcription factors (Oct or OTF factors). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="409-413" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="414-422" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="423-428" text="motif" lemma="motif"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="429-431" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="432-433" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="434-441" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="442-446" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="447-450" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="451-458" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="459-467" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="467-468" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="469-472" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="473-482" text="so-called" lemma="so-called"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="483-490" text="octamer" lemma="octamer"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="491-504" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="505-512" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_17" POS="-LRB-" charOffset="513-514" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="514-517" text="Oct" lemma="oct"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="518-520" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="521-524" text="OTF" lemma="otf"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="525-532" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_22" POS="-RRB-" charOffset="532-533" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="533-534" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN sequence) (NN=H motif))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (NN binding) (NN=H site))
+            (PP (IN=H for)
+            (NP
+            (NP=H (JJ nuclear) (NNS=H proteins))
+            (, ,)
+            (NP
+            (NP=H (DT the) (JJ so-called) (NN octamer) (NN transcription) (NNS=H factors))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (NN=H Oct))
+            (CC or)
+            (NP (NN OTF) (NNS=H factors)))
+            (-RRB- -RRB-)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="535-660" id="S6">
+        <text xml:space="preserve">The Oct-1 protein is present in all cell types analyzed so far, whereas Oct-2A and Oct-2B are found mainly in B lymphocytes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="535-538" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="539-544" text="Oct-1" lemma="oct-1"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="545-552" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="553-555" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="556-563" text="present" lemma="present"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="564-566" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="567-570" text="all" lemma="all"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="571-575" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="576-581" text="types" lemma="type"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="582-590" text="analyzed" lemma="analyze"/>
+            <token xml:space="preserve" id="stt_11" POS="RB" charOffset="591-593" text="so" lemma="so"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="594-597" text="far" lemma="far"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="597-598" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="599-606" text="whereas" lemma="whereas"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="607-613" text="Oct-2A" lemma="oct-2a"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="614-617" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="618-624" text="Oct-2B" lemma="oct-2b"/>
+            <token xml:space="preserve" id="stt_18" POS="VBP" charOffset="625-628" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_19" POS="VBN" charOffset="629-634" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_20" POS="RB" charOffset="635-641" text="mainly" lemma="mainly"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="642-644" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="645-646" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="647-658" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="658-659" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NN Oct-1) (NN=H protein))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H present)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT all) (NN cell) (NNS=H types))
+            (VP (VBN=H analyzed)
+            (ADVP (RB so) (RB=H far))
+            (, ,)
+            (SBAR (IN=H whereas)
+            (S
+            (NP (NN=H Oct-2A)
+            (CC and)
+            (NN Oct-2B))
+            (VP=H (VBP=H are)
+            (VP (VBN=H found)
+            (ADVP (RB=H mainly))
+            (PP (IN=H in)
+            (NP (NN B) (NNS=H lymphocytes))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="660-736" id="S7">
+        <text xml:space="preserve">All three proteins show the same sequence specificity and binding affinity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="660-663" text="All" lemma="all"/>
+            <token xml:space="preserve" id="stt_2" POS="CD" charOffset="664-669" text="three" lemma="three"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="670-678" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="679-683" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="684-687" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="688-692" text="same" lemma="same"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="693-701" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="702-713" text="specificity" lemma="specificity"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="714-717" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="718-725" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="726-734" text="affinity" lemma="affinity"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="734-735" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT All) (CD three) (NNS=H proteins))
+            (VP=H (VBP=H show)
+            (NP (DT the) (JJ same) (NN sequence) (NN specificity)
+            (CC and)
+            (NN binding) (NN=H affinity)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="736-957" id="S8">
+        <text xml:space="preserve">It appears that the B cell-specific expression of Ig genes is mediated at least in part by cell type-specific Oct factors, and that there are both quantitative and qualitative differences between Oct-1 and Oct-2 factors. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="736-738" text="It" lemma="it"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="739-746" text="appears" lemma="appear"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="747-751" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="752-755" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="756-757" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="758-771" text="cell-specific" lemma="cell-specific"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="772-782" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="783-785" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="786-788" text="Ig" lemma="ig"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="789-794" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="795-797" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="798-806" text="mediated" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="807-809" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_14" POS="JJS" charOffset="810-815" text="least" lemma="least"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="816-818" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="819-823" text="part" lemma="part"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="824-826" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="827-831" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="832-845" text="type-specific" lemma="type-specific"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="846-849" text="Oct" lemma="oct"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="850-857" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="857-858" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="859-862" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="863-867" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_25" POS="EX" charOffset="868-873" text="there" lemma="there"/>
+            <token xml:space="preserve" id="stt_26" POS="VBP" charOffset="874-877" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="878-882" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="883-895" text="quantitative" lemma="quantitative"/>
+            <token xml:space="preserve" id="stt_29" POS="CC" charOffset="896-899" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="900-911" text="qualitative" lemma="qualitative"/>
+            <token xml:space="preserve" id="stt_31" POS="NNS" charOffset="912-923" text="differences" lemma="difference"/>
+            <token xml:space="preserve" id="stt_32" POS="IN" charOffset="924-931" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="932-937" text="Oct-1" lemma="oct-1"/>
+            <token xml:space="preserve" id="stt_34" POS="CC" charOffset="938-941" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="942-947" text="Oct-2" lemma="oct-2"/>
+            <token xml:space="preserve" id="stt_36" POS="NNS" charOffset="948-955" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="955-956" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H It))
+            (VP=H (VBZ=H appears)
+            (SBAR
+            (SBAR=H (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (NN B) (JJ cell-specific) (NN=H expression))
+            (PP (IN=H of)
+            (NP (NN Ig) (NNS=H genes))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H mediated)
+            (PP
+            (ADVP (IN=H at) (JJS least))
+            (IN=H in)
+            (NP (NN=H part)))
+            (PP (IN=H by)
+            (NP (NN cell) (JJ type-specific) (NN Oct) (NNS=H factors)))))))
+            (, ,)
+            (CC and)
+            (SBAR (IN=H that)
+            (S
+            (NP (EX=H there))
+            (VP=H (VBP=H are)
+            (NP
+            (NP=H (DT both) (JJ quantitative)
+            (CC and)
+            (JJ qualitative) (NNS=H differences))
+            (PP (IN=H between)
+            (NP (NN Oct-1)
+            (CC and)
+            (NN Oct-2) (NNS=H factors)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="957-1026" id="S9">
+        <text xml:space="preserve">Recently, a number of other octamer factor variants were identified. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="957-965" text="Recently" lemma="recently"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="965-966" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="967-968" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="969-975" text="number" lemma="number"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="976-978" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="979-984" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="985-992" text="octamer" lemma="octamer"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="993-999" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1000-1008" text="variants" lemma="variant"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="1009-1013" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="1014-1024" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="1024-1025" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Recently))
+            (, ,)
+            (NP
+            (NP=H (DT a) (NN=H number))
+            (PP (IN=H of)
+            (NP (JJ other) (NN octamer) (NN factor) (NNS=H variants))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H identified)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1026-1200" id="S10">
+        <text xml:space="preserve">Many of these may be created by alternative splicing of a primary transcript of one Oct factor gene and may serve a specific function in the fine tuning of gene expression. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1026-1030" text="Many" lemma="many"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1031-1033" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1034-1039" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_4" POS="MD" charOffset="1040-1043" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_5" POS="VB" charOffset="1044-1046" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="1047-1054" text="created" lemma="create"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1055-1057" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1058-1069" text="alternative" lemma="alternative"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1070-1078" text="splicing" lemma="splicing"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1079-1081" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="1082-1083" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1084-1091" text="primary" lemma="primary"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1092-1102" text="transcript" lemma="transcript"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1103-1105" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="CD" charOffset="1106-1109" text="one" lemma="one"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1110-1113" text="Oct" lemma="oct"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1114-1120" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1121-1125" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="1126-1129" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="MD" charOffset="1130-1133" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_21" POS="VB" charOffset="1134-1139" text="serve" lemma="serve"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="1140-1141" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="1142-1150" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1151-1159" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="1160-1162" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="1163-1166" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="1167-1171" text="fine" lemma="fine"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1172-1178" text="tuning" lemma="tuning"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="1179-1181" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1182-1186" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1187-1197" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="1197-1198" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ=H Many))
+            (PP (IN=H of)
+            (NP (DT=H these))))
+            (VP=H
+            (VP=H (MD=H may)
+            (VP (VB=H be)
+            (VP (VBN=H created)
+            (PP (IN=H by)
+            (NP
+            (NP=H (JJ alternative) (NN=H splicing))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a) (JJ primary) (NN=H transcript))
+            (PP (IN=H of)
+            (NP (CD one) (NN Oct) (NN factor) (NN=H gene))))))))))
+            (CC and)
+            (VP (MD=H may)
+            (VP (VB=H serve)
+            (NP (DT a) (JJ specific) (NN=H function))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (JJ fine) (NN=H tuning))
+            (PP (IN=H of)
+            (NP (NN gene) (NN=H expression))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T6" type="ZeroArticleNP" charOffset="336-344" headOffset="339-344" text="Ig genes"/>
+    <Term xml:space="preserve" id="T7" type="PossessivePronoun" charOffset="377-380" headOffset="377-380" text="its"/>
+    <Term xml:space="preserve" id="T8" type="IndefiniteNP" charOffset="967-1008" headOffset="969-975" text="a number of other octamer factor variants"/>
+    <Term xml:space="preserve" id="T9" type="DemonstrativePronoun" charOffset="1034-1039" headOffset="1034-1039" text="these"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T7"/>
+        <Antecedent idref="T6"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T9"/>
+        <Antecedent idref="T8"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="539-544" headOffset="539-544" text="Oct-1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="607-613" headOffset="607-613" text="Oct-2A"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="618-624" headOffset="618-624" text="Oct-2B"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="932-937" headOffset="932-937" text="Oct-1"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="942-947" headOffset="942-947" text="Oct-2"/>
+</document>

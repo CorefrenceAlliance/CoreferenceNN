@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9119999">
+    <text xml:space="preserve">HIV does not replicate in naive CD4 T cells stimulated with CD3/CD28. 
+In this report, we demonstrate that the T cell tropic strain of HIV, LAI, does not replicate in naive CD4 T cells stimulated by cross-linking CD3 and CD28. In contrast, LAI replicates well in memory CD4 T cells stimulated in the same way. Unlike this physiologically relevant stimulation, PHA stimulates productive LAI replication in both naive and memory T cells. These studies were conducted with highly purified (FACS-isolated) subsets of CD4 T cells identified by expression of both CD45RA and CD62L. Remixing of purified T cells showed that naive T cells do not suppress LAI replication in memory T cells and that memory T cells do not restore LAI expression in naive T cells. The suppression of productive LAI replication in naive T cells is not due to differential expression of viral coreceptors, nor is it due to inhibition of activation of the important HIV transcription factors, nuclear factor-kappaB and activator protein-1. The inherent resistance of naive T cells to productive HIV infection, coupled with their proliferative advantage as demonstrated here, provides a sound basis for proposed clinical therapies using ex vivo expansion and reinfusion of CD4 T cells from HIV-infected adults. 
+</text>
+    <sentence charOffset="0-71" id="S1">
+        <text xml:space="preserve">HIV does not replicate in naive CD4 T cells stimulated with CD3/CD28. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-3" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="4-8" text="does" lemma="do"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="9-12" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_4" POS="VB" charOffset="13-22" text="replicate" lemma="replicate"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="23-25" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="26-31" text="naive" lemma="naive"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="32-35" text="CD4" lemma="cd4"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="36-37" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="38-43" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="44-54" text="stimulated" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="55-59" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="60-68" text="CD3/CD28" lemma="cd3/cd28"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="68-69" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H HIV))
+            (VP=H (VBZ=H does) (RB not)
+            (VP (VB=H replicate)
+            (NP
+            (ADJP (IN in) (JJ=H naive))
+            (NN=H CD4))
+            (NP
+            (NP=H (NN T) (NNS=H cells))
+            (VP (VBN=H stimulated)
+            (PP (IN=H with)
+            (NP (NN=H CD3/CD28)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="71-227" id="S2">
+        <text xml:space="preserve">In this report, we demonstrate that the T cell tropic strain of HIV, LAI, does not replicate in naive CD4 T cells stimulated by cross-linking CD3 and CD28. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="71-73" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="74-78" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="79-85" text="report" lemma="report"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="85-86" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="87-89" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="90-101" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="102-106" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="107-110" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="111-112" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="113-117" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="118-124" text="tropic" lemma="tropic"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="125-131" text="strain" lemma="strain"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="132-134" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="135-138" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="138-139" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="NNP" charOffset="140-143" text="LAI" lemma="LAI"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="143-144" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="VBZ" charOffset="145-149" text="does" lemma="do"/>
+            <token xml:space="preserve" id="stt_19" POS="RB" charOffset="150-153" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_20" POS="VB" charOffset="154-163" text="replicate" lemma="replicate"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="164-166" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="167-172" text="naive" lemma="naive"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="173-176" text="CD4" lemma="cd4"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="177-178" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="179-184" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_26" POS="VBN" charOffset="185-195" text="stimulated" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="196-198" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="199-212" text="cross-linking" lemma="cross-linking"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="213-216" text="CD3" lemma="cd3"/>
+            <token xml:space="preserve" id="stt_30" POS="CC" charOffset="217-220" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="221-225" text="CD28" lemma="cd28"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="225-226" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (DT this) (NN=H report)))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (NN T) (NN cell) (JJ tropic) (NN=H strain))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H HIV))
+            (, ,)
+            (NP (NNP=H LAI))
+            (, ,))))
+            (VP=H (VBZ=H does) (RB not)
+            (VP (VB=H replicate)
+            (NP
+            (ADJP (IN in) (JJ=H naive))
+            (NN=H CD4))
+            (NP
+            (NP=H (NN T) (NNS=H cells))
+            (VP (VBN=H stimulated)
+            (PP (IN=H by)
+            (NP (JJ cross-linking) (NN=H CD3)
+            (CC and)
+            (NN CD28))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="227-310" id="S3">
+        <text xml:space="preserve">In contrast, LAI replicates well in memory CD4 T cells stimulated in the same way. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="227-229" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="230-238" text="contrast" lemma="contrast"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="238-239" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NNP" charOffset="240-243" text="LAI" lemma="LAI"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="244-254" text="replicates" lemma="replicate"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="255-259" text="well" lemma="well"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="260-262" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="263-269" text="memory" lemma="memory"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="270-273" text="CD4" lemma="cd4"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="274-275" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="276-281" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="282-292" text="stimulated" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="293-295" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="296-299" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="300-304" text="same" lemma="same"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="305-308" text="way" lemma="way"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="308-309" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H contrast)))
+            (, ,)
+            (NP (NNP=H LAI))
+            (VP=H (VBZ=H replicates)
+            (ADVP (RB=H well))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN memory) (NN CD4) (NN T) (NNS=H cells))
+            (VP (VBN=H stimulated)
+            (PP (IN=H in)
+            (NP (DT the) (JJ same) (NN=H way)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="310-436" id="S4">
+        <text xml:space="preserve">Unlike this physiologically relevant stimulation, PHA stimulates productive LAI replication in both naive and memory T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="310-316" text="Unlike" lemma="unlike"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="317-321" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="322-337" text="physiologically" lemma="physiologically"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="338-346" text="relevant" lemma="relevant"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="347-358" text="stimulation" lemma="stimulation"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="358-359" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="360-363" text="PHA" lemma="pha"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="364-374" text="stimulates" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="375-385" text="productive" lemma="productive"/>
+            <token xml:space="preserve" id="stt_10" POS="NNP" charOffset="386-389" text="LAI" lemma="LAI"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="390-401" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="402-404" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="405-409" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="410-415" text="naive" lemma="naive"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="416-419" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="420-426" text="memory" lemma="memory"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="427-428" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="429-434" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="434-435" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H Unlike)
+            (NP (DT this)
+            (ADJP (RB physiologically) (JJ=H relevant))
+            (NN=H stimulation)))
+            (, ,)
+            (NP (NN=H PHA))
+            (VP=H (VBZ=H stimulates)
+            (NP (JJ productive) (NNP LAI) (NN=H replication))
+            (PP (IN=H in)
+            (NP (CC both)
+            (NP=H (JJ=H naive))
+            (CC and)
+            (NP (NN memory) (NN T) (NNS=H cells)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="436-576" id="S5">
+        <text xml:space="preserve">These studies were conducted with highly purified (FACS-isolated) subsets of CD4 T cells identified by expression of both CD45RA and CD62L. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="436-441" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="442-449" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="450-454" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="455-464" text="conducted" lemma="conduct"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="465-469" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="470-476" text="highly" lemma="highly"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="477-485" text="purified" lemma="purify"/>
+            <token xml:space="preserve" id="stt_8" POS="-LRB-" charOffset="486-487" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="487-500" text="FACS-isolated" lemma="facs-isolated"/>
+            <token xml:space="preserve" id="stt_10" POS="-RRB-" charOffset="500-501" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="502-509" text="subsets" lemma="subset"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="510-512" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="513-516" text="CD4" lemma="cd4"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="517-518" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="519-524" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="525-535" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="536-538" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="539-549" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="550-552" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="553-557" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="558-564" text="CD45RA" lemma="cd45ra"/>
+            <token xml:space="preserve" id="stt_22" POS="CC" charOffset="565-568" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="569-574" text="CD62L" lemma="cd62l"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="574-575" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H studies))
+            (VP=H (VBD=H were)
+            (VP (VBN=H conducted)
+            (PP (IN=H with)
+            (S
+            (VP=H
+            (ADVP (RB=H highly))
+            (VBN=H purified)
+            (NP
+            (NP=H
+            (PRN (-LRB- -LRB-)
+            (ADJP=H (JJ=H FACS-isolated))
+            (-RRB- -RRB-))
+            (NNS=H subsets))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN CD4) (NN T) (NNS=H cells))
+            (VP (VBN=H identified)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H expression))
+            (PP (IN=H of)
+            (NP (CC both)
+            (NP=H (NN=H CD45RA))
+            (CC and)
+            (NP (NN=H CD62L)))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="576-753" id="S6">
+        <text xml:space="preserve">Remixing of purified T cells showed that naive T cells do not suppress LAI replication in memory T cells and that memory T cells do not restore LAI expression in naive T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBG" charOffset="576-584" text="Remixing" lemma="remix"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="585-587" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="588-596" text="purified" lemma="purify"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="597-598" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="599-604" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="605-611" text="showed" lemma="show"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="612-616" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="617-622" text="naive" lemma="naive"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="623-624" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="625-630" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="VBP" charOffset="631-633" text="do" lemma="do"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="634-637" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_13" POS="VB" charOffset="638-646" text="suppress" lemma="suppress"/>
+            <token xml:space="preserve" id="stt_14" POS="NNP" charOffset="647-650" text="LAI" lemma="LAI"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="651-662" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="663-665" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="666-672" text="memory" lemma="memory"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="673-674" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="675-680" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="681-684" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="685-689" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="690-696" text="memory" lemma="memory"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="697-698" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="699-704" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_25" POS="VBP" charOffset="705-707" text="do" lemma="do"/>
+            <token xml:space="preserve" id="stt_26" POS="RB" charOffset="708-711" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_27" POS="VB" charOffset="712-719" text="restore" lemma="restore"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="720-723" text="LAI" lemma="lai"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="724-734" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="735-737" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="738-743" text="naive" lemma="naive"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="744-745" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_33" POS="NNS" charOffset="746-751" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_34" POS="." charOffset="751-752" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (VBG=H Remixing))
+            (PP (IN=H of)
+            (NP (VBN purified) (NN T) (NNS=H cells))))
+            (VP=H (VBD=H showed)
+            (SBAR
+            (SBAR=H (IN=H that)
+            (S
+            (NP (JJ naive) (NN T) (NNS=H cells))
+            (VP=H (VBP=H do) (RB not)
+            (VP (VB=H suppress)
+            (NP (NNP LAI) (NN=H replication))
+            (PP (IN=H in)
+            (NP (NN memory) (NN T) (NNS=H cells)))))))
+            (CC and)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN memory) (NN T) (NNS=H cells))
+            (VP=H (VBP=H do) (RB not)
+            (VP (VB=H restore)
+            (NP (NN LAI) (NN=H expression))
+            (PP (IN=H in)
+            (NP
+            (ADJP (JJ=H naive))
+            (NN T) (NNS=H cells)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="753-1009" id="S7">
+        <text xml:space="preserve">The suppression of productive LAI replication in naive T cells is not due to differential expression of viral coreceptors, nor is it due to inhibition of activation of the important HIV transcription factors, nuclear factor-kappaB and activator protein-1. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="753-756" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="757-768" text="suppression" lemma="suppression"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="769-771" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="772-782" text="productive" lemma="productive"/>
+            <token xml:space="preserve" id="stt_5" POS="NNP" charOffset="783-786" text="LAI" lemma="LAI"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="787-798" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="799-801" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="802-807" text="naive" lemma="naive"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="808-809" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="810-815" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="816-818" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="819-822" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="823-826" text="due" lemma="due"/>
+            <token xml:space="preserve" id="stt_14" POS="TO" charOffset="827-829" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="830-842" text="differential" lemma="differential"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="843-853" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="854-856" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="857-862" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="863-874" text="coreceptors" lemma="coreceptor"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="874-875" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="CC" charOffset="876-879" text="nor" lemma="nor"/>
+            <token xml:space="preserve" id="stt_22" POS="VBZ" charOffset="880-882" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_23" POS="PRP" charOffset="883-885" text="it" lemma="it"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="886-889" text="due" lemma="due"/>
+            <token xml:space="preserve" id="stt_25" POS="TO" charOffset="890-892" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="893-903" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="904-906" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="907-917" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="918-920" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_30" POS="DT" charOffset="921-924" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="925-934" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="935-938" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="939-952" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_34" POS="NNS" charOffset="953-960" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_35" POS="," charOffset="960-961" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_36" POS="JJ" charOffset="962-969" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="970-983" text="factor-kappaB" lemma="factor-kappab"/>
+            <token xml:space="preserve" id="stt_38" POS="CC" charOffset="984-987" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="988-997" text="activator" lemma="activator"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="998-1007" text="protein-1" lemma="protein-1"/>
+            <token xml:space="preserve" id="stt_41" POS="." charOffset="1007-1008" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H suppression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ productive) (NNP LAI) (NN=H replication))
+            (PP (IN=H in)
+            (NP
+            (ADJP (JJ=H naive))
+            (NN T) (NNS=H cells))))))
+            (VP=H (VBZ=H is) (RB not)
+            (ADJP (JJ=H due)
+            (PP (TO=H to)
+            (NP
+            (NP=H (JJ differential) (NN=H expression))
+            (PP (IN=H of)
+            (NP (JJ viral) (NNS=H coreceptors))))))))
+            (, ,)
+            (CC nor)
+            (SQ (VBZ=H is)
+            (NP (PRP=H it))
+            (ADJP (JJ=H due)
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN=H inhibition))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (JJ important) (NN HIV) (NN transcription) (NNS=H factors))
+            (, ,)
+            (NP (JJ nuclear) (NN=H factor-kappaB))
+            (CC and)
+            (NP (NN activator) (NN=H protein-1))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1009-1280" id="S8">
+        <text xml:space="preserve">The inherent resistance of naive T cells to productive HIV infection, coupled with their proliferative advantage as demonstrated here, provides a sound basis for proposed clinical therapies using ex vivo expansion and reinfusion of CD4 T cells from HIV-infected adults. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1009-1012" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="1013-1021" text="inherent" lemma="inherent"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1022-1032" text="resistance" lemma="resistance"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1033-1035" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1036-1041" text="naive" lemma="naive"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1042-1043" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1044-1049" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="1050-1052" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1053-1063" text="productive" lemma="productive"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1064-1067" text="HIV" lemma="hiv"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1068-1077" text="infection" lemma="infection"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="1077-1078" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="VBN" charOffset="1079-1086" text="coupled" lemma="couple"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1087-1091" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_15" POS="PRP$" charOffset="1092-1097" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1098-1111" text="proliferative" lemma="proliferative"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1112-1121" text="advantage" lemma="advantage"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1122-1124" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_19" POS="VBN" charOffset="1125-1137" text="demonstrated" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_20" POS="RB" charOffset="1138-1142" text="here" lemma="here"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="1142-1143" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="VBZ" charOffset="1144-1152" text="provides" lemma="provide"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="1153-1154" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="1155-1160" text="sound" lemma="sound"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1161-1166" text="basis" lemma="basis"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="1167-1170" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_27" POS="VBN" charOffset="1171-1179" text="proposed" lemma="propose"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="1180-1188" text="clinical" lemma="clinical"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="1189-1198" text="therapies" lemma="therapy"/>
+            <token xml:space="preserve" id="stt_30" POS="VBG" charOffset="1199-1204" text="using" lemma="use"/>
+            <token xml:space="preserve" id="stt_31" POS="FW" charOffset="1205-1207" text="ex" lemma="ex"/>
+            <token xml:space="preserve" id="stt_32" POS="FW" charOffset="1208-1212" text="vivo" lemma="vivo"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1213-1222" text="expansion" lemma="expansion"/>
+            <token xml:space="preserve" id="stt_34" POS="CC" charOffset="1223-1226" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1227-1237" text="reinfusion" lemma="reinfusion"/>
+            <token xml:space="preserve" id="stt_36" POS="IN" charOffset="1238-1240" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="1241-1244" text="CD4" lemma="cd4"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="1245-1246" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_39" POS="NNS" charOffset="1247-1252" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_40" POS="IN" charOffset="1253-1257" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_41" POS="JJ" charOffset="1258-1270" text="HIV-infected" lemma="hiv-infected"/>
+            <token xml:space="preserve" id="stt_42" POS="NNS" charOffset="1271-1277" text="adults" lemma="adult"/>
+            <token xml:space="preserve" id="stt_43" POS="." charOffset="1277-1278" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (JJ inherent) (NN=H resistance))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (ADJP (JJ=H naive))
+            (NN T) (NNS=H cells))
+            (PP (TO=H to)
+            (NP (JJ productive) (NN HIV) (NN=H infection)))))
+            (, ,)
+            (VP (VBN=H coupled)
+            (PP (IN=H with)
+            (NP (PRP$ their) (JJ proliferative) (NN=H advantage)))
+            (SBAR (IN=H as)
+            (S
+            (VP=H (VBN=H demonstrated)
+            (ADVP (RB=H here))))))
+            (, ,))
+            (VP=H (VBZ=H provides)
+            (NP
+            (NP=H (DT a) (JJ sound) (NN=H basis))
+            (PP (IN=H for)
+            (NP
+            (NP=H (VBN proposed) (JJ clinical) (NNS=H therapies))
+            (VP (VBG=H using)
+            (NP
+            (NP=H (FW ex) (FW vivo) (NN=H expansion))
+            (CC and)
+            (NP
+            (NP=H (NN=H reinfusion))
+            (PP (IN=H of)
+            (NP (NN CD4) (NN T) (NNS=H cells)))))
+            (PP (IN=H from)
+            (NP (JJ HIV-infected) (NNS=H adults))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T11" type="DefiniteNP" charOffset="753-815" headOffset="757-768" text="The suppression of productive LAI replication in naive T cells"/>
+    <Term xml:space="preserve" id="T12" type="PersonalPronoun" charOffset="883-885" headOffset="883-885" text="it"/>
+    <Term xml:space="preserve" id="T13" type="ZeroArticleNP" charOffset="1036-1049" headOffset="1044-1049" text="naive T cells"/>
+    <Term xml:space="preserve" id="T14" type="PossessivePronoun" charOffset="1092-1097" headOffset="1092-1097" text="their"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T12"/>
+        <Antecedent idref="T11"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T14"/>
+        <Antecedent idref="T13"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="32-35" headOffset="32-35" text="CD4"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="64-68" headOffset="64-68" text="CD28"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="173-176" headOffset="173-176" text="CD4"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="221-225" headOffset="221-225" text="CD28"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="270-273" headOffset="270-273" text="CD4"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="360-363" headOffset="360-363" text="PHA"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="513-516" headOffset="513-516" text="CD4"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="558-564" headOffset="558-564" text="CD45RA"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="569-574" headOffset="569-574" text="CD62L"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="1241-1244" headOffset="1241-1244" text="CD4"/>
+</document>

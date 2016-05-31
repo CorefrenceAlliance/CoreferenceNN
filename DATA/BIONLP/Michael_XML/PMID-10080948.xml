@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10080948">
+    <text xml:space="preserve">Phosphorylation of TRAF2 inhibits binding to the CD40 cytoplasmic domain. 
+TRAF2 is a signal transducing adaptor molecule which binds to the CD40 cytoplasmic domain. We have found that it is phosphorylated, predominantly on serine residues, when transiently overexpressed in 293 cells. The phosphorylation appears to be related to the signaling events that are activated by TRAF2 under these circumstances, since two nonfunctional mutants were found to be phosphorylated significantly less than the wild-type protein. Furthermore, the phosphorylation status of TRAF2 had significant effects on the ability of the protein to bind to CD40, as evidenced by our observations that the CD40 cytoplasmic domain interacted preferentially with underphosphorylated TRAF2 and that phosphatase treatment significantly enhanced the binding of TRAF2 to CD40. We conclude from these studies that the phosphorylation of TRAF2 is likely to play an important role in regulating signaling by virtue of its ability to influence the CD40-TRAF2 interaction. Copyright 1999 Academic Press. 
+</text>
+    <sentence charOffset="0-75" id="S1">
+        <text xml:space="preserve">Phosphorylation of TRAF2 inhibits binding to the CD40 cytoplasmic domain. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-15" text="Phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="16-18" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="19-24" text="TRAF2" lemma="traf2"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="25-33" text="inhibits" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_5" POS="VBG" charOffset="34-41" text="binding" lemma="bind"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="42-44" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="45-48" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="49-53" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="54-65" text="cytoplasmic" lemma="cytoplasmic"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="66-72" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="72-73" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Phosphorylation))
+            (PP (IN=H of)
+            (NP (NN=H TRAF2))))
+            (VP=H (VBZ=H inhibits)
+            (NP (VBG=H binding))
+            (PP (TO=H to)
+            (NP (DT the) (NN CD40) (JJ cytoplasmic) (NN=H domain))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="75-166" id="S2">
+        <text xml:space="preserve">TRAF2 is a signal transducing adaptor molecule which binds to the CD40 cytoplasmic domain. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="75-80" text="TRAF2" lemma="traf2"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="81-83" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="84-85" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="86-92" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="93-104" text="transducing" lemma="transducing"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="105-112" text="adaptor" lemma="adaptor"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="113-121" text="molecule" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_8" POS="WDT" charOffset="122-127" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="128-133" text="binds" lemma="bind"/>
+            <token xml:space="preserve" id="stt_10" POS="TO" charOffset="134-136" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="137-140" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="141-145" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="146-157" text="cytoplasmic" lemma="cytoplasmic"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="158-164" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="164-165" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H TRAF2))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (NN signal) (NN transducing) (NN adaptor) (NN=H molecule))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H binds)
+            (PP (TO=H to)
+            (NP (DT the) (NN CD40) (JJ cytoplasmic) (NN=H domain))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="166-286" id="S3">
+        <text xml:space="preserve">We have found that it is phosphorylated, predominantly on serine residues, when transiently overexpressed in 293 cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="166-168" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="169-173" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="174-179" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="180-184" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="185-187" text="it" lemma="it"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="188-190" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="191-205" text="phosphorylated" lemma="phosphorylate"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="205-206" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="207-220" text="predominantly" lemma="predominantly"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="221-223" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="224-230" text="serine" lemma="serine"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="231-239" text="residues" lemma="residue"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="239-240" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="WRB" charOffset="241-245" text="when" lemma="when"/>
+            <token xml:space="preserve" id="stt_15" POS="RB" charOffset="246-257" text="transiently" lemma="transiently"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="258-271" text="overexpressed" lemma="overexpress"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="272-274" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="CD" charOffset="275-278" text="293" lemma="293"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="279-284" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="284-285" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H have)
+            (VP (VBN=H found)
+            (SBAR (IN=H that)
+            (S
+            (NP (PRP=H it))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H phosphorylated) (, ,)
+            (PP
+            (ADVP (RB=H predominantly))
+            (IN=H on)
+            (NP (NN serine) (NNS=H residues)))
+            (, ,)
+            (SBAR
+            (WHADVP=H (WRB=H when))
+            (S
+            (ADVP (RB=H transiently))
+            (VP=H (VBN=H overexpressed)
+            (PP (IN=H in)
+            (NP (CD 293) (NNS=H cells))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="286-518" id="S4">
+        <text xml:space="preserve">The phosphorylation appears to be related to the signaling events that are activated by TRAF2 under these circumstances, since two nonfunctional mutants were found to be phosphorylated significantly less than the wild-type protein. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="286-289" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="290-305" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="306-313" text="appears" lemma="appear"/>
+            <token xml:space="preserve" id="stt_4" POS="TO" charOffset="314-316" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_5" POS="VB" charOffset="317-319" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="320-327" text="related" lemma="relate"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="328-330" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="331-334" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="335-344" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="345-351" text="events" lemma="event"/>
+            <token xml:space="preserve" id="stt_11" POS="WDT" charOffset="352-356" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_12" POS="VBP" charOffset="357-360" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_13" POS="VBN" charOffset="361-370" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="371-373" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="374-379" text="TRAF2" lemma="traf2"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="380-385" text="under" lemma="under"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="386-391" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="392-405" text="circumstances" lemma="circumstance"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="405-406" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="407-412" text="since" lemma="since"/>
+            <token xml:space="preserve" id="stt_21" POS="CD" charOffset="413-416" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="417-430" text="nonfunctional" lemma="nonfunctional"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="431-438" text="mutants" lemma="mutant"/>
+            <token xml:space="preserve" id="stt_24" POS="VBD" charOffset="439-443" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_25" POS="VBN" charOffset="444-449" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_26" POS="TO" charOffset="450-452" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_27" POS="VB" charOffset="453-455" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_28" POS="VBN" charOffset="456-470" text="phosphorylated" lemma="phosphorylate"/>
+            <token xml:space="preserve" id="stt_29" POS="RB" charOffset="471-484" text="significantly" lemma="significantly"/>
+            <token xml:space="preserve" id="stt_30" POS="RBR" charOffset="485-489" text="less" lemma="less"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="490-494" text="than" lemma="than"/>
+            <token xml:space="preserve" id="stt_32" POS="DT" charOffset="495-498" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_33" POS="JJ" charOffset="499-508" text="wild-type" lemma="wild-type"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="509-516" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_35" POS="." charOffset="516-517" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NN=H phosphorylation))
+            (VP=H (VBZ=H appears)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (VP (VBN=H related)
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT the) (NN signaling) (NNS=H events))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H are)
+            (VP (VBN=H activated)
+            (PP (IN=H by)
+            (NP (NN=H TRAF2)))
+            (PP (IN=H under)
+            (NP (DT these) (NNS=H circumstances)))))))))))))
+            (, ,)
+            (SBAR (IN=H since)
+            (S
+            (NP (CD two) (JJ nonfunctional) (NNS=H mutants))
+            (VP=H (VBD=H were)
+            (VP (VBN=H found)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (VP (VBN=H phosphorylated)
+            (S
+            (ADJP=H (RB significantly) (RBR=H less)))
+            (PP (IN=H than)
+            (NP (DT the) (JJ wild-type) (NN=H protein))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="518-845" id="S5">
+        <text xml:space="preserve">Furthermore, the phosphorylation status of TRAF2 had significant effects on the ability of the protein to bind to CD40, as evidenced by our observations that the CD40 cytoplasmic domain interacted preferentially with underphosphorylated TRAF2 and that phosphatase treatment significantly enhanced the binding of TRAF2 to CD40. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="518-529" text="Furthermore" lemma="furthermore"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="529-530" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="531-534" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="535-550" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="551-557" text="status" lemma="status"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="558-560" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="561-566" text="TRAF2" lemma="traf2"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="567-570" text="had" lemma="have"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="571-582" text="significant" lemma="significant"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="583-590" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="591-593" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="594-597" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="598-605" text="ability" lemma="ability"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="606-608" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="609-612" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="613-620" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_17" POS="TO" charOffset="621-623" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_18" POS="VB" charOffset="624-628" text="bind" lemma="bind"/>
+            <token xml:space="preserve" id="stt_19" POS="TO" charOffset="629-631" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="632-636" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="636-637" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="638-640" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="641-650" text="evidenced" lemma="evidence"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="651-653" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_25" POS="PRP$" charOffset="654-657" text="our" lemma="we"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="658-670" text="observations" lemma="observation"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="671-675" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_28" POS="DT" charOffset="676-679" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="680-684" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="685-696" text="cytoplasmic" lemma="cytoplasmic"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="697-703" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_32" POS="VBD" charOffset="704-714" text="interacted" lemma="interact"/>
+            <token xml:space="preserve" id="stt_33" POS="RB" charOffset="715-729" text="preferentially" lemma="preferentially"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="730-734" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_35" POS="VBN" charOffset="735-754" text="underphosphorylated" lemma="underphosphorylate"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="755-760" text="TRAF2" lemma="traf2"/>
+            <token xml:space="preserve" id="stt_37" POS="CC" charOffset="761-764" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="765-769" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="770-781" text="phosphatase" lemma="phosphatase"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="782-791" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_41" POS="RB" charOffset="792-805" text="significantly" lemma="significantly"/>
+            <token xml:space="preserve" id="stt_42" POS="VBD" charOffset="806-814" text="enhanced" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_43" POS="DT" charOffset="815-818" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_44" POS="NN" charOffset="819-826" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_45" POS="IN" charOffset="827-829" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="830-835" text="TRAF2" lemma="traf2"/>
+            <token xml:space="preserve" id="stt_47" POS="TO" charOffset="836-838" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_48" POS="NN" charOffset="839-843" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_49" POS="." charOffset="843-844" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Furthermore))
+            (, ,)
+            (NP
+            (NP=H (DT the) (NN phosphorylation) (NN=H status))
+            (PP (IN=H of)
+            (NP (NN=H TRAF2))))
+            (VP=H (VBD=H had)
+            (S
+            (NP
+            (NP=H (JJ significant) (NNS=H effects))
+            (PP (IN=H on)
+            (NP
+            (NP=H (DT the) (NN=H ability))
+            (PP (IN=H of)
+            (NP (DT the) (NN=H protein))))))
+            (VP=H (TO=H to)
+            (VP (VB=H bind)
+            (PP (TO=H to)
+            (NP (NN=H CD40)))
+            (, ,)
+            (SBAR (IN=H as)
+            (S
+            (VP=H (VBN=H evidenced)
+            (PP (IN=H by)
+            (NP (PRP$ our) (NNS=H observations)))))))))
+            (SBAR
+            (SBAR=H (IN=H that)
+            (S
+            (NP (DT the) (NN CD40) (JJ cytoplasmic) (NN=H domain))
+            (VP=H (VBD=H interacted)
+            (ADVP (RB=H preferentially))
+            (PP (IN=H with)
+            (S
+            (VP=H (VBN=H underphosphorylated)
+            (NP (NN=H TRAF2))))))))
+            (CC and)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN phosphatase) (NN=H treatment))
+            (ADVP (RB=H significantly))
+            (VP=H (VBD=H enhanced)
+            (NP
+            (NP=H (DT the) (NN=H binding))
+            (PP (IN=H of)
+            (NP (NN=H TRAF2))))
+            (PP (TO=H to)
+            (NP (NN=H CD40))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="845-1036" id="S6">
+        <text xml:space="preserve">We conclude from these studies that the phosphorylation of TRAF2 is likely to play an important role in regulating signaling by virtue of its ability to influence the CD40-TRAF2 interaction. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="845-847" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="848-856" text="conclude" lemma="conclude"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="857-861" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="862-867" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="868-875" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="876-880" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="881-884" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="885-900" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="901-903" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="904-909" text="TRAF2" lemma="traf2"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="910-912" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="913-919" text="likely" lemma="likely"/>
+            <token xml:space="preserve" id="stt_13" POS="TO" charOffset="920-922" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_14" POS="VB" charOffset="923-927" text="play" lemma="play"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="928-930" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="931-940" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="941-945" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="946-948" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_19" POS="VBG" charOffset="949-959" text="regulating" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="960-969" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="970-972" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="973-979" text="virtue" lemma="virtue"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="980-982" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="PRP$" charOffset="983-986" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="987-994" text="ability" lemma="ability"/>
+            <token xml:space="preserve" id="stt_26" POS="TO" charOffset="995-997" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_27" POS="VB" charOffset="998-1007" text="influence" lemma="influence"/>
+            <token xml:space="preserve" id="stt_28" POS="DT" charOffset="1008-1011" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="1012-1022" text="CD40-TRAF2" lemma="cd40-traf2"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1023-1034" text="interaction" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="1034-1035" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H conclude)
+            (PP (IN=H from)
+            (NP (DT these) (NNS=H studies)))
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (NN=H phosphorylation))
+            (PP (IN=H of)
+            (NP (NN=H TRAF2))))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H likely)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H play)
+            (NP (DT an) (JJ important) (NN=H role))
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H regulating)
+            (NP (NN=H signaling))
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H virtue))
+            (PP (IN=H of)
+            (NP (PRP$ its) (NN=H ability)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H influence)
+            (NP (DT the) (JJ CD40-TRAF2) (NN=H interaction))))))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1036-1068" id="S7">
+        <text xml:space="preserve">Copyright 1999 Academic Press. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1036-1045" text="Copyright" lemma="copyright"/>
+            <token xml:space="preserve" id="stt_2" POS="CD" charOffset="1046-1050" text="1999" lemma="1999"/>
+            <token xml:space="preserve" id="stt_3" POS="NNP" charOffset="1051-1059" text="Academic" lemma="Academic"/>
+            <token xml:space="preserve" id="stt_4" POS="NNP" charOffset="1060-1065" text="Press" lemma="Press"/>
+            <token xml:space="preserve" id="stt_5" POS="." charOffset="1065-1066" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Copyright) (CD 1999))
+            (NP (NNP Academic) (NNP=H Press))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T15" type="ZeroArticleNP" charOffset="75-80" headOffset="75-80" text="TRAF2"/>
+    <Term xml:space="preserve" id="T16" type="IndefiniteNP" charOffset="84-121" headOffset="113-121" text="a signal transducing adaptor molecule"/>
+    <Term xml:space="preserve" id="T17" type="RelativePronoun" charOffset="122-127" headOffset="122-127" text="which"/>
+    <Term xml:space="preserve" id="T18" type="PersonalPronoun" charOffset="185-187" headOffset="185-187" text="it"/>
+    <Term xml:space="preserve" id="T19" type="DefiniteNP" charOffset="331-351" headOffset="345-351" text="the signaling events"/>
+    <Term xml:space="preserve" id="T20" type="RelativePronoun" charOffset="352-356" headOffset="352-356" text="that"/>
+    <Term xml:space="preserve" id="T21" type="ZeroArticleNP" charOffset="374-379" headOffset="374-379" text="TRAF2"/>
+    <Term xml:space="preserve" id="T22" type="DefiniteNP" charOffset="495-516" headOffset="509-516" text="the wild-type protein"/>
+    <Term xml:space="preserve" id="T23" type="ZeroArticleNP" charOffset="561-566" headOffset="561-566" text="TRAF2"/>
+    <Term xml:space="preserve" id="T24" type="DefiniteNP" charOffset="609-620" headOffset="613-620" text="the protein"/>
+    <Term xml:space="preserve" id="T25" type="PossessivePronoun" charOffset="654-670" headOffset="658-670" text="our observations"/>
+    <Term xml:space="preserve" id="T26" type="RelativePronoun" charOffset="671-675" headOffset="671-675" text="that"/>
+    <Term xml:space="preserve" id="T27" type="RelativePronoun" charOffset="765-769" headOffset="765-769" text="that"/>
+    <Term xml:space="preserve" id="T28" type="DefiniteNP" charOffset="881-909" headOffset="885-900" text="the phosphorylation of TRAF2"/>
+    <Term xml:space="preserve" id="T29" type="PossessivePronoun" charOffset="983-986" headOffset="983-986" text="its"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T17"/>
+        <Antecedent idref="T16"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T18"/>
+        <Antecedent idref="T15"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T20"/>
+        <Antecedent idref="T19"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T22"/>
+        <Antecedent idref="T21"/>
+    </Relation>
+    <Relation id="R5" type="Anaphora">
+        <Anaphor idref="T24"/>
+        <Antecedent idref="T23"/>
+    </Relation>
+    <Relation id="R6" type="Anaphora">
+        <Anaphor idref="T26"/>
+        <Antecedent idref="T25"/>
+    </Relation>
+    <Relation id="R7" type="Anaphora">
+        <Anaphor idref="T27"/>
+        <Antecedent idref="T25"/>
+    </Relation>
+    <Relation id="R8" type="Anaphora">
+        <Anaphor idref="T29"/>
+        <Antecedent idref="T28"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="19-24" headOffset="19-24" text="TRAF2"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="49-53" headOffset="49-53" text="CD40"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="75-80" headOffset="75-80" text="TRAF2"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="141-145" headOffset="141-145" text="CD40"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="374-379" headOffset="374-379" text="TRAF2"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="561-566" headOffset="561-566" text="TRAF2"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="632-636" headOffset="632-636" text="CD40"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="680-684" headOffset="680-684" text="CD40"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="755-760" headOffset="755-760" text="TRAF2"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="830-835" headOffset="830-835" text="TRAF2"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="839-843" headOffset="839-843" text="CD40"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="904-909" headOffset="904-909" text="TRAF2"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="1012-1016" headOffset="1012-1016" text="CD40"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1017-1022" headOffset="1017-1022" text="TRAF2"/>
+</document>

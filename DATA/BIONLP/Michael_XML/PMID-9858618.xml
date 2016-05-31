@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9858618">
+    <text xml:space="preserve">Interactions between the class II transactivator and CREB binding protein increase transcription of major histocompatibility complex class II genes. 
+Class II major histocompatibility (class II) genes are regulated in a B-cell-specific and gamma interferon-inducible fashion. The master switch for the expression of these genes is the class II transactivator (CIITA). In this report, we demonstrate that one of the functions of CIITA is to recruit the CREB binding protein (CBP) to class II promoters. Not only functional but also specific binding interactions between CIITA and CBP were demonstrated. Moreover, a dominant negative form of CBP decreased the activity of class II promoters and levels of class II determinants on the surface of cells. Finally, the inhibition of class II gene expression by the glucocorticoid hormone could be attributed to the squelching of CBP by the glucocorticoid receptor. We conclude that CBP, a histone acetyltransferase, plays an important role in the transcription of class II genes. 
+</text>
+    <sentence charOffset="0-150" id="S1">
+        <text xml:space="preserve">Interactions between the class II transactivator and CREB binding protein increase transcription of major histocompatibility complex class II genes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="0-12" text="Interactions" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="13-20" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="21-24" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="25-30" text="class" lemma="class"/>
+            <token xml:space="preserve" id="stt_5" POS="CD" charOffset="31-33" text="II" lemma="ii"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="34-48" text="transactivator" lemma="transactivator"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="49-52" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="53-57" text="CREB" lemma="creb"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="58-65" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="66-73" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="74-82" text="increase" lemma="increase"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="83-96" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="97-99" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="100-105" text="major" lemma="major"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="106-124" text="histocompatibility" lemma="histocompatibility"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="125-132" text="complex" lemma="complex"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="133-138" text="class" lemma="class"/>
+            <token xml:space="preserve" id="stt_18" POS="CD" charOffset="139-141" text="II" lemma="ii"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="142-147" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="147-148" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NNS=H Interactions))
+            (PP (IN=H between)
+            (NP
+            (NP=H (DT the) (NN class) (CD II) (NN=H transactivator))
+            (CC and)
+            (NP (NN CREB) (NN binding) (NN protein) (NN increase) (NN=H transcription))))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ major) (NN histocompatibility) (NN complex) (NN=H class))
+            (NP (CD II) (NNS=H genes))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="150-276" id="S2">
+        <text xml:space="preserve">Class II major histocompatibility (class II) genes are regulated in a B-cell-specific and gamma interferon-inducible fashion. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="150-155" text="Class" lemma="class"/>
+            <token xml:space="preserve" id="stt_2" POS="CD" charOffset="156-158" text="II" lemma="ii"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="159-164" text="major" lemma="major"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="165-183" text="histocompatibility" lemma="histocompatibility"/>
+            <token xml:space="preserve" id="stt_5" POS="-LRB-" charOffset="184-185" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="185-190" text="class" lemma="class"/>
+            <token xml:space="preserve" id="stt_7" POS="CD" charOffset="191-193" text="II" lemma="ii"/>
+            <token xml:space="preserve" id="stt_8" POS="-RRB-" charOffset="193-194" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="195-200" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_10" POS="VBP" charOffset="201-204" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="205-214" text="regulated" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="215-217" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="218-219" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="220-235" text="B-cell-specific" lemma="b-cell-specific"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="236-239" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="240-245" text="gamma" lemma="gamma"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="246-266" text="interferon-inducible" lemma="interferon-inducible"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="267-274" text="fashion" lemma="fashion"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="274-275" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (NN=H Class))
+            (NP
+            (NP=H (CD II) (JJ major) (NN=H histocompatibility))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H class) (CD II))
+            (-RRB- -RRB-))))
+            (NP (NNS=H genes)))
+            (VP=H (VBP=H are)
+            (VP (VBN=H regulated)
+            (PP (IN=H in)
+            (NP (DT a)
+            (ADJP (JJ=H B-cell-specific)
+            (CC and)
+            (NN gamma))
+            (JJ interferon-inducible) (NN=H fashion)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="276-368" id="S3">
+        <text xml:space="preserve">The master switch for the expression of these genes is the class II transactivator (CIITA). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="276-279" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="280-286" text="master" lemma="master"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="287-293" text="switch" lemma="switch"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="294-297" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="298-301" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="302-312" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="313-315" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="316-321" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="322-327" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="328-330" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="331-334" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="335-340" text="class" lemma="class"/>
+            <token xml:space="preserve" id="stt_13" POS="CD" charOffset="341-343" text="II" lemma="ii"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="344-358" text="transactivator" lemma="transactivator"/>
+            <token xml:space="preserve" id="stt_15" POS="-LRB-" charOffset="359-360" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="360-365" text="CIITA" lemma="ciita"/>
+            <token xml:space="preserve" id="stt_17" POS="-RRB-" charOffset="365-366" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="366-367" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN master) (NN=H switch))
+            (PP (IN=H for)
+            (NP
+            (NP=H (DT the) (NN=H expression))
+            (PP (IN=H of)
+            (NP (DT these) (NNS=H genes))))))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT the) (NN class) (CD II) (NN=H transactivator))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H CIITA))
+            (-RRB- -RRB-))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="368-502" id="S4">
+        <text xml:space="preserve">In this report, we demonstrate that one of the functions of CIITA is to recruit the CREB binding protein (CBP) to class II promoters. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="368-370" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="371-375" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="376-382" text="report" lemma="report"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="382-383" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="384-386" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="387-398" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="399-403" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_8" POS="CD" charOffset="404-407" text="one" lemma="one"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="408-410" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="411-414" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="415-424" text="functions" lemma="function"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="425-427" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="428-433" text="CIITA" lemma="ciita"/>
+            <token xml:space="preserve" id="stt_14" POS="VBZ" charOffset="434-436" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_15" POS="TO" charOffset="437-439" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_16" POS="VB" charOffset="440-447" text="recruit" lemma="recruit"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="448-451" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="452-456" text="CREB" lemma="creb"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="457-464" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="465-472" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_21" POS="-LRB-" charOffset="473-474" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="474-477" text="CBP" lemma="cbp"/>
+            <token xml:space="preserve" id="stt_23" POS="-RRB-" charOffset="477-478" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_24" POS="TO" charOffset="479-481" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="482-487" text="class" lemma="class"/>
+            <token xml:space="preserve" id="stt_26" POS="CD" charOffset="488-490" text="II" lemma="ii"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="491-500" text="promoters" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="500-501" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (DT this) (NN=H report)))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (CD=H one))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NNS=H functions))
+            (PP (IN=H of)
+            (NP (NN=H CIITA))))))
+            (VP=H (VBZ=H is)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H recruit)
+            (NP
+            (NP=H (DT the) (NN CREB) (NN binding) (NN=H protein))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H CBP))
+            (-RRB- -RRB-)))
+            (PP (TO=H to)
+            (NP (NN class) (CD II) (NNS=H promoters))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="502-602" id="S5">
+        <text xml:space="preserve">Not only functional but also specific binding interactions between CIITA and CBP were demonstrated. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="502-505" text="Not" lemma="not"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="506-510" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="511-521" text="functional" lemma="functional"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="522-525" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="526-530" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="531-539" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="540-547" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="548-560" text="interactions" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="561-568" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="569-574" text="CIITA" lemma="ciita"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="575-578" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="579-582" text="CBP" lemma="cbp"/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="583-587" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="588-600" text="demonstrated" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="600-601" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (RB Not)
+            (ADJP
+            (ADJP=H (RB only) (JJ=H functional))
+            (CC but)
+            (ADJP
+            (ADVP (RB=H also))
+            (JJ=H specific)))
+            (NN binding) (NNS=H interactions))
+            (PP (IN=H between)
+            (NP (NN=H CIITA)
+            (CC and)
+            (NN CBP))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H demonstrated)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="602-750" id="S6">
+        <text xml:space="preserve">Moreover, a dominant negative form of CBP decreased the activity of class II promoters and levels of class II determinants on the surface of cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="602-610" text="Moreover" lemma="moreover"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="610-611" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="612-613" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="614-622" text="dominant" lemma="dominant"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="623-631" text="negative" lemma="negative"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="632-636" text="form" lemma="form"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="637-639" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="640-643" text="CBP" lemma="cbp"/>
+            <token xml:space="preserve" id="stt_9" POS="VBD" charOffset="644-653" text="decreased" lemma="decrease"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="654-657" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="658-666" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="667-669" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="670-675" text="class" lemma="class"/>
+            <token xml:space="preserve" id="stt_14" POS="CD" charOffset="676-678" text="II" lemma="ii"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="679-688" text="promoters" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="689-692" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="693-699" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="700-702" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="703-708" text="class" lemma="class"/>
+            <token xml:space="preserve" id="stt_20" POS="CD" charOffset="709-711" text="II" lemma="ii"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="712-724" text="determinants" lemma="determinant"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="725-727" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="728-731" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="732-739" text="surface" lemma="surface"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="740-742" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="743-748" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="748-749" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Moreover))
+            (, ,)
+            (NP
+            (NP=H (DT a) (JJ dominant) (JJ negative) (NN=H form))
+            (PP (IN=H of)
+            (NP (NN=H CBP))))
+            (VP=H (VBD=H decreased)
+            (NP
+            (NP=H
+            (NP=H (DT the) (NN=H activity))
+            (PP (IN=H of)
+            (NP (NN class) (CD II) (NNS=H promoters))))
+            (CC and)
+            (NP
+            (NP=H (NNS=H levels))
+            (PP (IN=H of)
+            (NP (NN class) (CD II) (NNS=H determinants)))))
+            (PP (IN=H on)
+            (NP
+            (NP=H (DT the) (NN=H surface))
+            (PP (IN=H of)
+            (NP (NNS=H cells))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="750-909" id="S7">
+        <text xml:space="preserve">Finally, the inhibition of class II gene expression by the glucocorticoid hormone could be attributed to the squelching of CBP by the glucocorticoid receptor. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="750-757" text="Finally" lemma="finally"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="757-758" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="759-762" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="763-773" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="774-776" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="777-782" text="class" lemma="class"/>
+            <token xml:space="preserve" id="stt_7" POS="CD" charOffset="783-785" text="II" lemma="ii"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="786-790" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="791-801" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="802-804" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="805-808" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="809-823" text="glucocorticoid" lemma="glucocorticoid"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="824-831" text="hormone" lemma="hormone"/>
+            <token xml:space="preserve" id="stt_14" POS="MD" charOffset="832-837" text="could" lemma="could"/>
+            <token xml:space="preserve" id="stt_15" POS="VB" charOffset="838-840" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="841-851" text="attributed" lemma="attribute"/>
+            <token xml:space="preserve" id="stt_17" POS="TO" charOffset="852-854" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="855-858" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="859-869" text="squelching" lemma="squelching"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="870-872" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="873-876" text="CBP" lemma="cbp"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="877-879" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="880-883" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="884-898" text="glucocorticoid" lemma="glucocorticoid"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="899-907" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="907-908" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Finally))
+            (, ,)
+            (NP
+            (NP=H (DT the) (NN=H inhibition))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN class) (CD II) (NN gene) (NN=H expression))
+            (PP (IN=H by)
+            (NP (DT the) (NN glucocorticoid) (NN=H hormone))))))
+            (VP=H (MD=H could)
+            (VP (VB=H be)
+            (VP (VBN=H attributed)
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT the) (NN=H squelching))
+            (PP (IN=H of)
+            (NP (NN=H CBP)))))
+            (PP (IN=H by)
+            (NP (DT the) (NN glucocorticoid) (NN=H receptor))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="909-1025" id="S8">
+        <text xml:space="preserve">We conclude that CBP, a histone acetyltransferase, plays an important role in the transcription of class II genes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="909-911" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="912-920" text="conclude" lemma="conclude"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="921-925" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="926-929" text="CBP" lemma="cbp"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="929-930" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="931-932" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="933-940" text="histone" lemma="histone"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="941-958" text="acetyltransferase" lemma="acetyltransferase"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="958-959" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="960-965" text="plays" lemma="play"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="966-968" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="969-978" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="979-983" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="984-986" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="987-990" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="991-1004" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1005-1007" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1008-1013" text="class" lemma="class"/>
+            <token xml:space="preserve" id="stt_19" POS="CD" charOffset="1014-1016" text="II" lemma="ii"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="1017-1022" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="1022-1023" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H conclude)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H CBP))
+            (, ,)
+            (NP (DT a) (NN histone) (NN=H acetyltransferase))
+            (, ,))
+            (VP=H (VBZ=H plays)
+            (NP
+            (NP=H (DT an) (JJ important) (NN=H role))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H transcription))
+            (PP (IN=H of)
+            (NP (NN class) (CD II) (NNS=H genes))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T15" type="ZeroArticleNP" charOffset="150-200" headOffset="195-200" text="Class II major histocompatibility (class II) genes"/>
+    <Term xml:space="preserve" id="T16" type="DemonstrativeNP" charOffset="316-327" headOffset="322-327" text="these genes"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T16"/>
+        <Antecedent idref="T15"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="25-48" headOffset="34-48" text="class II transactivator"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="53-73" headOffset="66-73" text="CREB binding protein"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="240-256" headOffset="246-256" text="gamma interferon"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="335-358" headOffset="344-358" text="class II transactivator"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="360-365" headOffset="360-365" text="CIITA"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="428-433" headOffset="428-433" text="CIITA"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="452-472" headOffset="465-472" text="CREB binding protein"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="474-477" headOffset="474-477" text="CBP"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="569-574" headOffset="569-574" text="CIITA"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="579-582" headOffset="579-582" text="CBP"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="640-643" headOffset="640-643" text="CBP"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="873-876" headOffset="873-876" text="CBP"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="884-907" headOffset="899-907" text="glucocorticoid receptor"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="926-929" headOffset="926-929" text="CBP"/>
+</document>

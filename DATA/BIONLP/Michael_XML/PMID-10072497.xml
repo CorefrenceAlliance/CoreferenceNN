@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10072497">
+    <text xml:space="preserve">N-acetyl-L-cysteine inhibits primary human T cell responses at the dendritic cell level: association with NF-kappaB inhibition. 
+N-acetyl-L-cysteine (NAC) is an antioxidant molecule endowed with immunomodulatory properties. To investigate the effect of NAC on the induction phase of T cell responses, we analyzed its action on human dendritic cells (DC) derived from adherent PBMC cultured with IL-4 and granulocyte-macrophage CSF. We first found that NAC inhibited the constitutive as well as the LPS-induced activity of the transcription factor NF-kappaB. In parallel, NAC was shown to down-regulate the production of cytokines by DC as well as their surface expression of HLA-DR, CD86 (B7-2), and CD40 molecules both at the basal state and upon LPS activation. NAC also inhibited DC responses induced by CD40 engagement. The inhibitory effects of NAC were not due to nonspecific toxicity as neither the viability of DC nor their mannose receptor-mediated endocytosis were modified by NAC. Finally, we found that the addition of NAC to MLR between naive T cells and allogeneic DC resulted in a profound inhibition of alloreactive responses, which could be attributed to a defect of DC as APC-independent T cell responses were not inhibited by NAC. Altogether, our results suggest that NAC might impair the generation of primary immune responses in humans through its inhibitory action on DC. 
+</text>
+    <sentence charOffset="0-129" id="S1">
+        <text xml:space="preserve">N-acetyl-L-cysteine inhibits primary human T cell responses at the dendritic cell level: association with NF-kappaB inhibition. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-19" text="N-acetyl-L-cysteine" lemma="n-acetyl-l-cysteine"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="20-28" text="inhibits" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="29-36" text="primary" lemma="primary"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="37-42" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="43-44" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="45-49" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="50-59" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="60-62" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="63-66" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="67-76" text="dendritic" lemma="dendritic"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="77-81" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="82-87" text="level" lemma="level"/>
+            <token xml:space="preserve" id="stt_13" POS=":" charOffset="87-88" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="89-100" text="association" lemma="association"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="101-105" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="106-115" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="116-126" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="126-127" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H N-acetyl-L-cysteine))
+            (VP=H (VBZ=H inhibits)
+            (NP
+            (NP=H
+            (NP=H (JJ primary) (JJ human) (NN T) (NN cell) (NNS=H responses))
+            (PP (IN=H at)
+            (NP (DT the) (JJ dendritic) (NN cell) (NN=H level))))
+            (: :)
+            (NP
+            (NP=H (NN=H association))
+            (PP (IN=H with)
+            (NP (NN NF-kappaB) (NN=H inhibition))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="129-224" id="S2">
+        <text xml:space="preserve">N-acetyl-L-cysteine (NAC) is an antioxidant molecule endowed with immunomodulatory properties. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="129-148" text="N-acetyl-L-cysteine" lemma="n-acetyl-l-cysteine"/>
+            <token xml:space="preserve" id="stt_2" POS="-LRB-" charOffset="149-150" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="150-153" text="NAC" lemma="nac"/>
+            <token xml:space="preserve" id="stt_4" POS="-RRB-" charOffset="153-154" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="155-157" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="158-160" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="161-172" text="antioxidant" lemma="antioxidant"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="173-181" text="molecule" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="182-189" text="endowed" lemma="endowed"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="190-194" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="195-211" text="immunomodulatory" lemma="immunomodulatory"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="212-222" text="properties" lemma="property"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="222-223" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H N-acetyl-L-cysteine))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H NAC))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT an) (JJ antioxidant) (NN=H molecule))
+            (ADJP (JJ=H endowed)
+            (PP (IN=H with)
+            (NP (JJ immunomodulatory) (NNS=H properties))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="224-432" id="S3">
+        <text xml:space="preserve">To investigate the effect of NAC on the induction phase of T cell responses, we analyzed its action on human dendritic cells (DC) derived from adherent PBMC cultured with IL-4 and granulocyte-macrophage CSF. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="224-226" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="VB" charOffset="227-238" text="investigate" lemma="investigate"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="239-242" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="243-249" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="250-252" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="253-256" text="NAC" lemma="nac"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="257-259" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="260-263" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="264-273" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="274-279" text="phase" lemma="phase"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="280-282" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="283-284" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="285-289" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="290-299" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="299-300" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="PRP" charOffset="301-303" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_17" POS="VBD" charOffset="304-312" text="analyzed" lemma="analyze"/>
+            <token xml:space="preserve" id="stt_18" POS="PRP$" charOffset="313-316" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="317-323" text="action" lemma="action"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="324-326" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="327-332" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="333-342" text="dendritic" lemma="dendritic"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="343-348" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_24" POS="-LRB-" charOffset="349-350" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="350-352" text="DC" lemma="dc"/>
+            <token xml:space="preserve" id="stt_26" POS="-RRB-" charOffset="352-353" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_27" POS="VBN" charOffset="354-361" text="derived" lemma="derive"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="362-366" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="367-375" text="adherent" lemma="adherent"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="376-380" text="PBMC" lemma="pbmc"/>
+            <token xml:space="preserve" id="stt_31" POS="VBN" charOffset="381-389" text="cultured" lemma="culture"/>
+            <token xml:space="preserve" id="stt_32" POS="IN" charOffset="390-394" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="395-399" text="IL-4" lemma="il-4"/>
+            <token xml:space="preserve" id="stt_34" POS="CC" charOffset="400-403" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_35" POS="JJ" charOffset="404-426" text="granulocyte-macrophage" lemma="granulocyte-macrophage"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="427-430" text="CSF" lemma="csf"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="430-431" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP (VB=H investigate)
+            (NP
+            (NP=H (DT the) (NN=H effect))
+            (PP (IN=H of)
+            (NP (NN=H NAC))))
+            (PP (IN=H on)
+            (NP
+            (NP=H (DT the) (NN induction) (NN=H phase))
+            (PP (IN=H of)
+            (NP (NN T) (NN cell) (NNS=H responses))))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H analyzed)
+            (NP (PRP$ its) (NN=H action))
+            (PP (IN=H on)
+            (NP
+            (NP=H (JJ human) (JJ dendritic) (NNS=H cells))
+            (PRN (-LRB- -LRB-) (NNS=H DC) (-RRB- -RRB-))
+            (VP (VBN=H derived)
+            (PP (IN=H from)
+            (NP
+            (NP=H (JJ adherent) (NN=H PBMC))
+            (VP (VBN=H cultured)
+            (PP (IN=H with)
+            (NP
+            (NP=H (NN=H IL-4))
+            (CC and)
+            (NP (JJ granulocyte-macrophage) (NN=H CSF)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="432-558" id="S4">
+        <text xml:space="preserve">We first found that NAC inhibited the constitutive as well as the LPS-induced activity of the transcription factor NF-kappaB. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="432-434" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="435-440" text="first" lemma="first"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="441-446" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="447-451" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="452-455" text="NAC" lemma="nac"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="456-465" text="inhibited" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="466-469" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="470-482" text="constitutive" lemma="constitutive"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="483-485" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="486-490" text="well" lemma="well"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="491-493" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="494-497" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="498-509" text="LPS-induced" lemma="lps-induced"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="510-518" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="519-521" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="522-525" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="526-539" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="540-546" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="547-556" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="556-557" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (ADVP (RB=H first))
+            (VP=H (VBD=H found)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H NAC))
+            (VP=H (VBD=H inhibited)
+            (NP
+            (NP=H (DT the) (JJ=H constitutive))
+            (CONJP (RB as) (RB=H well) (IN as))
+            (NP
+            (NP=H (DT the) (JJ LPS-induced) (NN=H activity))
+            (PP (IN=H of)
+            (NP (DT the) (NN transcription) (NN factor) (NN=H NF-kappaB)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="558-764" id="S5">
+        <text xml:space="preserve">In parallel, NAC was shown to down-regulate the production of cytokines by DC as well as their surface expression of HLA-DR, CD86 (B7-2), and CD40 molecules both at the basal state and upon LPS activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="558-560" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="561-569" text="parallel" lemma="parallel"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="569-570" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="571-574" text="NAC" lemma="nac"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="575-578" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="579-584" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="585-587" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="VB" charOffset="588-601" text="down-regulate" lemma="down-regulate"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="602-605" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="606-616" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="617-619" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="620-629" text="cytokines" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="630-632" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="633-635" text="DC" lemma="dc"/>
+            <token xml:space="preserve" id="stt_15" POS="RB" charOffset="636-638" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="639-643" text="well" lemma="well"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="644-646" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_18" POS="PRP$" charOffset="647-652" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="653-660" text="surface" lemma="surface"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="661-671" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="672-674" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="675-681" text="HLA-DR" lemma="hla-dr"/>
+            <token xml:space="preserve" id="stt_23" POS="," charOffset="681-682" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="683-687" text="CD86" lemma="cd86"/>
+            <token xml:space="preserve" id="stt_25" POS="-LRB-" charOffset="688-689" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="689-693" text="B7-2" lemma="b7-2"/>
+            <token xml:space="preserve" id="stt_27" POS="-RRB-" charOffset="693-694" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_28" POS="," charOffset="694-695" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_29" POS="CC" charOffset="696-699" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="700-704" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_31" POS="NNS" charOffset="705-714" text="molecules" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_32" POS="CC" charOffset="715-719" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_33" POS="IN" charOffset="720-722" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_34" POS="DT" charOffset="723-726" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_35" POS="JJ" charOffset="727-732" text="basal" lemma="basal"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="733-738" text="state" lemma="state"/>
+            <token xml:space="preserve" id="stt_37" POS="CC" charOffset="739-742" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="743-747" text="upon" lemma="upon"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="748-751" text="LPS" lemma="lps"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="752-762" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_41" POS="." charOffset="762-763" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H parallel)))
+            (, ,)
+            (NP (NN=H NAC))
+            (VP=H (VBD=H was)
+            (VP (VBN=H shown)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H down-regulate)
+            (NP
+            (NP=H
+            (NP=H (DT the) (NN=H production))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H cytokines))
+            (PP (IN=H by)
+            (NP (NN=H DC))))))
+            (CONJP (RB as) (RB=H well) (IN as))
+            (NP
+            (NP=H (PRP$ their) (NN surface) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H HLA-DR))
+            (, ,)
+            (NP (NN=H CD86))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H B7-2))
+            (-RRB- -RRB-))
+            (, ,)
+            (CC and)
+            (NP (NN CD40) (NNS=H molecules))))))
+            (PP (CC both)
+            (PP=H (IN=H at)
+            (NP (DT the) (JJ basal) (NN=H state)))
+            (CC and)
+            (PP (IN=H upon)
+            (NP (NN LPS) (NN=H activation)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="764-824" id="S6">
+        <text xml:space="preserve">NAC also inhibited DC responses induced by CD40 engagement. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="764-767" text="NAC" lemma="nac"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="768-772" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="773-782" text="inhibited" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="783-785" text="DC" lemma="dc"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="786-795" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="796-803" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="804-806" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="807-811" text="CD40" lemma="cd40"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="812-822" text="engagement" lemma="engagement"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="822-823" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H NAC))
+            (ADVP (RB=H also))
+            (VP=H (VBD=H inhibited)
+            (NP
+            (NP=H (NN DC) (NNS=H responses))
+            (VP (VBN=H induced)
+            (PP (IN=H by)
+            (NP (NN CD40) (NN=H engagement))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="824-992" id="S7">
+        <text xml:space="preserve">The inhibitory effects of NAC were not due to nonspecific toxicity as neither the viability of DC nor their mannose receptor-mediated endocytosis were modified by NAC. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="824-827" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="828-838" text="inhibitory" lemma="inhibitory"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="839-846" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="847-849" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="850-853" text="NAC" lemma="nac"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="854-858" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="859-862" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="863-866" text="due" lemma="due"/>
+            <token xml:space="preserve" id="stt_9" POS="TO" charOffset="867-869" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="870-881" text="nonspecific" lemma="nonspecific"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="882-890" text="toxicity" lemma="toxicity"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="891-893" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="894-901" text="neither" lemma="neither"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="902-905" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="906-915" text="viability" lemma="viability"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="916-918" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="919-921" text="DC" lemma="dc"/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="922-925" text="nor" lemma="nor"/>
+            <token xml:space="preserve" id="stt_19" POS="PRP$" charOffset="926-931" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="932-939" text="mannose" lemma="mannose"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="940-957" text="receptor-mediated" lemma="receptor-mediated"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="958-969" text="endocytosis" lemma="endocytosis"/>
+            <token xml:space="preserve" id="stt_23" POS="VBD" charOffset="970-974" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_24" POS="VBN" charOffset="975-983" text="modified" lemma="modify"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="984-986" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="987-990" text="NAC" lemma="nac"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="990-991" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (JJ inhibitory) (NNS=H effects))
+            (PP (IN=H of)
+            (NP (NN=H NAC))))
+            (VP=H (VBD=H were) (RB not)
+            (ADJP (JJ=H due)
+            (PP (TO=H to)
+            (NP (JJ nonspecific) (NN=H toxicity))))
+            (SBAR (IN=H as)
+            (S
+            (NP (CC neither)
+            (NP=H (DT the) (NN viability) (IN of) (NN=H DC))
+            (CC nor)
+            (NP (PRP$ their) (NN mannose) (JJ receptor-mediated) (NN=H endocytosis)))
+            (VP=H (VBD=H were)
+            (VP (VBN=H modified)
+            (PP (IN=H by)
+            (NP (NN=H NAC))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="992-1250" id="S8">
+        <text xml:space="preserve">Finally, we found that the addition of NAC to MLR between naive T cells and allogeneic DC resulted in a profound inhibition of alloreactive responses, which could be attributed to a defect of DC as APC-independent T cell responses were not inhibited by NAC. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="992-999" text="Finally" lemma="finally"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="999-1000" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP" charOffset="1001-1003" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="1004-1009" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1010-1014" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1015-1018" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1019-1027" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1028-1030" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1031-1034" text="NAC" lemma="nac"/>
+            <token xml:space="preserve" id="stt_10" POS="TO" charOffset="1035-1037" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1038-1041" text="MLR" lemma="mlr"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1042-1049" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1050-1055" text="naive" lemma="naive"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1056-1057" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="1058-1063" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="1064-1067" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="1068-1078" text="allogeneic" lemma="allogeneic"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1079-1081" text="DC" lemma="dc"/>
+            <token xml:space="preserve" id="stt_19" POS="VBD" charOffset="1082-1090" text="resulted" lemma="result"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1091-1093" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="1094-1095" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="1096-1104" text="profound" lemma="profound"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1105-1115" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="1116-1118" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="1119-1131" text="alloreactive" lemma="alloreactive"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="1132-1141" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="1141-1142" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="WDT" charOffset="1143-1148" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_29" POS="MD" charOffset="1149-1154" text="could" lemma="could"/>
+            <token xml:space="preserve" id="stt_30" POS="VB" charOffset="1155-1157" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_31" POS="VBN" charOffset="1158-1168" text="attributed" lemma="attribute"/>
+            <token xml:space="preserve" id="stt_32" POS="TO" charOffset="1169-1171" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_33" POS="DT" charOffset="1172-1173" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1174-1180" text="defect" lemma="defect"/>
+            <token xml:space="preserve" id="stt_35" POS="IN" charOffset="1181-1183" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1184-1186" text="DC" lemma="dc"/>
+            <token xml:space="preserve" id="stt_37" POS="IN" charOffset="1187-1189" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_38" POS="JJ" charOffset="1190-1205" text="APC-independent" lemma="apc-independent"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="1206-1207" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="1208-1212" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_41" POS="NNS" charOffset="1213-1222" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_42" POS="VBD" charOffset="1223-1227" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_43" POS="RB" charOffset="1228-1231" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_44" POS="VBN" charOffset="1232-1241" text="inhibited" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_45" POS="IN" charOffset="1242-1244" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="1245-1248" text="NAC" lemma="nac"/>
+            <token xml:space="preserve" id="stt_47" POS="." charOffset="1248-1249" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Finally))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H found)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (NN=H addition))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H NAC))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN=H MLR))
+            (PP (IN=H between)
+            (NP
+            (NP=H (JJ naive) (NN T) (NNS=H cells))
+            (CC and)
+            (NP (JJ allogeneic) (NN=H DC)))))))))
+            (VP=H (VBD=H resulted)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT a) (JJ profound) (NN=H inhibition))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ alloreactive) (NNS=H responses))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (MD=H could)
+            (VP (VB=H be)
+            (VP (VBN=H attributed)
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT a) (NN=H defect))
+            (PP (IN=H of)
+            (NP (NN=H DC)))))
+            (SBAR (IN=H as)
+            (S
+            (NP (JJ APC-independent) (NN T) (NN cell) (NNS=H responses))
+            (VP=H (VBD=H were) (RB not)
+            (VP (VBN=H inhibited)
+            (PP (IN=H by)
+            (NP (NN=H NAC))))))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1250-1395" id="S9">
+        <text xml:space="preserve">Altogether, our results suggest that NAC might impair the generation of primary immune responses in humans through its inhibitory action on DC. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1250-1260" text="Altogether" lemma="altogether"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1260-1261" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP$" charOffset="1262-1265" text="our" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1266-1273" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="1274-1281" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1282-1286" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1287-1290" text="NAC" lemma="nac"/>
+            <token xml:space="preserve" id="stt_8" POS="MD" charOffset="1291-1296" text="might" lemma="might"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="1297-1303" text="impair" lemma="impair"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="1304-1307" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1308-1318" text="generation" lemma="generation"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1319-1321" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1322-1329" text="primary" lemma="primary"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="1330-1336" text="immune" lemma="immune"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="1337-1346" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1347-1349" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="1350-1356" text="humans" lemma="human"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1357-1364" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_19" POS="PRP$" charOffset="1365-1368" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="1369-1379" text="inhibitory" lemma="inhibitory"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1380-1386" text="action" lemma="action"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1387-1389" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1390-1392" text="DC" lemma="dc"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="1392-1393" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Altogether))
+            (, ,)
+            (NP (PRP$ our) (NNS=H results))
+            (VP=H (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H NAC))
+            (VP=H (MD=H might)
+            (VP (VB=H impair)
+            (NP
+            (NP=H (DT the) (NN=H generation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ primary) (JJ immune) (NNS=H responses))
+            (PP (IN=H in)
+            (NP (NNS=H humans))))))
+            (PP (IN=H through)
+            (NP
+            (NP=H (PRP$ its) (JJ inhibitory) (NN=H action))
+            (PP (IN=H on)
+            (NP (NN=H DC))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T8" type="ZeroArticleNP" charOffset="253-256" headOffset="253-256" text="NAC"/>
+    <Term xml:space="preserve" id="T9" type="PossessivePronoun" charOffset="313-316" headOffset="313-316" text="its"/>
+    <Term xml:space="preserve" id="T10" type="ZeroArticleNP" charOffset="327-430" headOffset="354-361" text="human dendritic cells (DC) derived from adherent PBMC cultured with IL-4 and granulocyte-macrophage CSF"/>
+    <Term xml:space="preserve" id="T11" type="ZeroArticleNP" charOffset="633-635" headOffset="633-635" text="DC"/>
+    <Term xml:space="preserve" id="T12" type="PossessivePronoun" charOffset="647-652" headOffset="647-652" text="their"/>
+    <Term xml:space="preserve" id="T13" type="ZeroArticleNP" charOffset="919-921" headOffset="919-921" text="DC"/>
+    <Term xml:space="preserve" id="T14" type="PossessivePronoun" charOffset="926-931" headOffset="926-931" text="their"/>
+    <Term xml:space="preserve" id="T15" type="IndefiniteNP" charOffset="1094-1141" headOffset="1105-1115" text="a profound inhibition of alloreactive responses"/>
+    <Term xml:space="preserve" id="T16" type="RelativePronoun" charOffset="1143-1148" headOffset="1143-1148" text="which"/>
+    <Term xml:space="preserve" id="T17" type="ZeroArticleNP" charOffset="1287-1290" headOffset="1287-1290" text="NAC"/>
+    <Term xml:space="preserve" id="T18" type="PossessivePronoun" charOffset="1365-1368" headOffset="1365-1368" text="its"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T9"/>
+        <Antecedent idref="T8"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T11"/>
+        <Antecedent idref="T10"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T12"/>
+        <Antecedent idref="T11"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T13"/>
+        <Antecedent idref="T11"/>
+    </Relation>
+    <Relation id="R5" type="Anaphora">
+        <Anaphor idref="T14"/>
+        <Antecedent idref="T13"/>
+    </Relation>
+    <Relation id="R6" type="Anaphora">
+        <Anaphor idref="T16"/>
+        <Antecedent idref="T15"/>
+    </Relation>
+    <Relation id="R7" type="Anaphora">
+        <Anaphor idref="T18"/>
+        <Antecedent idref="T17"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="395-399" headOffset="395-399" text="IL-4"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="404-430" headOffset="427-430" text="granulocyte-macrophage CSF"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="683-687" headOffset="683-687" text="CD86"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="689-693" headOffset="689-693" text="B7-2"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="700-704" headOffset="700-704" text="CD40"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="807-811" headOffset="807-811" text="CD40"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="932-948" headOffset="940-948" text="mannose receptor"/>
+</document>

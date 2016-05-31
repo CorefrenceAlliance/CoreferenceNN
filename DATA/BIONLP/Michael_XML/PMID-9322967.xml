@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9322967">
+    <text xml:space="preserve">Human neutrophils express GH-N gene transcripts and the pituitary transcription factor Pit-1b. 
+Since GH stimulates the development and function of granulocytes, we investigated the expression of GH in granulocyte subsets. By immunocytochemistry, 25 +/- 7% of the human neutrophils were shown to express immunoreactive GH, whereas eosinophils were negative. Reversed transcription (RT)-PCR analysis demonstrated GH mRNA in neutrophils. Restriction analysis revealed that neutrophils express the GH-N gene but not the GH-V gene. Furthermore, we demonstrated by western blot analysis that neutrophils express an alternatively spliced variant of the pituitary transcription factor Pit-1, designated Pit-1b. 
+</text>
+    <sentence charOffset="0-96" id="S1">
+        <text xml:space="preserve">Human neutrophils express GH-N gene transcripts and the pituitary transcription factor Pit-1b. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-5" text="Human" lemma="human"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="6-17" text="neutrophils" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="18-25" text="express" lemma="express"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="26-30" text="GH-N" lemma="gh-n"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="31-35" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="36-47" text="transcripts" lemma="transcript"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="48-51" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="52-55" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="56-65" text="pituitary" lemma="pituitary"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="66-79" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="80-86" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="87-93" text="Pit-1b" lemma="pit-1b"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="93-94" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Human) (NNS=H neutrophils))
+            (VP=H (VBP=H express)
+            (NP
+            (NP=H (NN GH-N) (NN gene) (NNS=H transcripts))
+            (CC and)
+            (NP (DT the) (JJ pituitary) (NN transcription) (NN factor) (NN=H Pit-1b))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="96-223" id="S2">
+        <text xml:space="preserve">Since GH stimulates the development and function of granulocytes, we investigated the expression of GH in granulocyte subsets. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="96-101" text="Since" lemma="since"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="102-104" text="GH" lemma="gh"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="105-115" text="stimulates" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="116-119" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="120-131" text="development" lemma="development"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="132-135" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="136-144" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="145-147" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="148-160" text="granulocytes" lemma="granulocyte"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="160-161" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="PRP" charOffset="162-164" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_12" POS="VBD" charOffset="165-177" text="investigated" lemma="investigate"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="178-181" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="182-192" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="193-195" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="196-198" text="GH" lemma="gh"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="199-201" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="202-213" text="granulocyte" lemma="granulocyte"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="214-221" text="subsets" lemma="subset"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="221-222" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H Since)
+            (S
+            (NP (NN=H GH))
+            (VP=H (VBZ=H stimulates)
+            (NP
+            (NP=H (DT the) (NN=H development)
+            (CC and)
+            (NN function))
+            (PP (IN=H of)
+            (NP (NNS=H granulocytes)))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H investigated)
+            (NP
+            (NP=H (DT the) (NN=H expression))
+            (PP (IN=H of)
+            (NP (NN=H GH))))
+            (PP (IN=H in)
+            (NP (NN granulocyte) (NNS=H subsets))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="223-358" id="S3">
+        <text xml:space="preserve">By immunocytochemistry, 25 +/- 7% of the human neutrophils were shown to express immunoreactive GH, whereas eosinophils were negative. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="223-225" text="By" lemma="by"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="226-245" text="immunocytochemistry" lemma="immunocytochemistry"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="245-246" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="CD" charOffset="247-249" text="25" lemma="25"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="250-251" text="+" lemma="+"/>
+            <token xml:space="preserve" id="stt_6" POS=":" charOffset="251-252" text="/" lemma="/"/>
+            <token xml:space="preserve" id="stt_7" POS=":" charOffset="252-253" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_8" POS="CD" charOffset="254-255" text="7" lemma="7"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="255-256" text="%" lemma="%"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="257-259" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="260-263" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="264-269" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="270-281" text="neutrophils" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_14" POS="VBD" charOffset="282-286" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="287-292" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_16" POS="TO" charOffset="293-295" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_17" POS="VB" charOffset="296-303" text="express" lemma="express"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="304-318" text="immunoreactive" lemma="immunoreactive"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="319-321" text="GH" lemma="gh"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="321-322" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="323-330" text="whereas" lemma="whereas"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="331-342" text="eosinophils" lemma="eosinophil"/>
+            <token xml:space="preserve" id="stt_23" POS="VBD" charOffset="343-347" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="348-356" text="negative" lemma="negative"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="356-357" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (FRAG=H
+            (PP (IN=H By)
+            (NP
+            (NP=H (NN=H immunocytochemistry))
+            (, ,)
+            (NP (CD=H 25)
+            (CC +))))
+            (: /)
+            (S=H
+            (NP
+            (NP=H (: -)
+            (NP=H (CD 7) (NN=H %))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (JJ human) (NNS=H neutrophils))
+            (SBAR
+            (S=H
+            (VP=H (VBD=H were)
+            (VP (VBN=H shown)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H express)
+            (NP (JJ immunoreactive) (NN=H GH))))))))))))
+            (PRN (, ,)
+            (PP=H (IN=H whereas)
+            (NP (NNS=H eosinophils)))))
+            (VP=H (VBD=H were)
+            (ADJP (JJ=H negative))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="358-436" id="S4">
+        <text xml:space="preserve">Reversed transcription (RT)-PCR analysis demonstrated GH mRNA in neutrophils. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBN" charOffset="358-366" text="Reversed" lemma="reverse"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="367-380" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_3" POS="-LRB-" charOffset="381-382" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="382-384" text="RT" lemma="rt"/>
+            <token xml:space="preserve" id="stt_5" POS="-RRB-" charOffset="384-385" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_6" POS=":" charOffset="385-386" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="386-389" text="PCR" lemma="pcr"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="390-398" text="analysis" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_9" POS="VBD" charOffset="399-411" text="demonstrated" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="412-414" text="GH" lemma="gh"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="415-419" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="420-422" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="423-434" text="neutrophils" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="434-435" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (VP=H (VBN=H Reversed)
+            (NP
+            (NP=H (NN=H transcription))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H RT))
+            (-RRB- -RRB-)))))
+            (: -)
+            (S
+            (NP (NN PCR) (NN=H analysis))
+            (VP=H (VBD=H demonstrated)
+            (NP (NN GH) (NN=H mRNA))
+            (PP (IN=H in)
+            (NP (NNS=H neutrophils)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="436-528" id="S5">
+        <text xml:space="preserve">Restriction analysis revealed that neutrophils express the GH-N gene but not the GH-V gene. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="436-447" text="Restriction" lemma="restriction"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="448-456" text="analysis" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="457-465" text="revealed" lemma="reveal"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="466-470" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="471-482" text="neutrophils" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="483-490" text="express" lemma="express"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="491-494" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="495-499" text="GH-N" lemma="gh-n"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="500-504" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="505-508" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_11" POS="RB" charOffset="509-512" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="513-516" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="517-521" text="GH-V" lemma="gh-v"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="522-526" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="526-527" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Restriction) (NN=H analysis))
+            (VP=H (VBD=H revealed)
+            (SBAR (IN=H that)
+            (S
+            (NP (NNS=H neutrophils))
+            (VP=H (VBP=H express)
+            (NP
+            (NP=H (DT the) (NN GH-N) (NN=H gene))
+            (CONJP (CC=H but)
+            (RB not))
+            (NP (DT the) (NN GH-V) (NN=H gene)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="528-705" id="S6">
+        <text xml:space="preserve">Furthermore, we demonstrated by western blot analysis that neutrophils express an alternatively spliced variant of the pituitary transcription factor Pit-1, designated Pit-1b. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="528-539" text="Furthermore" lemma="furthermore"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="539-540" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP" charOffset="541-543" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="544-556" text="demonstrated" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="557-559" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="560-567" text="western" lemma="western"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="568-572" text="blot" lemma="blot"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="573-581" text="analysis" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="582-586" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="587-598" text="neutrophils" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_11" POS="VBP" charOffset="599-606" text="express" lemma="express"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="607-609" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_13" POS="RB" charOffset="610-623" text="alternatively" lemma="alternatively"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="624-631" text="spliced" lemma="splice"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="632-639" text="variant" lemma="variant"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="640-642" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="643-646" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="647-656" text="pituitary" lemma="pituitary"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="657-670" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="671-677" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="678-683" text="Pit-1" lemma="pit-1"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="683-684" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="685-695" text="designated" lemma="designate"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="696-702" text="Pit-1b" lemma="pit-1b"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="702-703" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Furthermore))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBD=H demonstrated)
+            (PP (IN=H by)
+            (NP (NN western) (NN blot) (NN=H analysis)))
+            (SBAR (IN=H that)
+            (S
+            (NP (NNS=H neutrophils))
+            (VP=H (VBP=H express)
+            (S
+            (NP (DT=H an))
+            (VP=H
+            (ADVP (RB=H alternatively))
+            (VBN=H spliced)
+            (NP
+            (NP=H (NN=H variant))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (JJ pituitary) (NN transcription) (NN factor) (NN=H Pit-1))
+            (, ,)
+            (NP (VBN designated) (NN=H Pit-1b)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="26-30" headOffset="26-30" text="GH-N"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="87-93" headOffset="87-93" text="Pit-1b"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="102-104" headOffset="102-104" text="GH"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="196-198" headOffset="196-198" text="GH"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="319-321" headOffset="319-321" text="GH"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="412-414" headOffset="412-414" text="GH"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="495-499" headOffset="495-499" text="GH-N"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="517-521" headOffset="517-521" text="GH-V"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="678-683" headOffset="678-683" text="Pit-1"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="696-702" headOffset="696-702" text="Pit-1b"/>
+</document>

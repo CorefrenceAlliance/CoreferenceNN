@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-7706235">
+    <text xml:space="preserve">Nitric oxide-stimulated guanine nucleotide exchange on p21ras. 
+The protooncogene p21ras, a monomeric G protein family member, plays a critical role in converting extracellular signals into intracellular biochemical events. Here, we report that nitric oxide (NO) activates p21ras in human T cells as evidenced by an increase in GTP-bound p21ras. In vitro studies using pure recombinant p21ras demonstrate that the activation is direct and reversible. Circular dichroism analysis reveals that NO induces a profound conformational change in p21ras in association with GDP/GTP exchange. The mechanism of activation is due to S-nitrosylation of a critical cysteine residue which stimulates guanine nucleotide exchange. Furthermore, we demonstrate that p21ras is essential for NO-induced downstream signaling, such as NF-kappa B activation, and that endogenous NO can activate p21ras in the same cell. These studies identify p21ras as a target of the same cell. These studies identify p21ras as a target of NO in T cells and suggest that NO activates p21ras by an action which mimics that of guanine nucleotide exchange factors. 
+</text>
+    <sentence charOffset="0-64" id="S1">
+        <text xml:space="preserve">Nitric oxide-stimulated guanine nucleotide exchange on p21ras. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-6" text="Nitric" lemma="nitric"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="7-23" text="oxide-stimulated" lemma="oxide-stimulated"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="24-31" text="guanine" lemma="guanine"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="32-42" text="nucleotide" lemma="nucleotide"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="43-51" text="exchange" lemma="exchange"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="52-54" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="55-61" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_8" POS="." charOffset="61-62" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (JJ Nitric) (JJ oxide-stimulated) (NN=H guanine))
+            (NP
+            (NP=H (NN nucleotide) (NN=H exchange))
+            (PP (IN=H on)
+            (NP (NN=H p21ras))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="64-224" id="S2">
+        <text xml:space="preserve">The protooncogene p21ras, a monomeric G protein family member, plays a critical role in converting extracellular signals into intracellular biochemical events. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="64-67" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="68-81" text="protooncogene" lemma="protooncogene"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="82-88" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="88-89" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="90-91" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="92-101" text="monomeric" lemma="monomeric"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="102-103" text="G" lemma="g"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="104-111" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="112-118" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="119-125" text="member" lemma="member"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="125-126" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="VBZ" charOffset="127-132" text="plays" lemma="play"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="133-134" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="135-143" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="144-148" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="149-151" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="VBG" charOffset="152-162" text="converting" lemma="convert"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="163-176" text="extracellular" lemma="extracellular"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="177-184" text="signals" lemma="signal"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="185-189" text="into" lemma="into"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="190-203" text="intracellular" lemma="intracellular"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="204-215" text="biochemical" lemma="biochemical"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="216-222" text="events" lemma="event"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="222-223" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN protooncogene) (NN=H p21ras))
+            (, ,)
+            (NP (DT a) (JJ monomeric) (NN G) (NN protein) (NN family) (NN=H member))
+            (, ,))
+            (VP=H (VBZ=H plays)
+            (NP (DT a) (JJ critical) (NN=H role))
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H converting)
+            (NP (JJ extracellular) (NNS=H signals))
+            (PP (IN=H into)
+            (NP (JJ intracellular) (JJ biochemical) (NNS=H events)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="224-346" id="S3">
+        <text xml:space="preserve">Here, we report that nitric oxide (NO) activates p21ras in human T cells as evidenced by an increase in GTP-bound p21ras. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="224-228" text="Here" lemma="here"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="228-229" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP" charOffset="230-232" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="233-239" text="report" lemma="report"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="240-244" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="245-251" text="nitric" lemma="nitric"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="252-257" text="oxide" lemma="oxide"/>
+            <token xml:space="preserve" id="stt_8" POS="-LRB-" charOffset="258-259" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="259-261" text="NO" lemma="no"/>
+            <token xml:space="preserve" id="stt_10" POS="-RRB-" charOffset="261-262" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="263-272" text="activates" lemma="activate"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="273-279" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="280-282" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="283-288" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="289-290" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="291-296" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="297-299" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="300-309" text="evidenced" lemma="evidence"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="310-312" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="313-315" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="316-324" text="increase" lemma="increase"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="325-327" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="328-337" text="GTP-bound" lemma="gtp-bound"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="338-344" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="344-345" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Here))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H report)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (JJ nitric) (NN=H oxide))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H NO))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H activates)
+            (NP (NN=H p21ras))
+            (PP (IN=H in)
+            (NP (JJ human) (NN T) (NNS=H cells)))
+            (SBAR (IN=H as)
+            (S
+            (VP=H (VBN=H evidenced)
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT an) (NN=H increase))
+            (PP (IN=H in)
+            (NP (JJ GTP-bound) (NN=H p21ras))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="346-451" id="S4">
+        <text xml:space="preserve">In vitro studies using pure recombinant p21ras demonstrate that the activation is direct and reversible. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="FW" charOffset="346-348" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="FW" charOffset="349-354" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="355-362" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_4" POS="VBG" charOffset="363-368" text="using" lemma="use"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="369-373" text="pure" lemma="pure"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="374-385" text="recombinant" lemma="recombinant"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="386-392" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_8" POS="VBP" charOffset="393-404" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="405-409" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="410-413" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="414-424" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_12" POS="VBZ" charOffset="425-427" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="428-434" text="direct" lemma="direct"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="435-438" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="439-449" text="reversible" lemma="reversible"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="449-450" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (FW In) (FW vitro) (NNS=H studies))
+            (VP (VBG=H using)
+            (NP (JJ pure) (JJ recombinant) (NN=H p21ras))))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT the) (NN=H activation))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H direct)
+            (CC and)
+            (JJ reversible))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="451-584" id="S5">
+        <text xml:space="preserve">Circular dichroism analysis reveals that NO induces a profound conformational change in p21ras in association with GDP/GTP exchange. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="451-459" text="Circular" lemma="circular"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="460-469" text="dichroism" lemma="dichroism"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="470-478" text="analysis" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="479-486" text="reveals" lemma="reveal"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="487-491" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="492-494" text="NO" lemma="no"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="495-502" text="induces" lemma="induce"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="503-504" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="505-513" text="profound" lemma="profound"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="514-528" text="conformational" lemma="conformational"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="529-535" text="change" lemma="change"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="536-538" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="539-545" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="546-548" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="549-560" text="association" lemma="association"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="561-565" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="566-573" text="GDP/GTP" lemma="gdp/gtp"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="574-582" text="exchange" lemma="exchange"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="582-583" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Circular) (NN dichroism) (NN=H analysis))
+            (VP=H (VBZ=H reveals)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H NO))
+            (VP=H (VBZ=H induces)
+            (NP
+            (NP=H (DT a) (JJ profound) (JJ conformational) (NN=H change))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H p21ras))
+            (PP (IN=H in)
+            (NP (NN=H association))))))
+            (PP (IN=H with)
+            (NP (NN GDP/GTP) (NN=H exchange)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="584-715" id="S6">
+        <text xml:space="preserve">The mechanism of activation is due to S-nitrosylation of a critical cysteine residue which stimulates guanine nucleotide exchange. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="584-587" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="588-597" text="mechanism" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="598-600" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="601-611" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="612-614" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="615-618" text="due" lemma="due"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="619-621" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="622-637" text="S-nitrosylation" lemma="s-nitrosylation"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="638-640" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="641-642" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="643-651" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="652-660" text="cysteine" lemma="cysteine"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="661-668" text="residue" lemma="residue"/>
+            <token xml:space="preserve" id="stt_14" POS="WDT" charOffset="669-674" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="675-685" text="stimulates" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="686-693" text="guanine" lemma="guanine"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="694-704" text="nucleotide" lemma="nucleotide"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="705-713" text="exchange" lemma="exchange"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="713-714" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H mechanism))
+            (PP (IN=H of)
+            (NP (NN=H activation))))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H due)
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN=H S-nitrosylation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a) (JJ critical) (NN cysteine) (NN=H residue))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H stimulates)
+            (NP (NN guanine) (NN nucleotide) (NN=H exchange)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="715-897" id="S7">
+        <text xml:space="preserve">Furthermore, we demonstrate that p21ras is essential for NO-induced downstream signaling, such as NF-kappa B activation, and that endogenous NO can activate p21ras in the same cell. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="715-726" text="Furthermore" lemma="furthermore"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="726-727" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP" charOffset="728-730" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="731-742" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="743-747" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="748-754" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="755-757" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="758-767" text="essential" lemma="essential"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="768-771" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="772-782" text="NO-induced" lemma="no-induced"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="783-793" text="downstream" lemma="downstream"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="794-803" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="803-804" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="805-809" text="such" lemma="such"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="810-812" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="813-821" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="822-823" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="824-834" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="834-835" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="836-839" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="840-844" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="845-855" text="endogenous" lemma="endogenous"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="856-858" text="NO" lemma="no"/>
+            <token xml:space="preserve" id="stt_24" POS="MD" charOffset="859-862" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_25" POS="VB" charOffset="863-871" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="872-878" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="879-881" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_28" POS="DT" charOffset="882-885" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="886-890" text="same" lemma="same"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="891-895" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="895-896" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Furthermore))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H demonstrate)
+            (SBAR
+            (SBAR=H (IN=H that)
+            (S
+            (NP (NN=H p21ras))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H essential)
+            (PP (IN=H for)
+            (NP
+            (NP=H (JJ NO-induced) (JJ downstream) (NN=H signaling))
+            (, ,)
+            (PP (JJ such) (IN=H as)
+            (NP (NN NF-kappa) (NN B) (NN=H activation)))))))))
+            (, ,)
+            (CC and)
+            (SBAR (IN=H that)
+            (S
+            (NP (JJ endogenous) (NN=H NO))
+            (VP=H (MD=H can)
+            (VP (VB=H activate)
+            (NP (NN=H p21ras))
+            (PP (IN=H in)
+            (NP (DT the) (JJ same) (NN=H cell)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="897-957" id="S8">
+        <text xml:space="preserve">These studies identify p21ras as a target of the same cell. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="897-902" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="903-910" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="911-919" text="identify" lemma="identify"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="920-926" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="927-929" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="930-931" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="932-938" text="target" lemma="target"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="939-941" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="942-945" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="946-950" text="same" lemma="same"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="951-955" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="955-956" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H studies))
+            (VP=H (VBP=H identify)
+            (NP (NN=H p21ras))
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT a) (NN=H target))
+            (PP (IN=H of)
+            (NP (DT the) (JJ same) (NN=H cell))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="957-1125" id="S9">
+        <text xml:space="preserve">These studies identify p21ras as a target of NO in T cells and suggest that NO activates p21ras by an action which mimics that of guanine nucleotide exchange factors. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="957-962" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="963-970" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="971-979" text="identify" lemma="identify"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="980-986" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="987-989" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="990-991" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="992-998" text="target" lemma="target"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="999-1001" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1002-1004" text="NO" lemma="no"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1005-1007" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1008-1009" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="1010-1015" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="1016-1019" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="VBP" charOffset="1020-1027" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1028-1032" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1033-1035" text="NO" lemma="no"/>
+            <token xml:space="preserve" id="stt_17" POS="VBZ" charOffset="1036-1045" text="activates" lemma="activate"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1046-1052" text="p21ras" lemma="p21ras"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1053-1055" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="1056-1058" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1059-1065" text="action" lemma="action"/>
+            <token xml:space="preserve" id="stt_22" POS="WDT" charOffset="1066-1071" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_23" POS="VBZ" charOffset="1072-1078" text="mimics" lemma="mimic"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="1079-1083" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="1084-1086" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1087-1094" text="guanine" lemma="guanine"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1095-1105" text="nucleotide" lemma="nucleotide"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1106-1114" text="exchange" lemma="exchange"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="1115-1122" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_30" POS="." charOffset="1122-1123" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H studies))
+            (VP=H
+            (VP=H (VBP=H identify)
+            (NP (NN=H p21ras))
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT a) (NN=H target))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H NO))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells))))))))
+            (CC and)
+            (VP (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H NO))
+            (VP=H (VBZ=H activates)
+            (NP (NN=H p21ras))
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT an) (NN=H action))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H mimics)
+            (NP
+            (NP=H (DT=H that))
+            (PP (IN=H of)
+            (NP (NN guanine) (NN nucleotide) (NN exchange) (NNS=H factors))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T12" type="ZeroArticleNP" charOffset="622-668" headOffset="622-637" text="S-nitrosylation of a critical cysteine residue"/>
+    <Term xml:space="preserve" id="T13" type="RelativePronoun" charOffset="669-674" headOffset="669-674" text="which"/>
+    <Term xml:space="preserve" id="T14" type="IndefiniteNP" charOffset="1056-1065" headOffset="1059-1065" text="an action"/>
+    <Term xml:space="preserve" id="T15" type="RelativePronoun" charOffset="1066-1071" headOffset="1066-1071" text="which"/>
+    <Term xml:space="preserve" id="T16" type="DemonstrativePronoun" charOffset="1079-1083" headOffset="1079-1083" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T13"/>
+        <Antecedent idref="T12"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T15"/>
+        <Antecedent idref="T14"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T16"/>
+        <Antecedent idref="T14"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="55-61" headOffset="55-61" text="p21ras"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="82-88" headOffset="82-88" text="p21ras"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="273-279" headOffset="273-279" text="p21ras"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="338-344" headOffset="338-344" text="p21ras"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="386-392" headOffset="386-392" text="p21ras"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="539-545" headOffset="539-545" text="p21ras"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="748-754" headOffset="748-754" text="p21ras"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="872-878" headOffset="872-878" text="p21ras"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="920-926" headOffset="920-926" text="p21ras"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="980-986" headOffset="980-986" text="p21ras"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="1046-1052" headOffset="1046-1052" text="p21ras"/>
+</document>

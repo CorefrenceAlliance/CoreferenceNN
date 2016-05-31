@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9078381">
+    <text xml:space="preserve">Differentiation of T-helper lymphocytes: selective regulation by members of the STAT family of transcription factors. 
+Interleukin-4 (IL-4) and interleukin-12 (IL-12) control the differentiation of T-helper cells. Here we summarize studies which investigate the mechanism by which these cytokines selectively reprogramme gene expression in T-lymphocytes. Cytokine stimulation leads to the phosphorylation of specific tyrosine residues within the intracellular domain of the corresponding cytokine receptor. These phosphotyrosines serve as docking sites for latent, cytoplasmic transcription factors known as signal transducers and activators of transcription (Stat) proteins. Receptor/Stat interaction is mediated by the src homology 2 (SH2) domain of the corresponding Stat protein. Although Stat binding to the intracellular domain of the cytokine receptor strongly depends on the phosphotyrosine residue, the recruitment of a specific Stat protein is dictated by amino acid residues C-terminal to the phosphotyrosine. Specific docking sites within individual cytokine receptors have been identified for almost all Stat proteins. The direct coupling between cytokine receptor and transcription factor helps to explain how different cytokines elicit distinct patterns of gene expression. 
+</text>
+    <sentence charOffset="0-119" id="S1">
+        <text xml:space="preserve">Differentiation of T-helper lymphocytes: selective regulation by members of the STAT family of transcription factors. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-15" text="Differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="16-18" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="19-27" text="T-helper" lemma="t-helper"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="28-39" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_5" POS=":" charOffset="39-40" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="41-50" text="selective" lemma="selective"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="51-61" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="62-64" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="65-72" text="members" lemma="member"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="73-75" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="76-79" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="80-84" text="STAT" lemma="stat"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="85-91" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="92-94" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="95-108" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="109-116" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="116-117" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H
+            (NP=H (NN=H Differentiation))
+            (PP (IN=H of)
+            (NP (NN T-helper) (NNS=H lymphocytes))))
+            (: :)
+            (NP
+            (NP=H (JJ selective) (NN=H regulation))
+            (PP (IN=H by)
+            (NP
+            (NP=H (NNS=H members))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN STAT) (NN=H family))
+            (PP (IN=H of)
+            (NP (NN transcription) (NNS=H factors))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="119-214" id="S2">
+        <text xml:space="preserve">Interleukin-4 (IL-4) and interleukin-12 (IL-12) control the differentiation of T-helper cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="119-132" text="Interleukin-4" lemma="interleukin-4"/>
+            <token xml:space="preserve" id="stt_2" POS="-LRB-" charOffset="133-134" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="134-138" text="IL-4" lemma="il-4"/>
+            <token xml:space="preserve" id="stt_4" POS="-RRB-" charOffset="138-139" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="140-143" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="144-158" text="interleukin-12" lemma="interleukin-12"/>
+            <token xml:space="preserve" id="stt_7" POS="-LRB-" charOffset="159-160" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="160-165" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_9" POS="-RRB-" charOffset="165-166" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_10" POS="VBP" charOffset="167-174" text="control" lemma="control"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="175-178" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="179-194" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="195-197" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="198-206" text="T-helper" lemma="t-helper"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="207-212" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="212-213" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (NN=H Interleukin-4))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IL-4))
+            (-RRB- -RRB-)))
+            (CC and)
+            (NP
+            (NP=H (NN=H interleukin-12))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IL-12))
+            (-RRB- -RRB-))))
+            (VP=H (VBP=H control)
+            (NP
+            (NP=H (DT the) (NN=H differentiation))
+            (PP (IN=H of)
+            (NP (NN T-helper) (NNS=H cells)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="214-355" id="S3">
+        <text xml:space="preserve">Here we summarize studies which investigate the mechanism by which these cytokines selectively reprogramme gene expression in T-lymphocytes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="214-218" text="Here" lemma="here"/>
+            <token xml:space="preserve" id="stt_2" POS="PRP" charOffset="219-221" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="222-231" text="summarize" lemma="summarize"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="232-239" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_5" POS="WDT" charOffset="240-245" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="246-257" text="investigate" lemma="investigate"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="258-261" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="262-271" text="mechanism" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="272-274" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_10" POS="WDT" charOffset="275-280" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="281-286" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="287-296" text="cytokines" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_13" POS="RB" charOffset="297-308" text="selectively" lemma="selectively"/>
+            <token xml:space="preserve" id="stt_14" POS="VBP" charOffset="309-320" text="reprogramme" lemma="reprogramme"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="321-325" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="326-336" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="337-339" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="340-353" text="T-lymphocytes" lemma="t-lymphocyte"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="353-354" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Here))
+            (NP (PRP=H we))
+            (VP=H (VBP=H summarize)
+            (NP
+            (NP=H (NNS=H studies))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBP=H investigate)
+            (NP
+            (NP=H (DT the) (NN=H mechanism))
+            (SBAR
+            (WHPP=H (IN=H by)
+            (WHNP (WDT=H which)))
+            (S
+            (NP (DT these) (NNS=H cytokines))
+            (ADVP (RB=H selectively))
+            (VP=H (VBP=H reprogramme)
+            (NP
+            (NP=H (NN gene) (NN=H expression))
+            (PP (IN=H in)
+            (NP (NNS=H T-lymphocytes)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="355-507" id="S4">
+        <text xml:space="preserve">Cytokine stimulation leads to the phosphorylation of specific tyrosine residues within the intracellular domain of the corresponding cytokine receptor. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="355-363" text="Cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="364-375" text="stimulation" lemma="stimulation"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="376-381" text="leads" lemma="lead"/>
+            <token xml:space="preserve" id="stt_4" POS="TO" charOffset="382-384" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="385-388" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="389-404" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="405-407" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="408-416" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="417-425" text="tyrosine" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="426-434" text="residues" lemma="residue"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="435-441" text="within" lemma="within"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="442-445" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="446-459" text="intracellular" lemma="intracellular"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="460-466" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="467-469" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="470-473" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="474-487" text="corresponding" lemma="corresponding"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="488-496" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="497-505" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="505-506" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Cytokine) (NN=H stimulation))
+            (VP=H (VBZ=H leads)
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT the) (NN=H phosphorylation))
+            (PP (IN=H of)
+            (NP (JJ specific) (NN tyrosine) (NNS=H residues)))))
+            (PP (IN=H within)
+            (NP
+            (NP=H (DT the) (JJ intracellular) (NN=H domain))
+            (PP (IN=H of)
+            (NP (DT the) (JJ corresponding) (NN cytokine) (NN=H receptor))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="507-676" id="S5">
+        <text xml:space="preserve">These phosphotyrosines serve as docking sites for latent, cytoplasmic transcription factors known as signal transducers and activators of transcription (Stat) proteins. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="507-512" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="513-529" text="phosphotyrosines" lemma="phosphotyrosine"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="530-535" text="serve" lemma="serve"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="536-538" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="539-546" text="docking" lemma="docking"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="547-552" text="sites" lemma="site"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="553-556" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="557-563" text="latent" lemma="latent"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="563-564" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="565-576" text="cytoplasmic" lemma="cytoplasmic"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="577-590" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="591-598" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_13" POS="VBN" charOffset="599-604" text="known" lemma="know"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="605-607" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="608-614" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="615-626" text="transducers" lemma="transducer"/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="627-630" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="631-641" text="activators" lemma="activator"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="642-644" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="645-658" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_21" POS="-LRB-" charOffset="659-660" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="660-664" text="Stat" lemma="stat"/>
+            <token xml:space="preserve" id="stt_23" POS="-RRB-" charOffset="664-665" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="666-674" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="674-675" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H phosphotyrosines))
+            (VP=H (VBP=H serve)
+            (SBAR (IN=H as)
+            (S
+            (NP
+            (NP=H (NN docking) (NNS=H sites))
+            (PP (IN=H for)
+            (NP
+            (ADJP (JJ latent) (, ,) (JJ=H cytoplasmic))
+            (NN transcription) (NNS=H factors))))
+            (VP=H (VBN=H known)
+            (PP (IN=H as)
+            (NP
+            (NP=H (NN signal) (NNS=H transducers)
+            (CC and)
+            (NNS activators))
+            (PP (IN=H of)
+            (NP (NN=H transcription)))))
+            (NP
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H Stat))
+            (-RRB- -RRB-))
+            (NNS=H proteins))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="676-784" id="S6">
+        <text xml:space="preserve">Receptor/Stat interaction is mediated by the src homology 2 (SH2) domain of the corresponding Stat protein. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="676-689" text="Receptor/Stat" lemma="receptor/stat"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="690-701" text="interaction" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="702-704" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="705-713" text="mediated" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="714-716" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="717-720" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="721-724" text="src" lemma="src"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="725-733" text="homology" lemma="homology"/>
+            <token xml:space="preserve" id="stt_9" POS="CD" charOffset="734-735" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_10" POS="-LRB-" charOffset="736-737" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="737-740" text="SH2" lemma="sh2"/>
+            <token xml:space="preserve" id="stt_12" POS="-RRB-" charOffset="740-741" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="742-748" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="749-751" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="752-755" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="756-769" text="corresponding" lemma="corresponding"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="770-774" text="Stat" lemma="stat"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="775-782" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="782-783" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Receptor/Stat) (NN=H interaction))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H mediated)
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT the) (NN src) (NN homology) (CD 2) (-LRB- -LRB-) (NN SH2) (-RRB- -RRB-) (NN=H domain))
+            (PP (IN=H of)
+            (NP (DT the) (JJ corresponding) (NN Stat) (NN=H protein)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="784-1021" id="S7">
+        <text xml:space="preserve">Although Stat binding to the intracellular domain of the cytokine receptor strongly depends on the phosphotyrosine residue, the recruitment of a specific Stat protein is dictated by amino acid residues C-terminal to the phosphotyrosine. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="784-792" text="Although" lemma="although"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="793-797" text="Stat" lemma="stat"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="798-805" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_4" POS="TO" charOffset="806-808" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="809-812" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="813-826" text="intracellular" lemma="intracellular"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="827-833" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="834-836" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="837-840" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="841-849" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="850-858" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="859-867" text="strongly" lemma="strongly"/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="868-875" text="depends" lemma="depend"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="876-878" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="879-882" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="883-898" text="phosphotyrosine" lemma="phosphotyrosine"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="899-906" text="residue" lemma="residue"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="906-907" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="908-911" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="912-923" text="recruitment" lemma="recruitment"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="924-926" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="927-928" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="929-937" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="938-942" text="Stat" lemma="stat"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="943-950" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_26" POS="VBZ" charOffset="951-953" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_27" POS="VBN" charOffset="954-962" text="dictated" lemma="dictate"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="963-965" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="966-971" text="amino" lemma="amino"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="972-976" text="acid" lemma="acid"/>
+            <token xml:space="preserve" id="stt_31" POS="NNS" charOffset="977-985" text="residues" lemma="residue"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="986-996" text="C-terminal" lemma="c-terminal"/>
+            <token xml:space="preserve" id="stt_33" POS="TO" charOffset="997-999" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_34" POS="DT" charOffset="1000-1003" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1004-1019" text="phosphotyrosine" lemma="phosphotyrosine"/>
+            <token xml:space="preserve" id="stt_36" POS="." charOffset="1019-1020" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H Although)
+            (S
+            (NP
+            (NP=H (NN Stat) (NN=H binding))
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT the) (JJ intracellular) (NN=H domain))
+            (PP (IN=H of)
+            (NP (DT the) (NN cytokine) (NN=H receptor))))))
+            (ADVP (RB=H strongly))
+            (VP=H (VBZ=H depends)
+            (PP (IN=H on)
+            (NP (DT the) (NN phosphotyrosine) (NN=H residue))))))
+            (, ,)
+            (NP
+            (NP=H (DT the) (NN=H recruitment))
+            (PP (IN=H of)
+            (NP (DT a) (JJ specific) (NN Stat) (NN=H protein))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H dictated)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN amino) (NN acid) (NNS=H residues))
+            (ADJP (JJ=H C-terminal)
+            (PP (TO=H to)
+            (NP (DT the) (NN=H phosphotyrosine))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1021-1132" id="S8">
+        <text xml:space="preserve">Specific docking sites within individual cytokine receptors have been identified for almost all Stat proteins. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1021-1029" text="Specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1030-1037" text="docking" lemma="docking"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="1038-1043" text="sites" lemma="site"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1044-1050" text="within" lemma="within"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1051-1061" text="individual" lemma="individual"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1062-1070" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1071-1080" text="receptors" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_8" POS="VBP" charOffset="1081-1085" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="1086-1090" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="1091-1101" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1102-1105" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="1106-1112" text="almost" lemma="almost"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="1113-1116" text="all" lemma="all"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1117-1121" text="Stat" lemma="stat"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="1122-1130" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="1130-1131" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Specific) (NN docking) (NNS=H sites))
+            (PP (IN=H within)
+            (NP (JJ individual) (NN cytokine) (NNS=H receptors))))
+            (VP=H (VBP=H have)
+            (VP (VBN=H been)
+            (VP (VBN=H identified)
+            (PP (IN=H for)
+            (NP
+            (ADJP (RB almost) (DT=H all))
+            (NN Stat) (NNS=H proteins))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1132-1290" id="S9">
+        <text xml:space="preserve">The direct coupling between cytokine receptor and transcription factor helps to explain how different cytokines elicit distinct patterns of gene expression. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1132-1135" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="1136-1142" text="direct" lemma="direct"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1143-1151" text="coupling" lemma="coupling"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1152-1159" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1160-1168" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1169-1177" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="1178-1181" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1182-1195" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1196-1202" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="1203-1208" text="helps" lemma="help"/>
+            <token xml:space="preserve" id="stt_11" POS="TO" charOffset="1209-1211" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_12" POS="VB" charOffset="1212-1219" text="explain" lemma="explain"/>
+            <token xml:space="preserve" id="stt_13" POS="WRB" charOffset="1220-1223" text="how" lemma="how"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="1224-1233" text="different" lemma="different"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="1234-1243" text="cytokines" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_16" POS="VBP" charOffset="1244-1250" text="elicit" lemma="elicit"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="1251-1259" text="distinct" lemma="distinct"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="1260-1268" text="patterns" lemma="pattern"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1269-1271" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1272-1276" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1277-1287" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="1287-1288" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (JJ direct) (NN=H coupling))
+            (PP (IN=H between)
+            (NP
+            (NP=H (NN cytokine) (NN=H receptor))
+            (CC and)
+            (NP (NN transcription) (NN=H factor)))))
+            (VP=H (VBZ=H helps)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H explain)
+            (SBAR
+            (WHADVP=H (WRB=H how))
+            (S
+            (NP (JJ different) (NNS=H cytokines))
+            (VP=H (VBP=H elicit)
+            (NP
+            (NP=H (JJ distinct) (NNS=H patterns))
+            (PP (IN=H of)
+            (NP (NN gene) (NN=H expression)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T3" type="ZeroArticleNP" charOffset="232-239" headOffset="232-239" text="studies"/>
+    <Term xml:space="preserve" id="T4" type="RelativePronoun" charOffset="240-245" headOffset="240-245" text="which"/>
+    <Term xml:space="preserve" id="T5" type="DefiniteNP" charOffset="258-271" headOffset="262-271" text="the mechanism"/>
+    <Term xml:space="preserve" id="T6" type="RelativePronoun" charOffset="275-280" headOffset="275-280" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T4"/>
+        <Antecedent idref="T3"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T6"/>
+        <Antecedent idref="T5"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="119-132" headOffset="119-132" text="Interleukin-4"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="134-138" headOffset="134-138" text="IL-4"/>
+</document>

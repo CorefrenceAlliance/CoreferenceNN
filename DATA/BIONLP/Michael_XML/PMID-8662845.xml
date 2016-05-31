@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8662845">
+    <text xml:space="preserve">Cooperation between core binding factor and adjacent promoter elements contributes to the tissue-specific expression of interleukin-3. 
+Tissue-specific expression of interleukin-3 (IL-3) is mediated via cis-acting elements located within 315 base pairs of the transcription start. This is achieved in part through the positive activities of the AP-1 and Elf-1 sites in the IL-3 promoter. The contribution to T cell-specific expression by other promoter sites was assessed in a transient expression assay with IL-3 promoter constructs linked to a luciferase gene, focusing initially on the core binding factor (CBF) site, which is footprinted in vivo upon T cell activation. Activity of the CBF site is shown to be critically dependent on the adjacent activator site Act-1. Together the Act-1 and CBF sites form a functional unit (AC unit) with dual activity. The AC unit is demonstrated to enhance basal activity of promoters both in fibroblasts and T cells. This activity is further inducible in activated T cells, but not in fibroblasts. In addition to the already identified NIP repressor site, evidence is presented for a second repressor region that restricts promoter activity in fibroblasts. Finally, a novel positive regulatory element has been mapped in the IL-3 promoter between nucleotide -180 and -210 that leads to increased expression in T cells. Together these results demonstrate that T cell expression of IL-3 is not specified by the activity of a single tissue-specific element, but instead involves multiple interacting elements that provide both specific positive regulation in T cells and specific negative regulation in fibroblasts. 
+</text>
+    <sentence charOffset="0-136" id="S1">
+        <text xml:space="preserve">Cooperation between core binding factor and adjacent promoter elements contributes to the tissue-specific expression of interleukin-3. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-11" text="Cooperation" lemma="cooperation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="12-19" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="20-24" text="core" lemma="core"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="25-32" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="33-39" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="40-43" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="44-52" text="adjacent" lemma="adjacent"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="53-61" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="62-70" text="elements" lemma="element"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="71-82" text="contributes" lemma="contribute"/>
+            <token xml:space="preserve" id="stt_11" POS="TO" charOffset="83-85" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="86-89" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="90-105" text="tissue-specific" lemma="tissue-specific"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="106-116" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="117-119" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="120-133" text="interleukin-3" lemma="interleukin-3"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="133-134" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Cooperation))
+            (PP (IN=H between)
+            (NP (NN core) (NN binding) (NN factor)
+            (CC and)
+            (JJ adjacent) (NN promoter) (NNS=H elements))))
+            (VP=H (VBZ=H contributes)
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT the) (JJ tissue-specific) (NN=H expression))
+            (PP (IN=H of)
+            (NP (NN=H interleukin-3))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="136-281" id="S2">
+        <text xml:space="preserve">Tissue-specific expression of interleukin-3 (IL-3) is mediated via cis-acting elements located within 315 base pairs of the transcription start. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="136-151" text="Tissue-specific" lemma="tissue-specific"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="152-162" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="163-165" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="166-179" text="interleukin-3" lemma="interleukin-3"/>
+            <token xml:space="preserve" id="stt_5" POS="-LRB-" charOffset="180-181" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="181-185" text="IL-3" lemma="il-3"/>
+            <token xml:space="preserve" id="stt_7" POS="-RRB-" charOffset="185-186" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="187-189" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="190-198" text="mediated" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="199-202" text="via" lemma="via"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="203-213" text="cis-acting" lemma="cis-acting"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="214-222" text="elements" lemma="element"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="223-230" text="located" lemma="located"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="231-237" text="within" lemma="within"/>
+            <token xml:space="preserve" id="stt_15" POS="CD" charOffset="238-241" text="315" lemma="315"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="242-246" text="base" lemma="base"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="247-252" text="pairs" lemma="pair"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="253-255" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="256-259" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="260-273" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="274-279" text="start" lemma="start"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="279-280" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (JJ Tissue-specific) (NN=H expression))
+            (PP (IN=H of)
+            (NP (NN=H interleukin-3))))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IL-3))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H mediated)
+            (PP (IN=H via)
+            (NP
+            (NP=H (JJ cis-acting) (NNS=H elements))
+            (ADJP (JJ=H located)
+            (PP (IN=H within)
+            (NP
+            (NP=H (CD 315) (NN base) (NNS=H pairs))
+            (PP (IN=H of)
+            (NP (DT the) (NN transcription) (NN=H start))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="281-388" id="S3">
+        <text xml:space="preserve">This is achieved in part through the positive activities of the AP-1 and Elf-1 sites in the IL-3 promoter. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="281-285" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="286-288" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="289-297" text="achieved" lemma="achieve"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="298-300" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="301-305" text="part" lemma="part"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="306-313" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="314-317" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="318-326" text="positive" lemma="positive"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="327-337" text="activities" lemma="activity"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="338-340" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="341-344" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="345-349" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="350-353" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="354-359" text="Elf-1" lemma="elf-1"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="360-365" text="sites" lemma="site"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="366-368" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="369-372" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="373-377" text="IL-3" lemma="il-3"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="378-386" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="386-387" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT=H This))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H achieved)
+            (PP (IN=H in)
+            (NP (NN=H part)))
+            (PP (IN=H through)
+            (NP
+            (NP=H (DT the) (JJ positive) (NNS=H activities))
+            (PP (IN=H of)
+            (NP (DT the) (NN AP-1)
+            (CC and)
+            (NN Elf-1) (NNS=H sites)))))
+            (PP (IN=H in)
+            (NP (DT the) (NN IL-3) (NN=H promoter)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="388-674" id="S4">
+        <text xml:space="preserve">The contribution to T cell-specific expression by other promoter sites was assessed in a transient expression assay with IL-3 promoter constructs linked to a luciferase gene, focusing initially on the core binding factor (CBF) site, which is footprinted in vivo upon T cell activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="388-391" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="392-404" text="contribution" lemma="contribution"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="405-407" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="408-409" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="410-423" text="cell-specific" lemma="cell-specific"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="424-434" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="435-437" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="438-443" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="444-452" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="453-458" text="sites" lemma="site"/>
+            <token xml:space="preserve" id="stt_11" POS="VBD" charOffset="459-462" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="463-471" text="assessed" lemma="assess"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="472-474" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="475-476" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="477-486" text="transient" lemma="transient"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="487-497" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="498-503" text="assay" lemma="assay"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="504-508" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="509-513" text="IL-3" lemma="il-3"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="514-522" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="523-533" text="constructs" lemma="construct"/>
+            <token xml:space="preserve" id="stt_22" POS="VBN" charOffset="534-540" text="linked" lemma="link"/>
+            <token xml:space="preserve" id="stt_23" POS="TO" charOffset="541-543" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="544-545" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="546-556" text="luciferase" lemma="luciferase"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="557-561" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="561-562" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="VBG" charOffset="563-571" text="focusing" lemma="focus"/>
+            <token xml:space="preserve" id="stt_29" POS="RB" charOffset="572-581" text="initially" lemma="initially"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="582-584" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_31" POS="DT" charOffset="585-588" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="589-593" text="core" lemma="core"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="594-601" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="602-608" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_35" POS="-LRB-" charOffset="609-610" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="610-613" text="CBF" lemma="cbf"/>
+            <token xml:space="preserve" id="stt_37" POS="-RRB-" charOffset="613-614" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="615-619" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_39" POS="," charOffset="619-620" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_40" POS="WDT" charOffset="621-626" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_41" POS="VBZ" charOffset="627-629" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_42" POS="VBN" charOffset="630-641" text="footprinted" lemma="footprint"/>
+            <token xml:space="preserve" id="stt_43" POS="FW" charOffset="642-644" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_44" POS="FW" charOffset="645-649" text="vivo" lemma="vivo"/>
+            <token xml:space="preserve" id="stt_45" POS="IN" charOffset="650-654" text="upon" lemma="upon"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="655-656" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_47" POS="NN" charOffset="657-661" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_48" POS="NN" charOffset="662-672" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_49" POS="." charOffset="672-673" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H contribution))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN T) (JJ cell-specific) (NN=H expression))
+            (PP (IN=H by)
+            (NP (JJ other) (NN promoter) (NNS=H sites))))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H assessed)
+            (PP (IN=H in)
+            (NP (DT a) (JJ transient) (NN expression) (NN=H assay)))
+            (PP (IN=H with)
+            (NP
+            (NP=H (NN IL-3) (NN promoter) (NNS=H constructs))
+            (VBN linked)
+            (PP (TO=H to)
+            (NP (DT a) (NN luciferase) (NN=H gene)))
+            (, ,)
+            (VP (VBG=H focusing)
+            (ADVP (RB=H initially))
+            (PP (IN=H on)
+            (NP (DT the)
+            (ADJP (NN core) (NN=H binding))
+            (NN factor)
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H CBF))
+            (-RRB- -RRB-))
+            (NN=H site))))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H is)
+            (VP (VBN=H footprinted)
+            (ADVP (FW in) (FW=H vivo))
+            (PP (IN=H upon)
+            (NP (NN T) (NN cell) (NN=H activation)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="674-773" id="S5">
+        <text xml:space="preserve">Activity of the CBF site is shown to be critically dependent on the adjacent activator site Act-1. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="674-682" text="Activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="683-685" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="686-689" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="690-693" text="CBF" lemma="cbf"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="694-698" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="699-701" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="702-707" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="708-710" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="711-713" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="714-724" text="critically" lemma="critically"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="725-734" text="dependent" lemma="dependent"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="735-737" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="738-741" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="742-750" text="adjacent" lemma="adjacent"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="751-760" text="activator" lemma="activator"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="761-765" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="766-771" text="Act-1" lemma="act-1"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="771-772" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Activity))
+            (PP (IN=H of)
+            (NP (DT the) (NN CBF) (NN=H site))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H shown)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (ADJP (RB critically) (JJ=H dependent)
+            (PP (IN=H on)
+            (NP (DT the) (JJ adjacent) (NN activator) (NN site) (NN=H Act-1)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="773-859" id="S6">
+        <text xml:space="preserve">Together the Act-1 and CBF sites form a functional unit (AC unit) with dual activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="773-781" text="Together" lemma="together"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="782-785" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="786-791" text="Act-1" lemma="act-1"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="792-795" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="796-799" text="CBF" lemma="cbf"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="800-805" text="sites" lemma="site"/>
+            <token xml:space="preserve" id="stt_7" POS="VBP" charOffset="806-810" text="form" lemma="form"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="811-812" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="813-823" text="functional" lemma="functional"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="824-828" text="unit" lemma="unit"/>
+            <token xml:space="preserve" id="stt_11" POS="-LRB-" charOffset="829-830" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="830-832" text="AC" lemma="ac"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="833-837" text="unit" lemma="unit"/>
+            <token xml:space="preserve" id="stt_14" POS="-RRB-" charOffset="837-838" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="839-843" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="844-848" text="dual" lemma="dual"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="849-857" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="857-858" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Together))
+            (NP (DT the) (NN Act-1)
+            (CC and)
+            (NN CBF) (NNS=H sites))
+            (VP=H (VBP=H form)
+            (NP
+            (NP=H (DT a)
+            (ADJP (JJ=H functional))
+            (NN=H unit))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN AC) (NN=H unit))
+            (-RRB- -RRB-)))
+            (PP (IN=H with)
+            (NP (JJ dual) (NN=H activity))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="859-959" id="S7">
+        <text xml:space="preserve">The AC unit is demonstrated to enhance basal activity of promoters both in fibroblasts and T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="859-862" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="863-865" text="AC" lemma="ac"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="866-870" text="unit" lemma="unit"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="871-873" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="874-886" text="demonstrated" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="887-889" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="VB" charOffset="890-897" text="enhance" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="898-903" text="basal" lemma="basal"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="904-912" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="913-915" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="916-925" text="promoters" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="926-930" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="931-933" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="934-945" text="fibroblasts" lemma="fibroblast"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="946-949" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="950-951" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="952-957" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="957-958" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NN AC) (NN=H unit))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H demonstrated)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H enhance)
+            (NP
+            (NP=H (JJ basal) (NN=H activity))
+            (PP (IN=H of)
+            (NP (NNS=H promoters))))
+            (PP (CC both)
+            (IN=H in)
+            (NP
+            (NP=H (NNS=H fibroblasts))
+            (CC and)
+            (NP (NN T) (NNS=H cells)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="959-1040" id="S8">
+        <text xml:space="preserve">This activity is further inducible in activated T cells, but not in fibroblasts. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="959-963" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="964-972" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="973-975" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="976-983" text="further" lemma="further"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="984-993" text="inducible" lemma="inducible"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="994-996" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="997-1006" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1007-1008" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1009-1014" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="1014-1015" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="1016-1019" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="1020-1023" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1024-1026" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="1027-1038" text="fibroblasts" lemma="fibroblast"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="1038-1039" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H activity))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H further))
+            (S
+            (ADJP=H (JJ=H inducible)
+            (PP (IN=H in)
+            (NP (VBN activated) (NN T) (NNS=H cells)))))
+            (, ,)
+            (FRAG (CC but)
+            (RB not)
+            (PP=H (IN=H in)
+            (NP (NNS=H fibroblasts)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1040-1199" id="S9">
+        <text xml:space="preserve">In addition to the already identified NIP repressor site, evidence is presented for a second repressor region that restricts promoter activity in fibroblasts. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1040-1042" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1043-1051" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="1052-1054" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="1055-1058" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="1059-1066" text="already" lemma="already"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="1067-1077" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1078-1081" text="NIP" lemma="nip"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1082-1091" text="repressor" lemma="repressor"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1092-1096" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="1096-1097" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1098-1106" text="evidence" lemma="evidence"/>
+            <token xml:space="preserve" id="stt_12" POS="VBZ" charOffset="1107-1109" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_13" POS="VBN" charOffset="1110-1119" text="presented" lemma="present"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1120-1123" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="1124-1125" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1126-1132" text="second" lemma="second"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1133-1142" text="repressor" lemma="repressor"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1143-1149" text="region" lemma="region"/>
+            <token xml:space="preserve" id="stt_19" POS="WDT" charOffset="1150-1154" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_20" POS="VBZ" charOffset="1155-1164" text="restricts" lemma="restrict"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1165-1173" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1174-1182" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1183-1185" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="1186-1197" text="fibroblasts" lemma="fibroblast"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="1197-1198" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP
+            (NP=H (NN=H addition))
+            (PP (TO=H to)
+            (NP (DT the)
+            (ADJP (RB already) (VBN=H identified))
+            (NN NIP) (NN=H repressor)))))
+            (NP-TMP (NN=H site))
+            (, ,)
+            (NP (NN=H evidence))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H presented)
+            (PP (IN=H for)
+            (NP
+            (NP=H (DT a) (JJ second) (NN repressor) (NN=H region))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H restricts)
+            (NP
+            (NP=H (NN promoter) (NN=H activity))
+            (PP (IN=H in)
+            (NP (NNS=H fibroblasts)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1199-1361" id="S10">
+        <text xml:space="preserve">Finally, a novel positive regulatory element has been mapped in the IL-3 promoter between nucleotide -180 and -210 that leads to increased expression in T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1199-1206" text="Finally" lemma="finally"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1206-1207" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1208-1209" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1210-1215" text="novel" lemma="novel"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1216-1224" text="positive" lemma="positive"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1225-1235" text="regulatory" lemma="regulatory"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1236-1243" text="element" lemma="element"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="1244-1247" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="1248-1252" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="1253-1259" text="mapped" lemma="map"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1260-1262" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1263-1266" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1267-1271" text="IL-3" lemma="il-3"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1272-1280" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1281-1288" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1289-1299" text="nucleotide" lemma="nucleotide"/>
+            <token xml:space="preserve" id="stt_17" POS="CD" charOffset="1300-1304" text="-180" lemma="-180"/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="1305-1308" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_19" POS="CD" charOffset="1309-1313" text="-210" lemma="-210"/>
+            <token xml:space="preserve" id="stt_20" POS="WDT" charOffset="1314-1318" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_21" POS="VBZ" charOffset="1319-1324" text="leads" lemma="lead"/>
+            <token xml:space="preserve" id="stt_22" POS="TO" charOffset="1325-1327" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="1328-1337" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1338-1348" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="1349-1351" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1352-1353" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="1354-1359" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="1359-1360" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Finally))
+            (, ,)
+            (NP (DT a)
+            (ADJP (JJ novel) (JJ=H positive))
+            (JJ regulatory) (NN=H element))
+            (VP=H (VBZ=H has)
+            (VP (VBN=H been)
+            (VP (VBN=H mapped)
+            (PP (IN=H in)
+            (NP
+            (NP=H
+            (NP=H (DT the) (NN IL-3) (NN=H promoter))
+            (PP (IN=H between)
+            (NP (NN=H nucleotide) (CD -180))))
+            (CC and)
+            (NP
+            (NP=H (CD=H -210))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H leads)
+            (PP (TO=H to)
+            (NP
+            (NP=H (VBN increased) (NN=H expression))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1361-1656" id="S11">
+        <text xml:space="preserve">Together these results demonstrate that T cell expression of IL-3 is not specified by the activity of a single tissue-specific element, but instead involves multiple interacting elements that provide both specific positive regulation in T cells and specific negative regulation in fibroblasts. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1361-1369" text="Together" lemma="together"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="1370-1375" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="1376-1383" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="1384-1395" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1396-1400" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1401-1402" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1403-1407" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1408-1418" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1419-1421" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1422-1426" text="IL-3" lemma="il-3"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="1427-1429" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="1430-1433" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_13" POS="VBN" charOffset="1434-1443" text="specified" lemma="specify"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1444-1446" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="1447-1450" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1451-1459" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1460-1462" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="1463-1464" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="1465-1471" text="single" lemma="single"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="1472-1487" text="tissue-specific" lemma="tissue-specific"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1488-1495" text="element" lemma="element"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="1495-1496" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="1497-1500" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_24" POS="RB" charOffset="1501-1508" text="instead" lemma="instead"/>
+            <token xml:space="preserve" id="stt_25" POS="VBZ" charOffset="1509-1517" text="involves" lemma="involve"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="1518-1526" text="multiple" lemma="multiple"/>
+            <token xml:space="preserve" id="stt_27" POS="VBG" charOffset="1527-1538" text="interacting" lemma="interact"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="1539-1547" text="elements" lemma="element"/>
+            <token xml:space="preserve" id="stt_29" POS="WDT" charOffset="1548-1552" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_30" POS="VBP" charOffset="1553-1560" text="provide" lemma="provide"/>
+            <token xml:space="preserve" id="stt_31" POS="CC" charOffset="1561-1565" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="1566-1574" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_33" POS="JJ" charOffset="1575-1583" text="positive" lemma="positive"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1584-1594" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_35" POS="IN" charOffset="1595-1597" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1598-1599" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_37" POS="NNS" charOffset="1600-1605" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_38" POS="CC" charOffset="1606-1609" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_39" POS="JJ" charOffset="1610-1618" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_40" POS="JJ" charOffset="1619-1627" text="negative" lemma="negative"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="1628-1638" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_42" POS="IN" charOffset="1639-1641" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_43" POS="NNS" charOffset="1642-1653" text="fibroblasts" lemma="fibroblast"/>
+            <token xml:space="preserve" id="stt_44" POS="." charOffset="1653-1654" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Together))
+            (NP (DT these) (NNS=H results))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN T) (NN cell) (NN=H expression))
+            (PP (IN=H of)
+            (NP (NN=H IL-3))))
+            (VP=H
+            (VP=H (VBZ=H is) (RB not)
+            (VP (VBN=H specified)
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT the) (NN=H activity))
+            (PP (IN=H of)
+            (NP (DT a) (JJ single) (JJ tissue-specific) (NN=H element)))))))
+            (, ,)
+            (CC but)
+            (VP
+            (ADVP (RB=H instead))
+            (VBZ=H involves)
+            (NP
+            (NP=H (JJ multiple) (VBG interacting) (NNS=H elements))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H provide)
+            (NP (CC both)
+            (NP=H
+            (NP=H (JJ specific) (JJ positive) (NN=H regulation))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells))))
+            (CC and)
+            (NP
+            (NP=H (JJ specific) (JJ negative) (NN=H regulation))
+            (PP (IN=H in)
+            (NP (NNS=H fibroblasts))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T8" type="DefiniteNP" charOffset="585-619" headOffset="615-619" text="the core binding factor (CBF) site"/>
+    <Term xml:space="preserve" id="T9" type="RelativePronoun" charOffset="621-626" headOffset="621-626" text="which"/>
+    <Term xml:space="preserve" id="T10" type="IndefiniteNP" charOffset="1124-1149" headOffset="1143-1149" text="a second repressor region"/>
+    <Term xml:space="preserve" id="T11" type="RelativePronoun" charOffset="1150-1154" headOffset="1150-1154" text="that"/>
+    <Term xml:space="preserve" id="T12" type="ZeroArticleNP" charOffset="1518-1547" headOffset="1539-1547" text="multiple interacting elements"/>
+    <Term xml:space="preserve" id="T13" type="RelativePronoun" charOffset="1548-1552" headOffset="1548-1552" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T9"/>
+        <Antecedent idref="T8"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T11"/>
+        <Antecedent idref="T10"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T13"/>
+        <Antecedent idref="T12"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="120-133" headOffset="120-133" text="interleukin-3"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="166-179" headOffset="166-179" text="interleukin-3"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="181-185" headOffset="181-185" text="IL-3"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="373-377" headOffset="373-377" text="IL-3"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="509-513" headOffset="509-513" text="IL-3"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="1267-1271" headOffset="1267-1271" text="IL-3"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="1422-1426" headOffset="1422-1426" text="IL-3"/>
+</document>

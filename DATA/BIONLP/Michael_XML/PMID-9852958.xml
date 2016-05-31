@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9852958">
+    <text xml:space="preserve">Molecular cloning of FKHRL1P2, a member of the developmentally regulated fork head domain transcription factor family. 
+Here we report the expression of a fork head domain protein in human T helper cells. We cloned and characterized a fork head cDNA from human T helper cell mRNA using differential display RT-PCR. The cDNA contains a 546-nucleotide (nt) open reading frame (ORF) that codes for the carboxyl-terminal 180 amino acids (aa) of the recently identified fkhrl1 gene. This ORF does not contain the characteristic DNA-binding domain found in members of the forkhead protein family. In-vitro transcription/translation of this cDNA expressed a protein of approximately 20 kDa. We have generated antibodies that specifically immunoprecipitated the in-vitro-translated 20-kDa protein. This antibody also recognizes in human T lymphocytes a 70-kDa protein corresponding in size to that predicted for the fkhrl1 gene product. The mRNA levels for fkhrl1 is elevated in T helper-induced lymphocytes in comparison to PHA-stimulated T lymphocytes. Further characterization of FKHRL1 and its related family members should shed light on the transcriptional mechanisms of this fork head gene subfamily and their role in T helper cell differentiation and regulation of cell growth. 
+</text>
+    <sentence charOffset="0-120" id="S1">
+        <text xml:space="preserve">Molecular cloning of FKHRL1P2, a member of the developmentally regulated fork head domain transcription factor family. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-9" text="Molecular" lemma="molecular"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="10-17" text="cloning" lemma="cloning"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="18-20" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="21-29" text="FKHRL1P2" lemma="fkhrl1p2"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="29-30" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="31-32" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="33-39" text="member" lemma="member"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="40-42" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="43-46" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="47-62" text="developmentally" lemma="developmentally"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="63-72" text="regulated" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="73-77" text="fork" lemma="fork"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="78-82" text="head" lemma="head"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="83-89" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="90-103" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="104-110" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="111-117" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="117-118" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H
+            (NP=H (JJ Molecular) (NN=H cloning))
+            (PP (IN=H of)
+            (NP (NN=H FKHRL1P2))))
+            (, ,)
+            (NP
+            (NP=H (DT a) (NN=H member))
+            (PP (IN=H of)
+            (NP (DT the)
+            (ADJP (RB=H developmentally)
+            (S
+            (VP=H (VBN=H regulated)
+            (NP (NN fork) (NN head) (NN domain) (NN=H transcription)))))
+            (NN factor) (NN=H family))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="120-205" id="S2">
+        <text xml:space="preserve">Here we report the expression of a fork head domain protein in human T helper cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="120-124" text="Here" lemma="here"/>
+            <token xml:space="preserve" id="stt_2" POS="PRP" charOffset="125-127" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="128-134" text="report" lemma="report"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="135-138" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="139-149" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="150-152" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="153-154" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="155-159" text="fork" lemma="fork"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="160-164" text="head" lemma="head"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="165-171" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="172-179" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="180-182" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="183-188" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="189-190" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="191-197" text="helper" lemma="helper"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="198-203" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="203-204" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Here))
+            (NP (PRP=H we))
+            (VP=H (VBP=H report)
+            (NP
+            (NP=H (DT the) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a) (NN fork) (NN head) (NN domain) (NN=H protein))
+            (PP (IN=H in)
+            (NP (JJ human) (NN T) (NN helper) (NNS=H cells)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="205-315" id="S3">
+        <text xml:space="preserve">We cloned and characterized a fork head cDNA from human T helper cell mRNA using differential display RT-PCR. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="205-207" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="208-214" text="cloned" lemma="clone"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="215-218" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="219-232" text="characterized" lemma="characterize"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="233-234" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="235-239" text="fork" lemma="fork"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="240-244" text="head" lemma="head"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="245-249" text="cDNA" lemma="cdna"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="250-254" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="255-260" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="261-262" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="263-269" text="helper" lemma="helper"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="270-274" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="275-279" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_15" POS="VBG" charOffset="280-285" text="using" lemma="use"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="286-298" text="differential" lemma="differential"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="299-306" text="display" lemma="display"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="307-313" text="RT-PCR" lemma="rt-pcr"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="313-314" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H cloned)
+            (CC and)
+            (VBD characterized)
+            (NP
+            (NP=H (DT a) (NN fork) (NN head) (NN=H cDNA))
+            (PP (IN=H from)
+            (NP
+            (NP=H (JJ human) (NN T) (NN helper) (NN cell) (NN=H mRNA))
+            (VP (VBG=H using)
+            (NP (JJ differential) (NN display) (NN=H RT-PCR)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="315-478" id="S4">
+        <text xml:space="preserve">The cDNA contains a 546-nucleotide (nt) open reading frame (ORF) that codes for the carboxyl-terminal 180 amino acids (aa) of the recently identified fkhrl1 gene. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="315-318" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="319-323" text="cDNA" lemma="cdna"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="324-332" text="contains" lemma="contain"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="333-334" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="335-349" text="546-nucleotide" lemma="546-nucleotide"/>
+            <token xml:space="preserve" id="stt_6" POS="-LRB-" charOffset="350-351" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="351-353" text="nt" lemma="nt"/>
+            <token xml:space="preserve" id="stt_8" POS="-RRB-" charOffset="353-354" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="355-359" text="open" lemma="open"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="360-367" text="reading" lemma="reading"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="368-373" text="frame" lemma="frame"/>
+            <token xml:space="preserve" id="stt_12" POS="-LRB-" charOffset="374-375" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="375-378" text="ORF" lemma="orf"/>
+            <token xml:space="preserve" id="stt_14" POS="-RRB-" charOffset="378-379" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_15" POS="WDT" charOffset="380-384" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="385-390" text="codes" lemma="code"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="391-394" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="395-398" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="399-416" text="carboxyl-terminal" lemma="carboxyl-terminal"/>
+            <token xml:space="preserve" id="stt_20" POS="CD" charOffset="417-420" text="180" lemma="180"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="421-426" text="amino" lemma="amino"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="427-432" text="acids" lemma="acid"/>
+            <token xml:space="preserve" id="stt_23" POS="-LRB-" charOffset="433-434" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="434-436" text="aa" lemma="aa"/>
+            <token xml:space="preserve" id="stt_25" POS="-RRB-" charOffset="436-437" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="438-440" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="441-444" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_28" POS="RB" charOffset="445-453" text="recently" lemma="recently"/>
+            <token xml:space="preserve" id="stt_29" POS="VBN" charOffset="454-464" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="465-471" text="fkhrl1" lemma="fkhrl1"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="472-476" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="476-477" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NN=H cDNA))
+            (VP=H (VBZ=H contains)
+            (NP
+            (NP=H (DT a)
+            (ADJP
+            (ADJP=H (JJ=H 546-nucleotide))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H nt))
+            (-RRB- -RRB-)))
+            (JJ open) (NN reading) (NN=H frame))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H ORF))
+            (-RRB- -RRB-))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H codes)
+            (PP (IN=H for)
+            (NP
+            (NP=H
+            (NP=H (DT the) (JJ carboxyl-terminal) (CD 180) (NN amino) (NNS=H acids))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H aa))
+            (-RRB- -RRB-)))
+            (PP (IN=H of)
+            (NP (DT the)
+            (ADJP (RB recently) (VBN=H identified))
+            (NN fkhrl1) (NN=H gene))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="478-591" id="S5">
+        <text xml:space="preserve">This ORF does not contain the characteristic DNA-binding domain found in members of the forkhead protein family. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="478-482" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="483-486" text="ORF" lemma="orf"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="487-491" text="does" lemma="do"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="492-495" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_5" POS="VB" charOffset="496-503" text="contain" lemma="contain"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="504-507" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="508-522" text="characteristic" lemma="characteristic"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="523-534" text="DNA-binding" lemma="dna-binding"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="535-541" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="542-547" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="548-550" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="551-558" text="members" lemma="member"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="559-561" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="562-565" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="566-574" text="forkhead" lemma="forkhead"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="575-582" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="583-589" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="589-590" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H ORF))
+            (VP=H (VBZ=H does) (RB not)
+            (VP (VB=H contain)
+            (NP
+            (NP=H (DT the) (JJ characteristic) (JJ DNA-binding) (NN=H domain))
+            (VP (VBN=H found)
+            (PP (IN=H in)
+            (NP
+            (NP=H (NNS=H members))
+            (PP (IN=H of)
+            (NP (DT the) (NN forkhead) (NN protein) (NN=H family)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="591-684" id="S6">
+        <text xml:space="preserve">In-vitro transcription/translation of this cDNA expressed a protein of approximately 20 kDa. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="FW" charOffset="591-599" text="In-vitro" lemma="in-vitro"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="600-625" text="transcription/translation" lemma="transcription/translation"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="626-628" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="629-633" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="634-638" text="cDNA" lemma="cdna"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="639-648" text="expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="649-650" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="651-658" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="659-661" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="662-675" text="approximately" lemma="approximately"/>
+            <token xml:space="preserve" id="stt_11" POS="CD" charOffset="676-678" text="20" lemma="20"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="679-682" text="kDa" lemma="kda"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="682-683" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP (FW=H In-vitro))
+            (NN=H transcription/translation)
+            (PP (IN=H of)
+            (NP (DT this) (NN=H cDNA))))
+            (VP=H (VBD=H expressed)
+            (NP
+            (NP=H (DT a) (NN=H protein))
+            (PP (IN=H of)
+            (NP
+            (QP (RB approximately) (CD=H 20))
+            (NN=H kDa)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="684-790" id="S7">
+        <text xml:space="preserve">We have generated antibodies that specifically immunoprecipitated the in-vitro-translated 20-kDa protein. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="684-686" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="687-691" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="692-701" text="generated" lemma="generate"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="702-712" text="antibodies" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_5" POS="WDT" charOffset="713-717" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="718-730" text="specifically" lemma="specifically"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="731-749" text="immunoprecipitated" lemma="immunoprecipitate"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="750-753" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="754-773" text="in-vitro-translated" lemma="in-vitro-translated"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="774-780" text="20-kDa" lemma="20-kda"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="781-788" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="788-789" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H have)
+            (VP (VBN=H generated)
+            (NP
+            (NP=H (NNS=H antibodies))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (ADVP (RB=H specifically))
+            (VP=H (VBD=H immunoprecipitated)
+            (NP (DT the) (JJ in-vitro-translated) (JJ 20-kDa) (NN=H protein))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="790-929" id="S8">
+        <text xml:space="preserve">This antibody also recognizes in human T lymphocytes a 70-kDa protein corresponding in size to that predicted for the fkhrl1 gene product. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="790-794" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="795-803" text="antibody" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="804-808" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="809-819" text="recognizes" lemma="recognize"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="820-822" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="823-828" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="829-830" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="831-842" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="843-844" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="845-851" text="70-kDa" lemma="70-kda"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="852-859" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_12" POS="VBG" charOffset="860-873" text="corresponding" lemma="correspond"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="874-876" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="877-881" text="size" lemma="size"/>
+            <token xml:space="preserve" id="stt_15" POS="TO" charOffset="882-884" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="885-889" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="890-899" text="predicted" lemma="predict"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="900-903" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="904-907" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="908-914" text="fkhrl1" lemma="fkhrl1"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="915-919" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="920-927" text="product" lemma="product"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="927-928" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H antibody))
+            (ADVP (RB=H also))
+            (VP=H (VBZ=H recognizes)
+            (PP (IN=H in)
+            (NP (JJ human) (NN T) (NNS=H lymphocytes)))
+            (NP
+            (NP=H (DT a) (JJ 70-kDa) (NN=H protein))
+            (VP (VBG=H corresponding)
+            (PP (IN=H in)
+            (NP (NN=H size)))
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT=H that))
+            (VP (VBN=H predicted)
+            (PP (IN=H for)
+            (NP (DT the) (NN fkhrl1) (NN gene) (NN=H product)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="929-1047" id="S9">
+        <text xml:space="preserve">The mRNA levels for fkhrl1 is elevated in T helper-induced lymphocytes in comparison to PHA-stimulated T lymphocytes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="929-932" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="933-937" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="938-944" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="945-948" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="949-955" text="fkhrl1" lemma="fkhrl1"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="956-958" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="959-967" text="elevated" lemma="elevated"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="968-970" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="971-972" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="973-987" text="helper-induced" lemma="helper-induced"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="988-999" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1000-1002" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1003-1013" text="comparison" lemma="comparison"/>
+            <token xml:space="preserve" id="stt_14" POS="TO" charOffset="1014-1016" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="1017-1031" text="PHA-stimulated" lemma="pha-stimulated"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1032-1033" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="1034-1045" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="1045-1046" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN mRNA) (NNS=H levels))
+            (PP (IN=H for)
+            (NP (NN=H fkhrl1))))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H elevated)
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN T) (JJ helper-induced) (NNS=H lymphocytes))
+            (PP (IN=H in)
+            (NP (NN=H comparison))))))
+            (PP (TO=H to)
+            (NP (JJ PHA-stimulated) (NN T) (NNS=H lymphocytes))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1047-1278" id="S10">
+        <text xml:space="preserve">Further characterization of FKHRL1 and its related family members should shed light on the transcriptional mechanisms of this fork head gene subfamily and their role in T helper cell differentiation and regulation of cell growth. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1047-1054" text="Further" lemma="further"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1055-1071" text="characterization" lemma="characterization"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1072-1074" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1075-1081" text="FKHRL1" lemma="fkhrl1"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="1082-1085" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="PRP$" charOffset="1086-1089" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1090-1097" text="related" lemma="related"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1098-1104" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1105-1112" text="members" lemma="member"/>
+            <token xml:space="preserve" id="stt_10" POS="MD" charOffset="1113-1119" text="should" lemma="should"/>
+            <token xml:space="preserve" id="stt_11" POS="VB" charOffset="1120-1124" text="shed" lemma="shed"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1125-1130" text="light" lemma="light"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1131-1133" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="1134-1137" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="1138-1153" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="1154-1164" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1165-1167" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="1168-1172" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1173-1177" text="fork" lemma="fork"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1178-1182" text="head" lemma="head"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1183-1187" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1188-1197" text="subfamily" lemma="subfamily"/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="1198-1201" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="PRP$" charOffset="1202-1207" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1208-1212" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="1213-1215" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1216-1217" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1218-1224" text="helper" lemma="helper"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1225-1229" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1230-1245" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_31" POS="CC" charOffset="1246-1249" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1250-1260" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_33" POS="IN" charOffset="1261-1263" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1264-1268" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1269-1275" text="growth" lemma="growth"/>
+            <token xml:space="preserve" id="stt_36" POS="." charOffset="1275-1276" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Further) (NN=H characterization))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H FKHRL1))
+            (CC and)
+            (NP (PRP$ its) (JJ related) (NN family) (NNS=H members)))))
+            (VP=H (MD=H should)
+            (VP (VB=H shed)
+            (NP (NN=H light))
+            (PP (IN=H on)
+            (NP
+            (NP=H
+            (NP=H (DT the) (JJ transcriptional) (NNS=H mechanisms))
+            (PP (IN=H of)
+            (NP (DT this) (NN fork) (NN head) (NN gene) (NN=H subfamily))))
+            (CC and)
+            (NP
+            (NP=H (PRP$ their) (NN=H role))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN T) (NN helper) (NN cell) (NN=H differentiation)
+            (CC and)
+            (NN regulation))
+            (PP (IN=H of)
+            (NP (NN cell) (NN=H growth))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T6" type="IndefiniteNP" charOffset="333-379" headOffset="375-378" text="a 546-nucleotide (nt) open reading frame (ORF)"/>
+    <Term xml:space="preserve" id="T7" type="RelativePronoun" charOffset="380-384" headOffset="380-384" text="that"/>
+    <Term xml:space="preserve" id="T8" type="ZeroArticleNP" charOffset="702-712" headOffset="702-712" text="antibodies"/>
+    <Term xml:space="preserve" id="T9" type="RelativePronoun" charOffset="713-717" headOffset="713-717" text="that"/>
+    <Term xml:space="preserve" id="T10" type="DemonstrativeNP" charOffset="790-803" headOffset="795-803" text="This antibody"/>
+    <Term xml:space="preserve" id="T11" type="PossessivePronoun" charOffset="1075-1112" headOffset="1105-1112" text="FKHRL1 and its related family members"/>
+    <Term xml:space="preserve" id="T12" type="PossessivePronoun" charOffset="1075-1112" headOffset="1105-1112" text="FKHRL1 and its related family members"/>
+    <Term xml:space="preserve" id="T13" type="PossessivePronoun" charOffset="1075-1112" headOffset="1105-1112" text="FKHRL1 and its related family members"/>
+    <Term xml:space="preserve" id="T14" type="PossessivePronoun" charOffset="1202-1207" headOffset="1202-1207" text="their"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T7"/>
+        <Antecedent idref="T6"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T9"/>
+        <Antecedent idref="T8"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T10"/>
+        <Antecedent idref="T8"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T13"/>
+        <Antecedent idref="T12"/>
+    </Relation>
+    <Relation id="R5" type="Anaphora">
+        <Anaphor idref="T14"/>
+        <Antecedent idref="T11"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="21-29" headOffset="21-29" text="FKHRL1P2"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="465-471" headOffset="465-471" text="fkhrl1"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="908-914" headOffset="908-914" text="fkhrl1"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="949-955" headOffset="949-955" text="fkhrl1"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="1075-1081" headOffset="1075-1081" text="FKHRL1"/>
+</document>

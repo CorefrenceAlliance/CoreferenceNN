@@ -305,14 +305,14 @@ public class CoreNLPWrapper {
 			  log.warning("No words are associated with the sentence. Skipping coreNLP..");
 			  return depList;
 		  }
-		  int di = 0;
-		  for (TypedDependency d: dependencies) {
-			  Word gw = words.get(d.gov().index()-1);
-			  Word dw = words.get(d.dep().index()-1);
-			  String type = d.reln().toString();
-	    	  SynDependency sd = new SynDependency("SD" + ++di,type,gw,dw);
-	    	  depList.add(sd);
-		  }
+//		  int di = 0;
+//		  for (TypedDependency d: dependencies) {
+//			  Word gw = words.get(d.gov().index()-1);
+//			  Word dw = words.get(d.dep().index()-1);
+//			  String type = d.reln().toString();
+//	    	  SynDependency sd = new SynDependency("SD" + ++di,type,gw,dw);
+//	    	  depList.add(sd);
+//		  }
 		  return depList;
 	}
 		
@@ -351,8 +351,8 @@ public class CoreNLPWrapper {
 	
 	public static void main(String[] args) throws IOException {
 		System.setProperty("java.util.logging.config.file", "logging.properties");
-		String filename = args[0];
-		String outputFilename = args[1];
+		String filename = "C:\\Users\\michael\\Downloads\\Bio-SCoRes-master\\Bio-SCoRes-master";
+		String outputFilename = "C:\\Users\\michael\\Documents\\GitHub\\CoreferenceNN\\DATA\\BIONLP\\Michael_XML";
 		CoreNLPWrapper.getInstance().coreNLP(filename, outputFilename);
 	}
 }

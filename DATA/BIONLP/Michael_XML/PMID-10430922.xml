@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10430922">
+    <text xml:space="preserve">Distinctive gene expression patterns in human mammary epithelial cells and breast cancers. 
+cDNA microarrays and a clustering algorithm were used to identify patterns of gene expression in human mammary epithelial cells growing in culture and in primary human breast tumors. Clusters of coexpressed genes identified through manipulations of mammary epithelial cells in vitro also showed consistent patterns of variation in expression among breast tumor samples. By using immunohistochemistry with antibodies against proteins encoded by a particular gene in a cluster, the identity of the cell type within the tumor specimen that contributed the observed gene expression pattern could be determined. Clusters of genes with coherent expression patterns in cultured cells and in the breast tumors samples could be related to specific features of biological variation among the samples. Two such clusters were found to have patterns that correlated with variation in cell proliferation rates and with activation of the IFN-regulated signal transduction pathway, respectively. Clusters of genes expressed by stromal cells and lymphocytes in the breast tumors also were identified in this analysis. These results support the feasibility and usefulness of this systematic approach to studying variation in gene expression patterns in human cancers as a means to dissect and classify solid tumors. 
+</text>
+    <sentence charOffset="0-92" id="S1">
+        <text xml:space="preserve">Distinctive gene expression patterns in human mammary epithelial cells and breast cancers. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-11" text="Distinctive" lemma="distinctive"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="12-16" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="17-27" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="28-36" text="patterns" lemma="pattern"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="37-39" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="40-45" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="46-53" text="mammary" lemma="mammary"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="54-64" text="epithelial" lemma="epithelial"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="65-70" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="71-74" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="75-81" text="breast" lemma="breast"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="82-89" text="cancers" lemma="cancer"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="89-90" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (JJ Distinctive) (NN gene) (NN expression) (NNS=H patterns))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ human) (JJ mammary) (JJ epithelial) (NNS=H cells))
+            (CC and)
+            (NP (NN breast) (NNS=H cancers))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="92-275" id="S2">
+        <text xml:space="preserve">cDNA microarrays and a clustering algorithm were used to identify patterns of gene expression in human mammary epithelial cells growing in culture and in primary human breast tumors. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="92-96" text="cDNA" lemma="cdna"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="97-108" text="microarrays" lemma="microarray"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="109-112" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="113-114" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="115-125" text="clustering" lemma="clustering"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="126-135" text="algorithm" lemma="algorithm"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="136-140" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="141-145" text="used" lemma="use"/>
+            <token xml:space="preserve" id="stt_9" POS="TO" charOffset="146-148" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_10" POS="VB" charOffset="149-157" text="identify" lemma="identify"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="158-166" text="patterns" lemma="pattern"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="167-169" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="170-174" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="175-185" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="186-188" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="189-194" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="195-202" text="mammary" lemma="mammary"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="203-213" text="epithelial" lemma="epithelial"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="214-219" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_20" POS="VBG" charOffset="220-227" text="growing" lemma="grow"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="228-230" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="231-238" text="culture" lemma="culture"/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="239-242" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="243-245" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="246-253" text="primary" lemma="primary"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="254-259" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="260-266" text="breast" lemma="breast"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="267-273" text="tumors" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="273-274" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN cDNA) (NNS=H microarrays))
+            (CC and)
+            (NP (DT a) (NN clustering) (NN=H algorithm)))
+            (VP=H (VBD=H were)
+            (VP (VBN=H used)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H identify)
+            (NP
+            (NP=H (NNS=H patterns))
+            (PP (IN=H of)
+            (NP (NN gene) (NN=H expression))))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ human) (JJ mammary) (JJ epithelial) (NNS=H cells))
+            (VP (VBG=H growing)
+            (PP
+            (PP=H (IN=H in)
+            (NP (NN=H culture)))
+            (CC and)
+            (PP (IN=H in)
+            (NP (JJ primary) (JJ human) (NN breast) (NNS=H tumors))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="275-462" id="S3">
+        <text xml:space="preserve">Clusters of coexpressed genes identified through manipulations of mammary epithelial cells in vitro also showed consistent patterns of variation in expression among breast tumor samples. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="275-283" text="Clusters" lemma="cluster"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="284-286" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="287-298" text="coexpressed" lemma="coexpressed"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="299-304" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="305-315" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="316-323" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="324-337" text="manipulations" lemma="manipulation"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="338-340" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="341-348" text="mammary" lemma="mammary"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="349-359" text="epithelial" lemma="epithelial"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="360-365" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="FW" charOffset="366-368" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="FW" charOffset="369-374" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="375-379" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_15" POS="VBD" charOffset="380-386" text="showed" lemma="show"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="387-397" text="consistent" lemma="consistent"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="398-406" text="patterns" lemma="pattern"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="407-409" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="410-419" text="variation" lemma="variation"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="420-422" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="423-433" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="434-439" text="among" lemma="among"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="440-446" text="breast" lemma="breast"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="447-452" text="tumor" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="453-460" text="samples" lemma="sample"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="460-461" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NNS=H Clusters))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ coexpressed) (NNS=H genes))
+            (VP (VBN=H identified)
+            (PP (IN=H through)
+            (NP
+            (NP=H (NNS=H manipulations))
+            (PP (IN=H of)
+            (NP (JJ mammary) (JJ epithelial) (NNS=H cells)))))
+            (ADVP (FW in) (FW=H vitro))))))
+            (ADVP (RB=H also))
+            (VP=H (VBD=H showed)
+            (NP
+            (NP=H (JJ consistent) (NNS=H patterns))
+            (PP (IN=H of)
+            (NP (NN=H variation))))
+            (PP (IN=H in)
+            (NP (NN=H expression)))
+            (PP (IN=H among)
+            (NP (NN breast) (NN tumor) (NNS=H samples))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="462-699" id="S4">
+        <text xml:space="preserve">By using immunohistochemistry with antibodies against proteins encoded by a particular gene in a cluster, the identity of the cell type within the tumor specimen that contributed the observed gene expression pattern could be determined. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="462-464" text="By" lemma="by"/>
+            <token xml:space="preserve" id="stt_2" POS="VBG" charOffset="465-470" text="using" lemma="use"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="471-491" text="immunohistochemistry" lemma="immunohistochemistry"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="492-496" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="497-507" text="antibodies" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="508-515" text="against" lemma="against"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="516-524" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="525-532" text="encoded" lemma="encode"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="533-535" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="536-537" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="538-548" text="particular" lemma="particular"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="549-553" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="554-556" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="557-558" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="559-566" text="cluster" lemma="cluster"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="566-567" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="568-571" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="572-580" text="identity" lemma="identity"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="581-583" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="584-587" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="588-592" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="593-597" text="type" lemma="type"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="598-604" text="within" lemma="within"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="605-608" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="609-614" text="tumor" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="615-623" text="specimen" lemma="specimen"/>
+            <token xml:space="preserve" id="stt_27" POS="WDT" charOffset="624-628" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_28" POS="VBD" charOffset="629-640" text="contributed" lemma="contribute"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="641-644" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_30" POS="VBN" charOffset="645-653" text="observed" lemma="observe"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="654-658" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="659-669" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="670-677" text="pattern" lemma="pattern"/>
+            <token xml:space="preserve" id="stt_34" POS="MD" charOffset="678-683" text="could" lemma="could"/>
+            <token xml:space="preserve" id="stt_35" POS="VB" charOffset="684-686" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_36" POS="VBN" charOffset="687-697" text="determined" lemma="determine"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="697-698" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H By)
+            (S
+            (VP=H (VBG=H using)
+            (NP (NN=H immunohistochemistry))
+            (PP (IN=H with)
+            (NP
+            (NP=H (NNS=H antibodies))
+            (PP (IN=H against)
+            (NP
+            (NP=H (NNS=H proteins))
+            (VP (VBN=H encoded)
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT a) (JJ particular) (NN=H gene))
+            (PP (IN=H in)
+            (NP (DT a) (NN=H cluster)))))))))))))
+            (, ,)
+            (NP
+            (NP=H (DT the) (NN=H identity))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN cell) (NN=H type))
+            (PP (IN=H within)
+            (NP
+            (NP=H (DT the) (NN tumor) (NN=H specimen))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBD=H contributed)
+            (NP (DT the) (VBN observed) (NN gene) (NN expression) (NN=H pattern))))))))))
+            (VP=H (MD=H could)
+            (VP (VB=H be)
+            (VP (VBN=H determined))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="699-883" id="S5">
+        <text xml:space="preserve">Clusters of genes with coherent expression patterns in cultured cells and in the breast tumors samples could be related to specific features of biological variation among the samples. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="699-707" text="Clusters" lemma="cluster"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="708-710" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="711-716" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="717-721" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="722-730" text="coherent" lemma="coherent"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="731-741" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="742-750" text="patterns" lemma="pattern"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="751-753" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="754-762" text="cultured" lemma="culture"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="763-768" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="769-772" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="773-775" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="776-779" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="780-786" text="breast" lemma="breast"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="787-793" text="tumors" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="794-801" text="samples" lemma="sample"/>
+            <token xml:space="preserve" id="stt_17" POS="MD" charOffset="802-807" text="could" lemma="could"/>
+            <token xml:space="preserve" id="stt_18" POS="VB" charOffset="808-810" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_19" POS="VBN" charOffset="811-818" text="related" lemma="relate"/>
+            <token xml:space="preserve" id="stt_20" POS="TO" charOffset="819-821" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="822-830" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="831-839" text="features" lemma="feature"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="840-842" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="843-853" text="biological" lemma="biological"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="854-863" text="variation" lemma="variation"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="864-869" text="among" lemma="among"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="870-873" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="874-881" text="samples" lemma="sample"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="881-882" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NNS=H Clusters))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H genes))
+            (PP (IN=H with)
+            (NP
+            (NP=H (JJ coherent) (NN expression) (NNS=H patterns))
+            (PP (IN=H in)
+            (NP
+            (UCP
+            (VP=H (VBN=H cultured)
+            (NP (NNS=H cells)))
+            (CC and)
+            (PP (IN=H in)
+            (NP (DT the) (NN breast) (NNS=H tumors))))
+            (NNS=H samples))))))))
+            (VP=H (MD=H could)
+            (VP (VB=H be)
+            (VP (VBN=H related)
+            (PP (TO=H to)
+            (NP
+            (NP=H (JJ specific) (NNS=H features))
+            (PP (IN=H of)
+            (NP (JJ biological) (NN=H variation)))))
+            (PP (IN=H among)
+            (NP (DT the) (NNS=H samples))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="883-1072" id="S6">
+        <text xml:space="preserve">Two such clusters were found to have patterns that correlated with variation in cell proliferation rates and with activation of the IFN-regulated signal transduction pathway, respectively. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="CD" charOffset="883-886" text="Two" lemma="two"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="887-891" text="such" lemma="such"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="892-900" text="clusters" lemma="cluster"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="901-905" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="906-911" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="912-914" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="VB" charOffset="915-919" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="920-928" text="patterns" lemma="pattern"/>
+            <token xml:space="preserve" id="stt_9" POS="WDT" charOffset="929-933" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="934-944" text="correlated" lemma="correlate"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="945-949" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="950-959" text="variation" lemma="variation"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="960-962" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="963-967" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="968-981" text="proliferation" lemma="proliferation"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="982-987" text="rates" lemma="rate"/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="988-991" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="992-996" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="997-1007" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1008-1010" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="1011-1014" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="1015-1028" text="IFN-regulated" lemma="ifn-regulated"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1029-1035" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1036-1048" text="transduction" lemma="transduction"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1049-1056" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_26" POS="," charOffset="1056-1057" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_27" POS="RB" charOffset="1058-1070" text="respectively" lemma="respectively"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="1070-1071" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (CD Two) (JJ such) (NNS=H clusters))
+            (VP=H (VBD=H were)
+            (VP (VBN=H found)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H have)
+            (NP
+            (NP=H (NNS=H patterns))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBD=H correlated)
+            (PP
+            (PP=H (IN=H with)
+            (NP
+            (NP=H (NN=H variation))
+            (PP (IN=H in)
+            (NP (NN cell) (NN proliferation) (NNS=H rates)))))
+            (CC and)
+            (PP (IN=H with)
+            (NP
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP (DT the) (JJ IFN-regulated) (NN signal) (NN transduction) (NN=H pathway))))))
+            (, ,)
+            (ADVP (RB=H respectively)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1072-1193" id="S7">
+        <text xml:space="preserve">Clusters of genes expressed by stromal cells and lymphocytes in the breast tumors also were identified in this analysis. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="1072-1080" text="Clusters" lemma="cluster"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1081-1083" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="1084-1089" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="1090-1099" text="expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1100-1102" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1103-1110" text="stromal" lemma="stromal"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1111-1116" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="1117-1120" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1121-1132" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1133-1135" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="1136-1139" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1140-1146" text="breast" lemma="breast"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="1147-1153" text="tumors" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="1154-1158" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_15" POS="VBD" charOffset="1159-1163" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="1164-1174" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1175-1177" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="1178-1182" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1183-1191" text="analysis" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="1191-1192" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NNS=H Clusters))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H genes))
+            (VP (VBN=H expressed)
+            (PP (IN=H by)
+            (NP (JJ stromal) (NNS=H cells)
+            (CC and)
+            (NNS lymphocytes)))
+            (PP (IN=H in)
+            (NP (DT the) (NN breast) (NNS=H tumors)))))))
+            (ADVP (RB=H also))
+            (VP=H (VBD=H were)
+            (VP (VBN=H identified)
+            (PP (IN=H in)
+            (NP (DT this) (NN=H analysis)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1193-1391" id="S8">
+        <text xml:space="preserve">These results support the feasibility and usefulness of this systematic approach to studying variation in gene expression patterns in human cancers as a means to dissect and classify solid tumors. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1193-1198" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1199-1206" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1207-1214" text="support" lemma="support"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="1215-1218" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1219-1230" text="feasibility" lemma="feasibility"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="1231-1234" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1235-1245" text="usefulness" lemma="usefulness"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1246-1248" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="1249-1253" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1254-1264" text="systematic" lemma="systematic"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1265-1273" text="approach" lemma="approach"/>
+            <token xml:space="preserve" id="stt_12" POS="TO" charOffset="1274-1276" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_13" POS="VBG" charOffset="1277-1285" text="studying" lemma="study"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1286-1295" text="variation" lemma="variation"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1296-1298" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1299-1303" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1304-1314" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="1315-1323" text="patterns" lemma="pattern"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1324-1326" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="1327-1332" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="1333-1340" text="cancers" lemma="cancer"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1341-1343" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="1344-1345" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1346-1351" text="means" lemma="means"/>
+            <token xml:space="preserve" id="stt_25" POS="TO" charOffset="1352-1354" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_26" POS="VB" charOffset="1355-1362" text="dissect" lemma="dissect"/>
+            <token xml:space="preserve" id="stt_27" POS="CC" charOffset="1363-1366" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_28" POS="VB" charOffset="1367-1375" text="classify" lemma="classify"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="1376-1381" text="solid" lemma="solid"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="1382-1388" text="tumors" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="1388-1389" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H results))
+            (VP=H (VBP=H support)
+            (NP
+            (NP=H (DT the) (NN=H feasibility)
+            (CC and)
+            (NN usefulness))
+            (PP (IN=H of)
+            (NP (DT this) (JJ systematic) (NN=H approach))))
+            (PP (TO=H to)
+            (S
+            (VP=H (VBG=H studying)
+            (NP
+            (NP=H (NN=H variation))
+            (PP (IN=H in)
+            (NP (NN gene) (NN expression) (NNS=H patterns))))
+            (PP (IN=H in)
+            (NP (JJ human) (NNS=H cancers)))
+            (PP (IN=H as)
+            (NP (DT a) (NN=H means)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H dissect)
+            (CC and)
+            (VB classify)
+            (NP (JJ solid) (NNS=H tumors)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="DefiniteNP" charOffset="605-623" headOffset="615-623" text="the tumor specimen"/>
+    <Term xml:space="preserve" id="T2" type="RelativePronoun" charOffset="624-628" headOffset="624-628" text="that"/>
+    <Term xml:space="preserve" id="T3" type="ZeroArticleNP" charOffset="920-928" headOffset="920-928" text="patterns"/>
+    <Term xml:space="preserve" id="T4" type="RelativePronoun" charOffset="929-933" headOffset="929-933" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T2"/>
+        <Antecedent idref="T1"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T4"/>
+        <Antecedent idref="T3"/>
+    </Relation>
+</document>

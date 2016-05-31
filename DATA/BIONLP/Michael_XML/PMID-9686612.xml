@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9686612">
+    <text xml:space="preserve">Fibrinogen activates NF-kappa B transcription factors in mononuclear phagocytes. 
+Adhesion to extracellular matrices is known to modulate leukocyte activation, although the mechanisms are not fully understood. Mononuclear phagocytes are exposed to fibrinous provisional matrix throughout migration into inflammatory foci, so this study was undertaken to determine whether fibrinogen triggers activation of NF-kappa B transcription factors. U937 cells differentiated with PMA in nonadherent culture were shown to express two fibrinogen-binding integrins, predominately CD11b/CD18, and to a lesser extent, CD11c/CD18. Cells stimulated with fibrinogen (10-100 microg/ml)/Mn2+ (50 microM) for 2 h were examined by electrophoretic mobility shift assay. NF-kappa B activation, minimal in unstimulated cells, was substantially up-regulated by fibrinogen. Fibrinogen also caused activation of AP-1, but not SP1 or cAMP response element-binding protein (CREB) factors. Blocking mAbs against CD18 and CD11b abrogated fibrinogen-induced NF-kappa B activation. To determine the effects on transcriptional regulation, U937 cells were transfected with a plasmid containing the HIV-1 enhancer (bearing two NF-kappa B sites) coupled to a chloramphenicol acetyltransferase (CAT) reporter. Cells were subsequently stimulated with 1) PMA for 24 h, inducing CAT activity by 2.6-fold, 2) fibrinogen/Mn2+ for 2 h, inducing CAT activity by 3.2-fold, or 3) costimulation with fibrinogen and PMA, inducing 5.7-fold the CAT activity induced by PMA alone. We conclude that contact with fibrinogen-derived proteins may contribute to mononuclear phagocyte activation by signaling through CD11b/CD18, resulting in selective activation of transcriptional regulatory factors, including NF-kappa B. 
+</text>
+    <sentence charOffset="0-82" id="S1">
+        <text xml:space="preserve">Fibrinogen activates NF-kappa B transcription factors in mononuclear phagocytes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-10" text="Fibrinogen" lemma="fibrinogen"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="11-20" text="activates" lemma="activate"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="21-29" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="30-31" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="32-45" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="46-53" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="54-56" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="57-68" text="mononuclear" lemma="mononuclear"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="69-79" text="phagocytes" lemma="phagocyte"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="79-80" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Fibrinogen))
+            (VP=H (VBZ=H activates)
+            (NP
+            (NP=H (NN NF-kappa) (NN B) (NN transcription) (NNS=H factors))
+            (PP (IN=H in)
+            (NP (JJ mononuclear) (NNS=H phagocytes)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="82-210" id="S2">
+        <text xml:space="preserve">Adhesion to extracellular matrices is known to modulate leukocyte activation, although the mechanisms are not fully understood. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="82-90" text="Adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_2" POS="TO" charOffset="91-93" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="94-107" text="extracellular" lemma="extracellular"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="108-116" text="matrices" lemma="matrix"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="117-119" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="120-125" text="known" lemma="know"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="126-128" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="VB" charOffset="129-137" text="modulate" lemma="modulate"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="138-147" text="leukocyte" lemma="leukocyte"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="148-158" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="158-159" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="160-168" text="although" lemma="although"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="169-172" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="173-183" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_15" POS="VBP" charOffset="184-187" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="188-191" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_17" POS="RB" charOffset="192-197" text="fully" lemma="fully"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="198-208" text="understood" lemma="understand"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="208-209" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Adhesion))
+            (PP (TO=H to)
+            (NP (JJ extracellular) (NNS=H matrices))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H known)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H modulate)
+            (NP (NN leukocyte) (NN=H activation)))))
+            (, ,)
+            (SBAR (IN=H although)
+            (S
+            (NP (DT the) (NNS=H mechanisms))
+            (VP=H (VBP=H are) (RB not)
+            (VP
+            (ADVP (RB=H fully))
+            (VBN=H understood)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="210-440" id="S3">
+        <text xml:space="preserve">Mononuclear phagocytes are exposed to fibrinous provisional matrix throughout migration into inflammatory foci, so this study was undertaken to determine whether fibrinogen triggers activation of NF-kappa B transcription factors. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="210-221" text="Mononuclear" lemma="mononuclear"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="222-232" text="phagocytes" lemma="phagocyte"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="233-236" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="237-244" text="exposed" lemma="expose"/>
+            <token xml:space="preserve" id="stt_5" POS="TO" charOffset="245-247" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="248-257" text="fibrinous" lemma="fibrinous"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="258-269" text="provisional" lemma="provisional"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="270-276" text="matrix" lemma="matrix"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="277-287" text="throughout" lemma="throughout"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="288-297" text="migration" lemma="migration"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="298-302" text="into" lemma="into"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="303-315" text="inflammatory" lemma="inflammatory"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="316-320" text="foci" lemma="focus"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="320-321" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="RB" charOffset="322-324" text="so" lemma="so"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="325-329" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="330-335" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_18" POS="VBD" charOffset="336-339" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_19" POS="VBN" charOffset="340-350" text="undertaken" lemma="undertake"/>
+            <token xml:space="preserve" id="stt_20" POS="TO" charOffset="351-353" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_21" POS="VB" charOffset="354-363" text="determine" lemma="determine"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="364-371" text="whether" lemma="whether"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="372-382" text="fibrinogen" lemma="fibrinogen"/>
+            <token xml:space="preserve" id="stt_24" POS="VBZ" charOffset="383-391" text="triggers" lemma="trigger"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="392-402" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="403-405" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="406-414" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="415-416" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="417-430" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="431-438" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="438-439" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (JJ Mononuclear) (NNS=H phagocytes))
+            (VP=H (VBP=H are)
+            (VP (VBN=H exposed)
+            (PP (TO=H to)
+            (NP (JJ fibrinous) (JJ provisional) (NN=H matrix)))
+            (PP (IN=H throughout)
+            (NP (NN=H migration)))
+            (PP (IN=H into)
+            (NP (JJ inflammatory) (NNS=H foci))))))
+            (, ,) (RB so)
+            (S
+            (NP (DT this) (NN=H study))
+            (VP=H (VBD=H was)
+            (VP (VBN=H undertaken)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H determine)
+            (SBAR (IN=H whether)
+            (S
+            (NP (NN=H fibrinogen))
+            (VP=H (VBZ=H triggers)
+            (NP
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN NF-kappa) (NN B) (NN transcription) (NNS=H factors)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="440-616" id="S4">
+        <text xml:space="preserve">U937 cells differentiated with PMA in nonadherent culture were shown to express two fibrinogen-binding integrins, predominately CD11b/CD18, and to a lesser extent, CD11c/CD18. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="440-444" text="U937" lemma="u937"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="445-450" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="451-465" text="differentiated" lemma="differentiate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="466-470" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="471-474" text="PMA" lemma="pma"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="475-477" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="478-489" text="nonadherent" lemma="nonadherent"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="490-497" text="culture" lemma="culture"/>
+            <token xml:space="preserve" id="stt_9" POS="VBD" charOffset="498-502" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="503-508" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_11" POS="TO" charOffset="509-511" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_12" POS="VB" charOffset="512-519" text="express" lemma="express"/>
+            <token xml:space="preserve" id="stt_13" POS="CD" charOffset="520-523" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="524-542" text="fibrinogen-binding" lemma="fibrinogen-binding"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="543-552" text="integrins" lemma="integrin"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="552-553" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="RB" charOffset="554-567" text="predominately" lemma="predominately"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="568-578" text="CD11b/CD18" lemma="cd11b/cd18"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="578-579" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="580-583" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="TO" charOffset="584-586" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="587-588" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_23" POS="JJR" charOffset="589-595" text="lesser" lemma="lesser"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="596-602" text="extent" lemma="extent"/>
+            <token xml:space="preserve" id="stt_25" POS="," charOffset="602-603" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="604-614" text="CD11c/CD18" lemma="cd11c/cd18"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="614-615" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN U937) (NNS=H cells))
+            (VP (VBN=H differentiated)
+            (PP (IN=H with)
+            (NP
+            (NP=H (NN=H PMA))
+            (PP (IN=H in)
+            (NP (JJ nonadherent) (NN=H culture)))))))
+            (VP=H (VBD=H were)
+            (VP
+            (VP=H (VBN=H shown)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H express)
+            (NP
+            (NP=H (CD two) (JJ fibrinogen-binding) (NNS=H integrins))
+            (, ,)
+            (ADVP (RB=H predominately))
+            (NP (NN=H CD11b/CD18)))))))
+            (, ,)
+            (CC and)
+            (VP
+            (PP (TO=H to)
+            (NP (DT a) (JJR lesser) (NN=H extent)))
+            (, ,)
+            (NP=H (NN=H CD11c/CD18)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="616-748" id="S5">
+        <text xml:space="preserve">Cells stimulated with fibrinogen (10-100 microg/ml)/Mn2+ (50 microM) for 2 h were examined by electrophoretic mobility shift assay. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="616-621" text="Cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_2" POS="VBN" charOffset="622-632" text="stimulated" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="633-637" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="638-648" text="fibrinogen" lemma="fibrinogen"/>
+            <token xml:space="preserve" id="stt_5" POS="-LRB-" charOffset="649-650" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_6" POS="CD" charOffset="650-656" text="10-100" lemma="10-100"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="657-666" text="microg/ml" lemma="microg/ml"/>
+            <token xml:space="preserve" id="stt_8" POS="-RRB-" charOffset="666-667" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_9" POS=":" charOffset="667-668" text="/" lemma="/"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="668-671" text="Mn2" lemma="mn2"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="671-672" text="+" lemma="+"/>
+            <token xml:space="preserve" id="stt_12" POS="-LRB-" charOffset="673-674" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_13" POS="CD" charOffset="674-676" text="50" lemma="50"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="677-683" text="microM" lemma="microm"/>
+            <token xml:space="preserve" id="stt_15" POS="-RRB-" charOffset="683-684" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="685-688" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_17" POS="CD" charOffset="689-690" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="691-692" text="h" lemma="h"/>
+            <token xml:space="preserve" id="stt_19" POS="VBD" charOffset="693-697" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_20" POS="VBN" charOffset="698-706" text="examined" lemma="examine"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="707-709" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="710-725" text="electrophoretic" lemma="electrophoretic"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="726-734" text="mobility" lemma="mobility"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="735-740" text="shift" lemma="shift"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="741-746" text="assay" lemma="assay"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="746-747" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (FRAG=H
+            (NP
+            (NP=H (NNS=H Cells))
+            (VP (VBN=H stimulated)
+            (PP (IN=H with)
+            (NP
+            (NP=H (NN=H fibrinogen))
+            (PRN (-LRB- -LRB-)
+            (NP=H (CD 10-100) (NN=H microg/ml))
+            (-RRB- -RRB-))))))
+            (: /)
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (NN=H Mn2))
+            (SBAR
+            (S=H
+            (NP=H (CC=H +)))))
+            (PRN (-LRB- -LRB-)
+            (NP=H (CD 50) (NN=H microM))
+            (-RRB- -RRB-))
+            (PP (IN=H for)
+            (NP (CD 2) (NN=H h))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H examined)
+            (PP (IN=H by)
+            (NP (JJ electrophoretic) (NN mobility) (NN shift) (NN=H assay))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="748-848" id="S6">
+        <text xml:space="preserve">NF-kappa B activation, minimal in unstimulated cells, was substantially up-regulated by fibrinogen. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="748-756" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="757-758" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="759-769" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="769-770" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="771-778" text="minimal" lemma="minimal"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="779-781" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="782-794" text="unstimulated" lemma="unstimulated"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="795-800" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="800-801" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="802-805" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="RB" charOffset="806-819" text="substantially" lemma="substantially"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="820-832" text="up-regulated" lemma="up-regulate"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="833-835" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="836-846" text="fibrinogen" lemma="fibrinogen"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="846-847" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN NF-kappa) (NN B) (NN=H activation))
+            (, ,)
+            (ADJP (JJ=H minimal)
+            (PP (IN=H in)
+            (NP (JJ unstimulated) (NNS=H cells))))
+            (, ,))
+            (VP=H (VBD=H was)
+            (ADVP (RB=H substantially))
+            (VP (VBN=H up-regulated)
+            (PP (IN=H by)
+            (NP (NN=H fibrinogen)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="848-960" id="S7">
+        <text xml:space="preserve">Fibrinogen also caused activation of AP-1, but not SP1 or cAMP response element-binding protein (CREB) factors. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="848-858" text="Fibrinogen" lemma="fibrinogen"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="859-863" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="864-870" text="caused" lemma="cause"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="871-881" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="882-884" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="885-889" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="889-890" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="891-894" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="895-898" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="899-902" text="SP1" lemma="sp1"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="903-905" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="906-910" text="cAMP" lemma="camp"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="911-919" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="920-935" text="element-binding" lemma="element-binding"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="936-943" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_16" POS="-LRB-" charOffset="944-945" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="945-949" text="CREB" lemma="creb"/>
+            <token xml:space="preserve" id="stt_18" POS="-RRB-" charOffset="949-950" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="951-958" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="958-959" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Fibrinogen))
+            (ADVP (RB=H also))
+            (VP=H (VBD=H caused)
+            (NP
+            (NP=H
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN=H AP-1))))
+            (, ,)
+            (CONJP (CC=H but)
+            (RB not))
+            (NP
+            (NP=H (NN SP1)
+            (CC or)
+            (NN cAMP) (NN=H response))
+            (NP (JJ element-binding) (NN protein)
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H CREB))
+            (-RRB- -RRB-))
+            (NNS=H factors)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="960-1049" id="S8">
+        <text xml:space="preserve">Blocking mAbs against CD18 and CD11b abrogated fibrinogen-induced NF-kappa B activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBG" charOffset="960-968" text="Blocking" lemma="block"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="969-973" text="mAbs" lemma="mab"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="974-981" text="against" lemma="against"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="982-986" text="CD18" lemma="cd18"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="987-990" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="991-996" text="CD11b" lemma="cd11b"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="997-1006" text="abrogated" lemma="abrogate"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1007-1025" text="fibrinogen-induced" lemma="fibrinogen-induced"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1026-1034" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1035-1036" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1037-1047" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="1047-1048" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (VBG Blocking) (NNS=H mAbs))
+            (PP (IN=H against)
+            (NP (NN=H CD18)
+            (CC and)
+            (NN CD11b))))
+            (VP=H (VBD=H abrogated)
+            (NP (JJ fibrinogen-induced) (NN NF-kappa) (NN B) (NN=H activation)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1049-1272" id="S9">
+        <text xml:space="preserve">To determine the effects on transcriptional regulation, U937 cells were transfected with a plasmid containing the HIV-1 enhancer (bearing two NF-kappa B sites) coupled to a chloramphenicol acetyltransferase (CAT) reporter. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="1049-1051" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="VB" charOffset="1052-1061" text="determine" lemma="determine"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1062-1065" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1066-1073" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1074-1076" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1077-1092" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1093-1103" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="1103-1104" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1105-1109" text="U937" lemma="u937"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1110-1115" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="VBD" charOffset="1116-1120" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="1121-1132" text="transfected" lemma="transfect"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1133-1137" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="1138-1139" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1140-1147" text="plasmid" lemma="plasmid"/>
+            <token xml:space="preserve" id="stt_16" POS="VBG" charOffset="1148-1158" text="containing" lemma="contain"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="1159-1162" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1163-1168" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1169-1177" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_20" POS="-LRB-" charOffset="1178-1179" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_21" POS="VBG" charOffset="1179-1186" text="bearing" lemma="bear"/>
+            <token xml:space="preserve" id="stt_22" POS="CD" charOffset="1187-1190" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1191-1199" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1200-1201" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="1202-1207" text="sites" lemma="site"/>
+            <token xml:space="preserve" id="stt_26" POS="-RRB-" charOffset="1207-1208" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_27" POS="VBN" charOffset="1209-1216" text="coupled" lemma="couple"/>
+            <token xml:space="preserve" id="stt_28" POS="TO" charOffset="1217-1219" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="1220-1221" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1222-1237" text="chloramphenicol" lemma="chloramphenicol"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1238-1255" text="acetyltransferase" lemma="acetyltransferase"/>
+            <token xml:space="preserve" id="stt_32" POS="-LRB-" charOffset="1256-1257" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1257-1260" text="CAT" lemma="cat"/>
+            <token xml:space="preserve" id="stt_34" POS="-RRB-" charOffset="1260-1261" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1262-1270" text="reporter" lemma="reporter"/>
+            <token xml:space="preserve" id="stt_36" POS="." charOffset="1270-1271" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP (VB=H determine)
+            (NP (DT the) (NNS=H effects))
+            (PP (IN=H on)
+            (NP (JJ transcriptional) (NN=H regulation))))))
+            (, ,)
+            (NP (NN U937) (NNS=H cells))
+            (VP=H (VBD=H were)
+            (VP (VBN=H transfected)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT a) (NN=H plasmid))
+            (VP (VBG=H containing)
+            (NP
+            (NP=H (DT the) (NN HIV-1) (NN=H enhancer))
+            (PRN (-LRB- -LRB-)
+            (VP=H (VBG=H bearing)
+            (NP (CD two) (NN NF-kappa) (NN B) (NNS=H sites)))
+            (-RRB- -RRB-))
+            (VP (VBN=H coupled)
+            (PP (TO=H to)
+            (NP (DT a) (NN chloramphenicol) (NN acetyltransferase)
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H CAT))
+            (-RRB- -RRB-))
+            (NN=H reporter))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1272-1529" id="S10">
+        <text xml:space="preserve">Cells were subsequently stimulated with 1) PMA for 24 h, inducing CAT activity by 2.6-fold, 2) fibrinogen/Mn2+ for 2 h, inducing CAT activity by 3.2-fold, or 3) costimulation with fibrinogen and PMA, inducing 5.7-fold the CAT activity induced by PMA alone. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="1272-1277" text="Cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="1278-1282" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="1283-1295" text="subsequently" lemma="subsequently"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="1296-1306" text="stimulated" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1307-1311" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_6" POS="CD" charOffset="1312-1313" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_7" POS="-RRB-" charOffset="1313-1314" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1315-1318" text="PMA" lemma="pma"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1319-1322" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_10" POS="CD" charOffset="1323-1325" text="24" lemma="24"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1326-1327" text="h" lemma="h"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="1327-1328" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="VBG" charOffset="1329-1337" text="inducing" lemma="induce"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1338-1341" text="CAT" lemma="cat"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1342-1350" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1351-1353" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="1354-1362" text="2.6-fold" lemma="2.6-fold"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="1362-1363" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="LS" charOffset="1364-1365" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_20" POS="-RRB-" charOffset="1365-1366" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1367-1381" text="fibrinogen/Mn2" lemma="fibrinogen/mn2"/>
+            <token xml:space="preserve" id="stt_22" POS="CC" charOffset="1381-1382" text="+" lemma="+"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1383-1386" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_24" POS="CD" charOffset="1387-1388" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1389-1390" text="h" lemma="h"/>
+            <token xml:space="preserve" id="stt_26" POS="," charOffset="1390-1391" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_27" POS="VBG" charOffset="1392-1400" text="inducing" lemma="induce"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1401-1404" text="CAT" lemma="cat"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1405-1413" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="1414-1416" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="1417-1425" text="3.2-fold" lemma="3.2-fold"/>
+            <token xml:space="preserve" id="stt_32" POS="," charOffset="1425-1426" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_33" POS="CC" charOffset="1427-1429" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_34" POS="LS" charOffset="1430-1431" text="3" lemma="3"/>
+            <token xml:space="preserve" id="stt_35" POS="-RRB-" charOffset="1431-1432" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1433-1446" text="costimulation" lemma="costimulation"/>
+            <token xml:space="preserve" id="stt_37" POS="IN" charOffset="1447-1451" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="1452-1462" text="fibrinogen" lemma="fibrinogen"/>
+            <token xml:space="preserve" id="stt_39" POS="CC" charOffset="1463-1466" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="1467-1470" text="PMA" lemma="pma"/>
+            <token xml:space="preserve" id="stt_41" POS="," charOffset="1470-1471" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_42" POS="VBG" charOffset="1472-1480" text="inducing" lemma="induce"/>
+            <token xml:space="preserve" id="stt_43" POS="JJ" charOffset="1481-1489" text="5.7-fold" lemma="5.7-fold"/>
+            <token xml:space="preserve" id="stt_44" POS="DT" charOffset="1490-1493" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_45" POS="NN" charOffset="1494-1497" text="CAT" lemma="cat"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="1498-1506" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_47" POS="VBN" charOffset="1507-1514" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_48" POS="IN" charOffset="1515-1517" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_49" POS="NN" charOffset="1518-1521" text="PMA" lemma="pma"/>
+            <token xml:space="preserve" id="stt_50" POS="RB" charOffset="1522-1527" text="alone" lemma="alone"/>
+            <token xml:space="preserve" id="stt_51" POS="." charOffset="1527-1528" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NNS=H Cells))
+            (VP=H (VBD=H were)
+            (ADVP (RB=H subsequently))
+            (VP (VBN=H stimulated)
+            (PP (IN=H with))
+            (NP (CD=H 1))
+            (-RRB- -RRB-)
+            (NP-TMP (NN=H PMA))
+            (PP (IN=H for)
+            (NP
+            (NP=H (CD 24) (NN=H h))
+            (, ,)
+            (VP
+            (VP=H (VBG=H inducing)
+            (NP (NN CAT) (NN=H activity))
+            (PP (IN=H by)
+            (NP
+            (NP=H (JJ=H 2.6-fold))
+            (, ,)
+            (NP
+            (NP=H
+            (LST (LS=H 2) (-RRB- -RRB-))
+            (NP=H (NN=H fibrinogen/Mn2)
+            (CC +))
+            (PP (IN=H for)
+            (NP (CD 2) (NN=H h)))
+            (, ,)
+            (VP (VBG=H inducing)
+            (NP (NN CAT) (NN=H activity))
+            (PP (IN=H by)
+            (ADJP (JJ=H 3.2-fold)))))
+            (, ,)
+            (CC or)
+            (NP
+            (LST (LS=H 3) (-RRB- -RRB-))
+            (NP=H (NN=H costimulation))
+            (PP (IN=H with)
+            (NP (NN=H fibrinogen)
+            (CC and)
+            (NN PMA))))))))
+            (, ,)
+            (VP (VBG=H inducing)
+            (ADJP (JJ=H 5.7-fold)))
+            (NP
+            (NP=H (DT the) (NN CAT) (NN=H activity))
+            (VP (VBN=H induced)
+            (PP (IN=H by)
+            (NP (NN=H PMA)))
+            (ADVP (RB=H alone)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1529-1767" id="S11">
+        <text xml:space="preserve">We conclude that contact with fibrinogen-derived proteins may contribute to mononuclear phagocyte activation by signaling through CD11b/CD18, resulting in selective activation of transcriptional regulatory factors, including NF-kappa B. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="1529-1531" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="1532-1540" text="conclude" lemma="conclude"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1541-1545" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1546-1553" text="contact" lemma="contact"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1554-1558" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1559-1577" text="fibrinogen-derived" lemma="fibrinogen-derived"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1578-1586" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_8" POS="MD" charOffset="1587-1590" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="1591-1601" text="contribute" lemma="contribute"/>
+            <token xml:space="preserve" id="stt_10" POS="TO" charOffset="1602-1604" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1605-1616" text="mononuclear" lemma="mononuclear"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1617-1626" text="phagocyte" lemma="phagocyte"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1627-1637" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1638-1640" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_15" POS="VBG" charOffset="1641-1650" text="signaling" lemma="signal"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1651-1658" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1659-1669" text="CD11b/CD18" lemma="cd11b/cd18"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="1669-1670" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="VBG" charOffset="1671-1680" text="resulting" lemma="result"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1681-1683" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="1684-1693" text="selective" lemma="selective"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1694-1704" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1705-1707" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="1708-1723" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="1724-1734" text="regulatory" lemma="regulatory"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="1735-1742" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="1742-1743" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="VBG" charOffset="1744-1753" text="including" lemma="include"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1754-1762" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_30" POS="NNP" charOffset="1763-1765" text="B." lemma="B."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H conclude)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H contact))
+            (PP (IN=H with)
+            (NP (JJ fibrinogen-derived) (NNS=H proteins))))
+            (VP=H (MD=H may)
+            (VP (VB=H contribute)
+            (PP (TO=H to)
+            (NP (JJ mononuclear) (NN phagocyte) (NN=H activation)))
+            (PP (IN=H by)
+            (S
+            (VP=H
+            (VP=H (VBG=H signaling)
+            (PP (IN=H through)
+            (NP (NN=H CD11b/CD18))))
+            (, ,)
+            (VP (VBG=H resulting)
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ selective) (NN=H activation))
+            (PP (IN=H of)
+            (NP (JJ transcriptional) (JJ regulatory) (NNS=H factors))))))
+            (, ,)
+            (VP (VBG=H including)
+            (NP (NN=H NF-kappa)))
+            (NP (NNP=H B.))))))))))))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="568-573" headOffset="568-573" text="CD11b"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="574-578" headOffset="574-578" text="CD18"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="604-609" headOffset="604-609" text="CD11c"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="610-614" headOffset="610-614" text="CD18"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="899-902" headOffset="899-902" text="SP1"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="982-986" headOffset="982-986" text="CD18"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="991-996" headOffset="991-996" text="CD11b"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="1222-1255" headOffset="1238-1255" text="chloramphenicol acetyltransferase"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="1257-1260" headOffset="1257-1260" text="CAT"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="1338-1341" headOffset="1338-1341" text="CAT"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="1401-1404" headOffset="1401-1404" text="CAT"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="1494-1497" headOffset="1494-1497" text="CAT"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="1659-1664" headOffset="1659-1664" text="CD11b"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1665-1669" headOffset="1665-1669" text="CD18"/>
+</document>

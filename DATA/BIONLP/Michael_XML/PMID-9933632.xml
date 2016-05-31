@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9933632">
+    <text xml:space="preserve">NF-kappaB activation is a critical regulator of human granulocyte apoptosis in vitro. 
+During beneficial inflammation, potentially tissue-damaging granulocytes undergo apoptosis before being cleared by phagocytes in a non-phlogistic manner. Here we show that the rate of constitutive apoptosis in human neutrophils and eosinophils is greatly accelerated in both a rapid and concentration-dependent manner by the fungal metabolite gliotoxin, but not by its inactive analog methylthiogliotoxin. This induction of apoptosis was abolished by the caspase inhibitor zVAD-fmk, correlated with the inhibition of nuclear factor-kappa B (NF-kappaB), and was mimicked by a cell permeable inhibitory peptide of NF-kappaB, SN-50; other NF-kappaB inhibitors, curcumin and pyrrolidine dithiocarbamate; and the proteasome inhibitor, MG-132. Gliotoxin also augmented dramatically the early (2-6 h) pro-apoptotic effects of tumor necrosis factor-alpha (TNF-alpha) in neutrophils and unmasked the ability of TNF-alpha to induce eosinophil apoptosis. In neutrophils, TNF-alpha caused a gliotoxin-inhibitable activation of an inducible form of NF-kappaB, a response that may underlie the ability of TNF-alpha to delay apoptosis at later times (12-24 h) and limit its early killing effect. Furthermore, cycloheximide displayed a similar capacity to enhance TNF-alpha induced neutrophil apoptosis even at time points when cycloheximide alone had no pro-apoptotic effect, suggesting that NF-kappaB may regulate the production of protein(s) which protect neutrophils from the cytotoxic effects of TNF-alpha. These data shed light on the biochemical and molecular mechanisms regulating human granulocyte apoptosis and, in particular, indicate that the transcription factor NF-kappaB plays a crucial role in regulating the physiological cell death pathway in granulocytes. 
+</text>
+    <sentence charOffset="0-87" id="S1">
+        <text xml:space="preserve">NF-kappaB activation is a critical regulator of human granulocyte apoptosis in vitro. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-9" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="10-20" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="21-23" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="24-25" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="26-34" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="35-44" text="regulator" lemma="regulator"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="45-47" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="48-53" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="54-65" text="granulocyte" lemma="granulocyte"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="66-75" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_11" POS="FW" charOffset="76-78" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="FW" charOffset="79-84" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="84-85" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN NF-kappaB) (NN=H activation))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (JJ critical) (NN=H regulator))
+            (PP (IN=H of)
+            (NP (JJ human) (NN granulocyte) (NN=H apoptosis))))
+            (ADVP (FW in) (FW=H vitro)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="87-241" id="S2">
+        <text xml:space="preserve">During beneficial inflammation, potentially tissue-damaging granulocytes undergo apoptosis before being cleared by phagocytes in a non-phlogistic manner. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="87-93" text="During" lemma="during"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="94-104" text="beneficial" lemma="beneficial"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="105-117" text="inflammation" lemma="inflammation"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="117-118" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="119-130" text="potentially" lemma="potentially"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="131-146" text="tissue-damaging" lemma="tissue-damaging"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="147-159" text="granulocytes" lemma="granulocyte"/>
+            <token xml:space="preserve" id="stt_8" POS="VBP" charOffset="160-167" text="undergo" lemma="undergo"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="168-177" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="178-184" text="before" lemma="before"/>
+            <token xml:space="preserve" id="stt_11" POS="VBG" charOffset="185-190" text="being" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="191-198" text="cleared" lemma="clear"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="199-201" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="202-212" text="phagocytes" lemma="phagocyte"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="213-215" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="216-217" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="218-232" text="non-phlogistic" lemma="non-phlogistic"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="233-239" text="manner" lemma="manner"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="239-240" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H During)
+            (NP (JJ beneficial) (NN=H inflammation)))
+            (, ,)
+            (NP
+            (ADJP (RB potentially) (JJ=H tissue-damaging))
+            (NNS=H granulocytes))
+            (VP=H (VBP=H undergo)
+            (NP (NN=H apoptosis))
+            (PP (IN=H before)
+            (S
+            (VP=H (VBG=H being)
+            (VP (VBN=H cleared)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NNS=H phagocytes))
+            (PP (IN=H in)
+            (NP (DT a) (JJ non-phlogistic) (NN=H manner))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="241-493" id="S3">
+        <text xml:space="preserve">Here we show that the rate of constitutive apoptosis in human neutrophils and eosinophils is greatly accelerated in both a rapid and concentration-dependent manner by the fungal metabolite gliotoxin, but not by its inactive analog methylthiogliotoxin. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="241-245" text="Here" lemma="here"/>
+            <token xml:space="preserve" id="stt_2" POS="PRP" charOffset="246-248" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="249-253" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="254-258" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="259-262" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="263-267" text="rate" lemma="rate"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="268-270" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="271-283" text="constitutive" lemma="constitutive"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="284-293" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="294-296" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="297-302" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="303-314" text="neutrophils" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="315-318" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="319-330" text="eosinophils" lemma="eosinophil"/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="331-333" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="334-341" text="greatly" lemma="greatly"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="342-353" text="accelerated" lemma="accelerate"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="354-356" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="357-361" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="362-363" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="364-369" text="rapid" lemma="rapid"/>
+            <token xml:space="preserve" id="stt_22" POS="CC" charOffset="370-373" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="374-397" text="concentration-dependent" lemma="concentration-dependent"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="398-404" text="manner" lemma="manner"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="405-407" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="408-411" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="412-418" text="fungal" lemma="fungal"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="419-429" text="metabolite" lemma="metabolite"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="430-439" text="gliotoxin" lemma="gliotoxin"/>
+            <token xml:space="preserve" id="stt_30" POS="," charOffset="439-440" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_31" POS="CC" charOffset="441-444" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_32" POS="RB" charOffset="445-448" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_33" POS="IN" charOffset="449-451" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_34" POS="PRP$" charOffset="452-455" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_35" POS="JJ" charOffset="456-464" text="inactive" lemma="inactive"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="465-471" text="analog" lemma="analog"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="472-491" text="methylthiogliotoxin" lemma="methylthiogliotoxin"/>
+            <token xml:space="preserve" id="stt_38" POS="." charOffset="491-492" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Here))
+            (NP (PRP=H we))
+            (VP=H (VBP=H show)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (NN=H rate))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ constitutive) (NN=H apoptosis))
+            (PP (IN=H in)
+            (NP (JJ human) (NNS=H neutrophils)
+            (CC and)
+            (NNS eosinophils))))))
+            (VP=H (VBZ=H is)
+            (ADVP (RB=H greatly))
+            (VP (VBN=H accelerated)
+            (PP (IN=H in)
+            (NP (CC both)
+            (DT a) (JJ rapid)
+            (CC and)
+            (JJ concentration-dependent) (NN=H manner)))
+            (PP
+            (PP=H (IN=H by)
+            (NP (DT the) (JJ fungal) (NN metabolite) (NN=H gliotoxin)))
+            (, ,)
+            (CC but)
+            (RB not)
+            (PP (IN=H by)
+            (NP (PRP$ its) (JJ inactive) (NN analog) (NN=H methylthiogliotoxin)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="493-825" id="S4">
+        <text xml:space="preserve">This induction of apoptosis was abolished by the caspase inhibitor zVAD-fmk, correlated with the inhibition of nuclear factor-kappa B (NF-kappaB), and was mimicked by a cell permeable inhibitory peptide of NF-kappaB, SN-50; other NF-kappaB inhibitors, curcumin and pyrrolidine dithiocarbamate; and the proteasome inhibitor, MG-132. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="493-497" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="498-507" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="508-510" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="511-520" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="521-524" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="525-534" text="abolished" lemma="abolish"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="535-537" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="538-541" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="542-549" text="caspase" lemma="caspase"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="550-559" text="inhibitor" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="560-568" text="zVAD-fmk" lemma="zvad-fmk"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="568-569" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="570-580" text="correlated" lemma="correlate"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="581-585" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="586-589" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="590-600" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="601-603" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="604-611" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="612-624" text="factor-kappa" lemma="factor-kappa"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="625-626" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_21" POS="-LRB-" charOffset="627-628" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="628-637" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_23" POS="-RRB-" charOffset="637-638" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_24" POS="," charOffset="638-639" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_25" POS="CC" charOffset="640-643" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_26" POS="VBD" charOffset="644-647" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_27" POS="VBN" charOffset="648-656" text="mimicked" lemma="mimic"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="657-659" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="660-661" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="662-666" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="667-676" text="permeable" lemma="permeable"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="677-687" text="inhibitory" lemma="inhibitory"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="688-695" text="peptide" lemma="peptide"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="696-698" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="699-708" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_36" POS="," charOffset="708-709" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="710-715" text="SN-50" lemma="sn-50"/>
+            <token xml:space="preserve" id="stt_38" POS=":" charOffset="715-716" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_39" POS="JJ" charOffset="717-722" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="723-732" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_41" POS="NNS" charOffset="733-743" text="inhibitors" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_42" POS="," charOffset="743-744" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_43" POS="NN" charOffset="745-753" text="curcumin" lemma="curcumin"/>
+            <token xml:space="preserve" id="stt_44" POS="CC" charOffset="754-757" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_45" POS="NN" charOffset="758-769" text="pyrrolidine" lemma="pyrrolidine"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="770-785" text="dithiocarbamate" lemma="dithiocarbamate"/>
+            <token xml:space="preserve" id="stt_47" POS=":" charOffset="785-786" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_48" POS="CC" charOffset="787-790" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_49" POS="DT" charOffset="791-794" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_50" POS="NN" charOffset="795-805" text="proteasome" lemma="proteasome"/>
+            <token xml:space="preserve" id="stt_51" POS="NN" charOffset="806-815" text="inhibitor" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_52" POS="," charOffset="815-816" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_53" POS="NN" charOffset="817-823" text="MG-132" lemma="mg-132"/>
+            <token xml:space="preserve" id="stt_54" POS="." charOffset="823-824" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (NP
+            (NP=H (DT This) (NN=H induction))
+            (PP (IN=H of)
+            (NP (NN=H apoptosis))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H abolished)
+            (PP (IN=H by)
+            (NP (DT the) (NN caspase) (NN inhibitor) (NN=H zVAD-fmk))))))
+            (, ,)
+            (VP=H
+            (VP=H (VBD=H correlated)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT the) (NN=H inhibition))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ nuclear) (NN factor-kappa) (NN=H B))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H NF-kappaB))
+            (-RRB- -RRB-)))))))
+            (, ,)
+            (CC and)
+            (VP (VBD=H was)
+            (VP (VBN=H mimicked)
+            (PP (IN=H by)
+            (NP (DT a) (NN=H cell))))))
+            (NP
+            (NP=H
+            (ADJP (JJ permeable) (JJ=H inhibitory))
+            (NN=H peptide))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (NP=H (NN=H NF-kappaB))
+            (, ,)
+            (NP (NN=H SN-50)))
+            (: ;)
+            (NP
+            (NP=H (JJ other) (NN NF-kappaB) (NNS=H inhibitors))
+            (, ,)
+            (NP (NN=H curcumin))
+            (CC and)
+            (NP (NN pyrrolidine) (NN=H dithiocarbamate)))
+            (: ;)
+            (CC and)
+            (NP
+            (NP=H (DT the) (NN proteasome) (NN=H inhibitor))
+            (, ,)
+            (NP (NN=H MG-132))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="825-1031" id="S5">
+        <text xml:space="preserve">Gliotoxin also augmented dramatically the early (2-6 h) pro-apoptotic effects of tumor necrosis factor-alpha (TNF-alpha) in neutrophils and unmasked the ability of TNF-alpha to induce eosinophil apoptosis. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="825-834" text="Gliotoxin" lemma="gliotoxin"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="835-839" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="840-849" text="augmented" lemma="augment"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="850-862" text="dramatically" lemma="dramatically"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="863-866" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="867-872" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_7" POS="-LRB-" charOffset="873-874" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_8" POS="CD" charOffset="874-877" text="2-6" lemma="2-6"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="878-879" text="h" lemma="h"/>
+            <token xml:space="preserve" id="stt_10" POS="-RRB-" charOffset="879-880" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="881-894" text="pro-apoptotic" lemma="pro-apoptotic"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="895-902" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="903-905" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="906-911" text="tumor" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="912-920" text="necrosis" lemma="necrosis"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="921-933" text="factor-alpha" lemma="factor-alpha"/>
+            <token xml:space="preserve" id="stt_17" POS="-LRB-" charOffset="934-935" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="935-944" text="TNF-alpha" lemma="tnf-alpha"/>
+            <token xml:space="preserve" id="stt_19" POS="-RRB-" charOffset="944-945" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="946-948" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="949-960" text="neutrophils" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_22" POS="CC" charOffset="961-964" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_23" POS="VBD" charOffset="965-973" text="unmasked" lemma="unmask"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="974-977" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="978-985" text="ability" lemma="ability"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="986-988" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="989-998" text="TNF-alpha" lemma="tnf-alpha"/>
+            <token xml:space="preserve" id="stt_28" POS="TO" charOffset="999-1001" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_29" POS="VB" charOffset="1002-1008" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1009-1019" text="eosinophil" lemma="eosinophil"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1020-1029" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="1029-1030" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Gliotoxin))
+            (VP=H
+            (VP=H
+            (ADVP (RB=H also))
+            (VBD=H augmented)
+            (ADVP (RB=H dramatically)
+            (NP
+            (NP=H (DT the) (JJ=H early))
+            (PRN (-LRB- -LRB-)
+            (NP=H (CD 2-6) (NN=H h))
+            (-RRB- -RRB-))))
+            (NP-TMP
+            (NP=H (JJ pro-apoptotic) (NNS=H effects))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (NP=H (NN tumor) (NN necrosis) (NN=H factor-alpha))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H TNF-alpha))
+            (-RRB- -RRB-)))
+            (PP (IN=H in)
+            (NP (NNS=H neutrophils)))))))
+            (CC and)
+            (VP (VBD=H unmasked)
+            (NP
+            (NP=H (DT the) (NN=H ability))
+            (PP (IN=H of)
+            (NP (NN=H TNF-alpha))))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H induce)
+            (NP (NN eosinophil) (NN=H apoptosis)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1031-1268" id="S6">
+        <text xml:space="preserve">In neutrophils, TNF-alpha caused a gliotoxin-inhibitable activation of an inducible form of NF-kappaB, a response that may underlie the ability of TNF-alpha to delay apoptosis at later times (12-24 h) and limit its early killing effect. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1031-1033" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1034-1045" text="neutrophils" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="1045-1046" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1047-1056" text="TNF-alpha" lemma="tnf-alpha"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="1057-1063" text="caused" lemma="cause"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1064-1065" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1066-1087" text="gliotoxin-inhibitable" lemma="gliotoxin-inhibitable"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1088-1098" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1099-1101" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="1102-1104" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1105-1114" text="inducible" lemma="inducible"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1115-1119" text="form" lemma="form"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1120-1122" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1123-1132" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="1132-1133" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="1134-1135" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1136-1144" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_18" POS="WDT" charOffset="1145-1149" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_19" POS="MD" charOffset="1150-1153" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_20" POS="VB" charOffset="1154-1162" text="underlie" lemma="underlie"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="1163-1166" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1167-1174" text="ability" lemma="ability"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1175-1177" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1178-1187" text="TNF-alpha" lemma="tnf-alpha"/>
+            <token xml:space="preserve" id="stt_25" POS="TO" charOffset="1188-1190" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_26" POS="VB" charOffset="1191-1196" text="delay" lemma="delay"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1197-1206" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="1207-1209" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="1210-1215" text="later" lemma="later"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="1216-1221" text="times" lemma="time"/>
+            <token xml:space="preserve" id="stt_31" POS="-LRB-" charOffset="1222-1223" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_32" POS="CD" charOffset="1223-1228" text="12-24" lemma="12-24"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1229-1230" text="h" lemma="h"/>
+            <token xml:space="preserve" id="stt_34" POS="-RRB-" charOffset="1230-1231" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_35" POS="CC" charOffset="1232-1235" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_36" POS="VB" charOffset="1236-1241" text="limit" lemma="limit"/>
+            <token xml:space="preserve" id="stt_37" POS="PRP$" charOffset="1242-1245" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_38" POS="JJ" charOffset="1246-1251" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="1252-1259" text="killing" lemma="killing"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="1260-1266" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_41" POS="." charOffset="1266-1267" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NNS=H neutrophils)))
+            (, ,)
+            (NP (NN=H TNF-alpha))
+            (VP=H (VBD=H caused)
+            (NP
+            (NP=H (DT a) (JJ gliotoxin-inhibitable) (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT an) (JJ inducible) (NN=H form))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H NF-kappaB))
+            (, ,)
+            (NP
+            (NP=H (DT a) (NN=H response))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (MD=H may)
+            (VP
+            (VP=H (VB=H underlie)
+            (NP
+            (NP=H (DT the) (NN=H ability))
+            (PP (IN=H of)
+            (NP (NN=H TNF-alpha))))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H delay)
+            (NP (NN=H apoptosis))
+            (PP (IN=H at)
+            (NP
+            (NP=H (JJ later) (NNS=H times))
+            (PRN (-LRB- -LRB-)
+            (NP=H (CD 12-24) (NN=H h))
+            (-RRB- -RRB-))))))))
+            (CC and)
+            (VP (VB=H limit)
+            (NP (PRP$ its) (JJ early) (NN killing) (NN=H effect))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1268-1583" id="S7">
+        <text xml:space="preserve">Furthermore, cycloheximide displayed a similar capacity to enhance TNF-alpha induced neutrophil apoptosis even at time points when cycloheximide alone had no pro-apoptotic effect, suggesting that NF-kappaB may regulate the production of protein(s) which protect neutrophils from the cytotoxic effects of TNF-alpha. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1268-1279" text="Furthermore" lemma="furthermore"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1279-1280" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1281-1294" text="cycloheximide" lemma="cycloheximide"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="1295-1304" text="displayed" lemma="display"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="1305-1306" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1307-1314" text="similar" lemma="similar"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1315-1323" text="capacity" lemma="capacity"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="1324-1326" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="1327-1334" text="enhance" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1335-1344" text="TNF-alpha" lemma="tnf-alpha"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="1345-1352" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1353-1363" text="neutrophil" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1364-1373" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="1374-1378" text="even" lemma="even"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1379-1381" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1382-1386" text="time" lemma="time"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="1387-1393" text="points" lemma="point"/>
+            <token xml:space="preserve" id="stt_18" POS="WRB" charOffset="1394-1398" text="when" lemma="when"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1399-1412" text="cycloheximide" lemma="cycloheximide"/>
+            <token xml:space="preserve" id="stt_20" POS="RB" charOffset="1413-1418" text="alone" lemma="alone"/>
+            <token xml:space="preserve" id="stt_21" POS="VBD" charOffset="1419-1422" text="had" lemma="have"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="1423-1425" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="1426-1439" text="pro-apoptotic" lemma="pro-apoptotic"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1440-1446" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_25" POS="," charOffset="1446-1447" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_26" POS="VBG" charOffset="1448-1458" text="suggesting" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1459-1463" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1464-1473" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_29" POS="MD" charOffset="1474-1477" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_30" POS="VB" charOffset="1478-1486" text="regulate" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_31" POS="DT" charOffset="1487-1490" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1491-1501" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_33" POS="IN" charOffset="1502-1504" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1505-1512" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_35" POS="-LRB-" charOffset="1512-1513" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_36" POS="NNS" charOffset="1513-1514" text="s" lemma="s"/>
+            <token xml:space="preserve" id="stt_37" POS="-RRB-" charOffset="1514-1515" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_38" POS="WDT" charOffset="1516-1521" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_39" POS="VBP" charOffset="1522-1529" text="protect" lemma="protect"/>
+            <token xml:space="preserve" id="stt_40" POS="NNS" charOffset="1530-1541" text="neutrophils" lemma="neutrophil"/>
+            <token xml:space="preserve" id="stt_41" POS="IN" charOffset="1542-1546" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_42" POS="DT" charOffset="1547-1550" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_43" POS="JJ" charOffset="1551-1560" text="cytotoxic" lemma="cytotoxic"/>
+            <token xml:space="preserve" id="stt_44" POS="NNS" charOffset="1561-1568" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_45" POS="IN" charOffset="1569-1571" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="1572-1581" text="TNF-alpha" lemma="tnf-alpha"/>
+            <token xml:space="preserve" id="stt_47" POS="." charOffset="1581-1582" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Furthermore))
+            (, ,)
+            (NP (NN=H cycloheximide))
+            (VP=H (VBD=H displayed)
+            (NP (DT a) (JJ similar) (NN=H capacity)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H enhance)
+            (NP
+            (NP=H (NN=H TNF-alpha))
+            (VP (VBN=H induced)
+            (NP (NN neutrophil) (NN=H apoptosis))
+            (ADVP (RB=H even))
+            (PP (IN=H at)
+            (NP
+            (NP=H (NN time) (NNS=H points))
+            (SBAR
+            (WHADVP=H (WRB=H when))
+            (S
+            (NP (NN=H cycloheximide))
+            (ADVP (RB=H alone))
+            (VP=H (VBD=H had)
+            (NP (DT no) (JJ pro-apoptotic) (NN=H effect)))))))))))))
+            (, ,)
+            (S
+            (VP=H (VBG=H suggesting)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H NF-kappaB))
+            (VP=H (MD=H may)
+            (VP (VB=H regulate)
+            (NP
+            (NP=H
+            (NP=H (DT the) (NN=H production))
+            (PP (IN=H of)
+            (NP (NN=H protein))))
+            (PRN (-LRB- -LRB-) (NNS=H s) (-RRB- -RRB-))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBP=H protect)
+            (NP (NNS=H neutrophils))
+            (PP (IN=H from)
+            (NP
+            (NP=H (DT the) (JJ cytotoxic) (NNS=H effects))
+            (PP (IN=H of)
+            (NP (NN=H TNF-alpha))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1583-1847" id="S8">
+        <text xml:space="preserve">These data shed light on the biochemical and molecular mechanisms regulating human granulocyte apoptosis and, in particular, indicate that the transcription factor NF-kappaB plays a crucial role in regulating the physiological cell death pathway in granulocytes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1583-1588" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1589-1593" text="data" lemma="datum"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="1594-1598" text="shed" lemma="shed"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1599-1604" text="light" lemma="light"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1605-1607" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1608-1611" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1612-1623" text="biochemical" lemma="biochemical"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="1624-1627" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1628-1637" text="molecular" lemma="molecular"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1638-1648" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_11" POS="VBG" charOffset="1649-1659" text="regulating" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1660-1665" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1666-1677" text="granulocyte" lemma="granulocyte"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1678-1687" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="1688-1691" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="1691-1692" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1693-1695" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1696-1706" text="particular" lemma="particular"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="1706-1707" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="VBP" charOffset="1708-1716" text="indicate" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1717-1721" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="1722-1725" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1726-1739" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1740-1746" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1747-1756" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_26" POS="VBZ" charOffset="1757-1762" text="plays" lemma="play"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="1763-1764" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="1765-1772" text="crucial" lemma="crucial"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1773-1777" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="1778-1780" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_31" POS="VBG" charOffset="1781-1791" text="regulating" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_32" POS="DT" charOffset="1792-1795" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_33" POS="JJ" charOffset="1796-1809" text="physiological" lemma="physiological"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1810-1814" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1815-1820" text="death" lemma="death"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1821-1828" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_37" POS="IN" charOffset="1829-1831" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_38" POS="NNS" charOffset="1832-1844" text="granulocytes" lemma="granulocyte"/>
+            <token xml:space="preserve" id="stt_39" POS="." charOffset="1844-1845" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H data))
+            (VP=H
+            (VP=H (VBD=H shed)
+            (NP (NN=H light))
+            (PP (IN=H on)
+            (S
+            (NP (DT the) (JJ biochemical)
+            (CC and)
+            (JJ molecular) (NNS=H mechanisms))
+            (VP=H (VBG=H regulating)
+            (NP (JJ human) (NN granulocyte) (NN=H apoptosis))))))
+            (CC and)
+            (PRN (, ,)
+            (PP=H (IN=H in)
+            (ADJP (JJ=H particular)))
+            (, ,))
+            (VP (VBP=H indicate)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT the) (NN transcription) (NN factor) (NN=H NF-kappaB))
+            (VP=H (VBZ=H plays)
+            (NP (DT a) (JJ crucial) (NN=H role))
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H regulating)
+            (NP
+            (NP=H (DT the) (JJ physiological) (NN cell) (NN death) (NN=H pathway))
+            (PP (IN=H in)
+            (NP (NNS=H granulocytes))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T8" type="DefiniteNP" charOffset="408-439" headOffset="430-439" text="the fungal metabolite gliotoxin"/>
+    <Term xml:space="preserve" id="T9" type="PossessivePronoun" charOffset="452-455" headOffset="452-455" text="its"/>
+    <Term xml:space="preserve" id="T10" type="DefiniteNP" charOffset="791-815" headOffset="806-815" text="the proteasome inhibitor"/>
+    <Term xml:space="preserve" id="T11" type="IndefiniteNP" charOffset="1134-1144" headOffset="1136-1144" text="a response"/>
+    <Term xml:space="preserve" id="T12" type="RelativePronoun" charOffset="1145-1149" headOffset="1145-1149" text="that"/>
+    <Term xml:space="preserve" id="T13" type="ZeroArticleNP" charOffset="1197-1206" headOffset="1197-1206" text="apoptosis"/>
+    <Term xml:space="preserve" id="T14" type="PossessivePronoun" charOffset="1242-1245" headOffset="1242-1245" text="its"/>
+    <Term xml:space="preserve" id="T15" type="ZeroArticleNP" charOffset="1505-1515" headOffset="1513-1514" text="protein(s)"/>
+    <Term xml:space="preserve" id="T16" type="RelativePronoun" charOffset="1516-1521" headOffset="1516-1521" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T9"/>
+        <Antecedent idref="T8"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T12"/>
+        <Antecedent idref="T11"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T14"/>
+        <Antecedent idref="T13"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T16"/>
+        <Antecedent idref="T15"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="906-933" headOffset="921-933" text="tumor necrosis factor-alpha"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="935-944" headOffset="935-944" text="TNF-alpha"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="989-998" headOffset="989-998" text="TNF-alpha"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="1047-1056" headOffset="1047-1056" text="TNF-alpha"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="1178-1187" headOffset="1178-1187" text="TNF-alpha"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="1335-1344" headOffset="1335-1344" text="TNF-alpha"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="1572-1581" headOffset="1572-1581" text="TNF-alpha"/>
+</document>

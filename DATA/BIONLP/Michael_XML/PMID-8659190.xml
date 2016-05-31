@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8659190">
+    <text xml:space="preserve">Transcription factors of T and B lymphocytes--basic research and clinical perspectives for gastroenterology. 
+Tissue specific regulation of gene expression by transcription factors is a fascinating new field in molecular immunology. This review summarizes data on specific regulation of promoters and enhancers by nuclear trans-acting factors in lymphocytes. The structural classes of transcription factors are described and basic methods for detection and analysis of transcription factors are detailed. Furthermore, the most important trans-acting factors of T and B lymphocytes (e.g. NF-kB, NF-AT and STAT families) and their functional importance are described. Several methods for specific down-regulation of transcription factors are shown that may be relevant to treatment of human disease. The data are discussed with regard to their potential clinical relevance for gastroenterology. 
+</text>
+    <sentence charOffset="0-110" id="S1">
+        <text xml:space="preserve">Transcription factors of T and B lymphocytes--basic research and clinical perspectives for gastroenterology. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-13" text="Transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="14-21" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="22-24" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="25-26" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="27-30" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="31-32" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="33-44" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_8" POS=":" charOffset="44-46" text="--" lemma="--"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="46-51" text="basic" lemma="basic"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="52-60" text="research" lemma="research"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="61-64" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="65-73" text="clinical" lemma="clinical"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="74-86" text="perspectives" lemma="perspective"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="87-90" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="91-107" text="gastroenterology" lemma="gastroenterology"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="107-108" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H
+            (NP=H (NN Transcription) (NNS=H factors))
+            (PP (IN=H of)
+            (NP (NN T)
+            (CC and)
+            (NN B) (NNS=H lymphocytes))))
+            (: --)
+            (NP
+            (NP=H (JJ basic) (NN research)
+            (CC and)
+            (JJ clinical) (NNS=H perspectives))
+            (PP (IN=H for)
+            (NP (NN=H gastroenterology))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="110-233" id="S2">
+        <text xml:space="preserve">Tissue specific regulation of gene expression by transcription factors is a fascinating new field in molecular immunology. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="110-116" text="Tissue" lemma="tissue"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="117-125" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="126-136" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="137-139" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="140-144" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="145-155" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="156-158" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="159-172" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="173-180" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="181-183" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="184-185" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="186-197" text="fascinating" lemma="fascinating"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="198-201" text="new" lemma="new"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="202-207" text="field" lemma="field"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="208-210" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="211-220" text="molecular" lemma="molecular"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="221-231" text="immunology" lemma="immunology"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="231-232" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN Tissue) (JJ specific) (NN=H regulation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN gene) (NN=H expression))
+            (PP (IN=H by)
+            (NP (NN transcription) (NNS=H factors))))))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (JJ fascinating) (JJ new) (NN=H field))
+            (PP (IN=H in)
+            (NP (JJ molecular) (NN=H immunology)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="233-359" id="S3">
+        <text xml:space="preserve">This review summarizes data on specific regulation of promoters and enhancers by nuclear trans-acting factors in lymphocytes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="233-237" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="238-244" text="review" lemma="review"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="245-255" text="summarizes" lemma="summarize"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="256-260" text="data" lemma="datum"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="261-263" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="264-272" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="273-283" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="284-286" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="287-296" text="promoters" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="297-300" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="301-310" text="enhancers" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="311-313" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="314-321" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="322-334" text="trans-acting" lemma="trans-acting"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="335-342" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="343-345" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="346-357" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="357-358" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H review))
+            (VP=H (VBZ=H summarizes)
+            (NP
+            (NP=H (NNS=H data))
+            (PP (IN=H on)
+            (NP
+            (NP=H (JJ specific) (NN=H regulation))
+            (PP (IN=H of)
+            (NP (NNS=H promoters)
+            (CC and)
+            (NNS enhancers))))))
+            (PP (IN=H by)
+            (NP
+            (NP=H (JJ nuclear) (JJ trans-acting) (NNS=H factors))
+            (PP (IN=H in)
+            (NP (NNS=H lymphocytes))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="359-505" id="S4">
+        <text xml:space="preserve">The structural classes of transcription factors are described and basic methods for detection and analysis of transcription factors are detailed. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="359-362" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="363-373" text="structural" lemma="structural"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="374-381" text="classes" lemma="class"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="382-384" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="385-398" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="399-406" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_7" POS="VBP" charOffset="407-410" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="411-420" text="described" lemma="describe"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="421-424" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="425-430" text="basic" lemma="basic"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="431-438" text="methods" lemma="method"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="439-442" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="443-452" text="detection" lemma="detection"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="453-456" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="457-465" text="analysis" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="466-468" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="469-482" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="483-490" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_19" POS="VBP" charOffset="491-494" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_20" POS="VBN" charOffset="495-503" text="detailed" lemma="detail"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="503-504" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP
+            (NP=H (DT The) (JJ structural) (NNS=H classes))
+            (PP (IN=H of)
+            (NP (NN transcription) (NNS=H factors))))
+            (VP=H (VBP=H are)
+            (VP (VBN=H described))))
+            (CC and)
+            (S
+            (NP
+            (NP=H (JJ basic) (NNS=H methods))
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN=H detection)
+            (CC and)
+            (NN analysis))
+            (PP (IN=H of)
+            (NP (NN transcription) (NNS=H factors))))))
+            (VP=H (VBP=H are)
+            (ADJP (VBN=H detailed))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="505-587" id="S5">
+        <text xml:space="preserve">Furthermore, the most important trans-acting factors of T and B lymphocytes (e.g. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="505-516" text="Furthermore" lemma="furthermore"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="516-517" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="518-521" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="RBS" charOffset="522-526" text="most" lemma="most"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="527-536" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="537-549" text="trans-acting" lemma="trans-acting"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="550-557" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="558-560" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="561-562" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="563-566" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="567-568" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="569-580" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_13" POS="-LRB-" charOffset="581-582" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_14" POS="FW" charOffset="582-586" text="e.g." lemma="e.g."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Furthermore))
+            (, ,)
+            (NP
+            (NP=H (DT the)
+            (ADJP (RBS most) (JJ=H important))
+            (JJ trans-acting) (NNS=H factors))
+            (PP (IN=H of)
+            (NP (NN T)
+            (CC and)
+            (NN B) (NNS=H lymphocytes))))
+            (VP=H (-LRB- -LRB-)
+            (NP=H (FW=H e.g.)))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="587-666" id="S6">
+        <text xml:space="preserve">NF-kB, NF-AT and STAT families) and their functional importance are described. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="587-592" text="NF-kB" lemma="nf-kb"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="592-593" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="594-599" text="NF-AT" lemma="nf-at"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="600-603" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="604-608" text="STAT" lemma="stat"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="609-617" text="families" lemma="family"/>
+            <token xml:space="preserve" id="stt_7" POS="-RRB-" charOffset="617-618" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="619-622" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="PRP$" charOffset="623-628" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="629-639" text="functional" lemma="functional"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="640-650" text="importance" lemma="importance"/>
+            <token xml:space="preserve" id="stt_12" POS="VBP" charOffset="651-654" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_13" POS="VBN" charOffset="655-664" text="described" lemma="describe"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="664-665" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H NF-kB))
+            (, ,)
+            (NP
+            (NP=H
+            (NP=H (NN=H NF-AT))
+            (CC and)
+            (NP (NN STAT) (NNS=H families))
+            (-RRB- -RRB-))
+            (CC and)
+            (NP (PRP$ their)
+            (ADJP (JJ=H functional))
+            (NN=H importance))))
+            (VP=H (VBP=H are)
+            (VP (VBN=H described)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="666-798" id="S7">
+        <text xml:space="preserve">Several methods for specific down-regulation of transcription factors are shown that may be relevant to treatment of human disease. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="666-673" text="Several" lemma="several"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="674-681" text="methods" lemma="method"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="682-685" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="686-694" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="695-710" text="down-regulation" lemma="down-regulation"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="711-713" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="714-727" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="728-735" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_9" POS="VBP" charOffset="736-739" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="740-745" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="746-750" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_12" POS="MD" charOffset="751-754" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_13" POS="VB" charOffset="755-757" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="758-766" text="relevant" lemma="relevant"/>
+            <token xml:space="preserve" id="stt_15" POS="TO" charOffset="767-769" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="770-779" text="treatment" lemma="treatment"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="780-782" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="783-788" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="789-796" text="disease" lemma="disease"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="796-797" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Several) (NNS=H methods))
+            (PP (IN=H for)
+            (NP
+            (NP=H (JJ specific) (NN=H down-regulation))
+            (PP (IN=H of)
+            (NP (NN transcription) (NNS=H factors))))))
+            (VP=H (VBP=H are)
+            (VP (VBN=H shown)
+            (SBAR (IN=H that)
+            (S
+            (VP=H (MD=H may)
+            (VP (VB=H be)
+            (ADJP (JJ=H relevant)
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN=H treatment))
+            (PP (IN=H of)
+            (NP (JJ human) (NN=H disease))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="798-894" id="S8">
+        <text xml:space="preserve">The data are discussed with regard to their potential clinical relevance for gastroenterology. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="798-801" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="802-806" text="data" lemma="datum"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="807-810" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="811-820" text="discussed" lemma="discuss"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="821-825" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="826-832" text="regard" lemma="regard"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="833-835" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="PRP$" charOffset="836-841" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="842-851" text="potential" lemma="potential"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="852-860" text="clinical" lemma="clinical"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="861-870" text="relevance" lemma="relevance"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="871-874" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="875-891" text="gastroenterology" lemma="gastroenterology"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="891-892" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NNS=H data))
+            (VP=H (VBP=H are)
+            (VP (VBN=H discussed)
+            (PP (IN=H with)
+            (NP (NN=H regard)))
+            (PP (TO=H to)
+            (NP
+            (NP=H (PRP$ their) (JJ potential) (JJ clinical) (NN=H relevance))
+            (PP (IN=H for)
+            (NP (NN=H gastroenterology)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="ZeroArticleNP" charOffset="561-586" headOffset="569-580" text="T and B lymphocytes (e.g."/>
+    <Term xml:space="preserve" id="T2" type="PossessivePronoun" charOffset="623-628" headOffset="623-628" text="their"/>
+    <Term xml:space="preserve" id="T3" type="DefiniteNP" charOffset="798-806" headOffset="802-806" text="The data"/>
+    <Term xml:space="preserve" id="T4" type="PossessivePronoun" charOffset="836-841" headOffset="836-841" text="their"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T2"/>
+        <Antecedent idref="T1"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T4"/>
+        <Antecedent idref="T3"/>
+    </Relation>
+</document>

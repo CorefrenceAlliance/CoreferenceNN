@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-7542591">
+    <text xml:space="preserve">Distinct signaling properties identify functionally different CD4 epitopes. 
+The CD4 coreceptor interacts with non-polymorphic regions of major histocompatibility complex class II molecules on antigen-presenting cells and contributes to T cell activation. We have investigated the effect of CD4 triggering on T cell activating signals in a lymphoma model using monoclonal antibodies (mAb) which recognize different CD4 epitopes. We demonstrate that CD4 triggering delivers signals capable of activating the NF-AT transcription factor which is required for interleukin-2 gene expression. Whereas different anti-CD4 mAb or HIV-1 gp120 could all trigger activation of the protein tyrosine kinases p56lck and p59fyn and phosphorylation of the Shc adaptor protein, which mediates signals to Ras, they differed significantly in their ability to activate NF-AT. Lack of full activation of NF-AT could be correlated to a dramatically reduced capacity to induce calcium flux and could be complemented with a calcium ionophore. The results identify functionally distinct epitopes on the CD4 coreceptor involved in activation of the Ras/protein kinase C and calcium pathways. 
+</text>
+    <sentence charOffset="0-77" id="S1">
+        <text xml:space="preserve">Distinct signaling properties identify functionally different CD4 epitopes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-8" text="Distinct" lemma="distinct"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="9-18" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="19-29" text="properties" lemma="property"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="30-38" text="identify" lemma="identify"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="39-51" text="functionally" lemma="functionally"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="52-61" text="different" lemma="different"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="62-65" text="CD4" lemma="cd4"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="66-74" text="epitopes" lemma="epitope"/>
+            <token xml:space="preserve" id="stt_9" POS="." charOffset="74-75" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Distinct) (NN signaling) (NNS=H properties))
+            (VP=H (VBP=H identify)
+            (NP
+            (ADJP (RB functionally) (JJ=H different))
+            (NN CD4) (NNS=H epitopes)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="77-256" id="S2">
+        <text xml:space="preserve">The CD4 coreceptor interacts with non-polymorphic regions of major histocompatibility complex class II molecules on antigen-presenting cells and contributes to T cell activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="77-80" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="81-84" text="CD4" lemma="cd4"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="85-95" text="coreceptor" lemma="coreceptor"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="96-105" text="interacts" lemma="interact"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="106-110" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="111-126" text="non-polymorphic" lemma="non-polymorphic"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="127-134" text="regions" lemma="region"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="135-137" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="138-143" text="major" lemma="major"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="144-162" text="histocompatibility" lemma="histocompatibility"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="163-170" text="complex" lemma="complex"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="171-176" text="class" lemma="class"/>
+            <token xml:space="preserve" id="stt_13" POS="CD" charOffset="177-179" text="II" lemma="ii"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="180-189" text="molecules" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="190-192" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="193-211" text="antigen-presenting" lemma="antigen-presenting"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="212-217" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="218-221" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_19" POS="VBZ" charOffset="222-233" text="contributes" lemma="contribute"/>
+            <token xml:space="preserve" id="stt_20" POS="TO" charOffset="234-236" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="237-238" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="239-243" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="244-254" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="254-255" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NN CD4) (NN=H coreceptor))
+            (VP=H
+            (VP=H (VBZ=H interacts)
+            (PP (IN=H with)
+            (NP
+            (NP=H (JJ non-polymorphic) (NNS=H regions))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ major) (NN histocompatibility) (NN complex) (NN class) (CD II) (NNS=H molecules))
+            (PP (IN=H on)
+            (NP (JJ antigen-presenting) (NNS=H cells))))))))
+            (CC and)
+            (VP (VBZ=H contributes)
+            (PP (TO=H to)
+            (NP (NN T) (NN cell) (NN=H activation)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="256-429" id="S3">
+        <text xml:space="preserve">We have investigated the effect of CD4 triggering on T cell activating signals in a lymphoma model using monoclonal antibodies (mAb) which recognize different CD4 epitopes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="256-258" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="259-263" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="264-276" text="investigated" lemma="investigate"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="277-280" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="281-287" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="288-290" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="291-294" text="CD4" lemma="cd4"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="295-305" text="triggering" lemma="triggering"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="306-308" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="309-310" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="311-315" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="316-326" text="activating" lemma="activating"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="327-334" text="signals" lemma="signal"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="335-337" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="338-339" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="340-348" text="lymphoma" lemma="lymphoma"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="349-354" text="model" lemma="model"/>
+            <token xml:space="preserve" id="stt_18" POS="VBG" charOffset="355-360" text="using" lemma="use"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="361-371" text="monoclonal" lemma="monoclonal"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="372-382" text="antibodies" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_21" POS="-LRB-" charOffset="383-384" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="384-387" text="mAb" lemma="mab"/>
+            <token xml:space="preserve" id="stt_23" POS="-RRB-" charOffset="387-388" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_24" POS="WDT" charOffset="389-394" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_25" POS="VBP" charOffset="395-404" text="recognize" lemma="recognize"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="405-414" text="different" lemma="different"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="415-418" text="CD4" lemma="cd4"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="419-427" text="epitopes" lemma="epitope"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="427-428" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H have)
+            (VP (VBN=H investigated)
+            (NP
+            (NP=H (DT the) (NN=H effect))
+            (PP (IN=H of)
+            (NP (NN CD4) (NN=H triggering))))
+            (PP (IN=H on)
+            (NP (NN T) (NN cell) (NN activating) (NNS=H signals)))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT a) (NN lymphoma) (NN=H model))
+            (VP (VBG=H using)
+            (NP
+            (NP=H (JJ monoclonal) (NNS=H antibodies))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H mAb))
+            (-RRB- -RRB-))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBP=H recognize)
+            (NP (JJ different) (NN CD4) (NNS=H epitopes)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="429-587" id="S4">
+        <text xml:space="preserve">We demonstrate that CD4 triggering delivers signals capable of activating the NF-AT transcription factor which is required for interleukin-2 gene expression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="429-431" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="432-443" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="444-448" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="449-452" text="CD4" lemma="cd4"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="453-463" text="triggering" lemma="triggering"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="464-472" text="delivers" lemma="deliver"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="473-480" text="signals" lemma="signal"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="481-488" text="capable" lemma="capable"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="489-491" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="VBG" charOffset="492-502" text="activating" lemma="activate"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="503-506" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="507-512" text="NF-AT" lemma="nf-at"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="513-526" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="527-533" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_15" POS="WDT" charOffset="534-539" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="540-542" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="543-551" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="552-555" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="556-569" text="interleukin-2" lemma="interleukin-2"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="570-574" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="575-585" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="585-586" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN CD4) (NN=H triggering))
+            (VP=H (VBZ=H delivers)
+            (S
+            (NP (NNS=H signals))
+            (ADJP=H (JJ=H capable)
+            (PP (IN=H of)
+            (S
+            (VP=H (VBG=H activating)
+            (NP
+            (NP=H (DT the) (NN NF-AT) (NN transcription) (NN=H factor))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H is)
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP (NN interleukin-2) (NN gene) (NN=H expression)))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="587-855" id="S5">
+        <text xml:space="preserve">Whereas different anti-CD4 mAb or HIV-1 gp120 could all trigger activation of the protein tyrosine kinases p56lck and p59fyn and phosphorylation of the Shc adaptor protein, which mediates signals to Ras, they differed significantly in their ability to activate NF-AT. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="587-594" text="Whereas" lemma="whereas"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="595-604" text="different" lemma="different"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="605-613" text="anti-CD4" lemma="anti-cd4"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="614-617" text="mAb" lemma="mab"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="618-620" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="621-626" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="627-632" text="gp120" lemma="gp120"/>
+            <token xml:space="preserve" id="stt_8" POS="MD" charOffset="633-638" text="could" lemma="could"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="639-642" text="all" lemma="all"/>
+            <token xml:space="preserve" id="stt_10" POS="VB" charOffset="643-650" text="trigger" lemma="trigger"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="651-661" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="662-664" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="665-668" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="669-676" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="677-685" text="tyrosine" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="686-693" text="kinases" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="694-700" text="p56lck" lemma="p56lck"/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="701-704" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="705-711" text="p59fyn" lemma="p59fyn"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="712-715" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="716-731" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="732-734" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="735-738" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="739-742" text="Shc" lemma="shc"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="743-750" text="adaptor" lemma="adaptor"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="751-758" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="758-759" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="WDT" charOffset="760-765" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_29" POS="VBZ" charOffset="766-774" text="mediates" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="775-782" text="signals" lemma="signal"/>
+            <token xml:space="preserve" id="stt_31" POS="TO" charOffset="783-785" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="786-789" text="Ras" lemma="ras"/>
+            <token xml:space="preserve" id="stt_33" POS="," charOffset="789-790" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_34" POS="PRP" charOffset="791-795" text="they" lemma="they"/>
+            <token xml:space="preserve" id="stt_35" POS="VBD" charOffset="796-804" text="differed" lemma="differ"/>
+            <token xml:space="preserve" id="stt_36" POS="RB" charOffset="805-818" text="significantly" lemma="significantly"/>
+            <token xml:space="preserve" id="stt_37" POS="IN" charOffset="819-821" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_38" POS="PRP$" charOffset="822-827" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="828-835" text="ability" lemma="ability"/>
+            <token xml:space="preserve" id="stt_40" POS="TO" charOffset="836-838" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_41" POS="VB" charOffset="839-847" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="848-853" text="NF-AT" lemma="nf-at"/>
+            <token xml:space="preserve" id="stt_43" POS="." charOffset="853-854" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H Whereas)
+            (S
+            (NP
+            (NP=H (JJ different) (JJ anti-CD4) (NN=H mAb))
+            (CC or)
+            (NP (NN HIV-1) (NN=H gp120)))
+            (VP=H (MD=H could)
+            (ADVP (DT=H all))
+            (VP (VB=H trigger)
+            (NP
+            (NP=H
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP (DT the) (NN protein) (NN tyrosine) (NNS kinases) (NN=H p56lck))))
+            (CC and)
+            (NP
+            (NP=H (NN=H p59fyn)
+            (CC and)
+            (NN phosphorylation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN Shc) (NN adaptor) (NN=H protein))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H mediates)
+            (NP (NNS=H signals))
+            (PP (TO=H to)
+            (NP (NN=H Ras))))))))))))))
+            (, ,)
+            (NP (PRP=H they))
+            (VP=H (VBD=H differed)
+            (ADVP (RB=H significantly))
+            (PP (IN=H in)
+            (NP (PRP$ their) (NN=H ability)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H activate)
+            (NP (NN=H NF-AT))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="855-1018" id="S6">
+        <text xml:space="preserve">Lack of full activation of NF-AT could be correlated to a dramatically reduced capacity to induce calcium flux and could be complemented with a calcium ionophore. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="855-859" text="Lack" lemma="lack"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="860-862" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="863-867" text="full" lemma="full"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="868-878" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="879-881" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="882-887" text="NF-AT" lemma="nf-at"/>
+            <token xml:space="preserve" id="stt_7" POS="MD" charOffset="888-893" text="could" lemma="could"/>
+            <token xml:space="preserve" id="stt_8" POS="VB" charOffset="894-896" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="897-907" text="correlated" lemma="correlate"/>
+            <token xml:space="preserve" id="stt_10" POS="TO" charOffset="908-910" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="911-912" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="913-925" text="dramatically" lemma="dramatically"/>
+            <token xml:space="preserve" id="stt_13" POS="VBN" charOffset="926-933" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="934-942" text="capacity" lemma="capacity"/>
+            <token xml:space="preserve" id="stt_15" POS="TO" charOffset="943-945" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_16" POS="VB" charOffset="946-952" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="953-960" text="calcium" lemma="calcium"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="961-965" text="flux" lemma="flux"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="966-969" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="MD" charOffset="970-975" text="could" lemma="could"/>
+            <token xml:space="preserve" id="stt_21" POS="VB" charOffset="976-978" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_22" POS="VBN" charOffset="979-991" text="complemented" lemma="complement"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="992-996" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="997-998" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="999-1006" text="calcium" lemma="calcium"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1007-1016" text="ionophore" lemma="ionophore"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="1016-1017" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Lack))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ full) (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN=H NF-AT))))))
+            (VP=H
+            (VP=H (MD=H could)
+            (VP (VB=H be)
+            (VP (VBN=H correlated)
+            (PP (TO=H to)
+            (NP (DT a) (RB dramatically) (VBN reduced) (NN=H capacity)))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H induce)
+            (NP (NN calcium) (NN=H flux))))))))
+            (CC and)
+            (VP (MD=H could)
+            (VP (VB=H be)
+            (VP (VBN=H complemented)
+            (PP (IN=H with)
+            (NP (DT a) (NN calcium) (NN=H ionophore)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1018-1166" id="S7">
+        <text xml:space="preserve">The results identify functionally distinct epitopes on the CD4 coreceptor involved in activation of the Ras/protein kinase C and calcium pathways. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1018-1021" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1022-1029" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1030-1038" text="identify" lemma="identify"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="1039-1051" text="functionally" lemma="functionally"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1052-1060" text="distinct" lemma="distinct"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="1061-1069" text="epitopes" lemma="epitope"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1070-1072" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="1073-1076" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1077-1080" text="CD4" lemma="cd4"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1081-1091" text="coreceptor" lemma="coreceptor"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="1092-1100" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1101-1103" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1104-1114" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1115-1117" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="1118-1121" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1122-1133" text="Ras/protein" lemma="ras/protein"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1134-1140" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1141-1142" text="C" lemma="c"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="1143-1146" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1147-1154" text="calcium" lemma="calcium"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="1155-1163" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="1163-1164" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NNS=H results))
+            (VP=H (VBP=H identify)
+            (NP
+            (ADJP (RB functionally) (JJ=H distinct))
+            (NNS=H epitopes))
+            (PP (IN=H on)
+            (NP
+            (NP=H (DT the) (NN CD4) (NN=H coreceptor))
+            (VP (VBN=H involved)
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN Ras/protein) (NN kinase) (NN=H C))
+            (CC and)
+            (NP (NN calcium) (NNS=H pathways))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T12" type="ZeroArticleNP" charOffset="361-388" headOffset="384-387" text="monoclonal antibodies (mAb)"/>
+    <Term xml:space="preserve" id="T13" type="RelativePronoun" charOffset="389-394" headOffset="389-394" text="which"/>
+    <Term xml:space="preserve" id="T14" type="DefiniteNP" charOffset="503-533" headOffset="527-533" text="the NF-AT transcription factor"/>
+    <Term xml:space="preserve" id="T15" type="RelativePronoun" charOffset="534-539" headOffset="534-539" text="which"/>
+    <Term xml:space="preserve" id="T16" type="ZeroArticleNP" charOffset="595-632" headOffset="627-632" text="different anti-CD4 mAb or HIV-1 gp120"/>
+    <Term xml:space="preserve" id="T17" type="ZeroArticleNP" charOffset="716-758" headOffset="716-731" text="phosphorylation of the Shc adaptor protein"/>
+    <Term xml:space="preserve" id="T18" type="RelativePronoun" charOffset="760-765" headOffset="760-765" text="which"/>
+    <Term xml:space="preserve" id="T19" type="PersonalPronoun" charOffset="791-795" headOffset="791-795" text="they"/>
+    <Term xml:space="preserve" id="T20" type="PossessivePronoun" charOffset="822-827" headOffset="822-827" text="their"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T13"/>
+        <Antecedent idref="T12"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T15"/>
+        <Antecedent idref="T14"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T18"/>
+        <Antecedent idref="T17"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T19"/>
+        <Antecedent idref="T16"/>
+    </Relation>
+    <Relation id="R5" type="Anaphora">
+        <Anaphor idref="T20"/>
+        <Antecedent idref="T16"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="62-65" headOffset="62-65" text="CD4"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="81-84" headOffset="81-84" text="CD4"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="291-294" headOffset="291-294" text="CD4"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="415-418" headOffset="415-418" text="CD4"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="449-452" headOffset="449-452" text="CD4"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="556-569" headOffset="556-569" text="interleukin-2"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="610-613" headOffset="610-613" text="CD4"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="627-632" headOffset="627-632" text="gp120"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="694-700" headOffset="694-700" text="p56lck"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="705-711" headOffset="705-711" text="p59fyn"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="1077-1080" headOffset="1077-1080" text="CD4"/>
+</document>

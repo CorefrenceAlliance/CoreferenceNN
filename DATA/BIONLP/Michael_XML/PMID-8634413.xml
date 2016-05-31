@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8634413">
+    <text xml:space="preserve">STAT-related transcription factors are constitutively activated in peripheral blood cells from acute leukemia patients. 
+A signal transduction pathway activated by many cytokines has recently been elaborated. The JAK kinases and the signal transducers and activators of transcription (STAT) factors have been found to be essential components. In this report, we describe the presence of constitutively activated STAT factors in peripheral blood cells from patients with acute leukemia. We used oligonucleotide probes from the beta-casein and IRF-1 gene promoters and the ISRE probe to detect STAT proteins in nuclear extracts from acute leukemia cells in bandshift assays. Specific DNA protein complex formation was observed with the probes from the beta-casein and IRF-1 gene promoters, but not with the ISRE oligonucleotide probe, when cell extracts from acute lymphoblastic leukemia (ALL) and acute myeloid leukemia (AML) were investigated. We used nonradioactive oligonucleotides as competitors to show the specificity of the complex formation. Specific antibodies directed against the individual STAT proteins were used in supershift experiments. STAT5- and STAT1-related factors were detected in ALL and STAT1-, STAT3-, and STAT5-related proteins were present in nuclear cell extracts from AML. Since the cells were not treated with cytokines before the nuclear proteins were extracted, we conclude that these factors are constitutively activated in vivo. It is likely that the constitutive activation of STAT proteins is a part of the events of leukemogenesis. 
+</text>
+    <sentence charOffset="0-121" id="S1">
+        <text xml:space="preserve">STAT-related transcription factors are constitutively activated in peripheral blood cells from acute leukemia patients. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-12" text="STAT-related" lemma="stat-related"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="13-26" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="27-34" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="35-38" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="39-53" text="constitutively" lemma="constitutively"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="54-63" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="64-66" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="67-77" text="peripheral" lemma="peripheral"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="78-83" text="blood" lemma="blood"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="84-89" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="90-94" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="95-100" text="acute" lemma="acute"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="101-109" text="leukemia" lemma="leukemia"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="110-118" text="patients" lemma="patient"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="118-119" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ STAT-related) (NN transcription) (NNS=H factors))
+            (VP=H (VBP=H are)
+            (ADVP (RB=H constitutively))
+            (VP (VBN=H activated)
+            (PP (IN=H in)
+            (NP (JJ peripheral) (NN blood) (NNS=H cells)))
+            (PP (IN=H from)
+            (NP (JJ acute) (NN leukemia) (NNS=H patients)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="121-209" id="S2">
+        <text xml:space="preserve">A signal transduction pathway activated by many cytokines has recently been elaborated. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="121-122" text="A" lemma="a"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="123-129" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="130-142" text="transduction" lemma="transduction"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="143-150" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="151-160" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="161-163" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="164-168" text="many" lemma="many"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="169-178" text="cytokines" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="179-182" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="183-191" text="recently" lemma="recently"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="192-196" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="197-207" text="elaborated" lemma="elaborate"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="207-208" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT A) (NN signal) (NN transduction) (NN=H pathway))
+            (VP (VBN=H activated)
+            (PP (IN=H by)
+            (NP (JJ many) (NNS=H cytokines)))))
+            (VP=H (VBZ=H has)
+            (ADVP (RB=H recently))
+            (VP (VBN=H been)
+            (VP (VBN=H elaborated))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="209-343" id="S3">
+        <text xml:space="preserve">The JAK kinases and the signal transducers and activators of transcription (STAT) factors have been found to be essential components. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="209-212" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="213-216" text="JAK" lemma="jak"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="217-224" text="kinases" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="225-228" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="229-232" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="233-239" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="240-251" text="transducers" lemma="transducer"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="252-255" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="256-266" text="activators" lemma="activator"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="267-269" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="270-283" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_12" POS="-LRB-" charOffset="284-285" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="285-289" text="STAT" lemma="stat"/>
+            <token xml:space="preserve" id="stt_14" POS="-RRB-" charOffset="289-290" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="291-298" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_16" POS="VBP" charOffset="299-303" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="304-308" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="309-314" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_19" POS="TO" charOffset="315-317" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_20" POS="VB" charOffset="318-320" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="321-330" text="essential" lemma="essential"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="331-341" text="components" lemma="component"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="341-342" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN JAK) (NNS=H kinases))
+            (CC and)
+            (NP
+            (NP=H
+            (NP=H (DT the) (NN signal) (NNS=H transducers)
+            (CC and)
+            (NNS activators))
+            (PP (IN=H of)
+            (NP (NN=H transcription)))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H STAT))
+            (-RRB- -RRB-)))
+            (NP (NNS=H factors))))
+            (VP=H (VBP=H have)
+            (VP (VBN=H been)
+            (VP (VBN=H found)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (NP (JJ essential) (NNS=H components))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="343-486" id="S4">
+        <text xml:space="preserve">In this report, we describe the presence of constitutively activated STAT factors in peripheral blood cells from patients with acute leukemia. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="343-345" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="346-350" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="351-357" text="report" lemma="report"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="357-358" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="359-361" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="362-370" text="describe" lemma="describe"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="371-374" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="375-383" text="presence" lemma="presence"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="384-386" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="387-401" text="constitutively" lemma="constitutively"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="402-411" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="412-416" text="STAT" lemma="stat"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="417-424" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="425-427" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="428-438" text="peripheral" lemma="peripheral"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="439-444" text="blood" lemma="blood"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="445-450" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="451-455" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="456-464" text="patients" lemma="patient"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="465-469" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="470-475" text="acute" lemma="acute"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="476-484" text="leukemia" lemma="leukemia"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="484-485" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (DT this) (NN=H report)))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H describe)
+            (NP
+            (NP=H (DT the) (NN=H presence))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (ADJP (RB constitutively) (VBN=H activated))
+            (NN STAT) (NNS=H factors))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ peripheral) (NN blood) (NNS=H cells))
+            (PP (IN=H from)
+            (NP
+            (NP=H (NNS=H patients))
+            (PP (IN=H with)
+            (NP (JJ acute) (NN=H leukemia)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="486-673" id="S5">
+        <text xml:space="preserve">We used oligonucleotide probes from the beta-casein and IRF-1 gene promoters and the ISRE probe to detect STAT proteins in nuclear extracts from acute leukemia cells in bandshift assays. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="486-488" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="489-493" text="used" lemma="use"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="494-509" text="oligonucleotide" lemma="oligonucleotide"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="510-516" text="probes" lemma="probe"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="517-521" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="522-525" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="526-537" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="538-541" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="542-547" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="548-552" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="553-562" text="promoters" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="563-566" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="567-570" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="571-575" text="ISRE" lemma="isre"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="576-581" text="probe" lemma="probe"/>
+            <token xml:space="preserve" id="stt_16" POS="TO" charOffset="582-584" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_17" POS="VB" charOffset="585-591" text="detect" lemma="detect"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="592-596" text="STAT" lemma="stat"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="597-605" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="606-608" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="609-616" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="617-625" text="extracts" lemma="extract"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="626-630" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="631-636" text="acute" lemma="acute"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="637-645" text="leukemia" lemma="leukemia"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="646-651" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="652-654" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="655-664" text="bandshift" lemma="bandshift"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="665-671" text="assays" lemma="assay"/>
+            <token xml:space="preserve" id="stt_30" POS="." charOffset="671-672" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H used)
+            (NP (NN oligonucleotide) (NNS=H probes))
+            (PP (IN=H from)
+            (NP
+            (NP=H (DT the) (NN=H beta-casein))
+            (CC and)
+            (NP
+            (NP=H (NN IRF-1) (NN gene) (NNS=H promoters))
+            (CC and)
+            (NP (DT the) (NN ISRE) (NN=H probe)))))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H detect)
+            (NP
+            (NP=H (NN STAT) (NNS=H proteins))
+            (PP (IN=H in)
+            (NP (JJ nuclear) (NNS=H extracts))))
+            (PP (IN=H from)
+            (NP
+            (NP=H (JJ acute) (NN leukemia) (NNS=H cells))
+            (PP (IN=H in)
+            (NP (NN bandshift) (NNS=H assays)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="673-944" id="S6">
+        <text xml:space="preserve">Specific DNA protein complex formation was observed with the probes from the beta-casein and IRF-1 gene promoters, but not with the ISRE oligonucleotide probe, when cell extracts from acute lymphoblastic leukemia (ALL) and acute myeloid leukemia (AML) were investigated. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="673-681" text="Specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="682-685" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="686-693" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="694-701" text="complex" lemma="complex"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="702-711" text="formation" lemma="formation"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="712-715" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="716-724" text="observed" lemma="observe"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="725-729" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="730-733" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="734-740" text="probes" lemma="probe"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="741-745" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="746-749" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="750-761" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="762-765" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="766-771" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="772-776" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="777-786" text="promoters" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="786-787" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="788-791" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_20" POS="RB" charOffset="792-795" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="796-800" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="801-804" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="805-809" text="ISRE" lemma="isre"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="810-825" text="oligonucleotide" lemma="oligonucleotide"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="826-831" text="probe" lemma="probe"/>
+            <token xml:space="preserve" id="stt_26" POS="," charOffset="831-832" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_27" POS="WRB" charOffset="833-837" text="when" lemma="when"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="838-842" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="843-851" text="extracts" lemma="extract"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="852-856" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="857-862" text="acute" lemma="acute"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="863-876" text="lymphoblastic" lemma="lymphoblastic"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="877-885" text="leukemia" lemma="leukemia"/>
+            <token xml:space="preserve" id="stt_34" POS="-LRB-" charOffset="886-887" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="887-890" text="ALL" lemma="all"/>
+            <token xml:space="preserve" id="stt_36" POS="-RRB-" charOffset="890-891" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_37" POS="CC" charOffset="892-895" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_38" POS="JJ" charOffset="896-901" text="acute" lemma="acute"/>
+            <token xml:space="preserve" id="stt_39" POS="JJ" charOffset="902-909" text="myeloid" lemma="myeloid"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="910-918" text="leukemia" lemma="leukemia"/>
+            <token xml:space="preserve" id="stt_41" POS="-LRB-" charOffset="919-920" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="920-923" text="AML" lemma="aml"/>
+            <token xml:space="preserve" id="stt_43" POS="-RRB-" charOffset="923-924" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_44" POS="VBD" charOffset="925-929" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_45" POS="VBN" charOffset="930-942" text="investigated" lemma="investigate"/>
+            <token xml:space="preserve" id="stt_46" POS="." charOffset="942-943" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Specific) (NN DNA) (NN=H protein))
+            (NP (NN complex) (NN=H formation)))
+            (VP=H (VBD=H was)
+            (VP (VBN=H observed)
+            (PP (IN=H with)
+            (NP (DT the) (NNS=H probes)))
+            (PP
+            (PP=H (IN=H from)
+            (NP (DT the) (NN beta-casein)
+            (CC and)
+            (NN IRF-1) (NN gene) (NNS=H promoters)))
+            (, ,)
+            (CONJP (CC=H but)
+            (RB not))
+            (PP (IN=H with)
+            (NP (DT the) (NN ISRE) (NN oligonucleotide) (NN=H probe)))
+            (, ,)
+            (SBAR
+            (WHADVP=H (WRB=H when))
+            (S
+            (NP
+            (NP=H (NN cell) (NNS=H extracts))
+            (PP (IN=H from)
+            (NP
+            (NP=H (JJ acute) (JJ lymphoblastic) (NN=H leukemia))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H ALL))
+            (-RRB- -RRB-))
+            (CC and)
+            (NP (JJ acute) (JJ myeloid) (NN=H leukemia))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H AML))
+            (-RRB- -RRB-)))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H investigated))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="944-1049" id="S7">
+        <text xml:space="preserve">We used nonradioactive oligonucleotides as competitors to show the specificity of the complex formation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="944-946" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="947-951" text="used" lemma="use"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="952-966" text="nonradioactive" lemma="nonradioactive"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="967-983" text="oligonucleotides" lemma="oligonucleotide"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="984-986" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="987-998" text="competitors" lemma="competitor"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="999-1001" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="VB" charOffset="1002-1006" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="1007-1010" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1011-1022" text="specificity" lemma="specificity"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1023-1025" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1026-1029" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1030-1037" text="complex" lemma="complex"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1038-1047" text="formation" lemma="formation"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="1047-1048" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H used)
+            (NP (JJ nonradioactive) (NNS=H oligonucleotides))
+            (PP (IN=H as)
+            (NP (NNS=H competitors)))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H show)
+            (NP
+            (NP=H (DT the) (NN=H specificity))
+            (PP (IN=H of)
+            (NP (DT the) (NN complex) (NN=H formation))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1049-1152" id="S8">
+        <text xml:space="preserve">Specific antibodies directed against the individual STAT proteins were used in supershift experiments. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1049-1057" text="Specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1058-1068" text="antibodies" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="1069-1077" text="directed" lemma="direct"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1078-1085" text="against" lemma="against"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="1086-1089" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1090-1100" text="individual" lemma="individual"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1101-1105" text="STAT" lemma="stat"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1106-1114" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_9" POS="VBD" charOffset="1115-1119" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="1120-1124" text="used" lemma="use"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1125-1127" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1128-1138" text="supershift" lemma="supershift"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="1139-1150" text="experiments" lemma="experiment"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="1150-1151" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Specific) (NNS=H antibodies))
+            (VP (VBN=H directed)
+            (PP (IN=H against)
+            (NP (DT the) (JJ individual) (NN STAT) (NNS=H proteins)))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H used)
+            (PP (IN=H in)
+            (NP (NN supershift) (NNS=H experiments)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1152-1301" id="S9">
+        <text xml:space="preserve">STAT5- and STAT1-related factors were detected in ALL and STAT1-, STAT3-, and STAT5-related proteins were present in nuclear cell extracts from AML. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1152-1157" text="STAT5" lemma="stat5"/>
+            <token xml:space="preserve" id="stt_2" POS=":" charOffset="1157-1158" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="1159-1162" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1163-1176" text="STAT1-related" lemma="stat1-related"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="1177-1184" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="1185-1189" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="1190-1198" text="detected" lemma="detect"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1199-1201" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1202-1205" text="ALL" lemma="all"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="1206-1209" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1210-1215" text="STAT1" lemma="stat1"/>
+            <token xml:space="preserve" id="stt_12" POS=":" charOffset="1215-1216" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="1216-1217" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1218-1223" text="STAT3" lemma="stat3"/>
+            <token xml:space="preserve" id="stt_15" POS=":" charOffset="1223-1224" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="1224-1225" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="1226-1229" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1230-1243" text="STAT5-related" lemma="stat5-related"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="1244-1252" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_20" POS="VBD" charOffset="1253-1257" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="1258-1265" text="present" lemma="present"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1266-1268" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="1269-1276" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1277-1281" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="1282-1290" text="extracts" lemma="extract"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="1291-1295" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1296-1299" text="AML" lemma="aml"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="1299-1300" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP
+            (NP=H (NN=H STAT5))
+            (: -)
+            (CC and)
+            (NP (JJ STAT1-related) (NNS=H factors)))
+            (VP=H (VBD=H were)
+            (VP (VBN=H detected)
+            (PP (IN=H in)
+            (NP (NN=H ALL)
+            (CC and)
+            (NN STAT1)))
+            (PRN (: -)
+            (FRAG=H (, ,)
+            (NP=H (NN=H STAT3)))
+            (: -)))))
+            (, ,)
+            (CC and)
+            (S
+            (NP (JJ STAT5-related) (NNS=H proteins))
+            (VP=H (VBD=H were)
+            (ADJP (JJ=H present)
+            (PP (IN=H in)
+            (NP (JJ nuclear) (NN cell) (NNS=H extracts))))
+            (PP (IN=H from)
+            (NP (NN=H AML)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1301-1462" id="S10">
+        <text xml:space="preserve">Since the cells were not treated with cytokines before the nuclear proteins were extracted, we conclude that these factors are constitutively activated in vivo. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1301-1306" text="Since" lemma="since"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="1307-1310" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="1311-1316" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="1317-1321" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="1322-1325" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="1326-1333" text="treated" lemma="treat"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1334-1338" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1339-1348" text="cytokines" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1349-1355" text="before" lemma="before"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="1356-1359" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1360-1367" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="1368-1376" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="1377-1381" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="1382-1391" text="extracted" lemma="extract"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="1391-1392" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="PRP" charOffset="1393-1395" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_17" POS="VBP" charOffset="1396-1404" text="conclude" lemma="conclude"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1405-1409" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="1410-1415" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="1416-1423" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_21" POS="VBP" charOffset="1424-1427" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_22" POS="RB" charOffset="1428-1442" text="constitutively" lemma="constitutively"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="1443-1452" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_24" POS="FW" charOffset="1453-1455" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_25" POS="FW" charOffset="1456-1460" text="vivo" lemma="vivo"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="1460-1461" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H Since)
+            (S
+            (NP (DT the) (NNS=H cells))
+            (VP=H (VBD=H were) (RB not)
+            (VP (VBN=H treated)
+            (PP (IN=H with)
+            (NP (NNS=H cytokines)))
+            (SBAR (IN=H before)
+            (S
+            (NP (DT the) (JJ nuclear) (NNS=H proteins))
+            (VP=H (VBD=H were)
+            (VP (VBN=H extracted)))))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H conclude)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT these) (NNS=H factors))
+            (VP=H (VBP=H are)
+            (ADVP (RB=H constitutively))
+            (VP (VBN=H activated)
+            (ADVP (FW in) (FW=H vivo)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1462-1569" id="S11">
+        <text xml:space="preserve">It is likely that the constitutive activation of STAT proteins is a part of the events of leukemogenesis. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="1462-1464" text="It" lemma="it"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="1465-1467" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="1468-1474" text="likely" lemma="likely"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1475-1479" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="1480-1483" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1484-1496" text="constitutive" lemma="constitutive"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1497-1507" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1508-1510" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1511-1515" text="STAT" lemma="stat"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1516-1524" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="1525-1527" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1528-1529" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1530-1534" text="part" lemma="part"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1535-1537" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="1538-1541" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="1542-1548" text="events" lemma="event"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1549-1551" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1552-1566" text="leukemogenesis" lemma="leukemogenesis"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="1566-1567" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H It))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H likely))
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (JJ constitutive) (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN STAT) (NNS=H proteins))))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (NN=H part))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NNS=H events))
+            (PP (IN=H of)
+            (NP (NN=H leukemogenesis))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T10" type="ZeroArticleNP" charOffset="1152-1158" headOffset="1152-1157" text="STAT5-"/>
+    <Term xml:space="preserve" id="T11" type="DemonstrativeNP" charOffset="1410-1423" headOffset="1416-1423" text="these factors"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T11"/>
+        <Antecedent idref="T10"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="526-537" headOffset="526-537" text="beta-casein"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="542-547" headOffset="542-547" text="IRF-1"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="750-761" headOffset="750-761" text="beta-casein"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="766-771" headOffset="766-771" text="IRF-1"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="1152-1157" headOffset="1152-1157" text="STAT5"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="1163-1168" headOffset="1163-1168" text="STAT1"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="1210-1215" headOffset="1210-1215" text="STAT1"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="1218-1223" headOffset="1218-1223" text="STAT3"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="1230-1235" headOffset="1230-1235" text="STAT5"/>
+</document>

@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9888865">
+    <text xml:space="preserve">Tissue factor expression of human monocytes is suppressed by lysophosphatidylcholine. 
+The expression of tissue factor (TF), the principal initiator of coagulation, is increased during inflammation and atherosclerosis. Both conditions are promoted by lysophosphatidylcholine (lysoPC). We observed in the present study that lysoPC (1 to 10 micromol/L) dose-dependently reduced TF activity in human monocytes, as elicited by lipopolysaccharide (LPS). Lysophosphatidylethanolamine (lysoPE) and other lysophospholipids did not affect LPS-induced TF activity of human monocytes. TF antigen expression as elicited by LPS was also lowered by lysoPC. Phospholipid analyses indicated a selective increase in the lysoPC content of the monocytes after preincubation with the lysophospholipid. LysoPC inhibited the TF activity of Mono Mac-6 cells to a similar extent as in the monocytes. LPS binding to plasma membrane receptors and internalization of LPS into monocytes were not affected by lysoPC. In contrast, LPS-mediated nuclear binding of nuclear factor-kappaB/Rel to a TF-specific kappaB site was inhibited by lysoPC. Induction of TF mRNA expression by LPS tended to be partially reduced by the lysophospholipid. Preincubation with lysoPC increased monocytic cAMP levels. Inhibition of adenylyl cyclase by pretreatment with 2'-deoxy-3'-adenosine monophosphate partially reversed the inhibition of TF activity promoted by lysoPC. In conclusion, lysoPC markedly decreases LPS-mediated TF expression of human monocytes, the effect probably being mediated by both transcriptional and posttranscriptional mechanisms. LysoPC may thus attenuate activation of coagulation during inflammation and atherosclerosis. 
+</text>
+    <sentence charOffset="0-87" id="S1">
+        <text xml:space="preserve">Tissue factor expression of human monocytes is suppressed by lysophosphatidylcholine. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-6" text="Tissue" lemma="tissue"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="7-13" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="14-24" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="25-27" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="28-33" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="34-43" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="44-46" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="47-57" text="suppressed" lemma="suppress"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="58-60" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="61-84" text="lysophosphatidylcholine" lemma="lysophosphatidylcholine"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="84-85" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN Tissue) (NN factor) (NN=H expression))
+            (PP (IN=H of)
+            (NP (JJ human) (NNS=H monocytes))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H suppressed)
+            (PP (IN=H by)
+            (NP (NN=H lysophosphatidylcholine)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="87-219" id="S2">
+        <text xml:space="preserve">The expression of tissue factor (TF), the principal initiator of coagulation, is increased during inflammation and atherosclerosis. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="87-90" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="91-101" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="102-104" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="105-111" text="tissue" lemma="tissue"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="112-118" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_6" POS="-LRB-" charOffset="119-120" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="120-122" text="TF" lemma="tf"/>
+            <token xml:space="preserve" id="stt_8" POS="-RRB-" charOffset="122-123" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="123-124" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="125-128" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="129-138" text="principal" lemma="principal"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="139-148" text="initiator" lemma="initiator"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="149-151" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="152-163" text="coagulation" lemma="coagulation"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="163-164" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="165-167" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="168-177" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="178-184" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="185-197" text="inflammation" lemma="inflammation"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="198-201" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="202-217" text="atherosclerosis" lemma="atherosclerosis"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="217-218" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (DT The) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN tissue) (NN=H factor))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H TF))
+            (-RRB- -RRB-)))))
+            (, ,)
+            (NP
+            (NP=H (DT the) (JJ principal) (NN=H initiator))
+            (PP (IN=H of)
+            (NP (NN=H coagulation))))
+            (, ,))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H increased)
+            (PP (IN=H during)
+            (NP (NN=H inflammation)
+            (CC and)
+            (NN atherosclerosis)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="219-285" id="S3">
+        <text xml:space="preserve">Both conditions are promoted by lysophosphatidylcholine (lysoPC). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="219-223" text="Both" lemma="both"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="224-234" text="conditions" lemma="condition"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="235-238" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="239-247" text="promoted" lemma="promote"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="248-250" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="251-274" text="lysophosphatidylcholine" lemma="lysophosphatidylcholine"/>
+            <token xml:space="preserve" id="stt_7" POS="-LRB-" charOffset="275-276" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="276-282" text="lysoPC" lemma="lysopc"/>
+            <token xml:space="preserve" id="stt_9" POS="-RRB-" charOffset="282-283" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="283-284" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT Both) (NNS=H conditions))
+            (VP=H (VBP=H are)
+            (VP (VBN=H promoted)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H lysophosphatidylcholine))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H lysoPC))
+            (-RRB- -RRB-))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="285-449" id="S4">
+        <text xml:space="preserve">We observed in the present study that lysoPC (1 to 10 micromol/L) dose-dependently reduced TF activity in human monocytes, as elicited by lipopolysaccharide (LPS). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="285-287" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="288-296" text="observed" lemma="observe"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="297-299" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="300-303" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="304-311" text="present" lemma="present"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="312-317" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_7" POS="WDT" charOffset="318-322" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="323-329" text="lysoPC" lemma="lysopc"/>
+            <token xml:space="preserve" id="stt_9" POS="-LRB-" charOffset="330-331" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_10" POS="CD" charOffset="331-332" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_11" POS="TO" charOffset="333-335" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_12" POS="CD" charOffset="336-338" text="10" lemma="10"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="339-349" text="micromol/L" lemma="micromol/l"/>
+            <token xml:space="preserve" id="stt_14" POS="-RRB-" charOffset="349-350" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_15" POS="RB" charOffset="351-367" text="dose-dependently" lemma="dose-dependently"/>
+            <token xml:space="preserve" id="stt_16" POS="VBD" charOffset="368-375" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="376-378" text="TF" lemma="tf"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="379-387" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="388-390" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="391-396" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="397-406" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="406-407" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="408-410" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_24" POS="VBN" charOffset="411-419" text="elicited" lemma="elicit"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="420-422" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="423-441" text="lipopolysaccharide" lemma="lipopolysaccharide"/>
+            <token xml:space="preserve" id="stt_27" POS="-LRB-" charOffset="442-443" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="443-446" text="LPS" lemma="lps"/>
+            <token xml:space="preserve" id="stt_29" POS="-RRB-" charOffset="446-447" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_30" POS="." charOffset="447-448" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H observed)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (JJ present) (NN=H study))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (NP
+            (NP=H (NN=H lysoPC))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (CD=H 1))
+            (PP (TO=H to)
+            (NP (CD 10) (NN=H micromol/L))))
+            (-RRB- -RRB-)))
+            (ADVP (RB=H dose-dependently))
+            (VP=H (VBD=H reduced)
+            (NP (NN TF) (NN=H activity))
+            (PP (IN=H in)
+            (NP (JJ human) (NNS=H monocytes)))
+            (, ,)
+            (SBAR (IN=H as)
+            (S
+            (VP=H (VBN=H elicited)
+            (PP (IN=H by)
+            (NP (NN=H lipopolysaccharide)))))))))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H LPS))
+            (-RRB- -RRB-)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="449-574" id="S5">
+        <text xml:space="preserve">Lysophosphatidylethanolamine (lysoPE) and other lysophospholipids did not affect LPS-induced TF activity of human monocytes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="449-477" text="Lysophosphatidylethanolamine" lemma="lysophosphatidylethanolamine"/>
+            <token xml:space="preserve" id="stt_2" POS="-LRB-" charOffset="478-479" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="479-485" text="lysoPE" lemma="lysope"/>
+            <token xml:space="preserve" id="stt_4" POS="-RRB-" charOffset="485-486" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="487-490" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="491-496" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="497-514" text="lysophospholipids" lemma="lysophospholipid"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="515-518" text="did" lemma="do"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="519-522" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_10" POS="VB" charOffset="523-529" text="affect" lemma="affect"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="530-541" text="LPS-induced" lemma="lps-induced"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="542-544" text="TF" lemma="tf"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="545-553" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="554-556" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="557-562" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="563-572" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="572-573" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (NN=H Lysophosphatidylethanolamine))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H lysoPE))
+            (-RRB- -RRB-)))
+            (CC and)
+            (NP (JJ other) (NNS=H lysophospholipids)))
+            (VP=H (VBD=H did) (RB not)
+            (VP (VB=H affect)
+            (NP
+            (NP=H (JJ LPS-induced) (NN TF) (NN=H activity))
+            (PP (IN=H of)
+            (NP (JJ human) (NNS=H monocytes))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="574-643" id="S6">
+        <text xml:space="preserve">TF antigen expression as elicited by LPS was also lowered by lysoPC. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="574-576" text="TF" lemma="tf"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="577-584" text="antigen" lemma="antigen"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="585-595" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="596-598" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="599-607" text="elicited" lemma="elicit"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="608-610" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="611-614" text="LPS" lemma="lps"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="615-618" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="619-623" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="624-631" text="lowered" lemma="lower"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="632-634" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="635-641" text="lysoPC" lemma="lysopc"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="641-642" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN TF) (NN antigen) (NN=H expression))
+            (SBAR (IN=H as)
+            (S
+            (VP=H (VBN=H elicited)
+            (PP (IN=H by)
+            (NP (NN=H LPS)))))))
+            (VP=H (VBD=H was)
+            (ADVP (RB=H also))
+            (VP (VBN=H lowered)
+            (PP (IN=H by)
+            (NP (NN=H lysoPC)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="643-782" id="S7">
+        <text xml:space="preserve">Phospholipid analyses indicated a selective increase in the lysoPC content of the monocytes after preincubation with the lysophospholipid. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="643-655" text="Phospholipid" lemma="phospholipid"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="656-664" text="analyses" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="665-674" text="indicated" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="675-676" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="677-686" text="selective" lemma="selective"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="687-695" text="increase" lemma="increase"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="696-698" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="699-702" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="703-709" text="lysoPC" lemma="lysopc"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="710-717" text="content" lemma="content"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="718-720" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="721-724" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="725-734" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="735-740" text="after" lemma="after"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="741-754" text="preincubation" lemma="preincubation"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="755-759" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="760-763" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="764-780" text="lysophospholipid" lemma="lysophospholipid"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="780-781" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Phospholipid) (NNS=H analyses))
+            (VP=H (VBD=H indicated)
+            (NP (DT a) (JJ selective) (NN=H increase))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN lysoPC) (NN=H content))
+            (PP (IN=H of)
+            (NP (DT the) (NNS=H monocytes)))))
+            (PP (IN=H after)
+            (NP
+            (NP=H (NN=H preincubation))
+            (PP (IN=H with)
+            (NP (DT the) (NN=H lysophospholipid))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="782-876" id="S8">
+        <text xml:space="preserve">LysoPC inhibited the TF activity of Mono Mac-6 cells to a similar extent as in the monocytes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="782-788" text="LysoPC" lemma="lysopc"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="789-798" text="inhibited" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="799-802" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="803-805" text="TF" lemma="tf"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="806-814" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="815-817" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="818-822" text="Mono" lemma="mono"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="823-828" text="Mac-6" lemma="mac-6"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="829-834" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_10" POS="TO" charOffset="835-837" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="838-839" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="840-847" text="similar" lemma="similar"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="848-854" text="extent" lemma="extent"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="855-857" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="858-860" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="861-864" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="865-874" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="874-875" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H LysoPC))
+            (VP=H (VBD=H inhibited)
+            (NP
+            (NP=H (DT the) (NN TF) (NN=H activity))
+            (PP (IN=H of)
+            (NP (NN Mono) (NN Mac-6) (NNS=H cells))))
+            (PP (TO=H to)
+            (NP (DT a) (JJ similar) (NN=H extent)))
+            (PP (IN=H as)
+            (PP (IN=H in)
+            (NP (DT the) (NNS=H monocytes)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="876-988" id="S9">
+        <text xml:space="preserve">LPS binding to plasma membrane receptors and internalization of LPS into monocytes were not affected by lysoPC. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="876-879" text="LPS" lemma="lps"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="880-887" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="888-890" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="891-897" text="plasma" lemma="plasma"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="898-906" text="membrane" lemma="membrane"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="907-916" text="receptors" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="917-920" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="921-936" text="internalization" lemma="internalization"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="937-939" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="940-943" text="LPS" lemma="lps"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="944-948" text="into" lemma="into"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="949-958" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="959-963" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="964-967" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="968-976" text="affected" lemma="affect"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="977-979" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="980-986" text="lysoPC" lemma="lysopc"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="986-987" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (NN LPS) (NN=H binding))
+            (PP (TO=H to)
+            (NP (NN plasma) (NN membrane) (NNS=H receptors))))
+            (CC and)
+            (NP
+            (NP=H (NN=H internalization))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H LPS))
+            (PP (IN=H into)
+            (NP (NNS=H monocytes)))))))
+            (VP=H (VBD=H were) (RB not)
+            (VP (VBN=H affected)
+            (PP (IN=H by)
+            (NP (NN=H lysoPC)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="988-1113" id="S10">
+        <text xml:space="preserve">In contrast, LPS-mediated nuclear binding of nuclear factor-kappaB/Rel to a TF-specific kappaB site was inhibited by lysoPC. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="988-990" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="991-999" text="contrast" lemma="contrast"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="999-1000" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1001-1013" text="LPS-mediated" lemma="lps-mediated"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1014-1021" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1022-1029" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1030-1032" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1033-1040" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1041-1058" text="factor-kappaB/Rel" lemma="factor-kappab/rel"/>
+            <token xml:space="preserve" id="stt_10" POS="TO" charOffset="1059-1061" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="1062-1063" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1064-1075" text="TF-specific" lemma="tf-specific"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1076-1082" text="kappaB" lemma="kappab"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1083-1087" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_15" POS="VBD" charOffset="1088-1091" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="1092-1101" text="inhibited" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1102-1104" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1105-1111" text="lysoPC" lemma="lysopc"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="1111-1112" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H contrast)))
+            (, ,)
+            (NP
+            (NP=H (JJ LPS-mediated) (JJ nuclear) (NN=H binding))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ nuclear) (NN=H factor-kappaB/Rel))
+            (PP (TO=H to)
+            (NP (DT a) (JJ TF-specific) (NN kappaB) (NN=H site))))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H inhibited)
+            (PP (IN=H by)
+            (NP (NN=H lysoPC)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1113-1208" id="S11">
+        <text xml:space="preserve">Induction of TF mRNA expression by LPS tended to be partially reduced by the lysophospholipid. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1113-1122" text="Induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1123-1125" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1126-1128" text="TF" lemma="tf"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1129-1133" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1134-1144" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1145-1147" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1148-1151" text="LPS" lemma="lps"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="1152-1158" text="tended" lemma="tend"/>
+            <token xml:space="preserve" id="stt_9" POS="TO" charOffset="1159-1161" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_10" POS="VB" charOffset="1162-1164" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="RB" charOffset="1165-1174" text="partially" lemma="partially"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="1175-1182" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1183-1185" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="1186-1189" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1190-1206" text="lysophospholipid" lemma="lysophospholipid"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="1206-1207" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN TF) (NN mRNA) (NN=H expression))
+            (PP (IN=H by)
+            (NP (NN=H LPS))))))
+            (VP=H (VBD=H tended)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (VP
+            (ADVP (RB=H partially))
+            (VBN=H reduced)
+            (PP (IN=H by)
+            (NP (DT the) (NN=H lysophospholipid))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1208-1267" id="S12">
+        <text xml:space="preserve">Preincubation with lysoPC increased monocytic cAMP levels. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1208-1221" text="Preincubation" lemma="preincubation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1222-1226" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1227-1233" text="lysoPC" lemma="lysopc"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="1234-1243" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1244-1253" text="monocytic" lemma="monocytic"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1254-1258" text="cAMP" lemma="camp"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1259-1265" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_8" POS="." charOffset="1265-1266" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Preincubation))
+            (PP (IN=H with)
+            (NP (NN=H lysoPC))))
+            (VP=H (VBD=H increased)
+            (NP (JJ monocytic) (NN cAMP) (NNS=H levels)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1267-1424" id="S13">
+        <text xml:space="preserve">Inhibition of adenylyl cyclase by pretreatment with 2'-deoxy-3'-adenosine monophosphate partially reversed the inhibition of TF activity promoted by lysoPC. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1267-1277" text="Inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1278-1280" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="1281-1289" text="adenylyl" lemma="adenylyl"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1290-1297" text="cyclase" lemma="cyclase"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1298-1300" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1301-1313" text="pretreatment" lemma="pretreatment"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1314-1318" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_8" POS="CD" charOffset="1319-1320" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_9" POS="''" charOffset="1320-1321" text="'" lemma="'"/>
+            <token xml:space="preserve" id="stt_10" POS=":" charOffset="1321-1322" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1322-1329" text="deoxy-3" lemma="deoxy-3"/>
+            <token xml:space="preserve" id="stt_12" POS="''" charOffset="1329-1330" text="'" lemma="'"/>
+            <token xml:space="preserve" id="stt_13" POS=":" charOffset="1330-1331" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1331-1340" text="adenosine" lemma="adenosine"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1341-1354" text="monophosphate" lemma="monophosphate"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="1355-1364" text="partially" lemma="partially"/>
+            <token xml:space="preserve" id="stt_17" POS="VBD" charOffset="1365-1373" text="reversed" lemma="reverse"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="1374-1377" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1378-1388" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1389-1391" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1392-1394" text="TF" lemma="tf"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1395-1403" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="1404-1412" text="promoted" lemma="promote"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="1413-1415" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1416-1422" text="lysoPC" lemma="lysopc"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="1422-1423" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (FRAG=H
+            (NP
+            (NP=H (NN=H Inhibition))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ adenylyl) (NN=H cyclase))
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H pretreatment))
+            (PP (IN=H with)
+            (NP
+            (NP=H (CD=H 2))
+            ('' ') (: -)
+            (NP (NN=H deoxy-3))))))
+            ('' '))))
+            (: -)
+            (S=H
+            (NP (NN adenosine) (NN=H monophosphate))
+            (ADVP (RB=H partially))
+            (VP=H (VBD=H reversed)
+            (NP
+            (NP=H (DT the) (NN=H inhibition))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN TF) (NN=H activity))
+            (VP (VBN=H promoted)
+            (PP (IN=H by)
+            (NP (NN=H lysoPC)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1424-1607" id="S14">
+        <text xml:space="preserve">In conclusion, lysoPC markedly decreases LPS-mediated TF expression of human monocytes, the effect probably being mediated by both transcriptional and posttranscriptional mechanisms. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1424-1426" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1427-1437" text="conclusion" lemma="conclusion"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="1437-1438" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1439-1445" text="lysoPC" lemma="lysopc"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="1446-1454" text="markedly" lemma="markedly"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="1455-1464" text="decreases" lemma="decrease"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1465-1477" text="LPS-mediated" lemma="lps-mediated"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1478-1480" text="TF" lemma="tf"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1481-1491" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1492-1494" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1495-1500" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="1501-1510" text="monocytes" lemma="monocyte"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="1510-1511" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="1512-1515" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1516-1522" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="1523-1531" text="probably" lemma="probably"/>
+            <token xml:space="preserve" id="stt_17" POS="VBG" charOffset="1532-1537" text="being" lemma="be"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="1538-1546" text="mediated" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1547-1549" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="1550-1554" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="1555-1570" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_22" POS="CC" charOffset="1571-1574" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="1575-1594" text="posttranscriptional" lemma="posttranscriptional"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="1595-1605" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="1605-1606" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H conclusion)))
+            (, ,)
+            (NP (NN=H lysoPC))
+            (ADVP (RB=H markedly))
+            (VP=H (VBZ=H decreases)
+            (NP
+            (NP=H (JJ LPS-mediated) (NN TF) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ human) (NNS=H monocytes))
+            (, ,)
+            (NP
+            (NP=H (DT the) (NN=H effect))
+            (VP
+            (ADVP (RB=H probably))
+            (VBG=H being)
+            (VP (VBN=H mediated)
+            (PP (IN=H by)
+            (NP
+            (ADJP (CC both)
+            (JJ=H transcriptional)
+            (CC and)
+            (JJ posttranscriptional))
+            (NNS=H mechanisms))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1607-1701" id="S15">
+        <text xml:space="preserve">LysoPC may thus attenuate activation of coagulation during inflammation and atherosclerosis. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1607-1613" text="LysoPC" lemma="lysopc"/>
+            <token xml:space="preserve" id="stt_2" POS="MD" charOffset="1614-1617" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="1618-1622" text="thus" lemma="thus"/>
+            <token xml:space="preserve" id="stt_4" POS="VB" charOffset="1623-1632" text="attenuate" lemma="attenuate"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1633-1643" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1644-1646" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1647-1658" text="coagulation" lemma="coagulation"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1659-1665" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1666-1678" text="inflammation" lemma="inflammation"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="1679-1682" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1683-1698" text="atherosclerosis" lemma="atherosclerosis"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="1698-1699" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H LysoPC))
+            (VP=H (MD=H may)
+            (ADVP (RB=H thus))
+            (VP (VB=H attenuate)
+            (NP
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN=H coagulation))))
+            (PP (IN=H during)
+            (NP (NN=H inflammation)
+            (CC and)
+            (NN atherosclerosis)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="0-13" headOffset="7-13" text="Tissue factor"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="105-118" headOffset="112-118" text="tissue factor"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="120-122" headOffset="120-122" text="TF"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="376-378" headOffset="376-378" text="TF"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="542-544" headOffset="542-544" text="TF"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="574-576" headOffset="574-576" text="TF"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="803-805" headOffset="803-805" text="TF"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="1064-1066" headOffset="1064-1066" text="TF"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="1126-1128" headOffset="1126-1128" text="TF"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="1392-1394" headOffset="1392-1394" text="TF"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="1478-1480" headOffset="1478-1480" text="TF"/>
+</document>

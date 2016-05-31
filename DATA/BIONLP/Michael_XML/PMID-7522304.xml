@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-7522304">
+    <text xml:space="preserve">Calcium signalling in T cells stimulated by a cyclophilin B-binding protein. 
+The immunosuppressant drug cyclosporin A blocks a calcium-dependent signal from the T-cell receptor (TCR) that normally leads to T-cell activation. When bound to cyclophilin, cyclosporin A binds and inactivates the key signalling intermediate calcineurin. To identify potential cellular homologues of cyclosporin A that might regulate calcium signalling, we have cloned human genes encoding cyclophilin B-binding-proteins using the yeast two-hybrid system. One gene product, when overexpressed in Jurkat T cells, specifically induced transcription from the interleukin-2 enhancer, by activating the T-cell-specific transcription factors NF-AT and NF-IL2A. This protein, termed calcium-signal modulating cyclophilin ligand (CAML), acts downstream of the TCR and upstream of calcineurin by causing an influx of calcium. CAML appears to be a new participant in the calcium-signal transduction pathway, implicating cyclophilin B in calcium signalling, even in the absence of cyclosporin. 
+</text>
+    <sentence charOffset="0-78" id="S1">
+        <text xml:space="preserve">Calcium signalling in T cells stimulated by a cyclophilin B-binding protein. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-7" text="Calcium" lemma="calcium"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="8-18" text="signalling" lemma="signalling"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="19-21" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="22-23" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="24-29" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="30-40" text="stimulated" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="41-43" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="44-45" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="46-57" text="cyclophilin" lemma="cyclophilin"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="58-67" text="B-binding" lemma="b-binding"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="68-75" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="75-76" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN Calcium) (NN=H signalling))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells))))
+            (VP=H (VBN=H stimulated)
+            (PP (IN=H by)
+            (NP (DT a) (NN cyclophilin) (JJ B-binding) (NN=H protein))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="78-226" id="S2">
+        <text xml:space="preserve">The immunosuppressant drug cyclosporin A blocks a calcium-dependent signal from the T-cell receptor (TCR) that normally leads to T-cell activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="78-81" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="82-99" text="immunosuppressant" lemma="immunosuppressant"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="100-104" text="drug" lemma="drug"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="105-116" text="cyclosporin" lemma="cyclosporin"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="117-118" text="A" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="119-125" text="blocks" lemma="block"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="126-127" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="128-145" text="calcium-dependent" lemma="calcium-dependent"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="146-152" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="153-157" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="158-161" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="162-168" text="T-cell" lemma="t-cell"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="169-177" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_14" POS="-LRB-" charOffset="178-179" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="179-182" text="TCR" lemma="tcr"/>
+            <token xml:space="preserve" id="stt_16" POS="-RRB-" charOffset="182-183" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_17" POS="WDT" charOffset="184-188" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_18" POS="RB" charOffset="189-197" text="normally" lemma="normally"/>
+            <token xml:space="preserve" id="stt_19" POS="VBZ" charOffset="198-203" text="leads" lemma="lead"/>
+            <token xml:space="preserve" id="stt_20" POS="TO" charOffset="204-206" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="207-213" text="T-cell" lemma="t-cell"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="214-224" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="224-225" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (JJ immunosuppressant) (NN drug) (NN cyclosporin) (NN=H A))
+            (VP=H (VBZ=H blocks)
+            (NP (DT a) (JJ calcium-dependent) (NN=H signal))
+            (PP (IN=H from)
+            (NP
+            (NP=H (DT the) (NN T-cell) (NN=H receptor))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H TCR))
+            (-RRB- -RRB-))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (ADVP (RB=H normally))
+            (VP=H (VBZ=H leads)
+            (PP (TO=H to)
+            (NP (NN T-cell) (NN=H activation)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="226-334" id="S3">
+        <text xml:space="preserve">When bound to cyclophilin, cyclosporin A binds and inactivates the key signalling intermediate calcineurin. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="WRB" charOffset="226-230" text="When" lemma="when"/>
+            <token xml:space="preserve" id="stt_2" POS="VBN" charOffset="231-236" text="bound" lemma="bind"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="237-239" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="240-251" text="cyclophilin" lemma="cyclophilin"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="251-252" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="253-264" text="cyclosporin" lemma="cyclosporin"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="265-266" text="A" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="267-272" text="binds" lemma="bind"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="273-276" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="277-288" text="inactivates" lemma="inactivate"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="289-292" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="293-296" text="key" lemma="key"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="297-307" text="signalling" lemma="signalling"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="308-320" text="intermediate" lemma="intermediate"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="321-332" text="calcineurin" lemma="calcineurin"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="332-333" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR
+            (WHADVP=H (WRB=H When))
+            (S
+            (VP=H (VBN=H bound)
+            (PP (TO=H to)
+            (NP (NN=H cyclophilin))))))
+            (, ,)
+            (NP (NN cyclosporin) (NN=H A))
+            (VP=H (VBZ=H binds)
+            (CC and)
+            (VBZ inactivates)
+            (NP (DT the) (JJ key) (NN signalling) (JJ intermediate) (NN=H calcineurin)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="334-535" id="S4">
+        <text xml:space="preserve">To identify potential cellular homologues of cyclosporin A that might regulate calcium signalling, we have cloned human genes encoding cyclophilin B-binding-proteins using the yeast two-hybrid system. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="334-336" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="VB" charOffset="337-345" text="identify" lemma="identify"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="346-355" text="potential" lemma="potential"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="356-364" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="365-375" text="homologues" lemma="homologue"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="376-378" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="379-390" text="cyclosporin" lemma="cyclosporin"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="391-392" text="A" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="WDT" charOffset="393-397" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_10" POS="MD" charOffset="398-403" text="might" lemma="might"/>
+            <token xml:space="preserve" id="stt_11" POS="VB" charOffset="404-412" text="regulate" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="413-420" text="calcium" lemma="calcium"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="421-431" text="signalling" lemma="signalling"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="431-432" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="PRP" charOffset="433-435" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_16" POS="VBP" charOffset="436-440" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="441-447" text="cloned" lemma="clone"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="448-453" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="454-459" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_20" POS="VBG" charOffset="460-468" text="encoding" lemma="encode"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="469-480" text="cyclophilin" lemma="cyclophilin"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="481-499" text="B-binding-proteins" lemma="b-binding-protein"/>
+            <token xml:space="preserve" id="stt_23" POS="VBG" charOffset="500-505" text="using" lemma="use"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="506-509" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="510-515" text="yeast" lemma="yeast"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="516-526" text="two-hybrid" lemma="two-hybrid"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="527-533" text="system" lemma="system"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="533-534" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP (VB=H identify)
+            (NP
+            (NP=H (JJ potential) (JJ cellular) (NNS=H homologues))
+            (PP (IN=H of)
+            (NP (NN cyclosporin) (NN=H A)))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (MD=H might)
+            (VP (VB=H regulate)
+            (NP (NN calcium) (NN=H signalling))))))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H have)
+            (VP (VBN=H cloned)
+            (NP (JJ human) (NNS=H genes))
+            (S
+            (VP=H (VBG=H encoding)
+            (NP (NN cyclophilin) (NNS=H B-binding-proteins))
+            (S
+            (VP=H (VBG=H using)
+            (NP (DT the) (NN yeast) (JJ two-hybrid) (NN=H system))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="535-734" id="S5">
+        <text xml:space="preserve">One gene product, when overexpressed in Jurkat T cells, specifically induced transcription from the interleukin-2 enhancer, by activating the T-cell-specific transcription factors NF-AT and NF-IL2A. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="CD" charOffset="535-538" text="One" lemma="one"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="539-543" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="544-551" text="product" lemma="product"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="551-552" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="WRB" charOffset="553-557" text="when" lemma="when"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="558-571" text="overexpressed" lemma="overexpress"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="572-574" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="575-581" text="Jurkat" lemma="jurkat"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="582-583" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="584-589" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="589-590" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="591-603" text="specifically" lemma="specifically"/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="604-611" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="612-625" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="626-630" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="631-634" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="635-648" text="interleukin-2" lemma="interleukin-2"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="649-657" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="657-658" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="659-661" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_21" POS="VBG" charOffset="662-672" text="activating" lemma="activate"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="673-676" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="677-692" text="T-cell-specific" lemma="t-cell-specific"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="693-706" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="707-714" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="715-720" text="NF-AT" lemma="nf-at"/>
+            <token xml:space="preserve" id="stt_27" POS="CC" charOffset="721-724" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="725-732" text="NF-IL2A" lemma="nf-il2a"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="732-733" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (CD One) (NN gene) (NN=H product))
+            (, ,)
+            (SBAR
+            (WHADVP=H (WRB=H when))
+            (S
+            (VP=H (VBN=H overexpressed)
+            (PP (IN=H in)
+            (NP (NN Jurkat) (NN T) (NNS=H cells))))))
+            (, ,))
+            (ADVP (RB=H specifically))
+            (VP=H (VBD=H induced)
+            (NP (NN=H transcription))
+            (PP (IN=H from)
+            (NP (DT the) (NN interleukin-2) (NN=H enhancer)))
+            (, ,)
+            (PP (IN=H by)
+            (S
+            (VP=H (VBG=H activating)
+            (NP
+            (NP=H (DT the)
+            (ADJP (JJ=H T-cell-specific))
+            (NN transcription) (NNS factors) (NN=H NF-AT))
+            (CC and)
+            (NP (NN=H NF-IL2A)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="734-896" id="S6">
+        <text xml:space="preserve">This protein, termed calcium-signal modulating cyclophilin ligand (CAML), acts downstream of the TCR and upstream of calcineurin by causing an influx of calcium. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="734-738" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="739-746" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="746-747" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="748-754" text="termed" lemma="term"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="755-769" text="calcium-signal" lemma="calcium-signal"/>
+            <token xml:space="preserve" id="stt_6" POS="VBG" charOffset="770-780" text="modulating" lemma="modulate"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="781-792" text="cyclophilin" lemma="cyclophilin"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="793-799" text="ligand" lemma="ligand"/>
+            <token xml:space="preserve" id="stt_9" POS="-LRB-" charOffset="800-801" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="801-805" text="CAML" lemma="caml"/>
+            <token xml:space="preserve" id="stt_11" POS="-RRB-" charOffset="805-806" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="806-807" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="808-812" text="acts" lemma="act"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="813-823" text="downstream" lemma="downstream"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="824-826" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="827-830" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="831-834" text="TCR" lemma="tcr"/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="835-838" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="839-847" text="upstream" lemma="upstream"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="848-850" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="851-862" text="calcineurin" lemma="calcineurin"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="863-865" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_23" POS="VBG" charOffset="866-873" text="causing" lemma="cause"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="874-876" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="877-883" text="influx" lemma="influx"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="884-886" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="887-894" text="calcium" lemma="calcium"/>
+            <token xml:space="preserve" id="stt_28" POS="." charOffset="894-895" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT This) (NN=H protein))
+            (, ,)
+            (VP (VBN=H termed)
+            (S
+            (NP=H
+            (NP=H (JJ calcium-signal) (VBG modulating) (NN cyclophilin) (NN=H ligand))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H CAML))
+            (-RRB- -RRB-)))))
+            (, ,))
+            (VP=H (VBZ=H acts)
+            (ADVP (RB=H downstream))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN=H TCR))
+            (CC and)
+            (NP
+            (NP=H (JJ=H upstream))
+            (PP (IN=H of)
+            (NP (NN=H calcineurin))))))
+            (PP (IN=H by)
+            (S
+            (VP=H (VBG=H causing)
+            (NP
+            (NP=H (DT an) (NN=H influx))
+            (PP (IN=H of)
+            (NP (NN=H calcium))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="896-1063" id="S7">
+        <text xml:space="preserve">CAML appears to be a new participant in the calcium-signal transduction pathway, implicating cyclophilin B in calcium signalling, even in the absence of cyclosporin. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="896-900" text="CAML" lemma="caml"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="901-908" text="appears" lemma="appear"/>
+            <token xml:space="preserve" id="stt_3" POS="TO" charOffset="909-911" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_4" POS="VB" charOffset="912-914" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="915-916" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="917-920" text="new" lemma="new"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="921-932" text="participant" lemma="participant"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="933-935" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="936-939" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="940-954" text="calcium-signal" lemma="calcium-signal"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="955-967" text="transduction" lemma="transduction"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="968-975" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="975-976" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="VBG" charOffset="977-988" text="implicating" lemma="implicate"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="989-1000" text="cyclophilin" lemma="cyclophilin"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1001-1002" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1003-1005" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1006-1013" text="calcium" lemma="calcium"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1014-1024" text="signalling" lemma="signalling"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="1024-1025" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="RB" charOffset="1026-1030" text="even" lemma="even"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1031-1033" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="1034-1037" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1038-1045" text="absence" lemma="absence"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="1046-1048" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1049-1060" text="cyclosporin" lemma="cyclosporin"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="1060-1061" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H CAML))
+            (VP=H (VBZ=H appears)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (NP
+            (NP=H (DT a) (JJ new) (NN=H participant))
+            (PP (IN=H in)
+            (NP (DT the) (JJ calcium-signal) (NN transduction) (NN=H pathway)))))))
+            (, ,)
+            (S
+            (VP=H (VBG=H implicating)
+            (NP (NN cyclophilin) (NN=H B))
+            (PP
+            (PP=H (IN=H in)
+            (NP (NN calcium) (NN=H signalling)))
+            (, ,) (RB even)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H absence))
+            (PP (IN=H of)
+            (NP (NN=H cyclosporin)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T8" type="IndefiniteNP" charOffset="126-183" headOffset="146-152" text="a calcium-dependent signal from the T-cell receptor (TCR)"/>
+    <Term xml:space="preserve" id="T9" type="RelativePronoun" charOffset="184-188" headOffset="184-188" text="that"/>
+    <Term xml:space="preserve" id="T10" type="ZeroArticleNP" charOffset="346-392" headOffset="365-375" text="potential cellular homologues of cyclosporin A"/>
+    <Term xml:space="preserve" id="T11" type="RelativePronoun" charOffset="393-397" headOffset="393-397" text="that"/>
+    <Term xml:space="preserve" id="T12" type="DemonstrativeNP" charOffset="734-746" headOffset="739-746" text="This protein"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T9"/>
+        <Antecedent idref="T8"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T11"/>
+        <Antecedent idref="T10"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="46-59" headOffset="58-59" text="cyclophilin B"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="469-482" headOffset="481-482" text="cyclophilin B"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="635-648" headOffset="635-648" text="interleukin-2"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="755-799" headOffset="793-799" text="calcium-signal modulating cyclophilin ligand"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="801-805" headOffset="801-805" text="CAML"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="896-900" headOffset="896-900" text="CAML"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="989-1002" headOffset="1001-1002" text="cyclophilin B"/>
+</document>

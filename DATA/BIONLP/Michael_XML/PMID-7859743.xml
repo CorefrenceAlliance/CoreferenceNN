@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-7859743">
+    <text xml:space="preserve">HIV-1 Tat potentiates TNF-induced NF-kappa B activation and cytotoxicity by altering the cellular redox state. 
+This study demonstrates that human immunodeficiency virus type 1 (HIV-1) Tat protein amplifies the activity of tumor necrosis factor (TNF), a cytokine that stimulates HIV-1 replication through activation of NF-kappa B. In HeLa cells stably transfected with the HIV-1 tat gene (HeLa-tat cells), expression of the Tat protein enhanced both TNF-induced activation of NF-kappa B and TNF-mediated cytotoxicity. A similar potentiation of TNF effects was observed in Jurkat T cells and HeLa cells treated with soluble Tat protein. TNF-mediated activation of NF-kappa B and cytotoxicity involves the intracellular formation of reactive oxygen intermediates. Therefore, Tat-mediated effects on the cellular redox state were analyzed. In both T cells and HeLa cells HIV-1 Tat suppressed the expression of Mn-dependent superoxide dismutase (Mn-SOD), a mitochondrial enzyme that is part of the cellular defense system against oxidative stress. Thus, Mn-SOD RNA protein levels and activity were markedly reduced in the presence of Tat. Decreased Mn-SOD expression was associated with decreased levels of glutathione and a lower ratio of reduced:oxidized glutathione. A truncated Tat protein (Tat1-72), known to transactivate the HIV-1 long terminal repeat (LTR), no longer affected Mn-SOD expression, the cellular redox state or TNF-mediated cytotoxicity. Thus, our experiments demonstrate that the C-terminal region of HIV-1 Tat is required to suppress Mn-SOD expression and to induce pro-oxidative conditions reflected by a drop in reduced glutathione (GSH) and the GSH:oxidized GSH (GSSG) ratio. (ABSTRACT TRUNCATED AT 250 WORDS) 
+</text>
+    <sentence charOffset="0-112" id="S1">
+        <text xml:space="preserve">HIV-1 Tat potentiates TNF-induced NF-kappa B activation and cytotoxicity by altering the cellular redox state. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-5" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="6-9" text="Tat" lemma="tat"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="10-21" text="potentiates" lemma="potentiate"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="22-33" text="TNF-induced" lemma="tnf-induced"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="34-42" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="43-44" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="45-55" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="56-59" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="60-72" text="cytotoxicity" lemma="cytotoxicity"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="73-75" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_11" POS="VBG" charOffset="76-84" text="altering" lemma="alter"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="85-88" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="89-97" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="98-103" text="redox" lemma="redox"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="104-109" text="state" lemma="state"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="109-110" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN HIV-1) (NN=H Tat))
+            (VP=H (VBZ=H potentiates)
+            (NP (JJ TNF-induced) (NN NF-kappa) (NN B) (NN=H activation)
+            (CC and)
+            (NN cytotoxicity))
+            (PP (IN=H by)
+            (S
+            (VP=H (VBG=H altering)
+            (NP (DT the) (JJ cellular) (NN redox) (NN=H state))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="112-331" id="S2">
+        <text xml:space="preserve">This study demonstrates that human immunodeficiency virus type 1 (HIV-1) Tat protein amplifies the activity of tumor necrosis factor (TNF), a cytokine that stimulates HIV-1 replication through activation of NF-kappa B. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="112-116" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="117-122" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="123-135" text="demonstrates" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="136-140" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="141-146" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="147-163" text="immunodeficiency" lemma="immunodeficiency"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="164-169" text="virus" lemma="virus"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="170-174" text="type" lemma="type"/>
+            <token xml:space="preserve" id="stt_9" POS="CD" charOffset="175-176" text="1" lemma="1"/>
+            <token xml:space="preserve" id="stt_10" POS="-LRB-" charOffset="177-178" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="178-183" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_12" POS="-RRB-" charOffset="183-184" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="185-188" text="Tat" lemma="tat"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="189-196" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="197-206" text="amplifies" lemma="amplify"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="207-210" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="211-219" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="220-222" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="223-228" text="tumor" lemma="tumor"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="229-237" text="necrosis" lemma="necrosis"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="238-244" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_22" POS="-LRB-" charOffset="245-246" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="246-249" text="TNF" lemma="tnf"/>
+            <token xml:space="preserve" id="stt_24" POS="-RRB-" charOffset="249-250" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_25" POS="," charOffset="250-251" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="252-253" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="254-262" text="cytokine" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_28" POS="WDT" charOffset="263-267" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_29" POS="VBZ" charOffset="268-278" text="stimulates" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="279-284" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="285-296" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_32" POS="IN" charOffset="297-304" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="305-315" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="316-318" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="319-327" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_36" POS="NNP" charOffset="328-330" text="B." lemma="B."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H study))
+            (VP=H (VBZ=H demonstrates)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (JJ human) (NN immunodeficiency) (NN virus) (NN type) (CD 1) (-LRB- -LRB-) (NN=H HIV-1) (-RRB- -RRB-))
+            (NP (NN Tat) (NN=H protein)))
+            (VP=H (VBZ=H amplifies)
+            (NP
+            (NP=H (DT the) (NN=H activity))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (NP=H (NN tumor) (NN necrosis) (NN=H factor))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H TNF))
+            (-RRB- -RRB-)))
+            (, ,)
+            (NP
+            (NP=H (DT a) (NN=H cytokine))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H stimulates)
+            (NP (NN HIV-1) (NN=H replication))
+            (PP (IN=H through)
+            (NP
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN NF-kappa) (NNP=H B.))))))))))))))))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="331-518" id="S3">
+        <text xml:space="preserve">In HeLa cells stably transfected with the HIV-1 tat gene (HeLa-tat cells), expression of the Tat protein enhanced both TNF-induced activation of NF-kappa B and TNF-mediated cytotoxicity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="331-333" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="334-338" text="HeLa" lemma="hela"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="339-344" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="345-351" text="stably" lemma="stably"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="352-363" text="transfected" lemma="transfect"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="364-368" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="369-372" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="373-378" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="379-382" text="tat" lemma="tat"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="383-387" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_11" POS="-LRB-" charOffset="388-389" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="389-397" text="HeLa-tat" lemma="hela-tat"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="398-403" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_14" POS="-RRB-" charOffset="403-404" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="404-405" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="406-416" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="417-419" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="420-423" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="424-427" text="Tat" lemma="tat"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="428-435" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_21" POS="VBD" charOffset="436-444" text="enhanced" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_22" POS="CC" charOffset="445-449" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="450-461" text="TNF-induced" lemma="tnf-induced"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="462-472" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="473-475" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="476-484" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="485-486" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_28" POS="CC" charOffset="487-490" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="491-503" text="TNF-mediated" lemma="tnf-mediated"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="504-516" text="cytotoxicity" lemma="cytotoxicity"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="516-517" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP
+            (NP=H (NN HeLa) (NNS=H cells))
+            (VP
+            (ADVP (RB=H stably))
+            (VBN=H transfected)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT the) (NN HIV-1) (NN tat) (NN=H gene))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN HeLa-tat) (NNS=H cells))
+            (-RRB- -RRB-)))))))
+            (, ,)
+            (NP
+            (NP=H (NN=H expression))
+            (PP (IN=H of)
+            (NP (DT the) (NN Tat) (NN=H protein))))
+            (VP=H (VBD=H enhanced)
+            (PP (CC=H both)
+            (NP
+            (NP=H (JJ TNF-induced) (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN NF-kappa) (NN=H B))
+            (CC and)
+            (NP (JJ TNF-mediated) (NN=H cytotoxicity)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="518-636" id="S4">
+        <text xml:space="preserve">A similar potentiation of TNF effects was observed in Jurkat T cells and HeLa cells treated with soluble Tat protein. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="518-519" text="A" lemma="a"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="520-527" text="similar" lemma="similar"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="528-540" text="potentiation" lemma="potentiation"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="541-543" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="544-547" text="TNF" lemma="tnf"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="548-555" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="556-559" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="560-568" text="observed" lemma="observe"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="569-571" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="572-578" text="Jurkat" lemma="jurkat"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="579-580" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="581-586" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="587-590" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="591-595" text="HeLa" lemma="hela"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="596-601" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="602-609" text="treated" lemma="treat"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="610-614" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="615-622" text="soluble" lemma="soluble"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="623-626" text="Tat" lemma="tat"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="627-634" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="634-635" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT A) (JJ similar) (NN=H potentiation))
+            (PP (IN=H of)
+            (NP (NN TNF) (NNS=H effects))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H observed)
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN Jurkat) (NN T) (NNS cells)
+            (CC and)
+            (NN HeLa) (NNS=H cells))
+            (VP (VBN=H treated)
+            (PP (IN=H with)
+            (NP (JJ soluble) (NN Tat) (NN=H protein))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="636-762" id="S5">
+        <text xml:space="preserve">TNF-mediated activation of NF-kappa B and cytotoxicity involves the intracellular formation of reactive oxygen intermediates. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="636-648" text="TNF-mediated" lemma="tnf-mediated"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="649-659" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="660-662" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="663-671" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="672-673" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="674-677" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="678-690" text="cytotoxicity" lemma="cytotoxicity"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="691-699" text="involves" lemma="involve"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="700-703" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="704-717" text="intracellular" lemma="intracellular"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="718-727" text="formation" lemma="formation"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="728-730" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="731-739" text="reactive" lemma="reactive"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="740-746" text="oxygen" lemma="oxygen"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="747-760" text="intermediates" lemma="intermediate"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="760-761" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ TNF-mediated) (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN NF-kappa) (NN=H B)
+            (CC and)
+            (NN cytotoxicity))))
+            (VP=H (VBZ=H involves)
+            (NP
+            (NP=H (DT the) (JJ intracellular) (NN=H formation))
+            (PP (IN=H of)
+            (NP (JJ reactive) (NN oxygen) (NNS=H intermediates)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="762-837" id="S6">
+        <text xml:space="preserve">Therefore, Tat-mediated effects on the cellular redox state were analyzed. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="762-771" text="Therefore" lemma="therefore"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="771-772" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="773-785" text="Tat-mediated" lemma="tat-mediated"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="786-793" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="794-796" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="797-800" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="801-809" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="810-815" text="redox" lemma="redox"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="816-821" text="state" lemma="state"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="822-826" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="827-835" text="analyzed" lemma="analyze"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="835-836" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Therefore))
+            (, ,)
+            (NP
+            (NP=H (JJ Tat-mediated) (NNS=H effects))
+            (PP (IN=H on)
+            (NP (DT the) (JJ cellular) (NN redox) (NN=H state))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H analyzed)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="837-1044" id="S7">
+        <text xml:space="preserve">In both T cells and HeLa cells HIV-1 Tat suppressed the expression of Mn-dependent superoxide dismutase (Mn-SOD), a mitochondrial enzyme that is part of the cellular defense system against oxidative stress. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="837-839" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="840-844" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="845-846" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="847-852" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="853-856" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="857-861" text="HeLa" lemma="hela"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="862-867" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="868-873" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="874-877" text="Tat" lemma="tat"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="878-888" text="suppressed" lemma="suppress"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="889-892" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="893-903" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="904-906" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="907-919" text="Mn-dependent" lemma="mn-dependent"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="920-930" text="superoxide" lemma="superoxide"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="931-940" text="dismutase" lemma="dismutase"/>
+            <token xml:space="preserve" id="stt_17" POS="-LRB-" charOffset="941-942" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="942-948" text="Mn-SOD" lemma="mn-sod"/>
+            <token xml:space="preserve" id="stt_19" POS="-RRB-" charOffset="948-949" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="949-950" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="951-952" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="953-966" text="mitochondrial" lemma="mitochondrial"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="967-973" text="enzyme" lemma="enzyme"/>
+            <token xml:space="preserve" id="stt_24" POS="WDT" charOffset="974-978" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_25" POS="VBZ" charOffset="979-981" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="982-986" text="part" lemma="part"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="987-989" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_28" POS="DT" charOffset="990-993" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="994-1002" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1003-1010" text="defense" lemma="defense"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1011-1017" text="system" lemma="system"/>
+            <token xml:space="preserve" id="stt_32" POS="IN" charOffset="1018-1025" text="against" lemma="against"/>
+            <token xml:space="preserve" id="stt_33" POS="JJ" charOffset="1026-1035" text="oxidative" lemma="oxidative"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1036-1042" text="stress" lemma="stress"/>
+            <token xml:space="preserve" id="stt_35" POS="." charOffset="1042-1043" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (DT both) (NN T) (NNS cells)
+            (CC and)
+            (NN HeLa) (NNS cells) (NN=H HIV-1)))
+            (NP (NN=H Tat))
+            (VP=H (VBD=H suppressed)
+            (NP
+            (NP=H (DT the) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H
+            (NP=H (JJ Mn-dependent) (NN superoxide) (NN=H dismutase))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H Mn-SOD))
+            (-RRB- -RRB-)))
+            (, ,)
+            (NP
+            (NP=H (DT a) (JJ mitochondrial) (NN=H enzyme))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (NN=H part))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (JJ cellular) (NN defense) (NN=H system))
+            (PP (IN=H against)
+            (NP (JJ oxidative) (NN=H stress))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1044-1135" id="S8">
+        <text xml:space="preserve">Thus, Mn-SOD RNA protein levels and activity were markedly reduced in the presence of Tat. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1044-1048" text="Thus" lemma="thus"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1048-1049" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1050-1056" text="Mn-SOD" lemma="mn-sod"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1057-1060" text="RNA" lemma="rna"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1061-1068" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="1069-1075" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="1076-1079" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1080-1088" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_9" POS="VBD" charOffset="1089-1093" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="1094-1102" text="markedly" lemma="markedly"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="1103-1110" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1111-1113" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="1114-1117" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1118-1126" text="presence" lemma="presence"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1127-1129" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1130-1133" text="Tat" lemma="tat"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="1133-1134" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Thus))
+            (, ,)
+            (NP (NN Mn-SOD) (NN RNA) (NN protein) (NNS=H levels)
+            (CC and)
+            (NN activity))
+            (VP=H (VBD=H were)
+            (ADVP (RB=H markedly))
+            (VP (VBN=H reduced)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H presence))
+            (PP (IN=H of)
+            (NP (NN=H Tat)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1135-1266" id="S9">
+        <text xml:space="preserve">Decreased Mn-SOD expression was associated with decreased levels of glutathione and a lower ratio of reduced:oxidized glutathione. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBN" charOffset="1135-1144" text="Decreased" lemma="decrease"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1145-1151" text="Mn-SOD" lemma="mn-sod"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1152-1162" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="1163-1166" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="1167-1177" text="associated" lemma="associate"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1178-1182" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="1183-1192" text="decreased" lemma="decrease"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1193-1199" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1200-1202" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1203-1214" text="glutathione" lemma="glutathione"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="1215-1218" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1219-1220" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_13" POS="JJR" charOffset="1221-1226" text="lower" lemma="lower"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1227-1232" text="ratio" lemma="ratio"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1233-1235" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="1236-1243" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_17" POS=":" charOffset="1243-1244" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="1244-1252" text="oxidized" lemma="oxidize"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1253-1264" text="glutathione" lemma="glutathione"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="1264-1265" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (VBN=H Decreased)
+            (NP (NN Mn-SOD) (NN=H expression))))
+            (VP=H (VBD=H was)
+            (VP
+            (VP=H (VBN=H associated)
+            (PP (IN=H with)
+            (NP
+            (NP=H (VBN decreased) (NNS=H levels))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H glutathione))
+            (CC and)
+            (NP (DT a) (JJR lower) (NN=H ratio)))))))
+            (CONJP (IN=H of))
+            (VP (VBN=H reduced))
+            (: :)
+            (VP (VBN=H oxidized))
+            (NP (NN=H glutathione))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1266-1455" id="S10">
+        <text xml:space="preserve">A truncated Tat protein (Tat1-72), known to transactivate the HIV-1 long terminal repeat (LTR), no longer affected Mn-SOD expression, the cellular redox state or TNF-mediated cytotoxicity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1266-1267" text="A" lemma="a"/>
+            <token xml:space="preserve" id="stt_2" POS="VBN" charOffset="1268-1277" text="truncated" lemma="truncate"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1278-1281" text="Tat" lemma="tat"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1282-1289" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_5" POS="-LRB-" charOffset="1290-1291" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1291-1298" text="Tat1-72" lemma="tat1-72"/>
+            <token xml:space="preserve" id="stt_7" POS="-RRB-" charOffset="1298-1299" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="1299-1300" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="1301-1306" text="known" lemma="know"/>
+            <token xml:space="preserve" id="stt_10" POS="TO" charOffset="1307-1309" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_11" POS="VB" charOffset="1310-1323" text="transactivate" lemma="transactivate"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1324-1327" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1328-1333" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="1334-1338" text="long" lemma="long"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="1339-1347" text="terminal" lemma="terminal"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1348-1354" text="repeat" lemma="repeat"/>
+            <token xml:space="preserve" id="stt_17" POS="-LRB-" charOffset="1355-1356" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1356-1359" text="LTR" lemma="ltr"/>
+            <token xml:space="preserve" id="stt_19" POS="-RRB-" charOffset="1359-1360" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="1360-1361" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="RB" charOffset="1362-1364" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_22" POS="RB" charOffset="1365-1371" text="longer" lemma="longer"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="1372-1380" text="affected" lemma="affect"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1381-1387" text="Mn-SOD" lemma="mn-sod"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1388-1398" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_26" POS="," charOffset="1398-1399" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="1400-1403" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="1404-1412" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1413-1418" text="redox" lemma="redox"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1419-1424" text="state" lemma="state"/>
+            <token xml:space="preserve" id="stt_31" POS="CC" charOffset="1425-1427" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="1428-1440" text="TNF-mediated" lemma="tnf-mediated"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1441-1453" text="cytotoxicity" lemma="cytotoxicity"/>
+            <token xml:space="preserve" id="stt_34" POS="." charOffset="1453-1454" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (VP=H
+            (NP=H (DT A)
+            (NP=H
+            (SBAR
+            (SBAR=H
+            (S=H
+            (VP=H (VBN=H truncated)
+            (NP (NN=H Tat)))))
+            (SBAR
+            (WHNP=H
+            (WHNP=H (NN=H protein))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H Tat1-72))
+            (-RRB- -RRB-)))
+            (PRN (, ,)
+            (S=H
+            (VP=H (VBN=H known))))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H transactivate)
+            (NP
+            (NP=H (DT the) (NN HIV-1)
+            (ADJP (JJ long) (JJ=H terminal))
+            (NN=H repeat))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H LTR))
+            (-RRB- -RRB-))))))))
+            (, ,)
+            (NP=H
+            (NP=H (RB no) (RB=H longer))
+            (VP (VBN=H affected)
+            (NP (NN Mn-SOD) (NN=H expression)))))
+            (, ,)
+            (NP
+            (NP=H (DT the) (JJ cellular) (NN redox) (NN=H state))
+            (CC or)
+            (NP (JJ TNF-mediated) (NN=H cytotoxicity)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1455-1698" id="S11">
+        <text xml:space="preserve">Thus, our experiments demonstrate that the C-terminal region of HIV-1 Tat is required to suppress Mn-SOD expression and to induce pro-oxidative conditions reflected by a drop in reduced glutathione (GSH) and the GSH:oxidized GSH (GSSG) ratio. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1455-1459" text="Thus" lemma="thus"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1459-1460" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP$" charOffset="1461-1464" text="our" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1465-1476" text="experiments" lemma="experiment"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="1477-1488" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1489-1493" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="1494-1497" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1498-1508" text="C-terminal" lemma="c-terminal"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1509-1515" text="region" lemma="region"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1516-1518" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1519-1524" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1525-1528" text="Tat" lemma="tat"/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="1529-1531" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="1532-1540" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_15" POS="TO" charOffset="1541-1543" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_16" POS="VB" charOffset="1544-1552" text="suppress" lemma="suppress"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1553-1559" text="Mn-SOD" lemma="mn-sod"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1560-1570" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="1571-1574" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="TO" charOffset="1575-1577" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_21" POS="VB" charOffset="1578-1584" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="1585-1598" text="pro-oxidative" lemma="pro-oxidative"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="1599-1609" text="conditions" lemma="condition"/>
+            <token xml:space="preserve" id="stt_24" POS="VBN" charOffset="1610-1619" text="reflected" lemma="reflect"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="1620-1622" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="1623-1624" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1625-1629" text="drop" lemma="drop"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="1630-1632" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_29" POS="VBN" charOffset="1633-1640" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1641-1652" text="glutathione" lemma="glutathione"/>
+            <token xml:space="preserve" id="stt_31" POS="-LRB-" charOffset="1653-1654" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1654-1657" text="GSH" lemma="gsh"/>
+            <token xml:space="preserve" id="stt_33" POS="-RRB-" charOffset="1657-1658" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_34" POS="CC" charOffset="1659-1662" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_35" POS="DT" charOffset="1663-1666" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1667-1670" text="GSH" lemma="gsh"/>
+            <token xml:space="preserve" id="stt_37" POS=":" charOffset="1670-1671" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_38" POS="VBN" charOffset="1671-1679" text="oxidized" lemma="oxidize"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="1680-1683" text="GSH" lemma="gsh"/>
+            <token xml:space="preserve" id="stt_40" POS="-LRB-" charOffset="1684-1685" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="1685-1689" text="GSSG" lemma="gssg"/>
+            <token xml:space="preserve" id="stt_42" POS="-RRB-" charOffset="1689-1690" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_43" POS="NN" charOffset="1691-1696" text="ratio" lemma="ratio"/>
+            <token xml:space="preserve" id="stt_44" POS="." charOffset="1696-1697" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Thus))
+            (, ,)
+            (NP (PRP$ our) (NNS=H experiments))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (JJ C-terminal) (NN=H region))
+            (PP (IN=H of)
+            (NP (NN HIV-1) (NN=H Tat))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H required)
+            (S
+            (VP=H
+            (VP=H (TO=H to)
+            (VP (VB=H suppress)
+            (NP (NN Mn-SOD) (NN=H expression))))
+            (CC and)
+            (VP (TO=H to)
+            (VP (VB=H induce)
+            (NP
+            (NP=H (JJ pro-oxidative) (NNS=H conditions))
+            (VP
+            (VP=H (VBN=H reflected)
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT a) (NN=H drop))
+            (PP (IN=H in)
+            (NP
+            (NP=H
+            (NP=H (VBN reduced) (NN=H glutathione))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H GSH))
+            (-RRB- -RRB-)))
+            (CC and)
+            (NP (DT the) (NN=H GSH)))))))
+            (: :)
+            (VP (VBN=H oxidized)
+            (NP
+            (NP=H (NN=H GSH))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H GSSG))
+            (-RRB- -RRB-))))
+            (NP (NN=H ratio)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1698-1733" id="S12">
+        <text xml:space="preserve">(ABSTRACT TRUNCATED AT 250 WORDS) 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="-LRB-" charOffset="1698-1699" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1699-1707" text="ABSTRACT" lemma="abstract"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="1708-1717" text="TRUNCATED" lemma="truncate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1718-1720" text="AT" lemma="at"/>
+            <token xml:space="preserve" id="stt_5" POS="CD" charOffset="1721-1724" text="250" lemma="250"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="1725-1730" text="WORDS" lemma="word"/>
+            <token xml:space="preserve" id="stt_7" POS="-RRB-" charOffset="1730-1731" text=")" lemma=")"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (PRN=H (-LRB- -LRB-)
+            (NP=H
+            (NP=H (NN=H ABSTRACT))
+            (VP (VBN=H TRUNCATED)
+            (PP (IN=H AT)
+            (NP (CD 250) (NNS=H WORDS)))))
+            (-RRB- -RRB-)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T16" type="ZeroArticleNP" charOffset="254-262" headOffset="254-262" text="cytokine"/>
+    <Term xml:space="preserve" id="T17" type="RelativePronoun" charOffset="263-267" headOffset="263-267" text="that"/>
+    <Term xml:space="preserve" id="T18" type="IndefiniteNP" charOffset="951-973" headOffset="967-973" text="a mitochondrial enzyme"/>
+    <Term xml:space="preserve" id="T19" type="RelativePronoun" charOffset="974-978" headOffset="974-978" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T17"/>
+        <Antecedent idref="T16"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T19"/>
+        <Antecedent idref="T18"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="6-9" headOffset="6-9" text="Tat"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="185-188" headOffset="185-188" text="Tat"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="424-427" headOffset="424-427" text="Tat"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="623-626" headOffset="623-626" text="Tat"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="773-776" headOffset="773-776" text="Tat"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="874-877" headOffset="874-877" text="Tat"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="907-940" headOffset="931-940" text="Mn-dependent superoxide dismutase"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="942-948" headOffset="942-948" text="Mn-SOD"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="1050-1056" headOffset="1050-1056" text="Mn-SOD"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="1130-1133" headOffset="1130-1133" text="Tat"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="1145-1151" headOffset="1145-1151" text="Mn-SOD"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="1278-1281" headOffset="1278-1281" text="Tat"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="1381-1387" headOffset="1381-1387" text="Mn-SOD"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1525-1528" headOffset="1525-1528" text="Tat"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1553-1559" headOffset="1553-1559" text="Mn-SOD"/>
+</document>

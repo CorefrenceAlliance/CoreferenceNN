@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-8628295">
+    <text xml:space="preserve">Role of EGR1 in regulation of stimulus-dependent CD44 transcription in B lymphocytes. 
+The immediate-early gene egr-1 encodes a transcription factor (EGR1) that links B-cell antigen receptor (BCR) signals to downstream activation events through the regulation of previously unidentified target genes. Here we identify the gene encoding the lymphocyte homing and migration protein CD44 as a target of EGR1 regulation in B cells. BCR-induced increases in CD44 mRNA expression and transcription levels are shown to occur in EGR1-expressing but not in nonexpressing subclones of the B-cell line WEHI-231. Kinetics of egr-1 transcription and the appearance of nuclear EGR1 protein precede CD44 induction and occur within 30 min after stimulation in the EGR1-expressing subclone. A single EGR1 binding motif is demonstrated at bp -301 of the human CD44 promoter. Cotransfection of a CD44 promoter-chloramphenicol acetyltransferase reporter construct with an egr-1 expression vector resulted in a 6.5- to 8.5-fold induction of transcriptional activity relative to an empty expression vector. The EGR1 binding motif was shown to be necessary for stimulus-induced expression of a CD44 promoter-chloramphenicol acetyltransferase reporter construct in nontransformed B lymphocytes and was required for transactivation by an EGR1 expression vector in a B-cell line. These studies identify EGR1 as an intermediary linking BCR-derived signals to the induction of CD44. The relevance of these molecular events to BCR signal transduction and antigen-stimulated B-cell-mediated immune responses is discussed. 
+</text>
+    <sentence charOffset="0-87" id="S1">
+        <text xml:space="preserve">Role of EGR1 in regulation of stimulus-dependent CD44 transcription in B lymphocytes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-4" text="Role" lemma="role"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="5-7" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="8-12" text="EGR1" lemma="egr1"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="13-15" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="16-26" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="27-29" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="30-48" text="stimulus-dependent" lemma="stimulus-dependent"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="49-53" text="CD44" lemma="cd44"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="54-67" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="68-70" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="71-72" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="73-84" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="84-85" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Role))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H EGR1))
+            (PP (IN=H in)
+            (NP (NN=H regulation)))))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ stimulus-dependent) (NN CD44) (NN=H transcription))
+            (PP (IN=H in)
+            (NP (NN B) (NNS=H lymphocytes)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="87-301" id="S2">
+        <text xml:space="preserve">The immediate-early gene egr-1 encodes a transcription factor (EGR1) that links B-cell antigen receptor (BCR) signals to downstream activation events through the regulation of previously unidentified target genes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="87-90" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="91-106" text="immediate-early" lemma="immediate-early"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="107-111" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="112-117" text="egr-1" lemma="egr-1"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="118-125" text="encodes" lemma="encode"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="126-127" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="128-141" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="142-148" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_9" POS="-LRB-" charOffset="149-150" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="150-154" text="EGR1" lemma="egr1"/>
+            <token xml:space="preserve" id="stt_11" POS="-RRB-" charOffset="154-155" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_12" POS="WDT" charOffset="156-160" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="161-166" text="links" lemma="link"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="167-173" text="B-cell" lemma="b-cell"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="174-181" text="antigen" lemma="antigen"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="182-190" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_17" POS="-LRB-" charOffset="191-192" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="192-195" text="BCR" lemma="bcr"/>
+            <token xml:space="preserve" id="stt_19" POS="-RRB-" charOffset="195-196" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="197-204" text="signals" lemma="signal"/>
+            <token xml:space="preserve" id="stt_21" POS="TO" charOffset="205-207" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="208-218" text="downstream" lemma="downstream"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="219-229" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_24" POS="NNS" charOffset="230-236" text="events" lemma="event"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="237-244" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="245-248" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="249-259" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="260-262" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_29" POS="RB" charOffset="263-273" text="previously" lemma="previously"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="274-286" text="unidentified" lemma="unidentified"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="287-293" text="target" lemma="target"/>
+            <token xml:space="preserve" id="stt_32" POS="NNS" charOffset="294-299" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="299-300" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (JJ immediate-early) (NN gene) (NN=H egr-1))
+            (VP=H (VBZ=H encodes)
+            (NP
+            (NP=H (DT a) (NN transcription) (NN=H factor))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NNS=H EGR1))
+            (-RRB- -RRB-))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H links)
+            (NP (NN B-cell) (NN antigen) (NN receptor)
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H BCR))
+            (-RRB- -RRB-))
+            (NNS=H signals))
+            (PP (TO=H to)
+            (NP (JJ downstream) (NN activation) (NNS=H events)))
+            (PP (IN=H through)
+            (NP
+            (NP=H (DT the) (NN=H regulation))
+            (PP (IN=H of)
+            (NP (RB previously) (JJ unidentified) (NN target) (NNS=H genes))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="301-428" id="S3">
+        <text xml:space="preserve">Here we identify the gene encoding the lymphocyte homing and migration protein CD44 as a target of EGR1 regulation in B cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="301-305" text="Here" lemma="here"/>
+            <token xml:space="preserve" id="stt_2" POS="PRP" charOffset="306-308" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="309-317" text="identify" lemma="identify"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="318-321" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="322-326" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_6" POS="VBG" charOffset="327-335" text="encoding" lemma="encode"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="336-339" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="340-350" text="lymphocyte" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="351-357" text="homing" lemma="homing"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="358-361" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="362-371" text="migration" lemma="migration"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="372-379" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="380-384" text="CD44" lemma="cd44"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="385-387" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="388-389" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="390-396" text="target" lemma="target"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="397-399" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="400-404" text="EGR1" lemma="egr1"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="405-415" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="416-418" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="419-420" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="421-426" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="426-427" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Here))
+            (NP (PRP=H we))
+            (VP=H (VBP=H identify)
+            (S
+            (NP (DT the) (NN=H gene))
+            (VP=H (VBG=H encoding)
+            (NP (DT the) (NN lymphocyte) (NN homing)
+            (CC and)
+            (NN migration) (NN protein) (NN=H CD44))
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT a) (NN=H target))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS EGR1) (NN=H regulation))
+            (PP (IN=H in)
+            (NP (NN B) (NNS=H cells))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="428-601" id="S4">
+        <text xml:space="preserve">BCR-induced increases in CD44 mRNA expression and transcription levels are shown to occur in EGR1-expressing but not in nonexpressing subclones of the B-cell line WEHI-231. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="428-439" text="BCR-induced" lemma="bcr-induced"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="440-449" text="increases" lemma="increase"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="450-452" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="453-457" text="CD44" lemma="cd44"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="458-462" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="463-473" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="474-477" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="478-491" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="492-498" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_10" POS="VBP" charOffset="499-502" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="503-508" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_12" POS="TO" charOffset="509-511" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_13" POS="VB" charOffset="512-517" text="occur" lemma="occur"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="518-520" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="521-536" text="EGR1-expressing" lemma="egr1-expressing"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="537-540" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_17" POS="RB" charOffset="541-544" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="545-547" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="548-561" text="nonexpressing" lemma="nonexpressing"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="562-571" text="subclones" lemma="subclone"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="572-574" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="575-578" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="579-585" text="B-cell" lemma="b-cell"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="586-590" text="line" lemma="line"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="591-599" text="WEHI-231" lemma="wehi-231"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="599-600" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ BCR-induced) (NNS=H increases))
+            (PP (IN=H in)
+            (NP (NN CD44) (NN mRNA) (NN expression)
+            (CC and)
+            (NN transcription) (NNS=H levels))))
+            (VP=H (VBP=H are)
+            (VP (VBN=H shown)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H occur)
+            (PP
+            (PP=H (IN=H in)
+            (ADJP (JJ=H EGR1-expressing)))
+            (CONJP (CC=H but)
+            (RB not))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ nonexpressing) (NNS=H subclones))
+            (PP (IN=H of)
+            (NP (DT the) (NN B-cell) (NN line) (NN=H WEHI-231)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="601-774" id="S5">
+        <text xml:space="preserve">Kinetics of egr-1 transcription and the appearance of nuclear EGR1 protein precede CD44 induction and occur within 30 min after stimulation in the EGR1-expressing subclone. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="601-609" text="Kinetics" lemma="kinetics"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="610-612" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="613-618" text="egr-1" lemma="egr-1"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="619-632" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="633-636" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="637-640" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="641-651" text="appearance" lemma="appearance"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="652-654" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="655-662" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="663-667" text="EGR1" lemma="egr1"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="668-675" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_12" POS="VB" charOffset="676-683" text="precede" lemma="precede"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="684-688" text="CD44" lemma="cd44"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="689-698" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="699-702" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="VB" charOffset="703-708" text="occur" lemma="occur"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="709-715" text="within" lemma="within"/>
+            <token xml:space="preserve" id="stt_18" POS="CD" charOffset="716-718" text="30" lemma="30"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="719-722" text="min" lemma="min"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="723-728" text="after" lemma="after"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="729-740" text="stimulation" lemma="stimulation"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="741-743" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="744-747" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="748-763" text="EGR1-expressing" lemma="egr1-expressing"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="764-772" text="subclone" lemma="subclone"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="772-773" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (NNS=H Kinetics))
+            (PP (IN=H of)
+            (NP (NN egr-1) (NN=H transcription))))
+            (CC and)
+            (NP
+            (NP=H (DT the) (NN=H appearance))
+            (PP (IN=H of)
+            (NP (JJ nuclear) (NNS EGR1) (NN=H protein)))))
+            (VP=H
+            (VP=H (VB=H precede)
+            (NP (NN CD44) (NN=H induction)))
+            (CC and)
+            (VP (VB=H occur)
+            (PP (IN=H within)
+            (NP (CD 30) (NN=H min)))
+            (PP (IN=H after)
+            (NP
+            (NP=H (NN=H stimulation))
+            (PP (IN=H in)
+            (NP (DT the) (JJ EGR1-expressing) (NN=H subclone)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="774-857" id="S6">
+        <text xml:space="preserve">A single EGR1 binding motif is demonstrated at bp -301 of the human CD44 promoter. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="774-775" text="A" lemma="a"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="776-782" text="single" lemma="single"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="783-787" text="EGR1" lemma="egr1"/>
+            <token xml:space="preserve" id="stt_4" POS="VBG" charOffset="788-795" text="binding" lemma="bind"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="796-801" text="motif" lemma="motif"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="802-804" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="805-817" text="demonstrated" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="818-820" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="821-823" text="bp" lemma="bp"/>
+            <token xml:space="preserve" id="stt_10" POS="CD" charOffset="824-828" text="-301" lemma="-301"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="829-831" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="832-835" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="836-841" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="842-846" text="CD44" lemma="cd44"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="847-855" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="855-856" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT A)
+            (ADJP
+            (NP=H (JJ single) (NNS=H EGR1)))
+            (VBG binding) (NN=H motif))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H demonstrated)
+            (PP (IN=H at)
+            (NP
+            (NP=H (NN=H bp) (CD -301))
+            (PP (IN=H of)
+            (NP (DT the) (JJ human) (NN CD44) (NN=H promoter)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="857-1085" id="S7">
+        <text xml:space="preserve">Cotransfection of a CD44 promoter-chloramphenicol acetyltransferase reporter construct with an egr-1 expression vector resulted in a 6.5- to 8.5-fold induction of transcriptional activity relative to an empty expression vector. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="857-871" text="Cotransfection" lemma="cotransfection"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="872-874" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="875-876" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="877-881" text="CD44" lemma="cd44"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="882-906" text="promoter-chloramphenicol" lemma="promoter-chloramphenicol"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="907-924" text="acetyltransferase" lemma="acetyltransferase"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="925-933" text="reporter" lemma="reporter"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="934-943" text="construct" lemma="construct"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="944-948" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="949-951" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="952-957" text="egr-1" lemma="egr-1"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="958-968" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="969-975" text="vector" lemma="vector"/>
+            <token xml:space="preserve" id="stt_14" POS="VBD" charOffset="976-984" text="resulted" lemma="result"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="985-987" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="988-989" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_17" POS="CD" charOffset="990-993" text="6.5" lemma="6.5"/>
+            <token xml:space="preserve" id="stt_18" POS=":" charOffset="993-994" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_19" POS="TO" charOffset="995-997" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="998-1006" text="8.5-fold" lemma="8.5-fold"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1007-1016" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1017-1019" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="1020-1035" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1036-1044" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="1045-1053" text="relative" lemma="relative"/>
+            <token xml:space="preserve" id="stt_26" POS="TO" charOffset="1054-1056" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="1057-1059" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="1060-1065" text="empty" lemma="empty"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1066-1076" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1077-1083" text="vector" lemma="vector"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="1083-1084" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Cotransfection))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a) (NN=H CD44))
+            (NP
+            (NP=H (JJ promoter-chloramphenicol) (NN acetyltransferase) (NN reporter) (NN=H construct))
+            (PP (IN=H with)
+            (NP (DT an) (NN egr-1) (NN expression) (NN=H vector)))))))
+            (VP=H (VBD=H resulted)
+            (PP (IN=H in)
+            (NP (DT a) (CD=H 6.5)))
+            (: -)
+            (PP (TO=H to)
+            (NP
+            (NP=H (JJ 8.5-fold) (NN=H induction))
+            (PP (IN=H of)
+            (NP (JJ transcriptional) (NN=H activity)))))
+            (ADVP (JJ=H relative)
+            (PP (TO=H to)
+            (NP (DT an) (JJ empty) (NN expression) (NN=H vector)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1085-1354" id="S8">
+        <text xml:space="preserve">The EGR1 binding motif was shown to be necessary for stimulus-induced expression of a CD44 promoter-chloramphenicol acetyltransferase reporter construct in nontransformed B lymphocytes and was required for transactivation by an EGR1 expression vector in a B-cell line. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1085-1088" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1089-1093" text="EGR1" lemma="egr1"/>
+            <token xml:space="preserve" id="stt_3" POS="VBG" charOffset="1094-1101" text="binding" lemma="bind"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1102-1107" text="motif" lemma="motif"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="1108-1111" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="1112-1117" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="1118-1120" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="VB" charOffset="1121-1123" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1124-1133" text="necessary" lemma="necessary"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1134-1137" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1138-1154" text="stimulus-induced" lemma="stimulus-induced"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1155-1165" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1166-1168" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="1169-1170" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1171-1175" text="CD44" lemma="cd44"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1176-1200" text="promoter-chloramphenicol" lemma="promoter-chloramphenicol"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1201-1218" text="acetyltransferase" lemma="acetyltransferase"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1219-1227" text="reporter" lemma="reporter"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1228-1237" text="construct" lemma="construct"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1238-1240" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="1241-1255" text="nontransformed" lemma="nontransformed"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1256-1257" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="1258-1269" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_24" POS="CC" charOffset="1270-1273" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_25" POS="VBD" charOffset="1274-1277" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_26" POS="VBN" charOffset="1278-1286" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1287-1290" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1291-1306" text="transactivation" lemma="transactivation"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="1307-1309" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_30" POS="DT" charOffset="1310-1312" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_31" POS="NNS" charOffset="1313-1317" text="EGR1" lemma="egr1"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1318-1328" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1329-1335" text="vector" lemma="vector"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="1336-1338" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_35" POS="DT" charOffset="1339-1340" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1341-1347" text="B-cell" lemma="b-cell"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="1348-1352" text="line" lemma="line"/>
+            <token xml:space="preserve" id="stt_38" POS="." charOffset="1352-1353" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NNS=H EGR1))
+            (VP (VBG=H binding)
+            (NP (NN=H motif))))
+            (VP=H
+            (VP=H (VBD=H was)
+            (VP (VBN=H shown)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (ADJP (JJ=H necessary)
+            (PP (IN=H for)
+            (NP
+            (NP=H (JJ stimulus-induced) (NN=H expression))
+            (PP (IN=H of)
+            (NP (DT a) (NN=H CD44))))))
+            (NP-TMP
+            (NP=H (JJ promoter-chloramphenicol) (NN acetyltransferase) (NN reporter) (NN=H construct))
+            (PP (IN=H in)
+            (NP (JJ nontransformed) (NN B) (NNS=H lymphocytes)))))))))
+            (CC and)
+            (VP (VBD=H was)
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP (NN=H transactivation)))
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT an) (NNS EGR1) (NN expression) (NN=H vector))
+            (PP (IN=H in)
+            (NP (DT a) (NN B-cell) (NN=H line))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1354-1455" id="S9">
+        <text xml:space="preserve">These studies identify EGR1 as an intermediary linking BCR-derived signals to the induction of CD44. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1354-1359" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1360-1367" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1368-1376" text="identify" lemma="identify"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1377-1381" text="EGR1" lemma="egr1"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1382-1384" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1385-1387" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1388-1400" text="intermediary" lemma="intermediary"/>
+            <token xml:space="preserve" id="stt_8" POS="VBG" charOffset="1401-1408" text="linking" lemma="link"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1409-1420" text="BCR-derived" lemma="bcr-derived"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1421-1428" text="signals" lemma="signal"/>
+            <token xml:space="preserve" id="stt_11" POS="TO" charOffset="1429-1431" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1432-1435" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1436-1445" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1446-1448" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1449-1453" text="CD44" lemma="cd44"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="1453-1454" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H studies))
+            (VP=H (VBP=H identify)
+            (NP (NNS=H EGR1))
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT an) (JJ=H intermediary))
+            (VP (VBG=H linking)
+            (NP (JJ BCR-derived) (NNS=H signals))
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT the) (NN=H induction))
+            (PP (IN=H of)
+            (NP (NN=H CD44)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1455-1593" id="S10">
+        <text xml:space="preserve">The relevance of these molecular events to BCR signal transduction and antigen-stimulated B-cell-mediated immune responses is discussed. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1455-1458" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1459-1468" text="relevance" lemma="relevance"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1469-1471" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="1472-1477" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1478-1487" text="molecular" lemma="molecular"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="1488-1494" text="events" lemma="event"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="1495-1497" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1498-1501" text="BCR" lemma="bcr"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1502-1508" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1509-1521" text="transduction" lemma="transduction"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="1522-1525" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1526-1544" text="antigen-stimulated" lemma="antigen-stimulated"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1545-1560" text="B-cell-mediated" lemma="b-cell-mediated"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="1561-1567" text="immune" lemma="immune"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="1568-1577" text="responses" lemma="response"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="1578-1580" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="1581-1590" text="discussed" lemma="discuss"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="1590-1591" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H relevance))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT these) (JJ molecular) (NNS=H events))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN BCR) (NN signal) (NN=H transduction))
+            (CC and)
+            (NP (JJ antigen-stimulated) (JJ B-cell-mediated) (JJ immune) (NNS=H responses)))))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H discussed)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T24" type="IndefiniteNP" charOffset="126-155" headOffset="150-154" text="a transcription factor (EGR1)"/>
+    <Term xml:space="preserve" id="T25" type="RelativePronoun" charOffset="156-160" headOffset="156-160" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T25"/>
+        <Antecedent idref="T24"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="8-12" headOffset="8-12" text="EGR1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="49-53" headOffset="49-53" text="CD44"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="112-117" headOffset="112-117" text="egr-1"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="150-154" headOffset="150-154" text="EGR1"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="380-384" headOffset="380-384" text="CD44"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="400-404" headOffset="400-404" text="EGR1"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="453-457" headOffset="453-457" text="CD44"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="521-525" headOffset="521-525" text="EGR1"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="613-618" headOffset="613-618" text="egr-1"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="663-667" headOffset="663-667" text="EGR1"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="684-688" headOffset="684-688" text="CD44"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="748-752" headOffset="748-752" text="EGR1"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="783-787" headOffset="783-787" text="EGR1"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="842-846" headOffset="842-846" text="CD44"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="877-881" headOffset="877-881" text="CD44"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="891-924" headOffset="907-924" text="chloramphenicol acetyltransferase"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="952-957" headOffset="952-957" text="egr-1"/>
+    <Term xml:space="preserve" id="T18" type="Protein" charOffset="1089-1093" headOffset="1089-1093" text="EGR1"/>
+    <Term xml:space="preserve" id="T19" type="Protein" charOffset="1171-1175" headOffset="1171-1175" text="CD44"/>
+    <Term xml:space="preserve" id="T20" type="Protein" charOffset="1185-1218" headOffset="1201-1218" text="chloramphenicol acetyltransferase"/>
+    <Term xml:space="preserve" id="T21" type="Protein" charOffset="1313-1317" headOffset="1313-1317" text="EGR1"/>
+    <Term xml:space="preserve" id="T22" type="Protein" charOffset="1377-1381" headOffset="1377-1381" text="EGR1"/>
+    <Term xml:space="preserve" id="T23" type="Protein" charOffset="1449-1453" headOffset="1449-1453" text="CD44"/>
+</document>

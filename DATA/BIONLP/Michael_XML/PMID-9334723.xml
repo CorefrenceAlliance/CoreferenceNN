@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9334723">
+    <text xml:space="preserve">HIV-1 Vpr suppresses immune activation and apoptosis through regulation of nuclear factor kappa B [see comments] 
+The HIV-1 accessory gene product Vpr can influence viral pathogenesis by affecting viral replication as well as host cell transcription and proliferation. We have investigated the effects of Vpr on host cell activation and confirm that it influences cellular proliferation. However, we have also found that Vpr modulates T-cell receptor (TCR)-triggered apoptosis in a manner similar to that of glucocorticoids. In the absence of TCR-mediated activation, Vpr induces apoptosis whereas in its presence, Vpr interrupts the expected induction of apoptosis. This regulation of apoptosis is linked to Vpr suppression of NF-kappa B activity via the induction of I kappa B, an inhibitor of NF-kappa B. Further, Vpr suppresses expression of IL-2, IL-10, IL-12, TNF alpha and IL-4, all of which are NF-kappa B-dependent. The effects of Vpr could be reversed by RU486. Our finding that Vpr can regulate NF-kappa B supports the hypothesis that some aspects of viral pathogenesis are the consequence of cell dysregulation by Vpr. 
+</text>
+    <sentence charOffset="0-114" id="S1">
+        <text xml:space="preserve">HIV-1 Vpr suppresses immune activation and apoptosis through regulation of nuclear factor kappa B [see comments] 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-5" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="6-9" text="Vpr" lemma="vpr"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="10-20" text="suppresses" lemma="suppress"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="21-27" text="immune" lemma="immune"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="28-38" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="39-42" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="43-52" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="53-60" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="61-71" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="72-74" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="75-82" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="83-89" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="90-95" text="kappa" lemma="kappa"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="96-97" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_15" POS="-LRB-" charOffset="98-99" text="[" lemma="["/>
+            <token xml:space="preserve" id="stt_16" POS="VB" charOffset="99-102" text="see" lemma="see"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="103-111" text="comments" lemma="comment"/>
+            <token xml:space="preserve" id="stt_18" POS="-RRB-" charOffset="111-112" text="]" lemma="]"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN HIV-1) (NN=H Vpr))
+            (VP=H (VBZ=H suppresses)
+            (NP (JJ immune) (NN=H activation)
+            (CC and)
+            (NN apoptosis))
+            (PP (IN=H through)
+            (NP
+            (NP=H (NN=H regulation))
+            (PP (IN=H of)
+            (NP (JJ nuclear) (NN factor) (NN kappa) (NN=H B)))))
+            (S
+            (VP=H (-LRB- -LSB-)
+            (VP=H (VB=H see)
+            (NP (NNS=H comments))))))
+            (-RRB- -RSB-)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="114-269" id="S2">
+        <text xml:space="preserve">The HIV-1 accessory gene product Vpr can influence viral pathogenesis by affecting viral replication as well as host cell transcription and proliferation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="114-117" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="118-123" text="HIV-1" lemma="hiv-1"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="124-133" text="accessory" lemma="accessory"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="134-138" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="139-146" text="product" lemma="product"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="147-150" text="Vpr" lemma="vpr"/>
+            <token xml:space="preserve" id="stt_7" POS="MD" charOffset="151-154" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_8" POS="VB" charOffset="155-164" text="influence" lemma="influence"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="165-170" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="171-183" text="pathogenesis" lemma="pathogenesis"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="184-186" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_12" POS="VBG" charOffset="187-196" text="affecting" lemma="affect"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="197-202" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="203-214" text="replication" lemma="replication"/>
+            <token xml:space="preserve" id="stt_15" POS="RB" charOffset="215-217" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="218-222" text="well" lemma="well"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="223-225" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="226-230" text="host" lemma="host"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="231-235" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="236-249" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_21" POS="CC" charOffset="250-253" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="254-267" text="proliferation" lemma="proliferation"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="267-268" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H
+            (NP=H (DT The) (NN HIV-1) (NN accessory) (NN=H gene))
+            (SBAR
+            (S=H
+            (NP (NN product) (NN=H Vpr))
+            (VP=H (MD=H can)
+            (VP (VB=H influence)
+            (NP (JJ viral) (NN=H pathogenesis))
+            (PP (IN=H by)
+            (S
+            (VP=H (VBG=H affecting)
+            (NP (JJ viral) (NN=H replication))))))))))
+            (CONJP (RB as) (RB=H well) (IN as))
+            (NP
+            (NP=H (NN host) (NN cell) (NN=H transcription))
+            (CC and)
+            (NP (NN=H proliferation)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="269-388" id="S3">
+        <text xml:space="preserve">We have investigated the effects of Vpr on host cell activation and confirm that it influences cellular proliferation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="269-271" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="272-276" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="277-289" text="investigated" lemma="investigate"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="290-293" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="294-301" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="302-304" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="305-308" text="Vpr" lemma="vpr"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="309-311" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="312-316" text="host" lemma="host"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="317-321" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="322-332" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="333-336" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="VBP" charOffset="337-344" text="confirm" lemma="confirm"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="345-349" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_15" POS="PRP" charOffset="350-352" text="it" lemma="it"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="353-363" text="influences" lemma="influence"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="364-372" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="373-386" text="proliferation" lemma="proliferation"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="386-387" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H
+            (VP=H (VBP=H have)
+            (VP (VBN=H investigated)
+            (NP
+            (NP=H (DT the) (NNS=H effects))
+            (PP (IN=H of)
+            (NP (NN=H Vpr))))
+            (PP (IN=H on)
+            (NP (NN host) (NN cell) (NN=H activation)))))
+            (CC and)
+            (VP (VBP=H confirm)
+            (SBAR (IN=H that)
+            (S
+            (NP (PRP=H it))
+            (VP=H (VBZ=H influences)
+            (NP (JJ cellular) (NN=H proliferation)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="388-525" id="S4">
+        <text xml:space="preserve">However, we have also found that Vpr modulates T-cell receptor (TCR)-triggered apoptosis in a manner similar to that of glucocorticoids. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="388-395" text="However" lemma="however"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="395-396" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP" charOffset="397-399" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="400-404" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="405-409" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="410-415" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="416-420" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="421-424" text="Vpr" lemma="vpr"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="425-434" text="modulates" lemma="modulate"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="435-441" text="T-cell" lemma="t-cell"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="442-450" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_12" POS="-LRB-" charOffset="451-452" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="452-455" text="TCR" lemma="tcr"/>
+            <token xml:space="preserve" id="stt_14" POS="-RRB-" charOffset="455-456" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_15" POS=":" charOffset="456-457" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="457-466" text="triggered" lemma="trigger"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="467-476" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="477-479" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="480-481" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="482-488" text="manner" lemma="manner"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="489-496" text="similar" lemma="similar"/>
+            <token xml:space="preserve" id="stt_22" POS="TO" charOffset="497-499" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="500-504" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="505-507" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="508-523" text="glucocorticoids" lemma="glucocorticoid"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="523-524" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H However))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H have)
+            (ADVP (RB=H also))
+            (VP (VBN=H found)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H Vpr))
+            (VP=H (VBZ=H modulates)
+            (NP
+            (NP=H (NN T-cell) (NN=H receptor))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H TCR))
+            (-RRB- -RRB-))
+            (: -)
+            (SBAR
+            (S=H
+            (VP=H (VBN=H triggered)
+            (S
+            (NP
+            (NP=H (NN=H apoptosis))
+            (PP (IN=H in)
+            (NP (DT a) (NN=H manner))))
+            (ADJP=H (JJ=H similar)
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT=H that))
+            (PP (IN=H of)
+            (NP (NNS=H glucocorticoids))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="525-667" id="S5">
+        <text xml:space="preserve">In the absence of TCR-mediated activation, Vpr induces apoptosis whereas in its presence, Vpr interrupts the expected induction of apoptosis. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="525-527" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="528-531" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="532-539" text="absence" lemma="absence"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="540-542" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="543-555" text="TCR-mediated" lemma="tcr-mediated"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="556-566" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="566-567" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="568-571" text="Vpr" lemma="vpr"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="572-579" text="induces" lemma="induce"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="580-589" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="590-597" text="whereas" lemma="whereas"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="598-600" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="PRP$" charOffset="601-604" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="605-613" text="presence" lemma="presence"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="613-614" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="615-618" text="Vpr" lemma="vpr"/>
+            <token xml:space="preserve" id="stt_17" POS="VBZ" charOffset="619-629" text="interrupts" lemma="interrupt"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="630-633" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="634-642" text="expected" lemma="expected"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="643-652" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="653-655" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="656-665" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="665-666" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP
+            (NP=H (DT the) (NN=H absence))
+            (PP (IN=H of)
+            (NP (JJ TCR-mediated) (NN=H activation)))))
+            (, ,)
+            (NP (NN=H Vpr))
+            (VP=H (VBZ=H induces)
+            (NP (NN=H apoptosis))
+            (SBAR (IN=H whereas)
+            (S
+            (PP (IN=H in)
+            (NP (PRP$ its) (NN=H presence)))
+            (, ,)
+            (NP (NN=H Vpr))
+            (VP=H (VBZ=H interrupts)
+            (NP
+            (NP=H (DT the) (JJ expected) (NN=H induction))
+            (PP (IN=H of)
+            (NP (NN=H apoptosis))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="667-808" id="S6">
+        <text xml:space="preserve">This regulation of apoptosis is linked to Vpr suppression of NF-kappa B activity via the induction of I kappa B, an inhibitor of NF-kappa B. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="667-671" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="672-682" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="683-685" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="686-695" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="696-698" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="699-705" text="linked" lemma="link"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="706-708" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="709-712" text="Vpr" lemma="vpr"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="713-724" text="suppression" lemma="suppression"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="725-727" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="728-736" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="737-738" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="739-747" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="748-751" text="via" lemma="via"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="752-755" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="756-765" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="766-768" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="769-770" text="I" lemma="i"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="771-776" text="kappa" lemma="kappa"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="777-778" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="778-779" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="780-782" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="783-792" text="inhibitor" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="793-795" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="796-804" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_26" POS="NNP" charOffset="805-807" text="B." lemma="B."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT This) (NN=H regulation))
+            (PP (IN=H of)
+            (NP (NN=H apoptosis))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H linked)
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN Vpr) (NN=H suppression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN NF-kappa) (NN B) (NN=H activity))
+            (PP (IN=H via)
+            (NP
+            (NP=H (DT the) (NN=H induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN I) (NN kappa) (NN=H B))
+            (, ,)
+            (NP
+            (NP=H (DT an) (NN=H inhibitor))
+            (PP (IN=H of)
+            (NP (NN NF-kappa) (NNP=H B.))))))))))))))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="808-925" id="S7">
+        <text xml:space="preserve">Further, Vpr suppresses expression of IL-2, IL-10, IL-12, TNF alpha and IL-4, all of which are NF-kappa B-dependent. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="808-815" text="Further" lemma="further"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="815-816" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="817-820" text="Vpr" lemma="vpr"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="821-831" text="suppresses" lemma="suppress"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="832-842" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="843-845" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="846-850" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="850-851" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="852-857" text="IL-10" lemma="il-10"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="857-858" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="859-864" text="IL-12" lemma="il-12"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="864-865" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="866-869" text="TNF" lemma="tnf"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="870-875" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="876-879" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="880-884" text="IL-4" lemma="il-4"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="884-885" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="886-889" text="all" lemma="all"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="890-892" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="WDT" charOffset="893-898" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_21" POS="VBP" charOffset="899-902" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="903-911" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="912-923" text="B-dependent" lemma="b-dependent"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="923-924" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Further))
+            (, ,)
+            (NP (NN=H Vpr))
+            (VP=H (VBZ=H suppresses)
+            (NP
+            (NP=H (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN IL-2) (, ,) (NN IL-10) (, ,) (NN IL-12) (, ,) (NN TNF) (NN=H alpha)
+            (CC and)
+            (NN IL-4))
+            (, ,)
+            (SBAR
+            (WHNP=H (DT all)
+            (WHPP=H (IN=H of)
+            (WHNP (WDT=H which))))
+            (S
+            (VP=H (VBP=H are)
+            (NP (NN=H NF-kappa) (JJ B-dependent)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="925-972" id="S8">
+        <text xml:space="preserve">The effects of Vpr could be reversed by RU486. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="925-928" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="929-936" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="937-939" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="940-943" text="Vpr" lemma="vpr"/>
+            <token xml:space="preserve" id="stt_5" POS="MD" charOffset="944-949" text="could" lemma="could"/>
+            <token xml:space="preserve" id="stt_6" POS="VB" charOffset="950-952" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="953-961" text="reversed" lemma="reverse"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="962-964" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="965-970" text="RU486" lemma="ru486"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="970-971" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NNS=H effects))
+            (PP (IN=H of)
+            (NP (NN=H Vpr))))
+            (VP=H (MD=H could)
+            (VP (VB=H be)
+            (VP (VBN=H reversed)
+            (PP (IN=H by)
+            (NP (NN=H RU486))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="972-1132" id="S9">
+        <text xml:space="preserve">Our finding that Vpr can regulate NF-kappa B supports the hypothesis that some aspects of viral pathogenesis are the consequence of cell dysregulation by Vpr. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP$" charOffset="972-975" text="Our" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="976-983" text="finding" lemma="finding"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="984-988" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="989-992" text="Vpr" lemma="vpr"/>
+            <token xml:space="preserve" id="stt_5" POS="MD" charOffset="993-996" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_6" POS="VB" charOffset="997-1005" text="regulate" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1006-1014" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1015-1016" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="1017-1025" text="supports" lemma="support"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="1026-1029" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1030-1040" text="hypothesis" lemma="hypothesis"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1041-1045" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="1046-1050" text="some" lemma="some"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="1051-1058" text="aspects" lemma="aspect"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1059-1061" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1062-1067" text="viral" lemma="viral"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1068-1080" text="pathogenesis" lemma="pathogenesis"/>
+            <token xml:space="preserve" id="stt_18" POS="VBP" charOffset="1081-1084" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="1085-1088" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1089-1100" text="consequence" lemma="consequence"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1101-1103" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1104-1108" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1109-1122" text="dysregulation" lemma="dysregulation"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="1123-1125" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1126-1129" text="Vpr" lemma="vpr"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="1129-1130" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (PRP$ Our) (NN=H finding))
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H Vpr))
+            (VP=H (MD=H can)
+            (VP (VB=H regulate)
+            (NP (NN NF-kappa) (NN=H B)))))))
+            (VP=H (VBZ=H supports)
+            (NP (DT the) (NN=H hypothesis))
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT some) (NNS=H aspects))
+            (PP (IN=H of)
+            (NP (JJ viral) (NN=H pathogenesis))))
+            (VP=H (VBP=H are)
+            (NP
+            (NP=H (DT the) (NN=H consequence))
+            (PP (IN=H of)
+            (NP (NN cell) (NN=H dysregulation))))
+            (PP (IN=H by)
+            (NP (NN=H Vpr)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T16" type="ZeroArticleNP" charOffset="305-308" headOffset="305-308" text="Vpr"/>
+    <Term xml:space="preserve" id="T17" type="PersonalPronoun" charOffset="350-352" headOffset="350-352" text="it"/>
+    <Term xml:space="preserve" id="T18" type="IndefiniteNP" charOffset="480-488" headOffset="482-488" text="a manner"/>
+    <Term xml:space="preserve" id="T19" type="DemonstrativePronoun" charOffset="500-504" headOffset="500-504" text="that"/>
+    <Term xml:space="preserve" id="T20" type="ZeroArticleNP" charOffset="543-566" headOffset="556-566" text="TCR-mediated activation"/>
+    <Term xml:space="preserve" id="T21" type="PossessivePronoun" charOffset="601-604" headOffset="601-604" text="its"/>
+    <Term xml:space="preserve" id="T22" type="ZeroArticleNP" charOffset="846-884" headOffset="880-884" text="IL-2, IL-10, IL-12, TNF alpha and IL-4"/>
+    <Term xml:space="preserve" id="T23" type="RelativePronoun" charOffset="893-898" headOffset="893-898" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T17"/>
+        <Antecedent idref="T16"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T19"/>
+        <Antecedent idref="T18"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T21"/>
+        <Antecedent idref="T20"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T23"/>
+        <Antecedent idref="T22"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="6-9" headOffset="6-9" text="Vpr"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="147-150" headOffset="147-150" text="Vpr"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="305-308" headOffset="305-308" text="Vpr"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="421-424" headOffset="421-424" text="Vpr"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="568-571" headOffset="568-571" text="Vpr"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="615-618" headOffset="615-618" text="Vpr"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="709-712" headOffset="709-712" text="Vpr"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="817-820" headOffset="817-820" text="Vpr"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="846-850" headOffset="846-850" text="IL-2"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="852-857" headOffset="852-857" text="IL-10"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="866-875" headOffset="870-875" text="TNF alpha"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="880-884" headOffset="880-884" text="IL-4"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="940-943" headOffset="940-943" text="Vpr"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="989-992" headOffset="989-992" text="Vpr"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1126-1129" headOffset="1126-1129" text="Vpr"/>
+</document>

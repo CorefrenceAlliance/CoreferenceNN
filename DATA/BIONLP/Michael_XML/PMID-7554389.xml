@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-7554389">
+    <text xml:space="preserve">Signalling via CD28 of human naive neonatal T lymphocytes. 
+Accessory molecules play a crucial role in the development of the T cell response to antigenic challenge. We have examined the role of CD28 in modulating the 'naive' neonatal T cell response to anti-CD2-mediated activation. To compare the role of CD28, neonatal and adult T cells were stimulated with a pair of mitogenic anti-CD2 antibodies in the presence or absence of anti-CD28 MoAb. With anti-CD2 alone, neonatal T cells proliferated slightly but produced no detectable IL-2, whereas adult T cells proliferated vigorously, with significant IL-2 production. Costimulation with anti-CD28 MoAb greatly enhanced the proliferative response of neonatal T cells to levels equivalent to those of adult T cells, whereas adult T cells showed only slight increases. Although IL-2 secretion was increased in the presence of anti-CD28 MoAb, neonatal T cell IL-2 production remained lower than in adults. In contrast, enhancement of IL-2 mRNA expression in neonates was similar to adult levels. Anti-CD28 MoAb costimulation increased NF kappa B levels in neonates, albeit to levels lower than that of adults. The cellular mechanism governing the diminished proliferative response of neonatal T lymphocytes to anti-CD2 may therefore be due to decreased NF kappa B induction, reduced IL-2 mRNA expression and deficient IL-2 production. Although anti-CD28 MoAb costimulation enhances all of the above signals, NF kappa B and IL-2 levels remain lower than in adults, suggesting the need for further activation requirements in the neonate. 
+</text>
+    <sentence charOffset="0-60" id="S1">
+        <text xml:space="preserve">Signalling via CD28 of human naive neonatal T lymphocytes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-10" text="Signalling" lemma="signalling"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="11-14" text="via" lemma="via"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="15-19" text="CD28" lemma="cd28"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="20-22" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="23-28" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="29-34" text="naive" lemma="naive"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="35-43" text="neonatal" lemma="neonatal"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="44-45" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="46-57" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="57-58" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Signalling))
+            (PP (IN=H via)
+            (NP (NN=H CD28)))
+            (PP (IN=H of)
+            (NP
+            (ADJP (JJ human) (JJ=H naive))
+            (JJ neonatal) (NN T) (NNS=H lymphocytes)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="60-166" id="S2">
+        <text xml:space="preserve">Accessory molecules play a crucial role in the development of the T cell response to antigenic challenge. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="60-69" text="Accessory" lemma="accessory"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="70-79" text="molecules" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="80-84" text="play" lemma="play"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="85-86" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="87-94" text="crucial" lemma="crucial"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="95-99" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="100-102" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="103-106" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="107-118" text="development" lemma="development"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="119-121" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="122-125" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="126-127" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="128-132" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="133-141" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_15" POS="TO" charOffset="142-144" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="145-154" text="antigenic" lemma="antigenic"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="155-164" text="challenge" lemma="challenge"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="164-165" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Accessory) (NNS=H molecules))
+            (VP=H (VBP=H play)
+            (NP
+            (NP=H (DT a) (JJ crucial) (NN=H role))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H development))
+            (PP (IN=H of)
+            (NP (DT the) (NN T) (NN cell) (NN=H response))))))
+            (PP (TO=H to)
+            (NP (JJ antigenic) (NN=H challenge))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="166-284" id="S3">
+        <text xml:space="preserve">We have examined the role of CD28 in modulating the 'naive' neonatal T cell response to anti-CD2-mediated activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="166-168" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="169-173" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="174-182" text="examined" lemma="examine"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="183-186" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="187-191" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="192-194" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="195-199" text="CD28" lemma="cd28"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="200-202" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="VBG" charOffset="203-213" text="modulating" lemma="modulate"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="214-217" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="``" charOffset="218-219" text="'" lemma="`"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="219-224" text="naive" lemma="naive"/>
+            <token xml:space="preserve" id="stt_13" POS="''" charOffset="224-225" text="'" lemma="'"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="226-234" text="neonatal" lemma="neonatal"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="235-236" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="237-241" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="242-250" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_18" POS="TO" charOffset="251-253" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="254-271" text="anti-CD2-mediated" lemma="anti-cd2-mediated"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="272-282" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="282-283" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H have)
+            (VP (VBN=H examined)
+            (NP
+            (NP=H (DT the) (NN=H role))
+            (PP (IN=H of)
+            (NP (NN=H CD28))))
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H modulating)
+            (NP
+            (NP=H (DT the)
+            (ADJP (`` `) (JJ naive) ('' ') (JJ=H neonatal))
+            (NN T) (NN cell) (NN=H response))
+            (PP (TO=H to)
+            (NP (JJ anti-CD2-mediated) (NN=H activation)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="284-447" id="S4">
+        <text xml:space="preserve">To compare the role of CD28, neonatal and adult T cells were stimulated with a pair of mitogenic anti-CD2 antibodies in the presence or absence of anti-CD28 MoAb. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="TO" charOffset="284-286" text="To" lemma="to"/>
+            <token xml:space="preserve" id="stt_2" POS="VB" charOffset="287-294" text="compare" lemma="compare"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="295-298" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="299-303" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="304-306" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="307-311" text="CD28" lemma="cd28"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="311-312" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="313-321" text="neonatal" lemma="neonatal"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="322-325" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="326-331" text="adult" lemma="adult"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="332-333" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="334-339" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_13" POS="VBD" charOffset="340-344" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="345-355" text="stimulated" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="356-360" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="361-362" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="363-367" text="pair" lemma="pair"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="368-370" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="371-380" text="mitogenic" lemma="mitogenic"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="381-389" text="anti-CD2" lemma="anti-cd2"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="390-400" text="antibodies" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="401-403" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="404-407" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="408-416" text="presence" lemma="presence"/>
+            <token xml:space="preserve" id="stt_25" POS="CC" charOffset="417-419" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="420-427" text="absence" lemma="absence"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="428-430" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="431-440" text="anti-CD28" lemma="anti-cd28"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="441-445" text="MoAb" lemma="moab"/>
+            <token xml:space="preserve" id="stt_30" POS="." charOffset="445-446" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (TO=H To)
+            (VP (VB=H compare)
+            (NP
+            (NP=H (DT the) (NN=H role))
+            (PP (IN=H of)
+            (NP (NN CD28) (, ,) (JJ neonatal)
+            (CC and)
+            (JJ adult) (NN T) (NNS=H cells)))))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H stimulated)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT a) (NN=H pair))
+            (PP (IN=H of)
+            (NP (JJ mitogenic) (JJ anti-CD2) (NNS=H antibodies)))))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H presence)
+            (CC or)
+            (NN absence))
+            (PP (IN=H of)
+            (NP (JJ anti-CD28) (NN=H MoAb)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="447-621" id="S5">
+        <text xml:space="preserve">With anti-CD2 alone, neonatal T cells proliferated slightly but produced no detectable IL-2, whereas adult T cells proliferated vigorously, with significant IL-2 production. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="447-451" text="With" lemma="with"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="452-460" text="anti-CD2" lemma="anti-cd2"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="461-466" text="alone" lemma="alone"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="466-467" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="468-476" text="neonatal" lemma="neonatal"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="477-478" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="479-484" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="485-497" text="proliferated" lemma="proliferate"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="498-506" text="slightly" lemma="slightly"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="507-510" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_11" POS="VBD" charOffset="511-519" text="produced" lemma="produce"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="520-522" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="523-533" text="detectable" lemma="detectable"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="534-538" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="538-539" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="540-547" text="whereas" lemma="whereas"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="548-553" text="adult" lemma="adult"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="554-555" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="556-561" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_20" POS="VBD" charOffset="562-574" text="proliferated" lemma="proliferate"/>
+            <token xml:space="preserve" id="stt_21" POS="RB" charOffset="575-585" text="vigorously" lemma="vigorously"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="585-586" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="587-591" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="592-603" text="significant" lemma="significant"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="604-608" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="609-619" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="619-620" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H With)
+            (NP (NN=H anti-CD2) (RB alone)))
+            (, ,)
+            (NP (JJ neonatal) (NN T) (NNS=H cells))
+            (VP=H
+            (VP=H (VBD=H proliferated)
+            (ADVP (RB=H slightly)))
+            (CC but)
+            (VP (VBD=H produced)
+            (NP
+            (NP=H (DT no) (JJ detectable) (NN=H IL-2))
+            (, ,)
+            (SBAR (IN=H whereas)
+            (S
+            (NP (JJ adult) (NN T) (NNS=H cells))
+            (VP=H (VBD=H proliferated)
+            (ADVP (RB=H vigorously))
+            (, ,)
+            (PP (IN=H with)
+            (NP (JJ significant) (NN IL-2) (NN=H production)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="621-819" id="S6">
+        <text xml:space="preserve">Costimulation with anti-CD28 MoAb greatly enhanced the proliferative response of neonatal T cells to levels equivalent to those of adult T cells, whereas adult T cells showed only slight increases. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="621-634" text="Costimulation" lemma="costimulation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="635-639" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="640-649" text="anti-CD28" lemma="anti-cd28"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="650-654" text="MoAb" lemma="moab"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="655-662" text="greatly" lemma="greatly"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="663-671" text="enhanced" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="672-675" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="676-689" text="proliferative" lemma="proliferative"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="690-698" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="699-701" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="702-710" text="neonatal" lemma="neonatal"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="711-712" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="713-718" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_14" POS="TO" charOffset="719-721" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="722-728" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="729-739" text="equivalent" lemma="equivalent"/>
+            <token xml:space="preserve" id="stt_17" POS="TO" charOffset="740-742" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="743-748" text="those" lemma="those"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="749-751" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="752-757" text="adult" lemma="adult"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="758-759" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="760-765" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_23" POS="," charOffset="765-766" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="767-774" text="whereas" lemma="whereas"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="775-780" text="adult" lemma="adult"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="781-782" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="783-788" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_28" POS="VBD" charOffset="789-795" text="showed" lemma="show"/>
+            <token xml:space="preserve" id="stt_29" POS="RB" charOffset="796-800" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="801-807" text="slight" lemma="slight"/>
+            <token xml:space="preserve" id="stt_31" POS="NNS" charOffset="808-817" text="increases" lemma="increase"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="817-818" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Costimulation))
+            (PP (IN=H with)
+            (NP (JJ anti-CD28) (NN=H MoAb))))
+            (ADVP (RB=H greatly))
+            (VP=H (VBD=H enhanced)
+            (NP
+            (NP=H (DT the) (JJ proliferative) (NN=H response))
+            (PP (IN=H of)
+            (NP (JJ neonatal) (NN T) (NNS=H cells))))
+            (PP (TO=H to)
+            (NP
+            (NP=H (NNS=H levels))
+            (ADJP (JJ=H equivalent)
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT=H those))
+            (PP (IN=H of)
+            (NP (JJ adult) (NN T) (NNS=H cells))))))))
+            (, ,)
+            (SBAR (IN=H whereas)
+            (S
+            (NP (JJ adult) (NN T) (NNS=H cells))
+            (VP=H (VBD=H showed)
+            (NP (RB only) (JJ slight) (NNS=H increases))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="819-955" id="S7">
+        <text xml:space="preserve">Although IL-2 secretion was increased in the presence of anti-CD28 MoAb, neonatal T cell IL-2 production remained lower than in adults. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="819-827" text="Although" lemma="although"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="828-832" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="833-842" text="secretion" lemma="secretion"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="843-846" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="847-856" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="857-859" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="860-863" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="864-872" text="presence" lemma="presence"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="873-875" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="876-885" text="anti-CD28" lemma="anti-cd28"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="886-890" text="MoAb" lemma="moab"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="890-891" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="892-900" text="neonatal" lemma="neonatal"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="901-902" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="903-907" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="908-912" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="913-923" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_18" POS="VBD" charOffset="924-932" text="remained" lemma="remain"/>
+            <token xml:space="preserve" id="stt_19" POS="JJR" charOffset="933-938" text="lower" lemma="lower"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="939-943" text="than" lemma="than"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="944-946" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="947-953" text="adults" lemma="adult"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="953-954" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H Although)
+            (S
+            (NP (NN IL-2) (NN=H secretion))
+            (VP=H (VBD=H was)
+            (VP (VBN=H increased)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H presence))
+            (PP (IN=H of)
+            (NP (JJ anti-CD28) (NN=H MoAb)))))))))
+            (, ,)
+            (NP
+            (NP=H (JJ neonatal) (NN T) (NN=H cell))
+            (NP (NN IL-2) (NN=H production)))
+            (VP=H (VBD=H remained)
+            (ADVP (JJR lower) (IN=H than))
+            (PP (IN=H in)
+            (NP (NNS=H adults))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="955-1045" id="S8">
+        <text xml:space="preserve">In contrast, enhancement of IL-2 mRNA expression in neonates was similar to adult levels. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="955-957" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="958-966" text="contrast" lemma="contrast"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="966-967" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="968-979" text="enhancement" lemma="enhancement"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="980-982" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="983-987" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="988-992" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="993-1003" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1004-1006" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1007-1015" text="neonates" lemma="neonate"/>
+            <token xml:space="preserve" id="stt_11" POS="VBD" charOffset="1016-1019" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1020-1027" text="similar" lemma="similar"/>
+            <token xml:space="preserve" id="stt_13" POS="TO" charOffset="1028-1030" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="1031-1036" text="adult" lemma="adult"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="1037-1043" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="1043-1044" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H contrast)))
+            (, ,)
+            (NP
+            (NP=H (NN=H enhancement))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN IL-2) (NN mRNA) (NN=H expression))
+            (PP (IN=H in)
+            (NP (NNS=H neonates))))))
+            (VP=H (VBD=H was)
+            (ADJP (JJ=H similar)
+            (PP (TO=H to)
+            (NP (JJ adult) (NNS=H levels)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1045-1159" id="S9">
+        <text xml:space="preserve">Anti-CD28 MoAb costimulation increased NF kappa B levels in neonates, albeit to levels lower than that of adults. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1045-1054" text="Anti-CD28" lemma="anti-cd28"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1055-1059" text="MoAb" lemma="moab"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1060-1073" text="costimulation" lemma="costimulation"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="1074-1083" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1084-1086" text="NF" lemma="nf"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1087-1092" text="kappa" lemma="kappa"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1093-1094" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1095-1101" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1102-1104" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1105-1113" text="neonates" lemma="neonate"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="1113-1114" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1115-1121" text="albeit" lemma="albeit"/>
+            <token xml:space="preserve" id="stt_13" POS="TO" charOffset="1122-1124" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="1125-1131" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_15" POS="JJR" charOffset="1132-1137" text="lower" lemma="lower"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1138-1142" text="than" lemma="than"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="1143-1147" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1148-1150" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="1151-1157" text="adults" lemma="adult"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="1157-1158" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Anti-CD28) (NN MoAb) (NN=H costimulation))
+            (VP=H (VBD=H increased)
+            (NP (NN NF) (NN kappa) (NN B) (NNS=H levels))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NNS=H neonates))
+            (, ,)
+            (RRC
+            (ADVP (IN=H albeit)
+            (PP (TO=H to)
+            (NP (NNS=H levels))))
+            (ADJP=H (JJR=H lower)))))
+            (PP (IN=H than)
+            (NP
+            (NP=H (DT=H that))
+            (PP (IN=H of)
+            (NP (NNS=H adults))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1159-1384" id="S10">
+        <text xml:space="preserve">The cellular mechanism governing the diminished proliferative response of neonatal T lymphocytes to anti-CD2 may therefore be due to decreased NF kappa B induction, reduced IL-2 mRNA expression and deficient IL-2 production. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1159-1162" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="1163-1171" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1172-1181" text="mechanism" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_4" POS="VBG" charOffset="1182-1191" text="governing" lemma="govern"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="1192-1195" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="1196-1206" text="diminished" lemma="diminish"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1207-1220" text="proliferative" lemma="proliferative"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1221-1229" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1230-1232" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1233-1241" text="neonatal" lemma="neonatal"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1242-1243" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="1244-1255" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_13" POS="TO" charOffset="1256-1258" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1259-1267" text="anti-CD2" lemma="anti-cd2"/>
+            <token xml:space="preserve" id="stt_15" POS="MD" charOffset="1268-1271" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="1272-1281" text="therefore" lemma="therefore"/>
+            <token xml:space="preserve" id="stt_17" POS="VB" charOffset="1282-1284" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1285-1288" text="due" lemma="due"/>
+            <token xml:space="preserve" id="stt_19" POS="TO" charOffset="1289-1291" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_20" POS="VBN" charOffset="1292-1301" text="decreased" lemma="decrease"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1302-1304" text="NF" lemma="nf"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1305-1310" text="kappa" lemma="kappa"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1311-1312" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1313-1322" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_25" POS="," charOffset="1322-1323" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_26" POS="VBD" charOffset="1324-1331" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1332-1336" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1337-1341" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1342-1352" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_30" POS="CC" charOffset="1353-1356" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="1357-1366" text="deficient" lemma="deficient"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1367-1371" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1372-1382" text="production" lemma="production"/>
+            <token xml:space="preserve" id="stt_34" POS="." charOffset="1382-1383" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (SINV=H
+            (S
+            (NP
+            (NP=H (DT The) (JJ cellular) (NN=H mechanism))
+            (VP (VBG=H governing)
+            (NP
+            (NP=H (DT the)
+            (ADJP (VBN diminished) (JJ=H proliferative))
+            (NN=H response))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ neonatal) (NN T) (NNS=H lymphocytes))
+            (PP (TO=H to)
+            (NP (NN=H anti-CD2))))))))
+            (VP=H (MD=H may)
+            (ADVP (RB=H therefore))
+            (VP (VB=H be)
+            (ADJP (JJ=H due)
+            (PP (TO=H to)
+            (NP (VBN decreased) (NN NF) (NN kappa) (NN B) (NN=H induction)))))))
+            (, ,)
+            (VP=H (VBD=H reduced))
+            (NP
+            (NP=H (NN IL-2) (NN mRNA) (NN=H expression))
+            (CC and)
+            (NP (JJ deficient) (NN IL-2) (NN=H production)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1384-1586" id="S11">
+        <text xml:space="preserve">Although anti-CD28 MoAb costimulation enhances all of the above signals, NF kappa B and IL-2 levels remain lower than in adults, suggesting the need for further activation requirements in the neonate. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1384-1392" text="Although" lemma="although"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="1393-1402" text="anti-CD28" lemma="anti-cd28"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1403-1407" text="MoAb" lemma="moab"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1408-1421" text="costimulation" lemma="costimulation"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="1422-1430" text="enhances" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1431-1434" text="all" lemma="all"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="1435-1437" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="1438-1441" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1442-1447" text="above" lemma="above"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1448-1455" text="signals" lemma="signal"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="1455-1456" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1457-1459" text="NF" lemma="nf"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1460-1465" text="kappa" lemma="kappa"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1466-1467" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="1468-1471" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1472-1476" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="1477-1483" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_18" POS="VBP" charOffset="1484-1490" text="remain" lemma="remain"/>
+            <token xml:space="preserve" id="stt_19" POS="JJR" charOffset="1491-1496" text="lower" lemma="lower"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1497-1501" text="than" lemma="than"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1502-1504" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="1505-1511" text="adults" lemma="adult"/>
+            <token xml:space="preserve" id="stt_23" POS="," charOffset="1511-1512" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_24" POS="VBG" charOffset="1513-1523" text="suggesting" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_25" POS="DT" charOffset="1524-1527" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1528-1532" text="need" lemma="need"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1533-1536" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="1537-1544" text="further" lemma="further"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1545-1555" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="1556-1568" text="requirements" lemma="requirement"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="1569-1571" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_32" POS="DT" charOffset="1572-1575" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1576-1583" text="neonate" lemma="neonate"/>
+            <token xml:space="preserve" id="stt_34" POS="." charOffset="1583-1584" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H Although)
+            (S
+            (NP (JJ anti-CD28) (NN MoAb) (NN=H costimulation))
+            (VP=H (VBZ=H enhances)
+            (NP
+            (NP=H (DT=H all))
+            (PP (IN=H of)
+            (NP (DT the) (JJ above) (NNS=H signals)))))))
+            (, ,)
+            (NP
+            (NP=H (NN NF) (NN kappa) (NN=H B))
+            (CC and)
+            (NP (NN IL-2) (NNS=H levels)))
+            (VP=H (VBP=H remain)
+            (ADVP (JJR lower) (IN=H than))
+            (PP (IN=H in)
+            (NP (NNS=H adults)))
+            (, ,)
+            (S
+            (VP=H (VBG=H suggesting)
+            (NP (DT the) (NN=H need))
+            (PP (IN=H for)
+            (NP
+            (NP=H (JJ further) (NN activation) (NNS=H requirements))
+            (PP (IN=H in)
+            (NP (DT the) (NN=H neonate))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T17" type="ZeroArticleNP" charOffset="722-728" headOffset="722-728" text="levels"/>
+    <Term xml:space="preserve" id="T18" type="DemonstrativePronoun" charOffset="743-748" headOffset="743-748" text="those"/>
+    <Term xml:space="preserve" id="T19" type="ZeroArticleNP" charOffset="1125-1131" headOffset="1125-1131" text="levels"/>
+    <Term xml:space="preserve" id="T20" type="DemonstrativePronoun" charOffset="1143-1147" headOffset="1143-1147" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T18"/>
+        <Antecedent idref="T17"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T20"/>
+        <Antecedent idref="T19"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="15-19" headOffset="15-19" text="CD28"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="195-199" headOffset="195-199" text="CD28"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="307-311" headOffset="307-311" text="CD28"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="436-440" headOffset="436-440" text="CD28"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="534-538" headOffset="534-538" text="IL-2"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="604-608" headOffset="604-608" text="IL-2"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="645-649" headOffset="645-649" text="CD28"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="828-832" headOffset="828-832" text="IL-2"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="881-885" headOffset="881-885" text="CD28"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="908-912" headOffset="908-912" text="IL-2"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="983-987" headOffset="983-987" text="IL-2"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="1050-1054" headOffset="1050-1054" text="CD28"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="1332-1336" headOffset="1332-1336" text="IL-2"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1367-1371" headOffset="1367-1371" text="IL-2"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1398-1402" headOffset="1398-1402" text="CD28"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="1472-1476" headOffset="1472-1476" text="IL-2"/>
+</document>

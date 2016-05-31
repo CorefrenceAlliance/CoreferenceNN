@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-7637809">
+    <text xml:space="preserve">An IRF-1-dependent pathway of DNA damage-induced apoptosis in mitogen-activated T lymphocytes. 
+Lymphocytes are particularly susceptible to DNA damage-induced apoptosis, a response which may serve as a form of 'altruistic suicide' to counter their intrinsic high potential for mutation and clonal expansion. The tumour suppressor p53 has been shown to regulate this type of apoptosis in thymocytes, but an as yet unknown, p53-independent pathway(s) appears to mediate the same event in mitogen-activated mature T lymphocytes. Here we show DNA damage-induced apoptosis in these T lymphocytes is dependent on the antioncogenic transcription factor interferon regulatory factor (IRF)-1. Thus two different anti-onco-genic transcription factors, p53 and IRF-1, are required for distinct apoptotic pathways in T lymphocytes. We also show that mitogen induction of the interleukin-1 beta converting enzyme (ICE) gene, a mammalian homologue of the Caenorhabditis elegans cell death gene ced-3, is IRF-1-dependent. Ectopic overexpression of IRF-1 results in the activation of the endogenous gene for ICE and enhances the sensitivity of cells to radiation-induced apoptosis. 
+</text>
+    <sentence charOffset="0-96" id="S1">
+        <text xml:space="preserve">An IRF-1-dependent pathway of DNA damage-induced apoptosis in mitogen-activated T lymphocytes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="0-2" text="An" lemma="a"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="3-18" text="IRF-1-dependent" lemma="irf-1-dependent"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="19-26" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="27-29" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="30-33" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="34-48" text="damage-induced" lemma="damage-induced"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="49-58" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="59-61" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="62-79" text="mitogen-activated" lemma="mitogen-activated"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="80-81" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="82-93" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="93-94" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (DT An) (JJ IRF-1-dependent) (NN=H pathway))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN DNA) (JJ damage-induced) (NN=H apoptosis))
+            (PP (IN=H in)
+            (NP (JJ mitogen-activated) (NN T) (NNS=H lymphocytes)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="96-308" id="S2">
+        <text xml:space="preserve">Lymphocytes are particularly susceptible to DNA damage-induced apoptosis, a response which may serve as a form of 'altruistic suicide' to counter their intrinsic high potential for mutation and clonal expansion. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="96-107" text="Lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="108-111" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="112-124" text="particularly" lemma="particularly"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="125-136" text="susceptible" lemma="susceptible"/>
+            <token xml:space="preserve" id="stt_5" POS="TO" charOffset="137-139" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="140-143" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="144-158" text="damage-induced" lemma="damage-induced"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="159-168" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="168-169" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="170-171" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="172-180" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_12" POS="WDT" charOffset="181-186" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_13" POS="MD" charOffset="187-190" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_14" POS="VB" charOffset="191-196" text="serve" lemma="serve"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="197-199" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="200-201" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="202-206" text="form" lemma="form"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="207-209" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="``" charOffset="210-211" text="'" lemma="`"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="211-221" text="altruistic" lemma="altruistic"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="222-229" text="suicide" lemma="suicide"/>
+            <token xml:space="preserve" id="stt_22" POS="''" charOffset="229-230" text="'" lemma="'"/>
+            <token xml:space="preserve" id="stt_23" POS="TO" charOffset="231-233" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_24" POS="VB" charOffset="234-241" text="counter" lemma="counter"/>
+            <token xml:space="preserve" id="stt_25" POS="PRP$" charOffset="242-247" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="248-257" text="intrinsic" lemma="intrinsic"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="258-262" text="high" lemma="high"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="263-272" text="potential" lemma="potential"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="273-276" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="277-285" text="mutation" lemma="mutation"/>
+            <token xml:space="preserve" id="stt_31" POS="CC" charOffset="286-289" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="290-296" text="clonal" lemma="clonal"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="297-306" text="expansion" lemma="expansion"/>
+            <token xml:space="preserve" id="stt_34" POS="." charOffset="306-307" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NNS=H Lymphocytes))
+            (VP=H (VBP=H are)
+            (ADJP (RB particularly) (JJ=H susceptible)
+            (PP (TO=H to)
+            (NP
+            (NP=H (NN DNA) (JJ damage-induced) (NN=H apoptosis))
+            (, ,)
+            (NP
+            (NP=H (DT a) (NN=H response))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (MD=H may)
+            (VP (VB=H serve)
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT a) (NN=H form))
+            (PP (IN=H of) (`` `)
+            (NP (JJ altruistic) (NN=H suicide))
+            ('' '))))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H counter)
+            (NP (PRP$ their) (JJ intrinsic) (JJ high) (NN=H potential))
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN=H mutation))
+            (CC and)
+            (NP (JJ clonal) (NN=H expansion))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="308-526" id="S3">
+        <text xml:space="preserve">The tumour suppressor p53 has been shown to regulate this type of apoptosis in thymocytes, but an as yet unknown, p53-independent pathway(s) appears to mediate the same event in mitogen-activated mature T lymphocytes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="308-311" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="312-318" text="tumour" lemma="tumour"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="319-329" text="suppressor" lemma="suppressor"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="330-333" text="p53" lemma="p53"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="334-337" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="338-342" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="343-348" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="349-351" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="352-360" text="regulate" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="361-365" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="366-370" text="type" lemma="type"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="371-373" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="374-383" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="384-386" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="387-397" text="thymocytes" lemma="thymocyte"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="397-398" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="399-402" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="403-405" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_19" POS="RB" charOffset="406-408" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_20" POS="RB" charOffset="409-412" text="yet" lemma="yet"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="413-420" text="unknown" lemma="unknown"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="420-421" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="422-437" text="p53-independent" lemma="p53-independent"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="438-445" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_25" POS="-LRB-" charOffset="445-446" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="446-447" text="s" lemma="s"/>
+            <token xml:space="preserve" id="stt_27" POS="-RRB-" charOffset="447-448" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_28" POS="VBZ" charOffset="449-456" text="appears" lemma="appear"/>
+            <token xml:space="preserve" id="stt_29" POS="TO" charOffset="457-459" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_30" POS="VB" charOffset="460-467" text="mediate" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_31" POS="DT" charOffset="468-471" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="472-476" text="same" lemma="same"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="477-482" text="event" lemma="event"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="483-485" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_35" POS="JJ" charOffset="486-503" text="mitogen-activated" lemma="mitogen-activated"/>
+            <token xml:space="preserve" id="stt_36" POS="JJ" charOffset="504-510" text="mature" lemma="mature"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="511-512" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_38" POS="NNS" charOffset="513-524" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_39" POS="." charOffset="524-525" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (DT The) (NN tumour) (NN suppressor) (NN=H p53))
+            (VP=H (VBZ=H has)
+            (VP (VBN=H been)
+            (VP (VBN=H shown)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H regulate)
+            (NP
+            (NP=H (DT this) (NN=H type))
+            (PP (IN=H of)
+            (NP (NN=H apoptosis))))
+            (PP (IN=H in)
+            (NP (NNS=H thymocytes))))))))))
+            (, ,)
+            (CC but)
+            (S
+            (NP
+            (NP=H (DT an)
+            (ADJP (RB as) (RB yet) (JJ=H unknown) (, ,))
+            (JJ p53-independent) (NN=H pathway))
+            (PRN (-LRB- -LRB-) (NNS=H s) (-RRB- -RRB-)))
+            (VP=H (VBZ=H appears)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H mediate)
+            (NP (DT the) (JJ same) (NN=H event))
+            (PP (IN=H in)
+            (NP (JJ mitogen-activated) (JJ mature) (NN T) (NNS=H lymphocytes))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="526-684" id="S4">
+        <text xml:space="preserve">Here we show DNA damage-induced apoptosis in these T lymphocytes is dependent on the antioncogenic transcription factor interferon regulatory factor (IRF)-1. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="526-530" text="Here" lemma="here"/>
+            <token xml:space="preserve" id="stt_2" POS="PRP" charOffset="531-533" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="534-538" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="539-542" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="543-557" text="damage-induced" lemma="damage-induced"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="558-567" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="568-570" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="571-576" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="577-578" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="579-590" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="591-593" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="594-603" text="dependent" lemma="dependent"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="604-606" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="607-610" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="611-624" text="antioncogenic" lemma="antioncogenic"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="625-638" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="639-645" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="646-656" text="interferon" lemma="interferon"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="657-667" text="regulatory" lemma="regulatory"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="668-674" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_21" POS="-LRB-" charOffset="675-676" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="676-679" text="IRF" lemma="irf"/>
+            <token xml:space="preserve" id="stt_23" POS="-RRB-" charOffset="679-680" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_24" POS="CD" charOffset="680-682" text="-1" lemma="-1"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="682-683" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Here))
+            (NP (PRP=H we))
+            (VP=H (VBP=H show)
+            (SBAR
+            (S=H
+            (NP
+            (NP=H (NN DNA) (JJ damage-induced) (NN=H apoptosis))
+            (PP (IN=H in)
+            (NP (DT these) (NN T) (NNS=H lymphocytes))))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H dependent)
+            (PP (IN=H on)
+            (NP
+            (NP=H (DT the) (JJ antioncogenic) (NN transcription) (NN factor) (NN interferon) (JJ regulatory) (NN=H factor))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IRF))
+            (-RRB- -RRB-))))
+            (NP-TMP (CD=H -1)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="684-820" id="S5">
+        <text xml:space="preserve">Thus two different anti-onco-genic transcription factors, p53 and IRF-1, are required for distinct apoptotic pathways in T lymphocytes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="684-688" text="Thus" lemma="thus"/>
+            <token xml:space="preserve" id="stt_2" POS="CD" charOffset="689-692" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="693-702" text="different" lemma="different"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="703-718" text="anti-onco-genic" lemma="anti-onco-genic"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="719-732" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="733-740" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="740-741" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="742-745" text="p53" lemma="p53"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="746-749" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="750-755" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_11" POS="," charOffset="755-756" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_12" POS="VBP" charOffset="757-760" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_13" POS="VBN" charOffset="761-769" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="770-773" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="774-782" text="distinct" lemma="distinct"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="783-792" text="apoptotic" lemma="apoptotic"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="793-801" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="802-804" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="805-806" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="807-818" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="818-819" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Thus))
+            (NP
+            (NP=H (CD two) (JJ different) (JJ anti-onco-genic) (NN transcription) (NNS=H factors))
+            (, ,)
+            (NP (NN=H p53)
+            (CC and)
+            (NN IRF-1))
+            (, ,))
+            (VP=H (VBP=H are)
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP
+            (NP=H (JJ distinct) (JJ apoptotic) (NNS=H pathways))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H lymphocytes)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="820-1007" id="S6">
+        <text xml:space="preserve">We also show that mitogen induction of the interleukin-1 beta converting enzyme (ICE) gene, a mammalian homologue of the Caenorhabditis elegans cell death gene ced-3, is IRF-1-dependent. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="820-822" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="823-827" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="828-832" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="833-837" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="838-845" text="mitogen" lemma="mitogen"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="846-855" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="856-858" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="859-862" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="863-876" text="interleukin-1" lemma="interleukin-1"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="877-881" text="beta" lemma="beta"/>
+            <token xml:space="preserve" id="stt_11" POS="VBG" charOffset="882-892" text="converting" lemma="convert"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="893-899" text="enzyme" lemma="enzyme"/>
+            <token xml:space="preserve" id="stt_13" POS="-LRB-" charOffset="900-901" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="901-904" text="ICE" lemma="ice"/>
+            <token xml:space="preserve" id="stt_15" POS="-RRB-" charOffset="904-905" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="906-910" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="910-911" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="912-913" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="914-923" text="mammalian" lemma="mammalian"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="924-933" text="homologue" lemma="homologue"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="934-936" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="937-940" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="941-955" text="Caenorhabditis" lemma="caenorhabditis"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="956-963" text="elegans" lemma="elegans"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="964-968" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="969-974" text="death" lemma="death"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="975-979" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="980-985" text="ced-3" lemma="ced-3"/>
+            <token xml:space="preserve" id="stt_29" POS="," charOffset="985-986" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_30" POS="VBZ" charOffset="987-989" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="990-1005" text="IRF-1-dependent" lemma="irf-1-dependent"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="1005-1006" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (ADVP (RB=H also))
+            (VP=H (VBP=H show)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN mitogen) (NN=H induction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN interleukin-1) (NN=H beta))
+            (VP (VBG=H converting)
+            (NP
+            (NP=H (NN=H enzyme))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H ICE))
+            (-RRB- -RRB-)))
+            (S
+            (NP=H
+            (NP=H (NN=H gene))
+            (, ,)
+            (NP
+            (NP=H (DT a) (JJ mammalian) (NN=H homologue))
+            (PP (IN=H of)
+            (NP (DT the) (NN Caenorhabditis) (NN elegans) (NN cell) (NN death) (NN gene) (NN=H ced-3))))
+            (, ,)))))))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H IRF-1-dependent))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1007-1167" id="S7">
+        <text xml:space="preserve">Ectopic overexpression of IRF-1 results in the activation of the endogenous gene for ICE and enhances the sensitivity of cells to radiation-induced apoptosis. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1007-1014" text="Ectopic" lemma="ectopic"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1015-1029" text="overexpression" lemma="overexpression"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1030-1032" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1033-1038" text="IRF-1" lemma="irf-1"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="1039-1046" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1047-1049" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="1050-1053" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1054-1064" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1065-1067" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="1068-1071" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1072-1082" text="endogenous" lemma="endogenous"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1083-1087" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1088-1091" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1092-1095" text="ICE" lemma="ice"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="1096-1099" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="1100-1108" text="enhances" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="1109-1112" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1113-1124" text="sensitivity" lemma="sensitivity"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1125-1127" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="1128-1133" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_21" POS="TO" charOffset="1134-1136" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="1137-1154" text="radiation-induced" lemma="radiation-induced"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1155-1164" text="apoptosis" lemma="apoptosis"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="1164-1165" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Ectopic) (NN=H overexpression))
+            (PP (IN=H of)
+            (NP (NN=H IRF-1))))
+            (VP=H
+            (VP=H (VBZ=H results)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (JJ endogenous) (NN=H gene))
+            (PP (IN=H for)
+            (NP (NN=H ICE))))))))
+            (CC and)
+            (VP (VBZ=H enhances)
+            (NP
+            (NP=H (DT the) (NN=H sensitivity))
+            (PP (IN=H of)
+            (NP (NNS=H cells))))
+            (PP (TO=H to)
+            (NP (JJ radiation-induced) (NN=H apoptosis)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T13" type="ZeroArticleNP" charOffset="96-107" headOffset="96-107" text="Lymphocytes"/>
+    <Term xml:space="preserve" id="T14" type="IndefiniteNP" charOffset="170-180" headOffset="172-180" text="a response"/>
+    <Term xml:space="preserve" id="T15" type="RelativePronoun" charOffset="181-186" headOffset="181-186" text="which"/>
+    <Term xml:space="preserve" id="T16" type="PossessivePronoun" charOffset="242-247" headOffset="242-247" text="their"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T15"/>
+        <Antecedent idref="T14"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T16"/>
+        <Antecedent idref="T13"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="3-8" headOffset="3-8" text="IRF-1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="330-333" headOffset="330-333" text="p53"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="422-425" headOffset="422-425" text="p53"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="646-682" headOffset="676-679" text="interferon regulatory factor (IRF)-1"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="742-745" headOffset="742-745" text="p53"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="750-755" headOffset="750-755" text="IRF-1"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="863-899" headOffset="893-899" text="interleukin-1 beta converting enzyme"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="901-904" headOffset="901-904" text="ICE"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="980-985" headOffset="980-985" text="ced-3"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="990-995" headOffset="990-995" text="IRF-1"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="1033-1038" headOffset="1033-1038" text="IRF-1"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="1092-1095" headOffset="1092-1095" text="ICE"/>
+</document>

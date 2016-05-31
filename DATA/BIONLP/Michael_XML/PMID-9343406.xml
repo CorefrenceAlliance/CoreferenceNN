@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9343406">
+    <text xml:space="preserve">Blockade of T-cell activation by dithiocarbamates involves novel mechanisms of inhibition of nuclear factor of activated T cells. 
+Dithiocarbamates (DTCs) have recently been reported as powerful inhibitors of NF-kappaB activation in a number of cell types. Given the role of this transcription factor in the regulation of gene expression in the inflammatory response, NF-kappaB inhibitors have been suggested as potential therapeutic drugs for inflammatory diseases. We show here that DTCs inhibited both interleukin 2 (IL-2) synthesis and membrane expression of antigens which are induced during T-cell activation. This inhibition, which occurred with a parallel activation of c-Jun transactivating functions and expression, was reflected by transfection experiments at the IL-2 promoter level, and involved not only the inhibition of NF-kappaB-driven reporter activation but also that of nuclear factor of activated T cells (NFAT). Accordingly, electrophoretic mobility shift assays (EMSAs) indicated that pyrrolidine DTC (PDTC) prevented NF-kappaB, and NFAT DNA-binding activity in T cells stimulated with either phorbol myristate acetate plus ionophore or antibodies against the CD3-T-cell receptor complex and simultaneously activated the binding of AP-1. Furthermore, PDTC differentially targeted both NFATp and NFATc family members, inhibiting the transactivation functions of NFATp and mRNA induction of NFATc. Strikingly, Western blotting and immunocytochemical experiments indicated that PDTC promoted a transient and rapid shuttling of NFATp and NFATc, leading to their accelerated export from the nucleus of activated T cells. We propose that the activation of an NFAT kinase by PDTC could be responsible for the rapid shuttling of the NFAT, therefore transiently converting the sustained transactivation of this transcription factor that occurs during lymphocyte activation, and show that c-Jun NH2-terminal kinase (JNK) can act by directly phosphorylating NFATp. In addition, the combined inhibitory effects on NFAT and NF-KB support a potential use of DTCs as immunosuppressants. 
+</text>
+    <sentence charOffset="0-131" id="S1">
+        <text xml:space="preserve">Blockade of T-cell activation by dithiocarbamates involves novel mechanisms of inhibition of nuclear factor of activated T cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-8" text="Blockade" lemma="blockade"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="9-11" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="12-18" text="T-cell" lemma="t-cell"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="19-29" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="30-32" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="33-49" text="dithiocarbamates" lemma="dithiocarbamate"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="50-58" text="involves" lemma="involve"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="59-64" text="novel" lemma="novel"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="65-75" text="mechanisms" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="76-78" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="79-89" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="90-92" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="93-100" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="101-107" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="108-110" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="111-120" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="121-122" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="123-128" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="128-129" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Blockade))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN T-cell) (NN=H activation))
+            (PP (IN=H by)
+            (NP (NNS=H dithiocarbamates))))))
+            (VP=H (VBZ=H involves)
+            (NP
+            (NP=H (JJ novel) (NNS=H mechanisms))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H inhibition))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ nuclear) (NN=H factor))
+            (PP (IN=H of)
+            (NP (VBN activated) (NN T) (NNS=H cells)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="131-257" id="S2">
+        <text xml:space="preserve">Dithiocarbamates (DTCs) have recently been reported as powerful inhibitors of NF-kappaB activation in a number of cell types. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="131-147" text="Dithiocarbamates" lemma="dithiocarbamate"/>
+            <token xml:space="preserve" id="stt_2" POS="-LRB-" charOffset="148-149" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="149-153" text="DTCs" lemma="dtc"/>
+            <token xml:space="preserve" id="stt_4" POS="-RRB-" charOffset="153-154" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="155-159" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="160-168" text="recently" lemma="recently"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="169-173" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="174-182" text="reported" lemma="report"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="183-185" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="186-194" text="powerful" lemma="powerful"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="195-205" text="inhibitors" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="206-208" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="209-218" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="219-229" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="230-232" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="233-234" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="235-241" text="number" lemma="number"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="242-244" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="245-249" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="250-255" text="types" lemma="type"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="255-256" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NNS=H Dithiocarbamates))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NNS=H DTCs))
+            (-RRB- -RRB-)))
+            (VP=H (VBP=H have)
+            (ADVP (RB=H recently))
+            (VP (VBN=H been)
+            (VP (VBN=H reported)
+            (PP (IN=H as)
+            (NP
+            (NP=H (JJ powerful) (NNS=H inhibitors))
+            (PP (IN=H of)
+            (NP (NN NF-kappaB) (NN=H activation)))))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT a) (NN=H number))
+            (PP (IN=H of)
+            (NP (NN cell) (NNS=H types))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="257-467" id="S3">
+        <text xml:space="preserve">Given the role of this transcription factor in the regulation of gene expression in the inflammatory response, NF-kappaB inhibitors have been suggested as potential therapeutic drugs for inflammatory diseases. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBN" charOffset="257-262" text="Given" lemma="give"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="263-266" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="267-271" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="272-274" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="275-279" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="280-293" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="294-300" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="301-303" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="304-307" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="308-318" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="319-321" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="322-326" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="327-337" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="338-340" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="341-344" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="345-357" text="inflammatory" lemma="inflammatory"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="358-366" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="366-367" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="368-377" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="378-388" text="inhibitors" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_21" POS="VBP" charOffset="389-393" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_22" POS="VBN" charOffset="394-398" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="399-408" text="suggested" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="409-411" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="412-421" text="potential" lemma="potential"/>
+            <token xml:space="preserve" id="stt_26" POS="JJ" charOffset="422-433" text="therapeutic" lemma="therapeutic"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="434-439" text="drugs" lemma="drug"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="440-443" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="444-456" text="inflammatory" lemma="inflammatory"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="457-465" text="diseases" lemma="disease"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="465-466" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (VBN=H Given)
+            (NP
+            (NP=H (DT the) (NN=H role))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT this) (NN transcription) (NN=H factor))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H regulation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN gene) (NN=H expression))
+            (PP (IN=H in)
+            (NP (DT the) (JJ inflammatory) (NN=H response)))))))))))
+            (, ,)
+            (NP (NN NF-kappaB) (NNS=H inhibitors))
+            (VP=H (VBP=H have)
+            (VP (VBN=H been)
+            (VP (VBN=H suggested)
+            (PP (IN=H as)
+            (NP
+            (NP=H (JJ potential) (JJ therapeutic) (NNS=H drugs))
+            (PP (IN=H for)
+            (NP (JJ inflammatory) (NNS=H diseases))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="467-616" id="S4">
+        <text xml:space="preserve">We show here that DTCs inhibited both interleukin 2 (IL-2) synthesis and membrane expression of antigens which are induced during T-cell activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="467-469" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="470-474" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="475-479" text="here" lemma="here"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="480-484" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="485-489" text="DTCs" lemma="dtc"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="490-499" text="inhibited" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="500-504" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="505-516" text="interleukin" lemma="interleukin"/>
+            <token xml:space="preserve" id="stt_9" POS="CD" charOffset="517-518" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_10" POS="-LRB-" charOffset="519-520" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="520-524" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_12" POS="-RRB-" charOffset="524-525" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="526-535" text="synthesis" lemma="synthesis"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="536-539" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="540-548" text="membrane" lemma="membrane"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="549-559" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="560-562" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="563-571" text="antigens" lemma="antigen"/>
+            <token xml:space="preserve" id="stt_19" POS="WDT" charOffset="572-577" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_20" POS="VBP" charOffset="578-581" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_21" POS="VBN" charOffset="582-589" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="590-596" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="597-603" text="T-cell" lemma="t-cell"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="604-614" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="614-615" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H show)
+            (ADVP (RB=H here))
+            (SBAR (IN=H that)
+            (S
+            (NP (NNS=H DTCs))
+            (VP=H (VBD=H inhibited)
+            (PP (CC=H both)
+            (NP (NN interleukin) (CD 2) (-LRB- -LRB-) (NN=H IL-2) (-RRB- -RRB-)))
+            (NP
+            (NP=H (NN synthesis)
+            (CC and)
+            (NN membrane) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H antigens))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBP=H are)
+            (VP (VBN=H induced)
+            (PP (IN=H during)
+            (NP (NN T-cell) (NN=H activation))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="616-934" id="S5">
+        <text xml:space="preserve">This inhibition, which occurred with a parallel activation of c-Jun transactivating functions and expression, was reflected by transfection experiments at the IL-2 promoter level, and involved not only the inhibition of NF-kappaB-driven reporter activation but also that of nuclear factor of activated T cells (NFAT). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="616-620" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="621-631" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="631-632" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="WDT" charOffset="633-638" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="639-647" text="occurred" lemma="occur"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="648-652" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="653-654" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="655-663" text="parallel" lemma="parallel"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="664-674" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="675-677" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="678-683" text="c-Jun" lemma="c-jun"/>
+            <token xml:space="preserve" id="stt_12" POS="VBG" charOffset="684-699" text="transactivating" lemma="transactivate"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="700-709" text="functions" lemma="function"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="710-713" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="714-724" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="724-725" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="VBD" charOffset="726-729" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="730-739" text="reflected" lemma="reflect"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="740-742" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="743-755" text="transfection" lemma="transfection"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="756-767" text="experiments" lemma="experiment"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="768-770" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="771-774" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="775-779" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="780-788" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="789-794" text="level" lemma="level"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="794-795" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="CC" charOffset="796-799" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_29" POS="VBD" charOffset="800-808" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_30" POS="RB" charOffset="809-812" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_31" POS="RB" charOffset="813-817" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_32" POS="DT" charOffset="818-821" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="822-832" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="833-835" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_35" POS="JJ" charOffset="836-852" text="NF-kappaB-driven" lemma="nf-kappab-driven"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="853-861" text="reporter" lemma="reporter"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="862-872" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_38" POS="CC" charOffset="873-876" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_39" POS="RB" charOffset="877-881" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_40" POS="DT" charOffset="882-886" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_41" POS="IN" charOffset="887-889" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_42" POS="JJ" charOffset="890-897" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_43" POS="NN" charOffset="898-904" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_44" POS="IN" charOffset="905-907" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_45" POS="VBN" charOffset="908-917" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="918-919" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_47" POS="NNS" charOffset="920-925" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_48" POS="-LRB-" charOffset="926-927" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_49" POS="NN" charOffset="927-931" text="NFAT" lemma="nfat"/>
+            <token xml:space="preserve" id="stt_50" POS="-RRB-" charOffset="931-932" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_51" POS="." charOffset="932-933" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT This) (NN=H inhibition))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBD=H occurred)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT a) (JJ parallel) (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN=H c-Jun)))))
+            (S
+            (VP=H (VBG=H transactivating)
+            (NP (NNS=H functions)
+            (CC and)
+            (NN expression)))))))
+            (, ,))
+            (VP=H
+            (VP=H (VBD=H was)
+            (VP (VBN=H reflected)
+            (PP (IN=H by)
+            (NP (NN transfection) (NNS=H experiments)))
+            (PP (IN=H at)
+            (NP (DT the) (NN IL-2) (NN promoter) (NN=H level)))))
+            (, ,)
+            (CC and)
+            (VP (VBD=H involved)
+            (NP (RB not)
+            (ADVP (RB=H only))
+            (NP=H
+            (NP=H (DT the) (NN=H inhibition))
+            (PP (IN=H of)
+            (NP (JJ NF-kappaB-driven) (NN reporter) (NN=H activation))))
+            (CC but)
+            (ADVP (RB=H also))
+            (NP
+            (NP=H (DT=H that))
+            (PP (IN=H of)
+            (NP (JJ nuclear) (NN=H factor)))))
+            (PP (IN=H of)
+            (NP
+            (NP=H (VBN activated) (NN T) (NNS=H cells))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H NFAT))
+            (-RRB- -RRB-))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="934-1261" id="S6">
+        <text xml:space="preserve">Accordingly, electrophoretic mobility shift assays (EMSAs) indicated that pyrrolidine DTC (PDTC) prevented NF-kappaB, and NFAT DNA-binding activity in T cells stimulated with either phorbol myristate acetate plus ionophore or antibodies against the CD3-T-cell receptor complex and simultaneously activated the binding of AP-1. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="934-945" text="Accordingly" lemma="accordingly"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="945-946" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="947-962" text="electrophoretic" lemma="electrophoretic"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="963-971" text="mobility" lemma="mobility"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="972-977" text="shift" lemma="shift"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="978-984" text="assays" lemma="assay"/>
+            <token xml:space="preserve" id="stt_7" POS="-LRB-" charOffset="985-986" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="986-991" text="EMSAs" lemma="emsa"/>
+            <token xml:space="preserve" id="stt_9" POS="-RRB-" charOffset="991-992" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="993-1002" text="indicated" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1003-1007" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1008-1019" text="pyrrolidine" lemma="pyrrolidine"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1020-1023" text="DTC" lemma="dtc"/>
+            <token xml:space="preserve" id="stt_14" POS="-LRB-" charOffset="1024-1025" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1025-1029" text="PDTC" lemma="pdtc"/>
+            <token xml:space="preserve" id="stt_16" POS="-RRB-" charOffset="1029-1030" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_17" POS="VBD" charOffset="1031-1040" text="prevented" lemma="prevent"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1041-1050" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="1050-1051" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="1052-1055" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1056-1060" text="NFAT" lemma="nfat"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="1061-1072" text="DNA-binding" lemma="dna-binding"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1073-1081" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="1082-1084" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1085-1086" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="1087-1092" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_27" POS="VBN" charOffset="1093-1103" text="stimulated" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="1104-1108" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_29" POS="CC" charOffset="1109-1115" text="either" lemma="either"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1116-1123" text="phorbol" lemma="phorbol"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1124-1133" text="myristate" lemma="myristate"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1134-1141" text="acetate" lemma="acetate"/>
+            <token xml:space="preserve" id="stt_33" POS="CC" charOffset="1142-1146" text="plus" lemma="plus"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1147-1156" text="ionophore" lemma="ionophore"/>
+            <token xml:space="preserve" id="stt_35" POS="CC" charOffset="1157-1159" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_36" POS="NNS" charOffset="1160-1170" text="antibodies" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_37" POS="IN" charOffset="1171-1178" text="against" lemma="against"/>
+            <token xml:space="preserve" id="stt_38" POS="DT" charOffset="1179-1182" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="1183-1193" text="CD3-T-cell" lemma="cd3-t-cell"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="1194-1202" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="1203-1210" text="complex" lemma="complex"/>
+            <token xml:space="preserve" id="stt_42" POS="CC" charOffset="1211-1214" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_43" POS="RB" charOffset="1215-1229" text="simultaneously" lemma="simultaneously"/>
+            <token xml:space="preserve" id="stt_44" POS="VBD" charOffset="1230-1239" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_45" POS="DT" charOffset="1240-1243" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="1244-1251" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_47" POS="IN" charOffset="1252-1254" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_48" POS="NN" charOffset="1255-1259" text="AP-1" lemma="ap-1"/>
+            <token xml:space="preserve" id="stt_49" POS="." charOffset="1259-1260" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Accordingly))
+            (, ,)
+            (S=H
+            (NP
+            (NP=H (JJ electrophoretic) (NN mobility) (NN shift) (NNS=H assays))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NNS=H EMSAs))
+            (-RRB- -RRB-)))
+            (VP=H (VBD=H indicated)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN pyrrolidine) (NN=H DTC))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H PDTC))
+            (-RRB- -RRB-)))
+            (VP=H (VBD=H prevented)
+            (NP (NN=H NF-kappaB)))))))
+            (, ,)
+            (CC and)
+            (S
+            (NP
+            (NP=H (NN NFAT) (JJ DNA-binding) (NN=H activity))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN T) (NNS=H cells))
+            (VP (VBN=H stimulated)
+            (PP (IN=H with)
+            (UCP
+            (PP=H (CC=H either)
+            (NP
+            (NP=H
+            (NP=H (NN phorbol) (NN myristate) (NN=H acetate))
+            (PP (CC=H plus)
+            (NP (NN=H ionophore))))
+            (CC or)
+            (NP
+            (NP=H (NNS=H antibodies))
+            (PP (IN=H against)
+            (NP (DT the) (NN CD3-T-cell) (NN receptor) (NN=H complex))))))
+            (CC and)
+            (ADVP (RB=H simultaneously))))))))
+            (VP=H (VBD=H activated)
+            (NP
+            (NP=H (DT the) (NN=H binding))
+            (PP (IN=H of)
+            (NP (NN=H AP-1))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1261-1419" id="S7">
+        <text xml:space="preserve">Furthermore, PDTC differentially targeted both NFATp and NFATc family members, inhibiting the transactivation functions of NFATp and mRNA induction of NFATc. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1261-1272" text="Furthermore" lemma="furthermore"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1272-1273" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1274-1278" text="PDTC" lemma="pdtc"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="1279-1293" text="differentially" lemma="differentially"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="1294-1302" text="targeted" lemma="target"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="1303-1307" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1308-1313" text="NFATp" lemma="nfatp"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="1314-1317" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1318-1323" text="NFATc" lemma="nfatc"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1324-1330" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="1331-1338" text="members" lemma="member"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="1338-1339" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="VBG" charOffset="1340-1350" text="inhibiting" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="1351-1354" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1355-1370" text="transactivation" lemma="transactivation"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="1371-1380" text="functions" lemma="function"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1381-1383" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1384-1389" text="NFATp" lemma="nfatp"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="1390-1393" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1394-1398" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1399-1408" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1409-1411" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1412-1417" text="NFATc" lemma="nfatc"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="1417-1418" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Furthermore))
+            (, ,)
+            (NP (NN=H PDTC))
+            (ADVP (RB=H differentially))
+            (VP=H (VBD=H targeted)
+            (NP (CC both)
+            (NP=H (NN=H NFATp))
+            (CC and)
+            (NP (NN NFATc) (NN family) (NNS=H members)))
+            (, ,)
+            (S
+            (VP=H (VBG=H inhibiting)
+            (NP
+            (NP=H (DT the) (NN transactivation) (NNS=H functions))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN NFATp)
+            (CC and)
+            (NN mRNA) (NN=H induction))
+            (PP (IN=H of)
+            (NP (NN=H NFATc)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1419-1639" id="S8">
+        <text xml:space="preserve">Strikingly, Western blotting and immunocytochemical experiments indicated that PDTC promoted a transient and rapid shuttling of NFATp and NFATc, leading to their accelerated export from the nucleus of activated T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1419-1429" text="Strikingly" lemma="strikingly"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1429-1430" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1431-1438" text="Western" lemma="western"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1439-1447" text="blotting" lemma="blotting"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="1448-1451" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="1452-1470" text="immunocytochemical" lemma="immunocytochemical"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1471-1482" text="experiments" lemma="experiment"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="1483-1492" text="indicated" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1493-1497" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1498-1502" text="PDTC" lemma="pdtc"/>
+            <token xml:space="preserve" id="stt_11" POS="VBD" charOffset="1503-1511" text="promoted" lemma="promote"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="1512-1513" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1514-1523" text="transient" lemma="transient"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="1524-1527" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="1528-1533" text="rapid" lemma="rapid"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1534-1543" text="shuttling" lemma="shuttling"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1544-1546" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1547-1552" text="NFATp" lemma="nfatp"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="1553-1556" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1557-1562" text="NFATc" lemma="nfatc"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="1562-1563" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="VBG" charOffset="1564-1571" text="leading" lemma="lead"/>
+            <token xml:space="preserve" id="stt_23" POS="TO" charOffset="1572-1574" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_24" POS="PRP$" charOffset="1575-1580" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_25" POS="VBN" charOffset="1581-1592" text="accelerated" lemma="accelerate"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1593-1599" text="export" lemma="export"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1600-1604" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_28" POS="DT" charOffset="1605-1608" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1609-1616" text="nucleus" lemma="nucleus"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="1617-1619" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_31" POS="VBN" charOffset="1620-1629" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1630-1631" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_33" POS="NNS" charOffset="1632-1637" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_34" POS="." charOffset="1637-1638" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Strikingly))
+            (, ,)
+            (NP
+            (NP=H (NN Western) (NN=H blotting))
+            (CC and)
+            (NP (JJ immunocytochemical) (NNS=H experiments)))
+            (VP=H (VBD=H indicated)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H PDTC))
+            (VP=H (VBD=H promoted)
+            (NP
+            (NP=H (DT a) (JJ transient)
+            (CC and)
+            (JJ rapid) (NN=H shuttling))
+            (PP (IN=H of)
+            (NP (NN=H NFATp)
+            (CC and)
+            (NN NFATc))))
+            (, ,)
+            (S
+            (VP=H (VBG=H leading)
+            (PP (TO=H to)
+            (NP
+            (NP=H (PRP$ their) (VBN accelerated) (NN=H export))
+            (PP (IN=H from)
+            (NP
+            (NP=H (DT the) (NN=H nucleus))
+            (PP (IN=H of)
+            (NP (VBN activated) (NN T) (NNS=H cells)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1639-1977" id="S9">
+        <text xml:space="preserve">We propose that the activation of an NFAT kinase by PDTC could be responsible for the rapid shuttling of the NFAT, therefore transiently converting the sustained transactivation of this transcription factor that occurs during lymphocyte activation, and show that c-Jun NH2-terminal kinase (JNK) can act by directly phosphorylating NFATp. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="1639-1641" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="1642-1649" text="propose" lemma="propose"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1650-1654" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="1655-1658" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1659-1669" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1670-1672" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="1673-1675" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1676-1680" text="NFAT" lemma="nfat"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1681-1687" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1688-1690" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1691-1695" text="PDTC" lemma="pdtc"/>
+            <token xml:space="preserve" id="stt_12" POS="MD" charOffset="1696-1701" text="could" lemma="could"/>
+            <token xml:space="preserve" id="stt_13" POS="VB" charOffset="1702-1704" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="1705-1716" text="responsible" lemma="responsible"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1717-1720" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="1721-1724" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="1725-1730" text="rapid" lemma="rapid"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1731-1740" text="shuttling" lemma="shuttling"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="1741-1743" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="1744-1747" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1748-1752" text="NFAT" lemma="nfat"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="1752-1753" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="RB" charOffset="1754-1763" text="therefore" lemma="therefore"/>
+            <token xml:space="preserve" id="stt_24" POS="RB" charOffset="1764-1775" text="transiently" lemma="transiently"/>
+            <token xml:space="preserve" id="stt_25" POS="VBG" charOffset="1776-1786" text="converting" lemma="convert"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="1787-1790" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="1791-1800" text="sustained" lemma="sustained"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1801-1816" text="transactivation" lemma="transactivation"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="1817-1819" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_30" POS="DT" charOffset="1820-1824" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1825-1838" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1839-1845" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_33" POS="WDT" charOffset="1846-1850" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_34" POS="VBZ" charOffset="1851-1857" text="occurs" lemma="occur"/>
+            <token xml:space="preserve" id="stt_35" POS="IN" charOffset="1858-1864" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1865-1875" text="lymphocyte" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="1876-1886" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_38" POS="," charOffset="1886-1887" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_39" POS="CC" charOffset="1888-1891" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_40" POS="VBP" charOffset="1892-1896" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_41" POS="IN" charOffset="1897-1901" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="1902-1907" text="c-Jun" lemma="c-jun"/>
+            <token xml:space="preserve" id="stt_43" POS="JJ" charOffset="1908-1920" text="NH2-terminal" lemma="nh2-terminal"/>
+            <token xml:space="preserve" id="stt_44" POS="NN" charOffset="1921-1927" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_45" POS="-LRB-" charOffset="1928-1929" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="1929-1932" text="JNK" lemma="jnk"/>
+            <token xml:space="preserve" id="stt_47" POS="-RRB-" charOffset="1932-1933" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_48" POS="MD" charOffset="1934-1937" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_49" POS="VB" charOffset="1938-1941" text="act" lemma="act"/>
+            <token xml:space="preserve" id="stt_50" POS="IN" charOffset="1942-1944" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_51" POS="RB" charOffset="1945-1953" text="directly" lemma="directly"/>
+            <token xml:space="preserve" id="stt_52" POS="VBG" charOffset="1954-1969" text="phosphorylating" lemma="phosphorylate"/>
+            <token xml:space="preserve" id="stt_53" POS="NN" charOffset="1970-1975" text="NFATp" lemma="nfatp"/>
+            <token xml:space="preserve" id="stt_54" POS="." charOffset="1975-1976" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H propose)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT an) (NN NFAT) (NN=H kinase))
+            (PP (IN=H by)
+            (NP (NN=H PDTC))))))
+            (VP=H (MD=H could)
+            (VP (VB=H be)
+            (ADJP (JJ=H responsible))
+            (PP (IN=H for)
+            (NP
+            (NP=H (DT the) (JJ rapid) (NN=H shuttling))
+            (PP (IN=H of)
+            (NP (DT the) (NN=H NFAT)))))
+            (, ,)
+            (S
+            (ADVP (RB=H therefore))
+            (VP=H
+            (ADVP (RB=H transiently))
+            (VBG=H converting)
+            (NP
+            (NP=H (DT the) (JJ sustained) (NN=H transactivation))
+            (PP (IN=H of)
+            (NP (DT this) (NN transcription) (NN=H factor)))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H
+            (VP=H (VBZ=H occurs)
+            (PP (IN=H during)
+            (NP (NN lymphocyte) (NN=H activation))))
+            (, ,)
+            (CC and)
+            (VP (VBP=H show)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN c-Jun) (JJ NH2-terminal) (NN=H kinase))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H JNK))
+            (-RRB- -RRB-)))
+            (VP=H (MD=H can)
+            (VP (VB=H act)
+            (PP (IN=H by)
+            (S
+            (ADVP (RB=H directly))
+            (VP=H (VBG=H phosphorylating)
+            (NP (NN=H NFATp)))))))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1977-2096" id="S10">
+        <text xml:space="preserve">In addition, the combined inhibitory effects on NFAT and NF-KB support a potential use of DTCs as immunosuppressants. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1977-1979" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1980-1988" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="1988-1989" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="1990-1993" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1994-2002" text="combined" lemma="combined"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="2003-2013" text="inhibitory" lemma="inhibitory"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="2014-2021" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="2022-2024" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="2025-2029" text="NFAT" lemma="nfat"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="2030-2033" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="2034-2039" text="NF-KB" lemma="nf-kb"/>
+            <token xml:space="preserve" id="stt_12" POS="VBP" charOffset="2040-2047" text="support" lemma="support"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="2048-2049" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="2050-2059" text="potential" lemma="potential"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="2060-2063" text="use" lemma="use"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="2064-2066" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="2067-2071" text="DTCs" lemma="dtc"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="2072-2074" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="2075-2093" text="immunosuppressants" lemma="immunosuppressant"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="2093-2094" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H addition)))
+            (, ,)
+            (NP
+            (NP=H (DT the) (JJ combined) (JJ inhibitory) (NNS=H effects))
+            (PP (IN=H on)
+            (NP (NN=H NFAT)
+            (CC and)
+            (NN NF-KB))))
+            (VP=H (VBP=H support)
+            (NP
+            (NP=H (DT a) (JJ potential) (NN=H use))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H DTCs))
+            (PP (IN=H as)
+            (NP (NNS=H immunosuppressants)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T11" type="DistributiveNP" charOffset="500-571" headOffset="549-559" text="both interleukin 2 (IL-2) synthesis and membrane expression of antigens"/>
+    <Term xml:space="preserve" id="T12" type="RelativePronoun" charOffset="572-577" headOffset="572-577" text="which"/>
+    <Term xml:space="preserve" id="T13" type="DemonstrativeNP" charOffset="616-631" headOffset="621-631" text="This inhibition"/>
+    <Term xml:space="preserve" id="T14" type="RelativePronoun" charOffset="633-638" headOffset="633-638" text="which"/>
+    <Term xml:space="preserve" id="T15" type="DefiniteNP" charOffset="818-832" headOffset="822-832" text="the inhibition"/>
+    <Term xml:space="preserve" id="T16" type="DemonstrativePronoun" charOffset="882-886" headOffset="882-886" text="that"/>
+    <Term xml:space="preserve" id="T17" type="ZeroArticleNP" charOffset="1547-1562" headOffset="1557-1562" text="NFATp and NFATc"/>
+    <Term xml:space="preserve" id="T18" type="PossessivePronoun" charOffset="1575-1580" headOffset="1575-1580" text="their"/>
+    <Term xml:space="preserve" id="T19" type="DefiniteNP" charOffset="1787-1845" headOffset="1801-1816" text="the sustained transactivation of this transcription factor"/>
+    <Term xml:space="preserve" id="T20" type="RelativePronoun" charOffset="1846-1850" headOffset="1846-1850" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T12"/>
+        <Antecedent idref="T11"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T14"/>
+        <Antecedent idref="T13"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T16"/>
+        <Antecedent idref="T15"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T18"/>
+        <Antecedent idref="T17"/>
+    </Relation>
+    <Relation id="R5" type="Anaphora">
+        <Anaphor idref="T20"/>
+        <Antecedent idref="T19"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="505-518" headOffset="505-516" text="interleukin 2"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="520-524" headOffset="520-524" text="IL-2"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="678-683" headOffset="678-683" text="c-Jun"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="775-779" headOffset="775-779" text="IL-2"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="1308-1313" headOffset="1308-1313" text="NFATp"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="1384-1389" headOffset="1384-1389" text="NFATp"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="1547-1552" headOffset="1547-1552" text="NFATp"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="1902-1927" headOffset="1921-1927" text="c-Jun NH2-terminal kinase"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="1929-1932" headOffset="1929-1932" text="JNK"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="1970-1975" headOffset="1970-1975" text="NFATp"/>
+</document>

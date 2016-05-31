@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10206983">
+    <text xml:space="preserve">Inhibition of T cell signaling by mitogen-activated protein kinase-targeted hematopoietic tyrosine phosphatase (HePTP). 
+Activation of T lymphocytes to produce cytokines is regulated by the counterbalance of protein-tyrosine kinases and protein-tyrosine phosphatases, many of which have a high degree of substrate specificity because of physical association with their targets. Overexpression of hematopoietic protein-tyrosine phosphatase (HePTP) results in suppression of T lymphocyte activation as measured by T cell antigen receptor-induced activation of transcription factors binding to the 5' promoter of the interleukin-2 gene. Efforts to pinpoint the exact site of action and specificity of HePTP in the signaling cascade revealed that HePTP acts directly on the mitogen-activated protein (MAP) kinases Erk1 and 2 and consequently reduces the magnitude and duration of their catalytic activation in intact T cells. In contrast, HePTP had no effects on N-terminal c-Jun kinase or on events upstream of the MAP kinases. The specificity of HePTP correlated with its physical association through its noncatalytic N terminus with Erk and another MAP kinase, p38, but not Jnk or other proteins. We propose that HePTP plays a negative role in antigen receptor signaling by specifically regulating MAP kinases in the cytosol and at early time points of T cell activation before the activation-induced expression of nuclear dual-specific MAP kinase phosphatases. 
+</text>
+    <sentence charOffset="0-121" id="S1">
+        <text xml:space="preserve">Inhibition of T cell signaling by mitogen-activated protein kinase-targeted hematopoietic tyrosine phosphatase (HePTP). 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-10" text="Inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="11-13" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="14-15" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="16-20" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="21-30" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="31-33" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="34-51" text="mitogen-activated" lemma="mitogen-activated"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="52-59" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="60-75" text="kinase-targeted" lemma="kinase-targeted"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="76-89" text="hematopoietic" lemma="hematopoietic"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="90-98" text="tyrosine" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="99-110" text="phosphatase" lemma="phosphatase"/>
+            <token xml:space="preserve" id="stt_13" POS="-LRB-" charOffset="111-112" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="112-117" text="HePTP" lemma="heptp"/>
+            <token xml:space="preserve" id="stt_15" POS="-RRB-" charOffset="117-118" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="118-119" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Inhibition))
+            (PP (IN=H of)
+            (NP (NN T) (NN=H cell))))
+            (VP=H (NN=H signaling)
+            (PP (IN=H by)
+            (NP
+            (NP=H
+            (NP=H (JJ mitogen-activated) (NN=H protein))
+            (NP (JJ kinase-targeted) (JJ hematopoietic) (NN tyrosine) (NN=H phosphatase)))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H HePTP))
+            (-RRB- -RRB-)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="121-378" id="S2">
+        <text xml:space="preserve">Activation of T lymphocytes to produce cytokines is regulated by the counterbalance of protein-tyrosine kinases and protein-tyrosine phosphatases, many of which have a high degree of substrate specificity because of physical association with their targets. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="121-131" text="Activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="132-134" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="135-136" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="137-148" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_5" POS="TO" charOffset="149-151" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_6" POS="VB" charOffset="152-159" text="produce" lemma="produce"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="160-169" text="cytokines" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="170-172" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="173-182" text="regulated" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="183-185" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="186-189" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="190-204" text="counterbalance" lemma="counterbalance"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="205-207" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="208-224" text="protein-tyrosine" lemma="protein-tyrosine"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="225-232" text="kinases" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="233-236" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="237-253" text="protein-tyrosine" lemma="protein-tyrosine"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="254-266" text="phosphatases" lemma="phosphatase"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="266-267" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="268-272" text="many" lemma="many"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="273-275" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="WDT" charOffset="276-281" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_23" POS="VBP" charOffset="282-286" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="287-288" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="289-293" text="high" lemma="high"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="294-300" text="degree" lemma="degree"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="301-303" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="304-313" text="substrate" lemma="substrate"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="314-325" text="specificity" lemma="specificity"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="326-333" text="because" lemma="because"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="334-336" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="337-345" text="physical" lemma="physical"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="346-357" text="association" lemma="association"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="358-362" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_35" POS="PRP$" charOffset="363-368" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_36" POS="NNS" charOffset="369-376" text="targets" lemma="target"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="376-377" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Activation))
+            (PP (IN=H of)
+            (NP (NN T) (NNS=H lymphocytes)))
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H produce)
+            (NP (NNS=H cytokines))))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H regulated)
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT the) (NN=H counterbalance))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ protein-tyrosine) (NNS=H kinases))
+            (CC and)
+            (NP (JJ protein-tyrosine) (NNS=H phosphatases))))
+            (, ,)
+            (SBAR
+            (WHNP=H
+            (WHNP (JJ=H many))
+            (WHPP=H (IN=H of)
+            (WHNP (WDT=H which))))
+            (S
+            (VP=H (VBP=H have)
+            (NP
+            (NP=H (DT a) (JJ high) (NN=H degree))
+            (PP (IN=H of)
+            (NP (JJ substrate) (NN=H specificity))))
+            (PP (IN because) (IN=H of)
+            (NP
+            (NP=H (JJ physical) (NN=H association))
+            (PP (IN=H with)
+            (NP (PRP$ their) (NNS=H targets))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="378-634" id="S3">
+        <text xml:space="preserve">Overexpression of hematopoietic protein-tyrosine phosphatase (HePTP) results in suppression of T lymphocyte activation as measured by T cell antigen receptor-induced activation of transcription factors binding to the 5' promoter of the interleukin-2 gene. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="378-392" text="Overexpression" lemma="overexpression"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="393-395" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="396-409" text="hematopoietic" lemma="hematopoietic"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="410-426" text="protein-tyrosine" lemma="protein-tyrosine"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="427-438" text="phosphatase" lemma="phosphatase"/>
+            <token xml:space="preserve" id="stt_6" POS="-LRB-" charOffset="439-440" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="440-445" text="HePTP" lemma="heptp"/>
+            <token xml:space="preserve" id="stt_8" POS="-RRB-" charOffset="445-446" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="447-454" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="455-457" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="458-469" text="suppression" lemma="suppression"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="470-472" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="473-474" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="475-485" text="lymphocyte" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="486-496" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="497-499" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="500-508" text="measured" lemma="measure"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="509-511" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="512-513" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="514-518" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="519-526" text="antigen" lemma="antigen"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="527-543" text="receptor-induced" lemma="receptor-induced"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="544-554" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="555-557" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="558-571" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_26" POS="NNS" charOffset="572-579" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_27" POS="VBG" charOffset="580-587" text="binding" lemma="bind"/>
+            <token xml:space="preserve" id="stt_28" POS="TO" charOffset="588-590" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="591-594" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_30" POS="CD" charOffset="595-596" text="5" lemma="5"/>
+            <token xml:space="preserve" id="stt_31" POS="''" charOffset="596-597" text="'" lemma="'"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="598-606" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_33" POS="IN" charOffset="607-609" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_34" POS="DT" charOffset="610-613" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="614-627" text="interleukin-2" lemma="interleukin-2"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="628-632" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="632-633" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (NN=H Overexpression))
+            (PP (IN=H of)
+            (NP (JJ hematopoietic) (JJ protein-tyrosine) (NN=H phosphatase))))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H HePTP))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H results)
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H suppression))
+            (PP (IN=H of)
+            (NP (NN T) (NN lymphocyte) (NN=H activation)))))
+            (SBAR (IN=H as)
+            (S
+            (VP=H (VBN=H measured)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN T) (NN cell) (NN antigen) (JJ receptor-induced) (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN transcription) (NNS=H factors)))))
+            (NP
+            (NP=H (VBG=H binding))
+            (PP (TO=H to)
+            (NP (DT the) (CD 5) ('' ') (NN=H promoter)))
+            (PP (IN=H of)
+            (NP (DT the) (NN interleukin-2) (NN=H gene))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="634-922" id="S4">
+        <text xml:space="preserve">Efforts to pinpoint the exact site of action and specificity of HePTP in the signaling cascade revealed that HePTP acts directly on the mitogen-activated protein (MAP) kinases Erk1 and 2 and consequently reduces the magnitude and duration of their catalytic activation in intact T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="634-641" text="Efforts" lemma="effort"/>
+            <token xml:space="preserve" id="stt_2" POS="TO" charOffset="642-644" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_3" POS="VB" charOffset="645-653" text="pinpoint" lemma="pinpoint"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="654-657" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="658-663" text="exact" lemma="exact"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="664-668" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="669-671" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="672-678" text="action" lemma="action"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="679-682" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="683-694" text="specificity" lemma="specificity"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="695-697" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="698-703" text="HePTP" lemma="heptp"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="704-706" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="707-710" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="711-720" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="721-728" text="cascade" lemma="cascade"/>
+            <token xml:space="preserve" id="stt_17" POS="VBD" charOffset="729-737" text="revealed" lemma="reveal"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="738-742" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="743-748" text="HePTP" lemma="heptp"/>
+            <token xml:space="preserve" id="stt_20" POS="VBZ" charOffset="749-753" text="acts" lemma="act"/>
+            <token xml:space="preserve" id="stt_21" POS="RB" charOffset="754-762" text="directly" lemma="directly"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="763-765" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="766-769" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="770-787" text="mitogen-activated" lemma="mitogen-activated"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="788-795" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_26" POS="-LRB-" charOffset="796-797" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="797-800" text="MAP" lemma="map"/>
+            <token xml:space="preserve" id="stt_28" POS="-RRB-" charOffset="800-801" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="802-809" text="kinases" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="810-814" text="Erk1" lemma="erk1"/>
+            <token xml:space="preserve" id="stt_31" POS="CC" charOffset="815-818" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_32" POS="CD" charOffset="819-820" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_33" POS="CC" charOffset="821-824" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_34" POS="RB" charOffset="825-837" text="consequently" lemma="consequently"/>
+            <token xml:space="preserve" id="stt_35" POS="VBZ" charOffset="838-845" text="reduces" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_36" POS="DT" charOffset="846-849" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="850-859" text="magnitude" lemma="magnitude"/>
+            <token xml:space="preserve" id="stt_38" POS="CC" charOffset="860-863" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="864-872" text="duration" lemma="duration"/>
+            <token xml:space="preserve" id="stt_40" POS="IN" charOffset="873-875" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_41" POS="PRP$" charOffset="876-881" text="their" lemma="they"/>
+            <token xml:space="preserve" id="stt_42" POS="JJ" charOffset="882-891" text="catalytic" lemma="catalytic"/>
+            <token xml:space="preserve" id="stt_43" POS="NN" charOffset="892-902" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_44" POS="IN" charOffset="903-905" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_45" POS="JJ" charOffset="906-912" text="intact" lemma="intact"/>
+            <token xml:space="preserve" id="stt_46" POS="NN" charOffset="913-914" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_47" POS="NNS" charOffset="915-920" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_48" POS="." charOffset="920-921" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NNS=H Efforts)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H pinpoint)
+            (NP
+            (NP=H (DT the) (JJ exact) (NN=H site))
+            (PP (IN=H of)
+            (NP (NN=H action)
+            (CC and)
+            (NN specificity)))
+            (PP (IN=H of)
+            (NP (NN=H HePTP))))
+            (PP (IN=H in)
+            (NP (DT the) (NN signaling) (NN=H cascade)))))))
+            (VP=H (VBD=H revealed)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H HePTP))
+            (VP=H
+            (VP=H (VBZ=H acts)
+            (ADVP (RB=H directly))
+            (PP (IN=H on)
+            (NP
+            (NP=H (DT the)
+            (NP (JJ mitogen-activated) (NN protein)
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H MAP))
+            (-RRB- -RRB-))
+            (NNS=H kinases))
+            (NN=H Erk1))
+            (CC and)
+            (NP (CD=H 2)))))
+            (CC and)
+            (VP
+            (ADVP (RB=H consequently))
+            (VBZ=H reduces)
+            (NP
+            (NP=H (DT the) (NN=H magnitude)
+            (CC and)
+            (NN duration))
+            (PP (IN=H of)
+            (NP
+            (NP=H (PRP$ their) (JJ catalytic) (NN=H activation))
+            (PP (IN=H in)
+            (NP (JJ intact) (NN T) (NNS=H cells)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="922-1025" id="S5">
+        <text xml:space="preserve">In contrast, HePTP had no effects on N-terminal c-Jun kinase or on events upstream of the MAP kinases. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="922-924" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="925-933" text="contrast" lemma="contrast"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="933-934" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="935-940" text="HePTP" lemma="heptp"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="941-944" text="had" lemma="have"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="945-947" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="948-955" text="effects" lemma="effect"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="956-958" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="959-969" text="N-terminal" lemma="n-terminal"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="970-975" text="c-Jun" lemma="c-jun"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="976-982" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="983-985" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="986-988" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="989-995" text="events" lemma="event"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="996-1004" text="upstream" lemma="upstream"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1005-1007" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="1008-1011" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1012-1015" text="MAP" lemma="map"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="1016-1023" text="kinases" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="1023-1024" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H contrast)))
+            (, ,)
+            (NP (NN=H HePTP))
+            (VP=H (VBD=H had)
+            (NP
+            (NP=H (DT no) (NNS=H effects))
+            (PP
+            (PP=H (IN=H on)
+            (NP (JJ N-terminal) (NN c-Jun) (NN=H kinase)))
+            (CC or)
+            (PP (IN=H on)
+            (NP
+            (NP=H (NNS=H events) (JJ upstream))
+            (PP (IN=H of)
+            (NP (DT the) (NN MAP) (NNS=H kinases))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1025-1196" id="S6">
+        <text xml:space="preserve">The specificity of HePTP correlated with its physical association through its noncatalytic N terminus with Erk and another MAP kinase, p38, but not Jnk or other proteins. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1025-1028" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1029-1040" text="specificity" lemma="specificity"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1041-1043" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1044-1049" text="HePTP" lemma="heptp"/>
+            <token xml:space="preserve" id="stt_5" POS="VBD" charOffset="1050-1060" text="correlated" lemma="correlate"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1061-1065" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_7" POS="PRP$" charOffset="1066-1069" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1070-1078" text="physical" lemma="physical"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1079-1090" text="association" lemma="association"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1091-1098" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_11" POS="PRP$" charOffset="1099-1102" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="1103-1115" text="noncatalytic" lemma="noncatalytic"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1116-1117" text="N" lemma="n"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1118-1126" text="terminus" lemma="terminus"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1127-1131" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1132-1135" text="Erk" lemma="erk"/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="1136-1139" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="1140-1147" text="another" lemma="another"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1148-1151" text="MAP" lemma="map"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1152-1158" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="1158-1159" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1160-1163" text="p38" lemma="p38"/>
+            <token xml:space="preserve" id="stt_23" POS="," charOffset="1163-1164" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_24" POS="CC" charOffset="1165-1168" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_25" POS="RB" charOffset="1169-1172" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1173-1176" text="Jnk" lemma="jnk"/>
+            <token xml:space="preserve" id="stt_27" POS="CC" charOffset="1177-1179" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="1180-1185" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="1186-1194" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_30" POS="." charOffset="1194-1195" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H specificity))
+            (PP (IN=H of)
+            (NP (NN=H HePTP))))
+            (VP=H (VBD=H correlated)
+            (PP (IN=H with)
+            (NP (PRP$ its) (JJ physical) (NN=H association)))
+            (PP (IN=H through)
+            (NP
+            (NP=H
+            (NP=H
+            (NP=H (PRP$ its) (JJ noncatalytic) (NN N) (NN=H terminus))
+            (PP (IN=H with)
+            (NP (NN=H Erk))))
+            (CC and)
+            (NP
+            (NP=H (DT another) (NN MAP) (NN=H kinase))
+            (, ,)
+            (NP (NN=H p38))))
+            (, ,)
+            (CONJP (CC=H but)
+            (RB not))
+            (NP
+            (NP=H (NN=H Jnk))
+            (CC or)
+            (NP (JJ other) (NNS=H proteins))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1196-1462" id="S7">
+        <text xml:space="preserve">We propose that HePTP plays a negative role in antigen receptor signaling by specifically regulating MAP kinases in the cytosol and at early time points of T cell activation before the activation-induced expression of nuclear dual-specific MAP kinase phosphatases. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="1196-1198" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="1199-1206" text="propose" lemma="propose"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="1207-1211" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1212-1217" text="HePTP" lemma="heptp"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="1218-1223" text="plays" lemma="play"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1224-1225" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1226-1234" text="negative" lemma="negative"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1235-1239" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1240-1242" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1243-1250" text="antigen" lemma="antigen"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1251-1259" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1260-1269" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1270-1272" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_14" POS="RB" charOffset="1273-1285" text="specifically" lemma="specifically"/>
+            <token xml:space="preserve" id="stt_15" POS="VBG" charOffset="1286-1296" text="regulating" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1297-1300" text="MAP" lemma="map"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="1301-1308" text="kinases" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1309-1311" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="1312-1315" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1316-1323" text="cytosol" lemma="cytosol"/>
+            <token xml:space="preserve" id="stt_21" POS="CC" charOffset="1324-1327" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1328-1330" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="1331-1336" text="early" lemma="early"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1337-1341" text="time" lemma="time"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="1342-1348" text="points" lemma="point"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="1349-1351" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1352-1353" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1354-1358" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1359-1369" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="1370-1376" text="before" lemma="before"/>
+            <token xml:space="preserve" id="stt_31" POS="DT" charOffset="1377-1380" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="1381-1399" text="activation-induced" lemma="activation-induced"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1400-1410" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="1411-1413" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_35" POS="JJ" charOffset="1414-1421" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_36" POS="JJ" charOffset="1422-1435" text="dual-specific" lemma="dual-specific"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="1436-1439" text="MAP" lemma="map"/>
+            <token xml:space="preserve" id="stt_38" POS="NN" charOffset="1440-1446" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_39" POS="NNS" charOffset="1447-1459" text="phosphatases" lemma="phosphatase"/>
+            <token xml:space="preserve" id="stt_40" POS="." charOffset="1459-1460" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H propose)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H HePTP))
+            (VP=H (VBZ=H plays)
+            (NP
+            (NP=H (DT a) (JJ negative) (NN=H role))
+            (PP (IN=H in)
+            (NP (NN antigen) (NN receptor) (NN=H signaling))))
+            (PP (IN=H by)
+            (S
+            (ADVP (RB=H specifically))
+            (VP=H (VBG=H regulating)
+            (NP (NN MAP) (NNS=H kinases))
+            (PP
+            (PP=H (IN=H in)
+            (NP (DT the) (NN=H cytosol)))
+            (CC and)
+            (PP (IN=H at)
+            (NP
+            (NP=H (JJ early) (NN time) (NNS=H points))
+            (PP (IN=H of)
+            (NP (NN T) (NN cell) (NN=H activation))))))
+            (PP (IN=H before)
+            (NP
+            (NP=H (DT the) (JJ activation-induced) (NN=H expression))
+            (PP (IN=H of)
+            (NP (JJ nuclear) (JJ dual-specific) (NN MAP) (NN kinase) (NNS=H phosphatases))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T11" type="ZeroArticleNP" charOffset="208-266" headOffset="254-266" text="protein-tyrosine kinases and protein-tyrosine phosphatases"/>
+    <Term xml:space="preserve" id="T12" type="RelativePronoun" charOffset="276-281" headOffset="276-281" text="which"/>
+    <Term xml:space="preserve" id="T13" type="PossessivePronoun" charOffset="363-368" headOffset="363-368" text="their"/>
+    <Term xml:space="preserve" id="T14" type="DefiniteNP" charOffset="766-820" headOffset="810-814" text="the mitogen-activated protein (MAP) kinases Erk1 and 2"/>
+    <Term xml:space="preserve" id="T15" type="PossessivePronoun" charOffset="876-881" headOffset="876-881" text="their"/>
+    <Term xml:space="preserve" id="T16" type="DefiniteNP" charOffset="1008-1023" headOffset="1016-1023" text="the MAP kinases"/>
+    <Term xml:space="preserve" id="T17" type="ZeroArticleNP" charOffset="1044-1049" headOffset="1044-1049" text="HePTP"/>
+    <Term xml:space="preserve" id="T18" type="PossessivePronoun" charOffset="1066-1069" headOffset="1066-1069" text="its"/>
+    <Term xml:space="preserve" id="T19" type="PossessivePronoun" charOffset="1099-1102" headOffset="1099-1102" text="its"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T12"/>
+        <Antecedent idref="T11"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T13"/>
+        <Antecedent idref="T11"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T15"/>
+        <Antecedent idref="T14"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T16"/>
+        <Antecedent idref="T14"/>
+    </Relation>
+    <Relation id="R5" type="Anaphora">
+        <Anaphor idref="T18"/>
+        <Antecedent idref="T17"/>
+    </Relation>
+    <Relation id="R6" type="Anaphora">
+        <Anaphor idref="T19"/>
+        <Antecedent idref="T17"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="76-110" headOffset="99-110" text="hematopoietic tyrosine phosphatase"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="112-117" headOffset="112-117" text="HePTP"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="396-438" headOffset="427-438" text="hematopoietic protein-tyrosine phosphatase"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="440-445" headOffset="440-445" text="HePTP"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="614-627" headOffset="614-627" text="interleukin-2"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="698-703" headOffset="698-703" text="HePTP"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="743-748" headOffset="743-748" text="HePTP"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="935-940" headOffset="935-940" text="HePTP"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="1044-1049" headOffset="1044-1049" text="HePTP"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="1212-1217" headOffset="1212-1217" text="HePTP"/>
+</document>

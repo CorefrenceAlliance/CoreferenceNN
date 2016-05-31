@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10194443">
+    <text xml:space="preserve">Regulation of the megakaryocytic glycoprotein IX promoter by the oncogenic Ets transcription factor Fli-1. 
+Glycoprotein (GP) IX is a subunit of the von Willebrand receptor, GPIb-V-IX, which mediates adhesion of platelets to the subendothelium of damaged blood vessels. Previous characterization of the GPIX promoter identified a functional Ets site that, when disrupted, reduced promoter activity. However, the Ets protein(s) that regulated GPIX promoter expression was unknown. In this study, transient cotransfection of several GPIX promoter/reporter constructs into 293T kidney fibroblasts with a Fli-1 expression vector shows that the oncogenic protein Fli-1 can transactivate the GPIX promoter when an intact GPIX Ets site is present. In addition, Fli-1 binding of the GPIX Ets site was identified in antibody supershift experiments in nuclear extracts derived from hematopoietic human erythroleukemia cells. Comparative studies showed that Fli-1 was also able to transactivate the GPIbalpha and, to a lesser extent, the GPIIb promoter. Immunoblot analysis identified Fli-1 protein in lysates derived from platelets. In addition, expression of Fli-1 was identified immunohistochemically in megakaryocytes derived from CD34(+) cells treated with the megakaryocyte differentiation and proliferation factor, thrombopoietin. These results suggest that Fli-1 is likely to regulate lineage-specific genes during megakaryocytopoiesis. 
+</text>
+    <sentence charOffset="0-108" id="S1">
+        <text xml:space="preserve">Regulation of the megakaryocytic glycoprotein IX promoter by the oncogenic Ets transcription factor Fli-1. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-10" text="Regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="11-13" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="14-17" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="18-32" text="megakaryocytic" lemma="megakaryocytic"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="33-45" text="glycoprotein" lemma="glycoprotein"/>
+            <token xml:space="preserve" id="stt_6" POS="CD" charOffset="46-48" text="IX" lemma="ix"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="49-57" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="58-60" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="61-64" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="65-74" text="oncogenic" lemma="oncogenic"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="75-78" text="Ets" lemma="ets"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="79-92" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="93-99" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="100-105" text="Fli-1" lemma="fli-1"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="105-106" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Regulation))
+            (PP (IN=H of)
+            (NP (DT the) (JJ megakaryocytic) (NN glycoprotein) (CD IX) (NN=H promoter)))
+            (PP (IN=H by)
+            (NP (DT the) (JJ oncogenic) (NN Ets) (NN transcription) (NN factor) (NN=H Fli-1)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="108-270" id="S2">
+        <text xml:space="preserve">Glycoprotein (GP) IX is a subunit of the von Willebrand receptor, GPIb-V-IX, which mediates adhesion of platelets to the subendothelium of damaged blood vessels. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="108-120" text="Glycoprotein" lemma="glycoprotein"/>
+            <token xml:space="preserve" id="stt_2" POS="-LRB-" charOffset="121-122" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="122-124" text="GP" lemma="gp"/>
+            <token xml:space="preserve" id="stt_4" POS="-RRB-" charOffset="124-125" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_5" POS="CD" charOffset="126-128" text="IX" lemma="ix"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="129-131" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="132-133" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="134-141" text="subunit" lemma="subunit"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="142-144" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="145-148" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="149-152" text="von" lemma="von"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="153-163" text="Willebrand" lemma="willebrand"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="164-172" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="172-173" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="174-183" text="GPIb-V-IX" lemma="gpib-v-ix"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="183-184" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="WDT" charOffset="185-190" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_18" POS="VBZ" charOffset="191-199" text="mediates" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="200-208" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="209-211" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="212-221" text="platelets" lemma="platelet"/>
+            <token xml:space="preserve" id="stt_22" POS="TO" charOffset="222-224" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="225-228" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="229-243" text="subendothelium" lemma="subendothelium"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="244-246" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_26" POS="VBN" charOffset="247-254" text="damaged" lemma="damage"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="255-260" text="blood" lemma="blood"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="261-268" text="vessels" lemma="vessel"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="268-269" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Glycoprotein))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H GP))
+            (-RRB- -RRB-))
+            (NP (CD=H IX))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (NN=H subunit))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN von) (NN Willebrand) (NN=H receptor))
+            (, ,)
+            (NP (NN=H GPIb-V-IX))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H mediates)
+            (NP
+            (NP=H (NN=H adhesion))
+            (PP (IN=H of)
+            (NP (NNS=H platelets))))
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT the) (NN=H subendothelium))
+            (PP (IN=H of)
+            (NP (VBN damaged) (NN blood) (NNS=H vessels))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="270-399" id="S3">
+        <text xml:space="preserve">Previous characterization of the GPIX promoter identified a functional Ets site that, when disrupted, reduced promoter activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="270-278" text="Previous" lemma="previous"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="279-295" text="characterization" lemma="characterization"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="296-298" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="299-302" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="303-307" text="GPIX" lemma="gpix"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="308-316" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="317-327" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="328-329" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="330-340" text="functional" lemma="functional"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="341-344" text="Ets" lemma="ets"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="345-349" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_12" POS="WDT" charOffset="350-354" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="354-355" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="WRB" charOffset="356-360" text="when" lemma="when"/>
+            <token xml:space="preserve" id="stt_15" POS="VBN" charOffset="361-370" text="disrupted" lemma="disrupt"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="370-371" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="372-379" text="reduced" lemma="reduce"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="380-388" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="389-397" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="397-398" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ Previous) (NN=H characterization))
+            (PP (IN=H of)
+            (NP (DT the) (NN GPIX) (NN=H promoter))))
+            (VP=H (VBD=H identified)
+            (NP
+            (NP=H (DT a) (JJ functional) (NN Ets) (NN=H site))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (PRN (, ,)
+            (SBAR=H
+            (WHADVP=H (WRB=H when))
+            (S
+            (VP=H (VBN=H disrupted))))
+            (, ,))
+            (S
+            (VP=H (VBN=H reduced)
+            (NP (NN promoter) (NN=H activity)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="399-480" id="S4">
+        <text xml:space="preserve">However, the Ets protein(s) that regulated GPIX promoter expression was unknown. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="399-406" text="However" lemma="however"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="406-407" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="408-411" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="412-415" text="Ets" lemma="ets"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="416-423" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_6" POS="-LRB-" charOffset="423-424" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="424-425" text="s" lemma="s"/>
+            <token xml:space="preserve" id="stt_8" POS="-RRB-" charOffset="425-426" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_9" POS="WDT" charOffset="427-431" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_10" POS="VBD" charOffset="432-441" text="regulated" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="442-446" text="GPIX" lemma="gpix"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="447-455" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="456-466" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_14" POS="VBD" charOffset="467-470" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="471-478" text="unknown" lemma="unknown"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="478-479" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H However))
+            (, ,)
+            (NP
+            (NP=H (DT the) (NN Ets) (NN=H protein))
+            (PRN (-LRB- -LRB-) (NNS=H s) (-RRB- -RRB-))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBD=H regulated)
+            (NP (NN GPIX) (NN promoter) (NN=H expression))))))
+            (VP=H (VBD=H was)
+            (ADJP (JJ=H unknown)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="480-741" id="S5">
+        <text xml:space="preserve">In this study, transient cotransfection of several GPIX promoter/reporter constructs into 293T kidney fibroblasts with a Fli-1 expression vector shows that the oncogenic protein Fli-1 can transactivate the GPIX promoter when an intact GPIX Ets site is present. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="480-482" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="483-487" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="488-493" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="493-494" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="495-504" text="transient" lemma="transient"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="505-519" text="cotransfection" lemma="cotransfection"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="520-522" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="523-530" text="several" lemma="several"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="531-535" text="GPIX" lemma="gpix"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="536-553" text="promoter/reporter" lemma="promoter/reporter"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="554-564" text="constructs" lemma="construct"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="565-569" text="into" lemma="into"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="570-574" text="293T" lemma="293t"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="575-581" text="kidney" lemma="kidney"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="582-593" text="fibroblasts" lemma="fibroblast"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="594-598" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="599-600" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="601-606" text="Fli-1" lemma="fli-1"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="607-617" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="618-624" text="vector" lemma="vector"/>
+            <token xml:space="preserve" id="stt_21" POS="VBZ" charOffset="625-630" text="shows" lemma="show"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="631-635" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="636-639" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="640-649" text="oncogenic" lemma="oncogenic"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="650-657" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="658-663" text="Fli-1" lemma="fli-1"/>
+            <token xml:space="preserve" id="stt_27" POS="MD" charOffset="664-667" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_28" POS="VB" charOffset="668-681" text="transactivate" lemma="transactivate"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="682-685" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="686-690" text="GPIX" lemma="gpix"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="691-699" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_32" POS="WRB" charOffset="700-704" text="when" lemma="when"/>
+            <token xml:space="preserve" id="stt_33" POS="DT" charOffset="705-707" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_34" POS="JJ" charOffset="708-714" text="intact" lemma="intact"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="715-719" text="GPIX" lemma="gpix"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="720-723" text="Ets" lemma="ets"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="724-728" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_38" POS="VBZ" charOffset="729-731" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_39" POS="JJ" charOffset="732-739" text="present" lemma="present"/>
+            <token xml:space="preserve" id="stt_40" POS="." charOffset="739-740" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (DT this) (NN=H study)))
+            (, ,)
+            (NP
+            (NP=H (JJ transient) (NN=H cotransfection))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ several) (NN GPIX) (NN promoter/reporter) (NNS=H constructs))
+            (PP (IN=H into)
+            (NP
+            (NP=H (NN 293T) (NN kidney) (NNS=H fibroblasts))
+            (PP (IN=H with)
+            (NP (DT a) (NN Fli-1) (NN expression) (NN=H vector))))))))
+            (VP=H (VBZ=H shows)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT the) (JJ oncogenic) (NN protein) (NN=H Fli-1))
+            (VP=H (MD=H can)
+            (VP (VB=H transactivate)
+            (NP (DT the) (NN GPIX) (NN=H promoter))
+            (SBAR
+            (WHADVP=H (WRB=H when))
+            (S
+            (NP (DT an) (JJ intact) (NN GPIX) (NN Ets) (NN=H site))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H present))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="741-915" id="S6">
+        <text xml:space="preserve">In addition, Fli-1 binding of the GPIX Ets site was identified in antibody supershift experiments in nuclear extracts derived from hematopoietic human erythroleukemia cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="741-743" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="744-752" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="752-753" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="754-759" text="Fli-1" lemma="fli-1"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="760-767" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="768-770" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="771-774" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="775-779" text="GPIX" lemma="gpix"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="780-783" text="Ets" lemma="ets"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="784-788" text="site" lemma="site"/>
+            <token xml:space="preserve" id="stt_11" POS="VBD" charOffset="789-792" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="793-803" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="804-806" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="807-815" text="antibody" lemma="antibody"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="816-826" text="supershift" lemma="supershift"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="827-838" text="experiments" lemma="experiment"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="839-841" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="842-849" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="850-858" text="extracts" lemma="extract"/>
+            <token xml:space="preserve" id="stt_20" POS="VBN" charOffset="859-866" text="derived" lemma="derive"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="867-871" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="872-885" text="hematopoietic" lemma="hematopoietic"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="886-891" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="892-907" text="erythroleukemia" lemma="erythroleukemia"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="908-913" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="913-914" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H addition)))
+            (, ,)
+            (NP
+            (NP=H (NN Fli-1) (NN=H binding))
+            (PP (IN=H of)
+            (NP (DT the) (NN GPIX) (NN Ets) (NN=H site))))
+            (VP=H (VBD=H was)
+            (VP (VBN=H identified)
+            (PP (IN=H in)
+            (NP (NN antibody) (NN supershift) (NNS=H experiments)))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ nuclear) (NNS=H extracts))
+            (VP (VBN=H derived)
+            (PP (IN=H from)
+            (NP (JJ hematopoietic) (JJ human) (NN erythroleukemia) (NNS=H cells))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="915-1043" id="S7">
+        <text xml:space="preserve">Comparative studies showed that Fli-1 was also able to transactivate the GPIbalpha and, to a lesser extent, the GPIIb promoter. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="915-926" text="Comparative" lemma="comparative"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="927-934" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="935-941" text="showed" lemma="show"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="942-946" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="947-952" text="Fli-1" lemma="fli-1"/>
+            <token xml:space="preserve" id="stt_6" POS="VBD" charOffset="953-956" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="957-961" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="962-966" text="able" lemma="able"/>
+            <token xml:space="preserve" id="stt_9" POS="TO" charOffset="967-969" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_10" POS="VB" charOffset="970-983" text="transactivate" lemma="transactivate"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="984-987" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="988-997" text="GPIbalpha" lemma="gpibalpha"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="998-1001" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="1001-1002" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="TO" charOffset="1003-1005" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="1006-1007" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_17" POS="JJR" charOffset="1008-1014" text="lesser" lemma="lesser"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1015-1021" text="extent" lemma="extent"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="1021-1022" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="DT" charOffset="1023-1026" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1027-1032" text="GPIIb" lemma="gpiib"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1033-1041" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="1041-1042" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Comparative) (NNS=H studies))
+            (VP=H (VBD=H showed)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H Fli-1))
+            (VP=H (VBD=H was)
+            (ADVP (RB=H also))
+            (ADJP (JJ=H able)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H transactivate)
+            (NP
+            (NP=H (DT the) (NN=H GPIbalpha))
+            (CC and)
+            (PRN (, ,)
+            (PP=H (TO=H to)
+            (NP (DT a) (JJR lesser) (NN=H extent)))
+            (, ,))
+            (NP (DT the) (NN GPIIb) (NN=H promoter)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1043-1123" id="S8">
+        <text xml:space="preserve">Immunoblot analysis identified Fli-1 protein in lysates derived from platelets. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1043-1053" text="Immunoblot" lemma="immunoblot"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1054-1062" text="analysis" lemma="analysis"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="1063-1073" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1074-1079" text="Fli-1" lemma="fli-1"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1080-1087" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1088-1090" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1091-1098" text="lysates" lemma="lysate"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="1099-1106" text="derived" lemma="derive"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="1107-1111" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="1112-1121" text="platelets" lemma="platelet"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="1121-1122" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN Immunoblot) (NN=H analysis))
+            (VP=H (VBD=H identified)
+            (NP (NN Fli-1) (NN=H protein))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NNS=H lysates))
+            (VP (VBN=H derived)
+            (PP (IN=H from)
+            (NP (NNS=H platelets)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1123-1327" id="S9">
+        <text xml:space="preserve">In addition, expression of Fli-1 was identified immunohistochemically in megakaryocytes derived from CD34(+) cells treated with the megakaryocyte differentiation and proliferation factor, thrombopoietin. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1123-1125" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1126-1134" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="1134-1135" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1136-1146" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1147-1149" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1150-1155" text="Fli-1" lemma="fli-1"/>
+            <token xml:space="preserve" id="stt_7" POS="VBD" charOffset="1156-1159" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="1160-1170" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="1171-1192" text="immunohistochemically" lemma="immunohistochemically"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1193-1195" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="1196-1210" text="megakaryocytes" lemma="megakaryocyte"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="1211-1218" text="derived" lemma="derive"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1219-1223" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1224-1228" text="CD34" lemma="cd34"/>
+            <token xml:space="preserve" id="stt_15" POS="-LRB-" charOffset="1228-1229" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="1229-1230" text="+" lemma="+"/>
+            <token xml:space="preserve" id="stt_17" POS="-RRB-" charOffset="1230-1231" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="1232-1237" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_19" POS="VBN" charOffset="1238-1245" text="treated" lemma="treat"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1246-1250" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="1251-1254" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1255-1268" text="megakaryocyte" lemma="megakaryocyte"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1269-1284" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_24" POS="CC" charOffset="1285-1288" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1289-1302" text="proliferation" lemma="proliferation"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1303-1309" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="1309-1310" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1311-1325" text="thrombopoietin" lemma="thrombopoietin"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="1325-1326" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H addition)))
+            (, ,)
+            (NP
+            (NP=H (NN=H expression))
+            (PP (IN=H of)
+            (NP (NN=H Fli-1))))
+            (VP=H (VBD=H was)
+            (S
+            (VP=H (VBN=H identified)
+            (ADVP (RB=H immunohistochemically))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NNS=H megakaryocytes))
+            (VP (VBN=H derived)
+            (PP (IN=H from)
+            (NP (NN=H CD34))))))))
+            (S (-LRB- -LRB-)
+            (NP=H (CC=H +))
+            (-RRB- -RRB-)
+            (NP
+            (NP=H (NNS=H cells))
+            (VP (VBN=H treated)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT the) (NN megakaryocyte) (NN differentiation)
+            (CC and)
+            (NN proliferation) (NN=H factor))
+            (, ,)
+            (NP (NN=H thrombopoietin))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1327-1435" id="S10">
+        <text xml:space="preserve">These results suggest that Fli-1 is likely to regulate lineage-specific genes during megakaryocytopoiesis. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1327-1332" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1333-1340" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1341-1348" text="suggest" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1349-1353" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1354-1359" text="Fli-1" lemma="fli-1"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="1360-1362" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1363-1369" text="likely" lemma="likely"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="1370-1372" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="1373-1381" text="regulate" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1382-1398" text="lineage-specific" lemma="lineage-specific"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="1399-1404" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1405-1411" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1412-1432" text="megakaryocytopoiesis" lemma="megakaryocytopoiesis"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="1432-1433" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H results))
+            (VP=H (VBP=H suggest)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H Fli-1))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H likely)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H regulate)
+            (NP (JJ lineage-specific) (NNS=H genes))
+            (PP (IN=H during)
+            (NP (NN=H megakaryocytopoiesis)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T21" type="IndefiniteNP" charOffset="132-141" headOffset="134-141" text="a subunit"/>
+    <Term xml:space="preserve" id="T22" type="DefiniteNP" charOffset="145-172" headOffset="164-172" text="the von Willebrand receptor"/>
+    <Term xml:space="preserve" id="T23" type="RelativePronoun" charOffset="185-190" headOffset="185-190" text="which"/>
+    <Term xml:space="preserve" id="T24" type="IndefiniteNP" charOffset="328-349" headOffset="345-349" text="a functional Ets site"/>
+    <Term xml:space="preserve" id="T25" type="RelativePronoun" charOffset="350-354" headOffset="350-354" text="that"/>
+    <Term xml:space="preserve" id="T26" type="DefiniteNP" charOffset="408-426" headOffset="424-425" text="the Ets protein(s)"/>
+    <Term xml:space="preserve" id="T27" type="RelativePronoun" charOffset="427-431" headOffset="427-431" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T23"/>
+        <Antecedent idref="T21"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T25"/>
+        <Antecedent idref="T24"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T27"/>
+        <Antecedent idref="T26"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="33-48" headOffset="33-45" text="glycoprotein IX"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="100-105" headOffset="100-105" text="Fli-1"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="108-128" headOffset="122-124" text="Glycoprotein (GP) IX"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="303-307" headOffset="303-307" text="GPIX"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="442-446" headOffset="442-446" text="GPIX"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="531-535" headOffset="531-535" text="GPIX"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="601-606" headOffset="601-606" text="Fli-1"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="658-663" headOffset="658-663" text="Fli-1"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="686-690" headOffset="686-690" text="GPIX"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="715-719" headOffset="715-719" text="GPIX"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="754-759" headOffset="754-759" text="Fli-1"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="775-779" headOffset="775-779" text="GPIX"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="947-952" headOffset="947-952" text="Fli-1"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="988-997" headOffset="988-997" text="GPIbalpha"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1027-1032" headOffset="1027-1032" text="GPIIb"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="1074-1079" headOffset="1074-1079" text="Fli-1"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="1150-1155" headOffset="1150-1155" text="Fli-1"/>
+    <Term xml:space="preserve" id="T18" type="Protein" charOffset="1224-1228" headOffset="1224-1228" text="CD34"/>
+    <Term xml:space="preserve" id="T19" type="Protein" charOffset="1311-1325" headOffset="1311-1325" text="thrombopoietin"/>
+    <Term xml:space="preserve" id="T20" type="Protein" charOffset="1354-1359" headOffset="1354-1359" text="Fli-1"/>
+</document>

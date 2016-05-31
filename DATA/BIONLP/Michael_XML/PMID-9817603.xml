@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9817603">
+    <text xml:space="preserve">Transcriptional regulation of the beta-casein gene by cytokines: cross-talk between STAT5 and other signaling molecules. 
+The beta-casein promoter has been widely used to monitor the activation of STAT (signal transducer and activator of transcription)5 since STAT5 was originally found as a mediator of PRL-inducible beta-casein expression. However, not only is expression of the beta-casein gene regulated by STAT5 but it is also affected by other molecules such as glucocorticoid and Ras. In this report, we describe the transcriptional regulation of the beta-casein gene by cytokines in T cells. We have found that the beta-casein gene is expressed in a cytotoxic T cell line, CTLL-2, in response to interleukin-2 (IL-2), which activates STAT5. While IL-4 does not activate STAT5, it induces expression of STAT5-regulated genes in CTLL-2, i.e. beta-casein, a cytokine-inducible SH2-containing protein (CIS), and oncostatin M (OSM), suggesting that STAT6 activated by IL-4 substitutes for the function of STAT5 in T cells. IL-2-induced beta-casein expression was enhanced by dexamethasone, and this synergistic effect of Dexamethasone requires the sequence between -155 and -193 in the beta-casein promoter. Coincidentally, a deletion of this region enhanced the IL-2-induced expression of beta-casein. Expression of an active form of Ras, Ras(G12V), suppressed the IL-2-induced beta-casein and OSM gene expression, and the negative effect of Ras is mediated by the region between -105 and -193 in the beta-casein promoter. In apparent contradiction, expression of a dominant negative form of Ras, RasN17, also inhibited IL-2-induced activation of the promoter containing the minimal beta-casein STAT5 element as well as the promoters of CIS and OSM. In addition, Ras(G12V) complemented signaling by an erythropoietin receptor mutant defective in Ras activation and augmented the activation of the beta-casein promoter by the mutant erythropoietin receptor signaling, suggesting a possible role of Ras in Stat5-mediated gene expression. These results collectively reveal a complex interaction of STAT5 with other signaling pathways and illustrate that regulation of gene expression requires integration of opposing signals. 
+</text>
+    <sentence charOffset="0-122" id="S1">
+        <text xml:space="preserve">Transcriptional regulation of the beta-casein gene by cytokines: cross-talk between STAT5 and other signaling molecules. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-15" text="Transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="16-26" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="27-29" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="30-33" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="34-45" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="46-50" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="51-53" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="54-63" text="cytokines" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_9" POS=":" charOffset="63-64" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="65-75" text="cross-talk" lemma="cross-talk"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="76-83" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="84-89" text="STAT5" lemma="stat5"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="90-93" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="94-99" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_15" POS="VBG" charOffset="100-109" text="signaling" lemma="signal"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="110-119" text="molecules" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="119-120" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H
+            (NP=H (JJ Transcriptional) (NN=H regulation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN beta-casein) (NN=H gene))
+            (PP (IN=H by)
+            (NP (NNS=H cytokines))))))
+            (: :)
+            (NP
+            (NP=H (NN=H cross-talk))
+            (PP (IN=H between)
+            (NP (NN STAT5)
+            (CC and)
+            (JJ other) (VBG signaling) (NNS=H molecules))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="122-342" id="S2">
+        <text xml:space="preserve">The beta-casein promoter has been widely used to monitor the activation of STAT (signal transducer and activator of transcription)5 since STAT5 was originally found as a mediator of PRL-inducible beta-casein expression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="122-125" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="126-137" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="138-146" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="147-150" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="151-155" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="RB" charOffset="156-162" text="widely" lemma="widely"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="163-167" text="used" lemma="use"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="168-170" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="171-178" text="monitor" lemma="monitor"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="179-182" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="183-193" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="194-196" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="197-201" text="STAT" lemma="stat"/>
+            <token xml:space="preserve" id="stt_14" POS="-LRB-" charOffset="202-203" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="203-209" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="210-220" text="transducer" lemma="transducer"/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="221-224" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="225-234" text="activator" lemma="activator"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="235-237" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="238-251" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_21" POS="-RRB-" charOffset="251-252" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_22" POS="CD" charOffset="252-253" text="5" lemma="5"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="254-259" text="since" lemma="since"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="260-265" text="STAT5" lemma="stat5"/>
+            <token xml:space="preserve" id="stt_25" POS="VBD" charOffset="266-269" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_26" POS="RB" charOffset="270-280" text="originally" lemma="originally"/>
+            <token xml:space="preserve" id="stt_27" POS="VBN" charOffset="281-286" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="287-289" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="290-291" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="292-300" text="mediator" lemma="mediator"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="301-303" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_32" POS="JJ" charOffset="304-317" text="PRL-inducible" lemma="prl-inducible"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="318-329" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="330-340" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_35" POS="." charOffset="340-341" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT The) (NN beta-casein) (NN=H promoter))
+            (VP=H (VBZ=H has)
+            (VP (VBN=H been)
+            (ADVP (RB=H widely))
+            (VP (VBN=H used)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H monitor)
+            (NP
+            (NP=H (DT the) (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN=H STAT)))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (NN signal) (NN=H transducer)
+            (CC and)
+            (NN activator))
+            (PP (IN=H of)
+            (NP (NN=H transcription))))
+            (-RRB- -RRB-))
+            (NP
+            (NP=H (CD=H 5))
+            (SBAR (IN=H since)
+            (S
+            (NP (NN=H STAT5))
+            (VP=H (VBD=H was)
+            (ADVP (RB=H originally))
+            (VP (VBN=H found)
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT a) (NN=H mediator))
+            (PP (IN=H of)
+            (NP (JJ PRL-inducible) (NN beta-casein) (NN=H expression)))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="342-492" id="S3">
+        <text xml:space="preserve">However, not only is expression of the beta-casein gene regulated by STAT5 but it is also affected by other molecules such as glucocorticoid and Ras. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="342-349" text="However" lemma="however"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="349-350" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="351-354" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="355-359" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="360-362" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="363-373" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="374-376" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="377-380" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="381-392" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="393-397" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="398-407" text="regulated" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="408-410" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="411-416" text="STAT5" lemma="stat5"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="417-420" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_15" POS="PRP" charOffset="421-423" text="it" lemma="it"/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="424-426" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_17" POS="RB" charOffset="427-431" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="432-440" text="affected" lemma="affect"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="441-443" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="444-449" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="450-459" text="molecules" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="460-464" text="such" lemma="such"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="465-467" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="468-482" text="glucocorticoid" lemma="glucocorticoid"/>
+            <token xml:space="preserve" id="stt_25" POS="CC" charOffset="483-486" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="487-490" text="Ras" lemma="ras"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="490-491" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (ADVP (RB=H However))
+            (, ,)
+            (ADVP (RB not) (RB=H only))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN beta-casein) (NN=H gene))
+            (VP (VBN=H regulated)
+            (PP (IN=H by)
+            (NP (NN=H STAT5)))))))))
+            (CC but)
+            (S
+            (NP (PRP=H it))
+            (VP=H (VBZ=H is)
+            (ADVP (RB=H also))
+            (VP (VBN=H affected)
+            (PP (IN=H by)
+            (NP
+            (NP=H (JJ other) (NNS=H molecules))
+            (PP (JJ such) (IN=H as)
+            (NP (NN=H glucocorticoid)
+            (CC and)
+            (NN Ras))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="492-600" id="S4">
+        <text xml:space="preserve">In this report, we describe the transcriptional regulation of the beta-casein gene by cytokines in T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="492-494" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="495-499" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="500-506" text="report" lemma="report"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="506-507" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="508-510" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="511-519" text="describe" lemma="describe"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="520-523" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="524-539" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="540-550" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="551-553" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="554-557" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="558-569" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="570-574" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="575-577" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="578-587" text="cytokines" lemma="cytokine"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="588-590" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="591-592" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="593-598" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="598-599" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (DT this) (NN=H report)))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H describe)
+            (NP
+            (NP=H (DT the) (JJ transcriptional) (NN=H regulation))
+            (PP (IN=H of)
+            (NP (DT the) (NN beta-casein) (NN=H gene))))
+            (PP (IN=H by)
+            (NP
+            (NP=H (NNS=H cytokines))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="600-749" id="S5">
+        <text xml:space="preserve">We have found that the beta-casein gene is expressed in a cytotoxic T cell line, CTLL-2, in response to interleukin-2 (IL-2), which activates STAT5. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="600-602" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="603-607" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="608-613" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="614-618" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="619-622" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="623-634" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="635-639" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="640-642" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="643-652" text="expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="653-655" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="656-657" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="658-667" text="cytotoxic" lemma="cytotoxic"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="668-669" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="670-674" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="675-679" text="line" lemma="line"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="679-680" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="681-687" text="CTLL-2" lemma="ctll-2"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="687-688" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="689-691" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="692-700" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_21" POS="TO" charOffset="701-703" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="704-717" text="interleukin-2" lemma="interleukin-2"/>
+            <token xml:space="preserve" id="stt_23" POS="-LRB-" charOffset="718-719" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="719-723" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_25" POS="-RRB-" charOffset="723-724" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_26" POS="," charOffset="724-725" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_27" POS="WDT" charOffset="726-731" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_28" POS="VBZ" charOffset="732-741" text="activates" lemma="activate"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="742-747" text="STAT5" lemma="stat5"/>
+            <token xml:space="preserve" id="stt_30" POS="." charOffset="747-748" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H have)
+            (VP (VBN=H found)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT the) (NN beta-casein) (NN=H gene))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H expressed)
+            (PP (IN=H in)
+            (NP
+            (NP=H
+            (NP=H (DT a) (JJ cytotoxic) (NN T) (NN cell) (NN=H line))
+            (, ,)
+            (NP (NN=H CTLL-2))
+            (, ,))
+            (PP (IN=H in)
+            (NP (NN=H response)))))
+            (PP (TO=H to)
+            (NP
+            (NP=H
+            (NP=H (NN=H interleukin-2))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IL-2))
+            (-RRB- -RRB-)))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H activates)
+            (NP (NN=H STAT5)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="749-848" id="S6">
+        <text xml:space="preserve">While IL-4 does not activate STAT5, it induces expression of STAT5-regulated genes in CTLL-2, i.e. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="749-754" text="While" lemma="while"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="755-759" text="IL-4" lemma="il-4"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="760-764" text="does" lemma="do"/>
+            <token xml:space="preserve" id="stt_4" POS="RB" charOffset="765-768" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_5" POS="VB" charOffset="769-777" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="778-783" text="STAT5" lemma="stat5"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="783-784" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="PRP" charOffset="785-787" text="it" lemma="it"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="788-795" text="induces" lemma="induce"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="796-806" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="807-809" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="810-825" text="STAT5-regulated" lemma="stat5-regulated"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="826-831" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="832-834" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="835-841" text="CTLL-2" lemma="ctll-2"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="841-842" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="FW" charOffset="843-847" text="i.e." lemma="i.e."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H While)
+            (S
+            (NP (NN=H IL-4))
+            (VP=H (VBZ=H does) (RB not)
+            (VP (VB=H activate)
+            (NP (NN=H STAT5))))))
+            (, ,)
+            (NP (PRP=H it))
+            (VP=H (VBZ=H induces)
+            (NP
+            (NP=H (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ STAT5-regulated) (NNS=H genes))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H CTLL-2))
+            (, ,)
+            (NP (FW=H i.e.))))))))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="848-1026" id="S7">
+        <text xml:space="preserve">beta-casein, a cytokine-inducible SH2-containing protein (CIS), and oncostatin M (OSM), suggesting that STAT6 activated by IL-4 substitutes for the function of STAT5 in T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="848-859" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="859-860" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="861-862" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="863-881" text="cytokine-inducible" lemma="cytokine-inducible"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="882-896" text="SH2-containing" lemma="sh2-containing"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="897-904" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_7" POS="-LRB-" charOffset="905-906" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="906-909" text="CIS" lemma="cis"/>
+            <token xml:space="preserve" id="stt_9" POS="-RRB-" charOffset="909-910" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="910-911" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="912-915" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="916-926" text="oncostatin" lemma="oncostatin"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="927-928" text="M" lemma="m"/>
+            <token xml:space="preserve" id="stt_14" POS="-LRB-" charOffset="929-930" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="930-933" text="OSM" lemma="osm"/>
+            <token xml:space="preserve" id="stt_16" POS="-RRB-" charOffset="933-934" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="934-935" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="VBG" charOffset="936-946" text="suggesting" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="947-951" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="952-957" text="STAT6" lemma="stat6"/>
+            <token xml:space="preserve" id="stt_21" POS="VBN" charOffset="958-967" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="968-970" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="971-975" text="IL-4" lemma="il-4"/>
+            <token xml:space="preserve" id="stt_24" POS="VBZ" charOffset="976-987" text="substitutes" lemma="substitute"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="988-991" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_26" POS="DT" charOffset="992-995" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="996-1004" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="1005-1007" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1008-1013" text="STAT5" lemma="stat5"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="1014-1016" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1017-1018" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_32" POS="NNS" charOffset="1019-1024" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="1024-1025" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (NN=H beta-casein))
+            (, ,)
+            (NP
+            (NP=H
+            (NP=H (DT a)
+            (ADJP (JJ cytokine-inducible) (JJ=H SH2-containing))
+            (NN=H protein))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H CIS))
+            (-RRB- -RRB-)))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (NN oncostatin) (NN=H M))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H OSM))
+            (-RRB- -RRB-))))
+            (, ,))
+            (VP (VBG=H suggesting)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H STAT6))
+            (VP=H (VBN=H activated)
+            (PP (IN=H by)
+            (NP (NN=H IL-4))))))))
+            (VP=H (VBZ=H substitutes)
+            (PP (IN=H for)
+            (NP
+            (NP=H (DT the) (NN=H function))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H STAT5))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1026-1211" id="S8">
+        <text xml:space="preserve">IL-2-induced beta-casein expression was enhanced by dexamethasone, and this synergistic effect of Dexamethasone requires the sequence between -155 and -193 in the beta-casein promoter. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1026-1038" text="IL-2-induced" lemma="il-2-induced"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1039-1050" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1051-1061" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_4" POS="VBD" charOffset="1062-1065" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="1066-1074" text="enhanced" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1075-1077" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1078-1091" text="dexamethasone" lemma="dexamethasone"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="1091-1092" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="1093-1096" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="1097-1101" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="1102-1113" text="synergistic" lemma="synergistic"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1114-1120" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1121-1123" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1124-1137" text="Dexamethasone" lemma="dexamethasone"/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="1138-1146" text="requires" lemma="require"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="1147-1150" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1151-1159" text="sequence" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1160-1167" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_19" POS="CD" charOffset="1168-1172" text="-155" lemma="-155"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="1173-1176" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="CD" charOffset="1177-1181" text="-193" lemma="-193"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="1182-1184" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="1185-1188" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1189-1200" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1201-1209" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="1209-1210" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (JJ IL-2-induced) (NN beta-casein) (NN=H expression))
+            (VP=H (VBD=H was)
+            (VP (VBN=H enhanced)
+            (PP (IN=H by)
+            (NP (NN=H dexamethasone))))))
+            (, ,)
+            (CC and)
+            (S
+            (NP
+            (NP=H (DT this) (JJ synergistic) (NN=H effect))
+            (PP (IN=H of)
+            (NP (NN=H Dexamethasone))))
+            (VP=H (VBZ=H requires)
+            (NP
+            (NP=H (DT the) (NN=H sequence))
+            (PP (IN=H between)
+            (NP (CD=H -155)
+            (CC and)
+            (CD -193))))
+            (PP (IN=H in)
+            (NP (DT the) (NN beta-casein) (NN=H promoter)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1211-1306" id="S9">
+        <text xml:space="preserve">Coincidentally, a deletion of this region enhanced the IL-2-induced expression of beta-casein. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1211-1225" text="Coincidentally" lemma="coincidentally"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1225-1226" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1227-1228" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1229-1237" text="deletion" lemma="deletion"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1238-1240" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1241-1245" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1246-1252" text="region" lemma="region"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="1253-1261" text="enhanced" lemma="enhance"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="1262-1265" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1266-1278" text="IL-2-induced" lemma="il-2-induced"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1279-1289" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1290-1292" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1293-1304" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_14" POS="." charOffset="1304-1305" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Coincidentally))
+            (, ,)
+            (NP
+            (NP=H (DT a) (NN=H deletion))
+            (PP (IN=H of)
+            (NP (DT this) (NN=H region))))
+            (VP=H (VBD=H enhanced)
+            (NP
+            (NP=H (DT the) (JJ IL-2-induced) (NN=H expression))
+            (PP (IN=H of)
+            (NP (NN=H beta-casein)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1306-1527" id="S10">
+        <text xml:space="preserve">Expression of an active form of Ras, Ras(G12V), suppressed the IL-2-induced beta-casein and OSM gene expression, and the negative effect of Ras is mediated by the region between -105 and -193 in the beta-casein promoter. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1306-1316" text="Expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1317-1319" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1320-1322" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1323-1329" text="active" lemma="active"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1330-1334" text="form" lemma="form"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1335-1337" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1338-1341" text="Ras" lemma="ras"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="1341-1342" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1343-1346" text="Ras" lemma="ras"/>
+            <token xml:space="preserve" id="stt_10" POS="-LRB-" charOffset="1346-1347" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1347-1351" text="G12V" lemma="g12v"/>
+            <token xml:space="preserve" id="stt_12" POS="-RRB-" charOffset="1351-1352" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="1352-1353" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="VBD" charOffset="1354-1364" text="suppressed" lemma="suppress"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="1365-1368" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1369-1381" text="IL-2-induced" lemma="il-2-induced"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1382-1393" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="1394-1397" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1398-1401" text="OSM" lemma="osm"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1402-1406" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1407-1417" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="1417-1418" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="1419-1422" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="1423-1426" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="1427-1435" text="negative" lemma="negative"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1436-1442" text="effect" lemma="effect"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1443-1445" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1446-1449" text="Ras" lemma="ras"/>
+            <token xml:space="preserve" id="stt_29" POS="VBZ" charOffset="1450-1452" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_30" POS="VBN" charOffset="1453-1461" text="mediated" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="1462-1464" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_32" POS="DT" charOffset="1465-1468" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1469-1475" text="region" lemma="region"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="1476-1483" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_35" POS="CD" charOffset="1484-1488" text="-105" lemma="-105"/>
+            <token xml:space="preserve" id="stt_36" POS="CC" charOffset="1489-1492" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_37" POS="CD" charOffset="1493-1497" text="-193" lemma="-193"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="1498-1500" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_39" POS="DT" charOffset="1501-1504" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="1505-1516" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="1517-1525" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_42" POS="." charOffset="1525-1526" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (NN=H Expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT an) (JJ active) (NN=H form))
+            (PP (IN=H of)
+            (NP (NN=H Ras))))))
+            (, ,)
+            (NP
+            (NP=H (NN=H Ras))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H G12V))
+            (-RRB- -RRB-)))
+            (, ,))
+            (VP=H (VBD=H suppressed)
+            (NP (DT the) (JJ IL-2-induced) (NN beta-casein)
+            (CC and)
+            (NN OSM) (NN gene) (NN=H expression))))
+            (, ,)
+            (CC and)
+            (S
+            (NP
+            (NP=H (DT the) (JJ negative) (NN=H effect))
+            (PP (IN=H of)
+            (NP (NN=H Ras))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H mediated)
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT the) (NN=H region))
+            (PP (IN=H between)
+            (NP (CD=H -105)
+            (CC and)
+            (CD -193)))))
+            (PP (IN=H in)
+            (NP (DT the) (NN beta-casein) (NN=H promoter))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1527-1754" id="S11">
+        <text xml:space="preserve">In apparent contradiction, expression of a dominant negative form of Ras, RasN17, also inhibited IL-2-induced activation of the promoter containing the minimal beta-casein STAT5 element as well as the promoters of CIS and OSM. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1527-1529" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="1530-1538" text="apparent" lemma="apparent"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1539-1552" text="contradiction" lemma="contradiction"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="1552-1553" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1554-1564" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1565-1567" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="1568-1569" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="1570-1578" text="dominant" lemma="dominant"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="1579-1587" text="negative" lemma="negative"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1588-1592" text="form" lemma="form"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1593-1595" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1596-1599" text="Ras" lemma="ras"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="1599-1600" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1601-1607" text="RasN17" lemma="rasn17"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="1607-1608" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="1609-1613" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_17" POS="VBD" charOffset="1614-1623" text="inhibited" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1624-1636" text="IL-2-induced" lemma="il-2-induced"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1637-1647" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="1648-1650" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="1651-1654" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1655-1663" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_23" POS="VBG" charOffset="1664-1674" text="containing" lemma="contain"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="1675-1678" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="1679-1686" text="minimal" lemma="minimal"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1687-1698" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1699-1704" text="STAT5" lemma="stat5"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1705-1712" text="element" lemma="element"/>
+            <token xml:space="preserve" id="stt_29" POS="RB" charOffset="1713-1715" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_30" POS="RB" charOffset="1716-1720" text="well" lemma="well"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="1721-1723" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_32" POS="DT" charOffset="1724-1727" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_33" POS="NNS" charOffset="1728-1737" text="promoters" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="1738-1740" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="1741-1744" text="CIS" lemma="cis"/>
+            <token xml:space="preserve" id="stt_36" POS="CC" charOffset="1745-1748" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="1749-1752" text="OSM" lemma="osm"/>
+            <token xml:space="preserve" id="stt_38" POS="." charOffset="1752-1753" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (JJ apparent) (NN=H contradiction)))
+            (, ,)
+            (NP
+            (NP=H (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a) (JJ dominant) (JJ negative) (NN=H form))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H Ras))
+            (, ,)
+            (NP (NN=H RasN17))
+            (, ,))))))
+            (ADVP (RB=H also))
+            (VP=H (VBD=H inhibited)
+            (NP
+            (NP=H
+            (NP=H (JJ IL-2-induced) (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN=H promoter))
+            (VP (VBG=H containing)
+            (NP (DT the) (JJ minimal) (NN beta-casein) (NN STAT5) (NN=H element))))))
+            (CONJP (RB as) (RB=H well) (IN as))
+            (NP
+            (NP=H (DT the) (NNS=H promoters))
+            (PP (IN=H of)
+            (NP (NN=H CIS)
+            (CC and)
+            (NN OSM))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1754-2040" id="S12">
+        <text xml:space="preserve">In addition, Ras(G12V) complemented signaling by an erythropoietin receptor mutant defective in Ras activation and augmented the activation of the beta-casein promoter by the mutant erythropoietin receptor signaling, suggesting a possible role of Ras in Stat5-mediated gene expression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1754-1756" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1757-1765" text="addition" lemma="addition"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="1765-1766" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="1767-1770" text="Ras" lemma="ras"/>
+            <token xml:space="preserve" id="stt_5" POS="-LRB-" charOffset="1770-1771" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1771-1775" text="G12V" lemma="g12v"/>
+            <token xml:space="preserve" id="stt_7" POS="-RRB-" charOffset="1775-1776" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_8" POS="VBD" charOffset="1777-1789" text="complemented" lemma="complement"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1790-1799" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="1800-1802" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="1803-1805" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1806-1820" text="erythropoietin" lemma="erythropoietin"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1821-1829" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1830-1836" text="mutant" lemma="mutant"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="1837-1846" text="defective" lemma="defective"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1847-1849" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1850-1853" text="Ras" lemma="ras"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1854-1864" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="1865-1868" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="VBD" charOffset="1869-1878" text="augmented" lemma="augment"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="1879-1882" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1883-1893" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1894-1896" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="1897-1900" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1901-1912" text="beta-casein" lemma="beta-casein"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1913-1921" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1922-1924" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_28" POS="DT" charOffset="1925-1928" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="1929-1935" text="mutant" lemma="mutant"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1936-1950" text="erythropoietin" lemma="erythropoietin"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1951-1959" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1960-1969" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_33" POS="," charOffset="1969-1970" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_34" POS="VBG" charOffset="1971-1981" text="suggesting" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_35" POS="DT" charOffset="1982-1983" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_36" POS="JJ" charOffset="1984-1992" text="possible" lemma="possible"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="1993-1997" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="1998-2000" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="2001-2004" text="Ras" lemma="ras"/>
+            <token xml:space="preserve" id="stt_40" POS="IN" charOffset="2005-2007" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_41" POS="JJ" charOffset="2008-2022" text="Stat5-mediated" lemma="stat5-mediated"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="2023-2027" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_43" POS="NN" charOffset="2028-2038" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_44" POS="." charOffset="2038-2039" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H addition)))
+            (, ,)
+            (NP
+            (NP=H (NN=H Ras))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H G12V))
+            (-RRB- -RRB-)))
+            (VP=H
+            (VP=H (VBD=H complemented)
+            (NP (NN=H signaling))
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT an) (NN erythropoietin) (NN receptor) (NN=H mutant))
+            (ADJP (JJ=H defective)
+            (PP (IN=H in)
+            (NP (NN Ras) (NN=H activation)))))))
+            (CC and)
+            (VP (VBD=H augmented)
+            (NP
+            (NP=H (DT the) (NN=H activation))
+            (PP (IN=H of)
+            (NP (DT the) (NN beta-casein) (NN=H promoter))))
+            (PP (IN=H by)
+            (NP (DT the) (JJ mutant) (NN erythropoietin) (NN receptor) (NN=H signaling)))
+            (, ,)
+            (VP (VBG=H suggesting)
+            (NP
+            (NP=H (DT a) (JJ possible) (NN=H role))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H Ras))
+            (PP (IN=H in)
+            (NP (JJ Stat5-mediated) (NN gene) (NN=H expression)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="2040-2228" id="S13">
+        <text xml:space="preserve">These results collectively reveal a complex interaction of STAT5 with other signaling pathways and illustrate that regulation of gene expression requires integration of opposing signals. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="2040-2045" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="2046-2053" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="2054-2066" text="collectively" lemma="collectively"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="2067-2073" text="reveal" lemma="reveal"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="2074-2075" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="2076-2083" text="complex" lemma="complex"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="2084-2095" text="interaction" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="2096-2098" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="2099-2104" text="STAT5" lemma="stat5"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="2105-2109" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="2110-2115" text="other" lemma="other"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="2116-2125" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="2126-2134" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="2135-2138" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="VBP" charOffset="2139-2149" text="illustrate" lemma="illustrate"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="2150-2154" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="2155-2165" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="2166-2168" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="2169-2173" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="2174-2184" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_21" POS="VBZ" charOffset="2185-2193" text="requires" lemma="require"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="2194-2205" text="integration" lemma="integration"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="2206-2208" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="VBG" charOffset="2209-2217" text="opposing" lemma="oppose"/>
+            <token xml:space="preserve" id="stt_25" POS="NNS" charOffset="2218-2225" text="signals" lemma="signal"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="2225-2226" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H results))
+            (VP=H
+            (VP=H
+            (ADVP (RB=H collectively))
+            (VBP=H reveal)
+            (NP
+            (NP=H (DT a) (JJ complex) (NN=H interaction))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H STAT5))
+            (PP (IN=H with)
+            (NP (JJ other) (NN signaling) (NNS=H pathways)))))))
+            (CC and)
+            (VP (VBP=H illustrate)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H regulation))
+            (PP (IN=H of)
+            (NP (NN gene) (NN=H expression))))
+            (VP=H (VBZ=H requires)
+            (NP
+            (NP=H (NN=H integration))
+            (PP (IN=H of)
+            (NP (VBG opposing) (NNS=H signals)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T48" type="ZeroArticleNP" charOffset="363-397" headOffset="363-373" text="expression of the beta-casein gene"/>
+    <Term xml:space="preserve" id="T49" type="PersonalPronoun" charOffset="421-423" headOffset="421-423" text="it"/>
+    <Term xml:space="preserve" id="T50" type="IndefiniteNP" charOffset="656-679" headOffset="675-679" text="a cytotoxic T cell line"/>
+    <Term xml:space="preserve" id="T51" type="RelativePronoun" charOffset="726-731" headOffset="726-731" text="which"/>
+    <Term xml:space="preserve" id="T52" type="ZeroArticleNP" charOffset="755-759" headOffset="755-759" text="IL-4"/>
+    <Term xml:space="preserve" id="T53" type="PersonalPronoun" charOffset="785-787" headOffset="785-787" text="it"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T49"/>
+        <Antecedent idref="T48"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T51"/>
+        <Antecedent idref="T50"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T53"/>
+        <Antecedent idref="T52"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="34-45" headOffset="34-45" text="beta-casein"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="84-89" headOffset="84-89" text="STAT5"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="126-137" headOffset="126-137" text="beta-casein"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="197-253" headOffset="225-234" text="STAT (signal transducer and activator of transcription)5"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="260-265" headOffset="260-265" text="STAT5"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="304-307" headOffset="304-307" text="PRL"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="318-329" headOffset="318-329" text="beta-casein"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="381-392" headOffset="381-392" text="beta-casein"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="411-416" headOffset="411-416" text="STAT5"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="558-569" headOffset="558-569" text="beta-casein"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="623-634" headOffset="623-634" text="beta-casein"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="704-717" headOffset="704-717" text="interleukin-2"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="719-723" headOffset="719-723" text="IL-2"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="742-747" headOffset="742-747" text="STAT5"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="755-759" headOffset="755-759" text="IL-4"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="778-783" headOffset="778-783" text="STAT5"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="810-815" headOffset="810-815" text="STAT5"/>
+    <Term xml:space="preserve" id="T18" type="Protein" charOffset="848-859" headOffset="848-859" text="beta-casein"/>
+    <Term xml:space="preserve" id="T19" type="Protein" charOffset="863-904" headOffset="897-904" text="cytokine-inducible SH2-containing protein"/>
+    <Term xml:space="preserve" id="T20" type="Protein" charOffset="906-909" headOffset="906-909" text="CIS"/>
+    <Term xml:space="preserve" id="T21" type="Protein" charOffset="916-928" headOffset="927-928" text="oncostatin M"/>
+    <Term xml:space="preserve" id="T22" type="Protein" charOffset="930-933" headOffset="930-933" text="OSM"/>
+    <Term xml:space="preserve" id="T23" type="Protein" charOffset="952-957" headOffset="952-957" text="STAT6"/>
+    <Term xml:space="preserve" id="T24" type="Protein" charOffset="971-975" headOffset="971-975" text="IL-4"/>
+    <Term xml:space="preserve" id="T25" type="Protein" charOffset="1008-1013" headOffset="1008-1013" text="STAT5"/>
+    <Term xml:space="preserve" id="T26" type="Protein" charOffset="1026-1030" headOffset="1026-1030" text="IL-2"/>
+    <Term xml:space="preserve" id="T27" type="Protein" charOffset="1039-1050" headOffset="1039-1050" text="beta-casein"/>
+    <Term xml:space="preserve" id="T28" type="Protein" charOffset="1189-1200" headOffset="1189-1200" text="beta-casein"/>
+    <Term xml:space="preserve" id="T29" type="Protein" charOffset="1266-1270" headOffset="1266-1270" text="IL-2"/>
+    <Term xml:space="preserve" id="T30" type="Protein" charOffset="1293-1304" headOffset="1293-1304" text="beta-casein"/>
+    <Term xml:space="preserve" id="T31" type="Protein" charOffset="1343-1352" headOffset="1347-1351" text="Ras(G12V)"/>
+    <Term xml:space="preserve" id="T32" type="Protein" charOffset="1369-1373" headOffset="1369-1373" text="IL-2"/>
+    <Term xml:space="preserve" id="T33" type="Protein" charOffset="1382-1393" headOffset="1382-1393" text="beta-casein"/>
+    <Term xml:space="preserve" id="T34" type="Protein" charOffset="1398-1401" headOffset="1398-1401" text="OSM"/>
+    <Term xml:space="preserve" id="T35" type="Protein" charOffset="1505-1516" headOffset="1505-1516" text="beta-casein"/>
+    <Term xml:space="preserve" id="T36" type="Protein" charOffset="1601-1607" headOffset="1601-1607" text="RasN17"/>
+    <Term xml:space="preserve" id="T37" type="Protein" charOffset="1624-1628" headOffset="1624-1628" text="IL-2"/>
+    <Term xml:space="preserve" id="T38" type="Protein" charOffset="1687-1698" headOffset="1687-1698" text="beta-casein"/>
+    <Term xml:space="preserve" id="T39" type="Protein" charOffset="1699-1704" headOffset="1699-1704" text="STAT5"/>
+    <Term xml:space="preserve" id="T40" type="Protein" charOffset="1741-1744" headOffset="1741-1744" text="CIS"/>
+    <Term xml:space="preserve" id="T41" type="Protein" charOffset="1749-1752" headOffset="1749-1752" text="OSM"/>
+    <Term xml:space="preserve" id="T42" type="Protein" charOffset="1767-1776" headOffset="1771-1775" text="Ras(G12V)"/>
+    <Term xml:space="preserve" id="T43" type="Protein" charOffset="1806-1829" headOffset="1821-1829" text="erythropoietin receptor"/>
+    <Term xml:space="preserve" id="T44" type="Protein" charOffset="1901-1912" headOffset="1901-1912" text="beta-casein"/>
+    <Term xml:space="preserve" id="T45" type="Protein" charOffset="1936-1959" headOffset="1951-1959" text="erythropoietin receptor"/>
+    <Term xml:space="preserve" id="T46" type="Protein" charOffset="2008-2013" headOffset="2008-2013" text="Stat5"/>
+    <Term xml:space="preserve" id="T47" type="Protein" charOffset="2099-2104" headOffset="2099-2104" text="STAT5"/>
+</document>

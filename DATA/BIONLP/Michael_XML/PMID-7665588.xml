@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-7665588">
+    <text xml:space="preserve">Ubiquitin-mediated processing of NF-kappa B transcriptional activator precursor p105. Reconstitution of a cell-free system and identification of the ubiquitin-carrier protein, E2, and a novel ubiquitin-protein ligase, E3, involved in conjugation. 
+In most cases, the transcriptional factor NF-kappa B is a heterodimer consisting of two subunits, p50 and p65, which are encoded by two distinct genes of the Rel family. p50 is translated as a precursor of 105 kDa. The C-terminal domain of the precursor is rapidly degraded, forming the mature p50 subunit consisted of the N-terminal region of the molecule. The mechanism of generation of p50 is not known. It has been suggested that the ubiquitin-proteasome system is involved in the process; however, the specific enzymes involved and the mechanism of limited proteolysis, in which half of the molecule is spared, have been obscure. Palombella and colleagues (Palombella, V.J., Rando, O.J., Goldberg, A.L., and Maniatis, T.(1994) Cell 78, 773-785) have shown that ubiquitin is required for the processing in a cell-free system of a truncated, artificially constructed, 60-kDa precursor. They have also shown that proteasome inhibitors block the processing both in vitro and in vivo. In this study, we demonstrate reconstitution of a cell-free processing system and demonstrate directly that: (a) the ubiquitin-proteasome system is involved in processing of the intact p105 precursor, (b) conjugation of ubiquitin to the precursor is an essential intermediate step in the processing, (c) the recently discovered novel species of the ubiquitin-carrier protein, E2-F1, that is involved in the conjugation and degradation of p53, is also required for the limited processing of the p105 precursor, and (d) a novel, approximately 320-kDa species of ubiquitin-protein ligase, is involved in the process. This novel enzyme is distinct from E6-AP, the p53-conjugating ligase, and from E3 alpha, the "N-end rule" ligase. 
+</text>
+    <sentence charOffset="0-86" id="S1">
+        <text xml:space="preserve">Ubiquitin-mediated processing of NF-kappa B transcriptional activator precursor p105. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-18" text="Ubiquitin-mediated" lemma="ubiquitin-mediated"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="19-29" text="processing" lemma="processing"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="30-32" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="33-41" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="42-43" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="44-59" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="60-69" text="activator" lemma="activator"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="70-79" text="precursor" lemma="precursor"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="80-84" text="p105" lemma="p105"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="84-85" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (JJ Ubiquitin-mediated) (NN=H processing))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN NF-kappa) (NN=H B))
+            (NP (JJ transcriptional) (NN activator) (NN precursor) (NN=H p105))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="86-248" id="S2">
+        <text xml:space="preserve">Reconstitution of a cell-free system and identification of the ubiquitin-carrier protein, E2, and a novel ubiquitin-protein ligase, E3, involved in conjugation. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="86-100" text="Reconstitution" lemma="reconstitution"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="101-103" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="104-105" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="106-115" text="cell-free" lemma="cell-free"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="116-122" text="system" lemma="system"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="123-126" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="127-141" text="identification" lemma="identification"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="142-144" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="145-148" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="149-166" text="ubiquitin-carrier" lemma="ubiquitin-carrier"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="167-174" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="174-175" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="176-178" text="E2" lemma="e2"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="178-179" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="180-183" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="184-185" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="186-191" text="novel" lemma="novel"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="192-209" text="ubiquitin-protein" lemma="ubiquitin-protein"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="210-216" text="ligase" lemma="ligase"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="216-217" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="218-220" text="E3" lemma="e3"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="220-221" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="222-230" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="231-233" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="234-245" text="conjugation" lemma="conjugation"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="245-246" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (NN=H Reconstitution))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT a) (JJ cell-free) (NN=H system)
+            (CC and)
+            (NN identification))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN ubiquitin-carrier) (NN=H protein))
+            (, ,)
+            (NP (NN=H E2))
+            (, ,)
+            (CC and)
+            (NP (DT a) (JJ novel) (NN ubiquitin-protein) (NN=H ligase)))))))
+            (, ,)
+            (NP (NN=H E3))
+            (, ,))
+            (VP=H (VBN=H involved)
+            (PP (IN=H in)
+            (NP (NN=H conjugation))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="248-418" id="S3">
+        <text xml:space="preserve">In most cases, the transcriptional factor NF-kappa B is a heterodimer consisting of two subunits, p50 and p65, which are encoded by two distinct genes of the Rel family. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="248-250" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="JJS" charOffset="251-255" text="most" lemma="most"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="256-261" text="cases" lemma="case"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="261-262" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="263-266" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="267-282" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="283-289" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="290-298" text="NF-kappa" lemma="nf-kappa"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="299-300" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="301-303" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="304-305" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="306-317" text="heterodimer" lemma="heterodimer"/>
+            <token xml:space="preserve" id="stt_13" POS="VBG" charOffset="318-328" text="consisting" lemma="consist"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="329-331" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="CD" charOffset="332-335" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="336-344" text="subunits" lemma="subunit"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="344-345" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="346-349" text="p50" lemma="p50"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="350-353" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="354-357" text="p65" lemma="p65"/>
+            <token xml:space="preserve" id="stt_21" POS="," charOffset="357-358" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_22" POS="WDT" charOffset="359-364" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_23" POS="VBP" charOffset="365-368" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_24" POS="VBN" charOffset="369-376" text="encoded" lemma="encode"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="377-379" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_26" POS="CD" charOffset="380-383" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="384-392" text="distinct" lemma="distinct"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="393-398" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="399-401" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_30" POS="DT" charOffset="402-405" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="406-409" text="Rel" lemma="rel"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="410-416" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="416-417" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (JJS most) (NNS=H cases)))
+            (, ,)
+            (NP (DT the) (JJ transcriptional) (NN factor) (NN NF-kappa) (NN=H B))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (NN=H heterodimer))
+            (VP (VBG=H consisting))
+            (PP (IN=H of)
+            (NP (CD two) (NNS subunits) (, ,) (NN=H p50)
+            (CC and)
+            (NN p65)))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBP=H are)
+            (VP (VBN=H encoded)
+            (PP (IN=H by)
+            (NP
+            (NP=H (CD two) (JJ distinct) (NNS=H genes))
+            (PP (IN=H of)
+            (NP (DT the) (NN Rel) (NN=H family)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="418-463" id="S4">
+        <text xml:space="preserve">p50 is translated as a precursor of 105 kDa. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="418-421" text="p50" lemma="p50"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="422-424" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="425-435" text="translated" lemma="translate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="436-438" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="439-440" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="441-450" text="precursor" lemma="precursor"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="451-453" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="CD" charOffset="454-457" text="105" lemma="105"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="458-461" text="kDa" lemma="kda"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="461-462" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H p50))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H translated)
+            (PP (IN=H as)
+            (NP
+            (NP=H (DT a) (NN=H precursor))
+            (PP (IN=H of)
+            (NP (CD 105) (NN=H kDa)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="463-606" id="S5">
+        <text xml:space="preserve">The C-terminal domain of the precursor is rapidly degraded, forming the mature p50 subunit consisted of the N-terminal region of the molecule. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="463-466" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="467-477" text="C-terminal" lemma="c-terminal"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="478-484" text="domain" lemma="domain"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="485-487" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="488-491" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="492-501" text="precursor" lemma="precursor"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="502-504" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="RB" charOffset="505-512" text="rapidly" lemma="rapidly"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="513-521" text="degraded" lemma="degrade"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="521-522" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="VBG" charOffset="523-530" text="forming" lemma="form"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="531-534" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="535-541" text="mature" lemma="mature"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="542-545" text="p50" lemma="p50"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="546-553" text="subunit" lemma="subunit"/>
+            <token xml:space="preserve" id="stt_16" POS="VBD" charOffset="554-563" text="consisted" lemma="consist"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="564-566" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="567-570" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="571-581" text="N-terminal" lemma="n-terminal"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="582-588" text="region" lemma="region"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="589-591" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="592-595" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="596-604" text="molecule" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="604-605" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (JJ C-terminal) (NN=H domain))
+            (PP (IN=H of)
+            (NP (DT the) (NN=H precursor))))
+            (VP=H (VBZ=H is)
+            (VP
+            (ADVP (RB=H rapidly))
+            (VBN=H degraded) (, ,)
+            (S
+            (VP=H (VBG=H forming)
+            (SBAR
+            (S=H
+            (NP (DT the) (JJ mature) (NN p50) (NN=H subunit))
+            (VP=H (VBD=H consisted)
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (JJ N-terminal) (NN=H region))
+            (PP (IN=H of)
+            (NP (DT the) (NN=H molecule))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="606-655" id="S6">
+        <text xml:space="preserve">The mechanism of generation of p50 is not known. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="606-609" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="610-619" text="mechanism" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="620-622" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="623-633" text="generation" lemma="generation"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="634-636" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="637-640" text="p50" lemma="p50"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="641-643" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="RB" charOffset="644-647" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="648-653" text="known" lemma="know"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="653-654" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H mechanism))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H generation))
+            (PP (IN=H of)
+            (NP (NN=H p50))))))
+            (VP=H (VBZ=H is) (RB not)
+            (VP (VBN=H known)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="655-883" id="S7">
+        <text xml:space="preserve">It has been suggested that the ubiquitin-proteasome system is involved in the process; however, the specific enzymes involved and the mechanism of limited proteolysis, in which half of the molecule is spared, have been obscure. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="655-657" text="It" lemma="it"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="658-661" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_3" POS="VBN" charOffset="662-666" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="667-676" text="suggested" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="677-681" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="682-685" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="686-706" text="ubiquitin-proteasome" lemma="ubiquitin-proteasome"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="707-713" text="system" lemma="system"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="714-716" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="717-725" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="726-728" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="729-732" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="733-740" text="process" lemma="process"/>
+            <token xml:space="preserve" id="stt_14" POS=":" charOffset="740-741" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_15" POS="RB" charOffset="742-749" text="however" lemma="however"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="749-750" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="751-754" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="755-763" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="764-771" text="enzymes" lemma="enzyme"/>
+            <token xml:space="preserve" id="stt_20" POS="VBN" charOffset="772-780" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_21" POS="CC" charOffset="781-784" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="785-788" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="789-798" text="mechanism" lemma="mechanism"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="799-801" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="802-809" text="limited" lemma="limited"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="810-821" text="proteolysis" lemma="proteolysis"/>
+            <token xml:space="preserve" id="stt_27" POS="," charOffset="821-822" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="823-825" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_29" POS="WDT" charOffset="826-831" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="832-836" text="half" lemma="half"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="837-839" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_32" POS="DT" charOffset="840-843" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="844-852" text="molecule" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_34" POS="VBZ" charOffset="853-855" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_35" POS="VBN" charOffset="856-862" text="spared" lemma="spare"/>
+            <token xml:space="preserve" id="stt_36" POS="," charOffset="862-863" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_37" POS="VBP" charOffset="864-868" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_38" POS="VBN" charOffset="869-873" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_39" POS="JJ" charOffset="874-881" text="obscure" lemma="obscure"/>
+            <token xml:space="preserve" id="stt_40" POS="." charOffset="881-882" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (PRP=H It))
+            (VP=H (VBZ=H has)
+            (VP (VBN=H been)
+            (VP (VBN=H suggested)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT the) (JJ ubiquitin-proteasome) (NN=H system))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H involved)
+            (PP (IN=H in)
+            (NP (DT the) (NN=H process)))))))))))
+            (: ;)
+            (S
+            (ADVP (RB=H however))
+            (, ,)
+            (S=H
+            (NP (DT the) (JJ specific) (NNS=H enzymes))
+            (VP=H (VBN=H involved)))
+            (CC and)
+            (S
+            (NP
+            (NP=H (DT the) (NN=H mechanism))
+            (PP (IN=H of)
+            (NP (JJ limited) (NN=H proteolysis)))
+            (, ,)
+            (SBAR
+            (WHPP=H (IN=H in)
+            (WHNP (WDT=H which)))
+            (S
+            (NP
+            (NP=H (NN=H half))
+            (PP (IN=H of)
+            (NP (DT the) (NN=H molecule))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H spared)))))
+            (, ,))
+            (VP=H (VBP=H have)
+            (VP (VBN=H been)
+            (ADJP (JJ=H obscure))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="883-1137" id="S8">
+        <text xml:space="preserve">Palombella and colleagues (Palombella, V.J., Rando, O.J., Goldberg, A.L., and Maniatis, T.(1994) Cell 78, 773-785) have shown that ubiquitin is required for the processing in a cell-free system of a truncated, artificially constructed, 60-kDa precursor. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="883-893" text="Palombella" lemma="palombella"/>
+            <token xml:space="preserve" id="stt_2" POS="CC" charOffset="894-897" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="898-908" text="colleagues" lemma="colleague"/>
+            <token xml:space="preserve" id="stt_4" POS="-LRB-" charOffset="909-910" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_5" POS="NNP" charOffset="910-920" text="Palombella" lemma="Palombella"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="920-921" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="NNP" charOffset="922-926" text="V.J." lemma="V.J."/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="926-927" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="NNP" charOffset="928-933" text="Rando" lemma="Rando"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="933-934" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="NNP" charOffset="935-939" text="O.J." lemma="O.J."/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="939-940" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="NNP" charOffset="941-949" text="Goldberg" lemma="Goldberg"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="949-950" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="NNP" charOffset="951-955" text="A.L." lemma="A.L."/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="955-956" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="957-960" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="NNP" charOffset="961-969" text="Maniatis" lemma="Maniatis"/>
+            <token xml:space="preserve" id="stt_19" POS="," charOffset="969-970" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_20" POS="NNP" charOffset="971-973" text="T." lemma="T."/>
+            <token xml:space="preserve" id="stt_21" POS="-LRB-" charOffset="973-974" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_22" POS="CD" charOffset="974-978" text="1994" lemma="1994"/>
+            <token xml:space="preserve" id="stt_23" POS="-RRB-" charOffset="978-979" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="980-984" text="Cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_25" POS="CD" charOffset="985-987" text="78" lemma="78"/>
+            <token xml:space="preserve" id="stt_26" POS="," charOffset="987-988" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_27" POS="CD" charOffset="989-996" text="773-785" lemma="773-785"/>
+            <token xml:space="preserve" id="stt_28" POS="-RRB-" charOffset="996-997" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_29" POS="VBP" charOffset="998-1002" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_30" POS="VBN" charOffset="1003-1008" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="1009-1013" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1014-1023" text="ubiquitin" lemma="ubiquitin"/>
+            <token xml:space="preserve" id="stt_33" POS="VBZ" charOffset="1024-1026" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_34" POS="VBN" charOffset="1027-1035" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_35" POS="IN" charOffset="1036-1039" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_36" POS="DT" charOffset="1040-1043" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="1044-1054" text="processing" lemma="processing"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="1055-1057" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_39" POS="DT" charOffset="1058-1059" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_40" POS="JJ" charOffset="1060-1069" text="cell-free" lemma="cell-free"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="1070-1076" text="system" lemma="system"/>
+            <token xml:space="preserve" id="stt_42" POS="IN" charOffset="1077-1079" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_43" POS="DT" charOffset="1080-1081" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_44" POS="VBN" charOffset="1082-1091" text="truncated" lemma="truncate"/>
+            <token xml:space="preserve" id="stt_45" POS="," charOffset="1091-1092" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_46" POS="RB" charOffset="1093-1105" text="artificially" lemma="artificially"/>
+            <token xml:space="preserve" id="stt_47" POS="VBN" charOffset="1106-1117" text="constructed" lemma="construct"/>
+            <token xml:space="preserve" id="stt_48" POS="," charOffset="1117-1118" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_49" POS="JJ" charOffset="1119-1125" text="60-kDa" lemma="60-kda"/>
+            <token xml:space="preserve" id="stt_50" POS="NN" charOffset="1126-1135" text="precursor" lemma="precursor"/>
+            <token xml:space="preserve" id="stt_51" POS="." charOffset="1135-1136" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Palombella)
+            (CC and)
+            (NNS colleagues))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (NNP=H Palombella))
+            (, ,)
+            (NP
+            (NP=H (NNP V.J.) (, ,) (NNP Rando) (, ,) (NNP O.J.) (, ,) (NNP Goldberg) (, ,) (NNP=H A.L.) (, ,))
+            (CC and)
+            (NP
+            (NP=H (NNP Maniatis) (, ,) (NNP=H T.))
+            (PRN (-LRB- -LRB-)
+            (NP=H (CD=H 1994))
+            (-RRB- -RRB-))
+            (NP (NN=H Cell) (CD 78))))
+            (, ,)
+            (NP (CD=H 773-785)))
+            (-RRB- -RRB-)))
+            (VP=H (VBP=H have)
+            (VP
+            (VP=H (VBN=H shown)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H ubiquitin))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP
+            (NP=H (DT the) (NN=H processing))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT a) (JJ cell-free) (NN=H system))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT=H a))
+            (VP (VBN=H truncated)))))))))))))
+            (, ,)
+            (VP
+            (ADVP (RB=H artificially))
+            (VBN=H constructed))
+            (, ,)
+            (NP (JJ 60-kDa) (NN=H precursor))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1137-1233" id="S9">
+        <text xml:space="preserve">They have also shown that proteasome inhibitors block the processing both in vitro and in vivo. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="1137-1141" text="They" lemma="they"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="1142-1146" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="1147-1151" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="1152-1157" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1158-1162" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1163-1173" text="proteasome" lemma="proteasome"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1174-1184" text="inhibitors" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_8" POS="VBP" charOffset="1185-1190" text="block" lemma="block"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="1191-1194" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1195-1205" text="processing" lemma="processing"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="1206-1210" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_12" POS="FW" charOffset="1211-1213" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="FW" charOffset="1214-1219" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="1220-1223" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="FW" charOffset="1224-1226" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="FW" charOffset="1227-1231" text="vivo" lemma="vivo"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="1231-1232" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H They))
+            (VP=H (VBP=H have)
+            (ADVP (RB=H also))
+            (VP (VBN=H shown)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN proteasome) (NNS=H inhibitors))
+            (VP=H (VBP=H block)
+            (NP
+            (NP=H (DT the) (NN=H processing))
+            (ADVP (CC=H both)))
+            (UCP
+            (ADVP=H (FW in) (FW=H vitro))
+            (CC and)
+            (PP (FW=H in)
+            (NP (FW=H vivo)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1233-1847" id="S10">
+        <text xml:space="preserve">In this study, we demonstrate reconstitution of a cell-free processing system and demonstrate directly that: (a) the ubiquitin-proteasome system is involved in processing of the intact p105 precursor, (b) conjugation of ubiquitin to the precursor is an essential intermediate step in the processing, (c) the recently discovered novel species of the ubiquitin-carrier protein, E2-F1, that is involved in the conjugation and degradation of p53, is also required for the limited processing of the p105 precursor, and (d) a novel, approximately 320-kDa species of ubiquitin-protein ligase, is involved in the process. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1233-1235" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="1236-1240" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1241-1246" text="study" lemma="study"/>
+            <token xml:space="preserve" id="stt_4" POS="," charOffset="1246-1247" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="1248-1250" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="1251-1262" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1263-1277" text="reconstitution" lemma="reconstitution"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="1278-1280" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="1281-1282" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1283-1292" text="cell-free" lemma="cell-free"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1293-1303" text="processing" lemma="processing"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1304-1310" text="system" lemma="system"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="1311-1314" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="VBP" charOffset="1315-1326" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_15" POS="RB" charOffset="1327-1335" text="directly" lemma="directly"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="1336-1340" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_17" POS=":" charOffset="1340-1341" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_18" POS="-LRB-" charOffset="1342-1343" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_19" POS="LS" charOffset="1343-1344" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_20" POS="-RRB-" charOffset="1344-1345" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="1346-1349" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="1350-1370" text="ubiquitin-proteasome" lemma="ubiquitin-proteasome"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1371-1377" text="system" lemma="system"/>
+            <token xml:space="preserve" id="stt_24" POS="VBZ" charOffset="1378-1380" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_25" POS="VBN" charOffset="1381-1389" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="1390-1392" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="1393-1403" text="processing" lemma="processing"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="1404-1406" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_29" POS="DT" charOffset="1407-1410" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="1411-1417" text="intact" lemma="intact"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1418-1422" text="p105" lemma="p105"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1423-1432" text="precursor" lemma="precursor"/>
+            <token xml:space="preserve" id="stt_33" POS="," charOffset="1432-1433" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_34" POS="-LRB-" charOffset="1434-1435" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_35" POS="LS" charOffset="1435-1436" text="b" lemma="b"/>
+            <token xml:space="preserve" id="stt_36" POS="-RRB-" charOffset="1436-1437" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="1438-1449" text="conjugation" lemma="conjugation"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="1450-1452" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="1453-1462" text="ubiquitin" lemma="ubiquitin"/>
+            <token xml:space="preserve" id="stt_40" POS="TO" charOffset="1463-1465" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_41" POS="DT" charOffset="1466-1469" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="1470-1479" text="precursor" lemma="precursor"/>
+            <token xml:space="preserve" id="stt_43" POS="VBZ" charOffset="1480-1482" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_44" POS="DT" charOffset="1483-1485" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_45" POS="JJ" charOffset="1486-1495" text="essential" lemma="essential"/>
+            <token xml:space="preserve" id="stt_46" POS="JJ" charOffset="1496-1508" text="intermediate" lemma="intermediate"/>
+            <token xml:space="preserve" id="stt_47" POS="NN" charOffset="1509-1513" text="step" lemma="step"/>
+            <token xml:space="preserve" id="stt_48" POS="IN" charOffset="1514-1516" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_49" POS="DT" charOffset="1517-1520" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_50" POS="NN" charOffset="1521-1531" text="processing" lemma="processing"/>
+            <token xml:space="preserve" id="stt_51" POS="," charOffset="1531-1532" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_52" POS="-LRB-" charOffset="1533-1534" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_53" POS="NN" charOffset="1534-1535" text="c" lemma="c"/>
+            <token xml:space="preserve" id="stt_54" POS="-RRB-" charOffset="1535-1536" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_55" POS="DT" charOffset="1537-1540" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_56" POS="RB" charOffset="1541-1549" text="recently" lemma="recently"/>
+            <token xml:space="preserve" id="stt_57" POS="VBN" charOffset="1550-1560" text="discovered" lemma="discover"/>
+            <token xml:space="preserve" id="stt_58" POS="JJ" charOffset="1561-1566" text="novel" lemma="novel"/>
+            <token xml:space="preserve" id="stt_59" POS="NNS" charOffset="1567-1574" text="species" lemma="species"/>
+            <token xml:space="preserve" id="stt_60" POS="IN" charOffset="1575-1577" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_61" POS="DT" charOffset="1578-1581" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_62" POS="NN" charOffset="1582-1599" text="ubiquitin-carrier" lemma="ubiquitin-carrier"/>
+            <token xml:space="preserve" id="stt_63" POS="NN" charOffset="1600-1607" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_64" POS="," charOffset="1607-1608" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_65" POS="NN" charOffset="1609-1614" text="E2-F1" lemma="e2-f1"/>
+            <token xml:space="preserve" id="stt_66" POS="," charOffset="1614-1615" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_67" POS="WDT" charOffset="1616-1620" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_68" POS="VBZ" charOffset="1621-1623" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_69" POS="VBN" charOffset="1624-1632" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_70" POS="IN" charOffset="1633-1635" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_71" POS="DT" charOffset="1636-1639" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_72" POS="NN" charOffset="1640-1651" text="conjugation" lemma="conjugation"/>
+            <token xml:space="preserve" id="stt_73" POS="CC" charOffset="1652-1655" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_74" POS="NN" charOffset="1656-1667" text="degradation" lemma="degradation"/>
+            <token xml:space="preserve" id="stt_75" POS="IN" charOffset="1668-1670" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_76" POS="NN" charOffset="1671-1674" text="p53" lemma="p53"/>
+            <token xml:space="preserve" id="stt_77" POS="," charOffset="1674-1675" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_78" POS="VBZ" charOffset="1676-1678" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_79" POS="RB" charOffset="1679-1683" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_80" POS="VBN" charOffset="1684-1692" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_81" POS="IN" charOffset="1693-1696" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_82" POS="DT" charOffset="1697-1700" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_83" POS="JJ" charOffset="1701-1708" text="limited" lemma="limited"/>
+            <token xml:space="preserve" id="stt_84" POS="NN" charOffset="1709-1719" text="processing" lemma="processing"/>
+            <token xml:space="preserve" id="stt_85" POS="IN" charOffset="1720-1722" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_86" POS="DT" charOffset="1723-1726" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_87" POS="NN" charOffset="1727-1731" text="p105" lemma="p105"/>
+            <token xml:space="preserve" id="stt_88" POS="NN" charOffset="1732-1741" text="precursor" lemma="precursor"/>
+            <token xml:space="preserve" id="stt_89" POS="," charOffset="1741-1742" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_90" POS="CC" charOffset="1743-1746" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_91" POS="-LRB-" charOffset="1747-1748" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_92" POS="LS" charOffset="1748-1749" text="d" lemma="d"/>
+            <token xml:space="preserve" id="stt_93" POS="-RRB-" charOffset="1749-1750" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_94" POS="DT" charOffset="1751-1752" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_95" POS="JJ" charOffset="1753-1758" text="novel" lemma="novel"/>
+            <token xml:space="preserve" id="stt_96" POS="," charOffset="1758-1759" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_97" POS="RB" charOffset="1760-1773" text="approximately" lemma="approximately"/>
+            <token xml:space="preserve" id="stt_98" POS="JJ" charOffset="1774-1781" text="320-kDa" lemma="320-kda"/>
+            <token xml:space="preserve" id="stt_99" POS="NNS" charOffset="1782-1789" text="species" lemma="species"/>
+            <token xml:space="preserve" id="stt_100" POS="IN" charOffset="1790-1792" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_101" POS="JJ" charOffset="1793-1810" text="ubiquitin-protein" lemma="ubiquitin-protein"/>
+            <token xml:space="preserve" id="stt_102" POS="NN" charOffset="1811-1817" text="ligase" lemma="ligase"/>
+            <token xml:space="preserve" id="stt_103" POS="," charOffset="1817-1818" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_104" POS="VBZ" charOffset="1819-1821" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_105" POS="VBN" charOffset="1822-1830" text="involved" lemma="involve"/>
+            <token xml:space="preserve" id="stt_106" POS="IN" charOffset="1831-1833" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_107" POS="DT" charOffset="1834-1837" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_108" POS="NN" charOffset="1838-1845" text="process" lemma="process"/>
+            <token xml:space="preserve" id="stt_109" POS="." charOffset="1845-1846" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (PP (IN=H In)
+            (NP (DT this) (NN=H study)))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H
+            (VP=H (VBP=H demonstrate)
+            (NP
+            (NP=H (NN=H reconstitution))
+            (PP (IN=H of)
+            (NP (DT a) (JJ cell-free) (NN processing) (NN=H system)))))
+            (CC and)
+            (VP (VBP=H demonstrate)
+            (ADJP (RB directly) (IN=H that)))))
+            (: :)
+            (S
+            (LST (-LRB- -LRB-) (LS=H a) (-RRB- -RRB-))
+            (NP (DT the) (JJ ubiquitin-proteasome) (NN=H system))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H involved)
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H processing))
+            (PP (IN=H of)
+            (NP (DT the) (JJ intact) (NN p105) (NN=H precursor))))))))
+            (, ,)
+            (S
+            (NP
+            (NP=H
+            (LST (-LRB- -LRB-) (LS=H b) (-RRB- -RRB-))
+            (NP=H (NN=H conjugation))
+            (PP (IN=H of)
+            (NP (NN=H ubiquitin))))
+            (PP (TO=H to)
+            (NP (DT the) (NN=H precursor))))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT an) (JJ essential) (JJ intermediate) (NN=H step))
+            (PP (IN=H in)
+            (NP (DT the) (NN=H processing))))))
+            (, ,)
+            (S
+            (LST (-LRB- -LRB-) (NN=H c) (-RRB- -RRB-))
+            (SBAR
+            (X (DT=H the))
+            (S=H
+            (NP (RB=H recently))
+            (VP=H (VBN=H discovered)
+            (NP
+            (NP=H (JJ novel) (NNS=H species))
+            (PP (IN=H of)
+            (NP (DT the) (NN ubiquitin-carrier) (NN=H protein)))))))
+            (, ,)
+            (NP
+            (NP=H (NN=H E2-F1))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H is)
+            (VP (VBN=H involved)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H conjugation)
+            (CC and)
+            (NN degradation))
+            (PP (IN=H of)
+            (NP (NN=H p53)))))))))
+            (, ,))
+            (VP=H (VBZ=H is)
+            (ADVP (RB=H also))
+            (VP (VBN=H required)
+            (SBAR (IN=H for)
+            (S
+            (NP
+            (NP=H
+            (NP=H (DT the) (JJ limited) (NN=H processing))
+            (PP (IN=H of)
+            (NP (DT the) (NN p105) (NN=H precursor))))
+            (, ,)
+            (CC and)
+            (NP
+            (LST (-LRB- -LRB-) (LS=H d) (-RRB- -RRB-))
+            (DT a)
+            (ADJP (JJ=H novel))
+            (, ,)
+            (ADJP (RB=H approximately)
+            (NP (JJ 320-kDa) (NNS=H species))
+            (PP (IN=H of)
+            (ADJP (JJ=H ubiquitin-protein))))
+            (NN=H ligase))
+            (, ,))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H involved)
+            (PP (IN=H in)
+            (NP (DT the) (NN=H process))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1847-1962" id="S11">
+        <text xml:space="preserve">This novel enzyme is distinct from E6-AP, the p53-conjugating ligase, and from E3 alpha, the "N-end rule" ligase. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1847-1851" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="1852-1857" text="novel" lemma="novel"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1858-1864" text="enzyme" lemma="enzyme"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="1865-1867" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="1868-1876" text="distinct" lemma="distinct"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1877-1881" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1882-1887" text="E6-AP" lemma="e6-ap"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="1887-1888" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="1889-1892" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1893-1908" text="p53-conjugating" lemma="p53-conjugating"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1909-1915" text="ligase" lemma="ligase"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="1915-1916" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="1917-1920" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1921-1925" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1926-1928" text="E3" lemma="e3"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="1929-1934" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_17" POS="," charOffset="1934-1935" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="1936-1939" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="``" charOffset="1940-1941" text="&quot;" lemma="``"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1941-1946" text="N-end" lemma="n-end"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1947-1951" text="rule" lemma="rule"/>
+            <token xml:space="preserve" id="stt_22" POS="''" charOffset="1951-1952" text="&quot;" lemma="''"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1953-1959" text="ligase" lemma="ligase"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="1959-1960" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (JJ novel) (NN=H enzyme))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H distinct)
+            (PP
+            (PP=H (IN=H from)
+            (NP
+            (NP=H (NN=H E6-AP))
+            (, ,)
+            (NP (DT the) (JJ p53-conjugating) (NN=H ligase))
+            (, ,)))
+            (CC and)
+            (PP (IN=H from)
+            (NP
+            (NP=H (NN E3) (NN=H alpha))
+            (, ,)
+            (NP (DT the) (`` ``) (NN N-end) (NN rule) ('' '') (NN=H ligase)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T24" type="ZeroArticleNP" charOffset="33-84" headOffset="80-84" text="NF-kappa B transcriptional activator precursor p105"/>
+    <Term xml:space="preserve" id="T25" type="ZeroArticleNP" charOffset="332-344" headOffset="336-344" text="two subunits"/>
+    <Term xml:space="preserve" id="T26" type="ZeroArticleNP" charOffset="346-357" headOffset="354-357" text="p50 and p65"/>
+    <Term xml:space="preserve" id="T27" type="RelativePronoun" charOffset="359-364" headOffset="359-364" text="which"/>
+    <Term xml:space="preserve" id="T28" type="IndefiniteNP" charOffset="439-461" headOffset="441-450" text="a precursor of 105 kDa"/>
+    <Term xml:space="preserve" id="T29" type="DefiniteNP" charOffset="488-501" headOffset="492-501" text="the precursor"/>
+    <Term xml:space="preserve" id="T30" type="ZeroArticleNP" charOffset="802-821" headOffset="810-821" text="limited proteolysis"/>
+    <Term xml:space="preserve" id="T31" type="RelativePronoun" charOffset="826-831" headOffset="826-831" text="which"/>
+    <Term xml:space="preserve" id="T32" type="ZeroArticleNP" charOffset="883-908" headOffset="898-908" text="Palombella and colleagues"/>
+    <Term xml:space="preserve" id="T33" type="PersonalPronoun" charOffset="1137-1141" headOffset="1137-1141" text="They"/>
+    <Term xml:space="preserve" id="T34" type="DefiniteNP" charOffset="1407-1432" headOffset="1423-1432" text="the intact p105 precursor"/>
+    <Term xml:space="preserve" id="T35" type="DefiniteNP" charOffset="1466-1479" headOffset="1470-1479" text="the precursor"/>
+    <Term xml:space="preserve" id="T36" type="DefiniteNP" charOffset="1578-1607" headOffset="1600-1607" text="the ubiquitin-carrier protein"/>
+    <Term xml:space="preserve" id="T37" type="RelativePronoun" charOffset="1616-1620" headOffset="1616-1620" text="that"/>
+    <Term xml:space="preserve" id="T38" type="IndefiniteNP" charOffset="1751-1817" headOffset="1782-1789" text="a novel, approximately 320-kDa species of ubiquitin-protein ligase"/>
+    <Term xml:space="preserve" id="T39" type="DemonstrativeNP" charOffset="1847-1864" headOffset="1858-1864" text="This novel enzyme"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T27"/>
+        <Antecedent idref="T25"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T28"/>
+        <Antecedent idref="T24"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T29"/>
+        <Antecedent idref="T28"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T31"/>
+        <Antecedent idref="T30"/>
+    </Relation>
+    <Relation id="R5" type="Anaphora">
+        <Anaphor idref="T33"/>
+        <Antecedent idref="T32"/>
+    </Relation>
+    <Relation id="R6" type="Anaphora">
+        <Anaphor idref="T35"/>
+        <Antecedent idref="T34"/>
+    </Relation>
+    <Relation id="R7" type="Anaphora">
+        <Anaphor idref="T37"/>
+        <Antecedent idref="T36"/>
+    </Relation>
+    <Relation id="R8" type="Anaphora">
+        <Anaphor idref="T39"/>
+        <Antecedent idref="T38"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="0-9" headOffset="0-9" text="Ubiquitin"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="80-84" headOffset="80-84" text="p105"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="149-158" headOffset="149-158" text="ubiquitin"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="176-178" headOffset="176-178" text="E2"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="192-201" headOffset="192-201" text="ubiquitin"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="218-220" headOffset="218-220" text="E3"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="346-349" headOffset="346-349" text="p50"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="354-357" headOffset="354-357" text="p65"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="418-421" headOffset="418-421" text="p50"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="542-545" headOffset="542-545" text="p50"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="637-640" headOffset="637-640" text="p50"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="686-695" headOffset="686-695" text="ubiquitin"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="1014-1023" headOffset="1014-1023" text="ubiquitin"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1350-1359" headOffset="1350-1359" text="ubiquitin"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1418-1422" headOffset="1418-1422" text="p105"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="1582-1591" headOffset="1582-1591" text="ubiquitin"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="1609-1614" headOffset="1609-1614" text="E2-F1"/>
+    <Term xml:space="preserve" id="T18" type="Protein" charOffset="1671-1674" headOffset="1671-1674" text="p53"/>
+    <Term xml:space="preserve" id="T19" type="Protein" charOffset="1727-1731" headOffset="1727-1731" text="p105"/>
+    <Term xml:space="preserve" id="T20" type="Protein" charOffset="1793-1802" headOffset="1793-1802" text="ubiquitin"/>
+    <Term xml:space="preserve" id="T21" type="Protein" charOffset="1882-1887" headOffset="1882-1887" text="E6-AP"/>
+    <Term xml:space="preserve" id="T22" type="Protein" charOffset="1893-1896" headOffset="1893-1896" text="p53"/>
+    <Term xml:space="preserve" id="T23" type="Protein" charOffset="1926-1934" headOffset="1929-1934" text="E3 alpha"/>
+</document>

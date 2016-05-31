@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9398163">
+    <text xml:space="preserve">ATF1 and CREB trans-activate a cell cycle regulated histone H4 gene at a distal nuclear matrix associated promoter element. 
+Proteins of the ATF/CREB class of transcription factors stimulate gene expression of several cell growth-related genes through protein kinase A-related cAMP response elements. The promoter activity of cell cycle regulated histone H4 genes is regulated by at least four principal cis-acting elements which mediate G1/S phase control and/or enhancement of transcription during the cell cycle. Using protein-DNA interaction assays we show that the H4 promoter contains two ATF/CREB recognition motifs which interact with CREB, ATF1, and ATF2 but not with ATF4/CREB2. One ATF/CRE motif is located in the distal promoter at the nuclear matrix-associated Site IV, and the second motif is present in the proximal promoter at Site I. Both ATF/CRE motifs overlap binding sequences for the multifunctional YY1 transcription factor, which has previously been shown to be nuclear matrix associated. Subnuclear fractionation reveals that there are two ATF1 isoforms which appear to differ with respect to DNA binding activity and partition selectively between nuclear matrix and nonmatrix compartments, consistent with the role of the nuclear matrix in regulating gene expression. Site-directed mutational studies demonstrate that Site I and Site IV together support ATF1- and CREB-induced trans-activation of the H4 promoter. Thus, our data establish that ATF/CREB factors functionally modulate histone H4 gene transcription at distal and proximal promoter elements. 
+</text>
+    <sentence charOffset="0-125" id="S1">
+        <text xml:space="preserve">ATF1 and CREB trans-activate a cell cycle regulated histone H4 gene at a distal nuclear matrix associated promoter element. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-4" text="ATF1" lemma="atf1"/>
+            <token xml:space="preserve" id="stt_2" POS="CC" charOffset="5-8" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="9-13" text="CREB" lemma="creb"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="14-28" text="trans-activate" lemma="trans-activate"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="29-30" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="31-35" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="36-41" text="cycle" lemma="cycle"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="42-51" text="regulated" lemma="regulated"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="52-59" text="histone" lemma="histone"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="60-62" text="H4" lemma="h4"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="63-67" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="68-70" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="71-72" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="73-79" text="distal" lemma="distal"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="80-87" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="88-94" text="matrix" lemma="matrix"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="95-105" text="associated" lemma="associated"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="106-114" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="115-122" text="element" lemma="element"/>
+            <token xml:space="preserve" id="stt_20" POS="." charOffset="122-123" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H ATF1)
+            (CC and)
+            (NN CREB))
+            (VP=H (VBP=H trans-activate)
+            (S
+            (NP=H (DT a) (NN cell) (NN=H cycle))
+            (NP
+            (NP=H (JJ regulated) (NN histone) (NN H4) (NN=H gene))
+            (PP (IN=H at)
+            (NP (DT a) (JJ distal) (JJ nuclear) (NN matrix) (JJ associated) (NN promoter) (NN=H element))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="125-301" id="S2">
+        <text xml:space="preserve">Proteins of the ATF/CREB class of transcription factors stimulate gene expression of several cell growth-related genes through protein kinase A-related cAMP response elements. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NNS" charOffset="125-133" text="Proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="134-136" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="137-140" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="141-149" text="ATF/CREB" lemma="atf/creb"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="150-155" text="class" lemma="class"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="156-158" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="159-172" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="173-180" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_9" POS="VBP" charOffset="181-190" text="stimulate" lemma="stimulate"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="191-195" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="196-206" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="207-209" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="210-217" text="several" lemma="several"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="218-222" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="223-237" text="growth-related" lemma="growth-related"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="238-243" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="244-251" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="252-259" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="260-266" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="267-276" text="A-related" lemma="a-related"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="277-281" text="cAMP" lemma="camp"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="282-290" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="291-299" text="elements" lemma="element"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="299-300" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NNS=H Proteins))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN ATF/CREB) (NN=H class))
+            (PP (IN=H of)
+            (NP (NN transcription) (NNS=H factors))))))
+            (VP=H (VBP=H stimulate)
+            (NP
+            (NP=H (NN gene) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ several) (NN cell) (JJ growth-related) (NNS=H genes))
+            (PP (IN=H through)
+            (NP (NN protein) (NN kinase) (JJ A-related) (NN cAMP) (NN response) (NNS=H elements)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="301-516" id="S3">
+        <text xml:space="preserve">The promoter activity of cell cycle regulated histone H4 genes is regulated by at least four principal cis-acting elements which mediate G1/S phase control and/or enhancement of transcription during the cell cycle. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="301-304" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="305-313" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="314-322" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="323-325" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="326-330" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="331-336" text="cycle" lemma="cycle"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="337-346" text="regulated" lemma="regulated"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="347-354" text="histone" lemma="histone"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="355-357" text="H4" lemma="h4"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="358-363" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="364-366" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="367-376" text="regulated" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="377-379" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="380-382" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_15" POS="JJS" charOffset="383-388" text="least" lemma="least"/>
+            <token xml:space="preserve" id="stt_16" POS="CD" charOffset="389-393" text="four" lemma="four"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="394-403" text="principal" lemma="principal"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="404-414" text="cis-acting" lemma="cis-acting"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="415-423" text="elements" lemma="element"/>
+            <token xml:space="preserve" id="stt_20" POS="WDT" charOffset="424-429" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_21" POS="VBP" charOffset="430-437" text="mediate" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="438-442" text="G1/S" lemma="g1/s"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="443-448" text="phase" lemma="phase"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="449-456" text="control" lemma="control"/>
+            <token xml:space="preserve" id="stt_25" POS="CC" charOffset="457-463" text="and/or" lemma="and/or"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="464-475" text="enhancement" lemma="enhancement"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="476-478" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="479-492" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="493-499" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_30" POS="DT" charOffset="500-503" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="504-508" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="509-514" text="cycle" lemma="cycle"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="514-515" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN promoter) (NN=H activity))
+            (PP (IN=H of)
+            (NP (NN cell) (NN cycle) (JJ regulated) (NN histone) (NN H4) (NNS=H genes))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H regulated)
+            (PP (IN=H by)
+            (NP
+            (NP=H
+            (QP (IN=H at) (JJS least) (CD four))
+            (JJ principal) (JJ cis-acting) (NNS=H elements))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H
+            (VP=H (VBP=H mediate)
+            (NP (NN G1/S) (NN phase) (NN=H control)))
+            (CC and/or)
+            (VP
+            (NP=H
+            (NP=H (NN=H enhancement))
+            (PP (IN=H of)
+            (NP (NN=H transcription))))
+            (PP (IN=H during)
+            (NP (DT the) (NN cell) (NN=H cycle)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="516-689" id="S4">
+        <text xml:space="preserve">Using protein-DNA interaction assays we show that the H4 promoter contains two ATF/CREB recognition motifs which interact with CREB, ATF1, and ATF2 but not with ATF4/CREB2. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBG" charOffset="516-521" text="Using" lemma="use"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="522-533" text="protein-DNA" lemma="protein-dna"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="534-545" text="interaction" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="546-552" text="assays" lemma="assay"/>
+            <token xml:space="preserve" id="stt_5" POS="PRP" charOffset="553-555" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="556-560" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="561-565" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="566-569" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="570-572" text="H4" lemma="h4"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="573-581" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="582-590" text="contains" lemma="contain"/>
+            <token xml:space="preserve" id="stt_12" POS="CD" charOffset="591-594" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="595-603" text="ATF/CREB" lemma="atf/creb"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="604-615" text="recognition" lemma="recognition"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="616-622" text="motifs" lemma="motif"/>
+            <token xml:space="preserve" id="stt_16" POS="WDT" charOffset="623-628" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_17" POS="VBP" charOffset="629-637" text="interact" lemma="interact"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="638-642" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="643-647" text="CREB" lemma="creb"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="647-648" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="649-653" text="ATF1" lemma="atf1"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="653-654" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="655-658" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="659-663" text="ATF2" lemma="atf2"/>
+            <token xml:space="preserve" id="stt_25" POS="CC" charOffset="664-667" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_26" POS="RB" charOffset="668-671" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="672-676" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="677-687" text="ATF4/CREB2" lemma="atf4/creb2"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="687-688" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S
+            (VP=H (VBG=H Using)
+            (NP (JJ protein-DNA) (NN interaction) (NNS=H assays))))
+            (NP (PRP=H we))
+            (VP=H (VBP=H show)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT the) (NN H4) (NN=H promoter))
+            (VP=H (VBZ=H contains)
+            (NP
+            (NP=H (CD two) (NN ATF/CREB) (NN recognition) (NNS=H motifs))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBP=H interact)
+            (PP
+            (PP=H (IN=H with)
+            (NP
+            (NP=H (NN=H CREB))
+            (, ,)
+            (NP (NN=H ATF1))
+            (, ,)
+            (CC and)
+            (NP (NN=H ATF2))))
+            (CONJP (CC=H but)
+            (RB not))
+            (PP (IN=H with)
+            (NP (NN=H ATF4/CREB2))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="689-851" id="S5">
+        <text xml:space="preserve">One ATF/CRE motif is located in the distal promoter at the nuclear matrix-associated Site IV, and the second motif is present in the proximal promoter at Site I. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="CD" charOffset="689-692" text="One" lemma="one"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="693-700" text="ATF/CRE" lemma="atf/cre"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="701-706" text="motif" lemma="motif"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="707-709" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="710-717" text="located" lemma="located"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="718-720" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="721-724" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="725-731" text="distal" lemma="distal"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="732-740" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="741-743" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="744-747" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="748-755" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="756-773" text="matrix-associated" lemma="matrix-associated"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="774-778" text="Site" lemma="site"/>
+            <token xml:space="preserve" id="stt_15" POS="CD" charOffset="779-781" text="IV" lemma="iv"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="781-782" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="783-786" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="787-790" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="791-797" text="second" lemma="second"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="798-803" text="motif" lemma="motif"/>
+            <token xml:space="preserve" id="stt_21" POS="VBZ" charOffset="804-806" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="807-814" text="present" lemma="present"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="815-817" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_24" POS="DT" charOffset="818-821" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_25" POS="JJ" charOffset="822-830" text="proximal" lemma="proximal"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="831-839" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="840-842" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="843-847" text="Site" lemma="site"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="848-850" text="I." lemma="i."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (CD One) (NN ATF/CRE) (NN=H motif))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H located)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (JJ distal) (NN=H promoter))
+            (PP (IN=H at)
+            (NP (DT the) (JJ nuclear) (JJ matrix-associated) (NN=H Site)))))
+            (NP-TMP (CD=H IV)))))
+            (, ,)
+            (CC and)
+            (S
+            (NP (DT the) (JJ second) (NN=H motif))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H present)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (JJ proximal) (NN=H promoter))
+            (PP (IN=H at)
+            (NP (NN Site) (NN=H I.))))))))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="851-1012" id="S6">
+        <text xml:space="preserve">Both ATF/CRE motifs overlap binding sequences for the multifunctional YY1 transcription factor, which has previously been shown to be nuclear matrix associated. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="851-855" text="Both" lemma="both"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="856-863" text="ATF/CRE" lemma="atf/cre"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="864-870" text="motifs" lemma="motif"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="871-878" text="overlap" lemma="overlap"/>
+            <token xml:space="preserve" id="stt_5" POS="VBG" charOffset="879-886" text="binding" lemma="bind"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="887-896" text="sequences" lemma="sequence"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="897-900" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="901-904" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="905-920" text="multifunctional" lemma="multifunctional"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="921-924" text="YY1" lemma="yy1"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="925-938" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="939-945" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="945-946" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="WDT" charOffset="947-952" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="953-956" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="957-967" text="previously" lemma="previously"/>
+            <token xml:space="preserve" id="stt_17" POS="VBN" charOffset="968-972" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_18" POS="VBN" charOffset="973-978" text="shown" lemma="show"/>
+            <token xml:space="preserve" id="stt_19" POS="TO" charOffset="979-981" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_20" POS="VB" charOffset="982-984" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_21" POS="JJ" charOffset="985-992" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="993-999" text="matrix" lemma="matrix"/>
+            <token xml:space="preserve" id="stt_23" POS="VBN" charOffset="1000-1010" text="associated" lemma="associate"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="1010-1011" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT Both) (NN ATF/CRE) (NNS=H motifs))
+            (VP=H (VBP=H overlap)
+            (NP (VBG binding) (NNS=H sequences))
+            (PP (IN=H for)
+            (NP
+            (NP=H (DT the) (JJ multifunctional) (NN YY1) (NN transcription) (NN=H factor))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H has)
+            (ADVP (RB=H previously))
+            (VP (VBN=H been)
+            (VP (VBN=H shown)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (NP
+            (NP=H (JJ nuclear) (NN=H matrix))
+            (VP (VBN=H associated))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1012-1293" id="S7">
+        <text xml:space="preserve">Subnuclear fractionation reveals that there are two ATF1 isoforms which appear to differ with respect to DNA binding activity and partition selectively between nuclear matrix and nonmatrix compartments, consistent with the role of the nuclear matrix in regulating gene expression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1012-1022" text="Subnuclear" lemma="subnuclear"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1023-1036" text="fractionation" lemma="fractionation"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="1037-1044" text="reveals" lemma="reveal"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1045-1049" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="EX" charOffset="1050-1055" text="there" lemma="there"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="1056-1059" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="CD" charOffset="1060-1063" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1064-1068" text="ATF1" lemma="atf1"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="1069-1077" text="isoforms" lemma="isoform"/>
+            <token xml:space="preserve" id="stt_10" POS="WDT" charOffset="1078-1083" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_11" POS="VBP" charOffset="1084-1090" text="appear" lemma="appear"/>
+            <token xml:space="preserve" id="stt_12" POS="TO" charOffset="1091-1093" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_13" POS="VB" charOffset="1094-1100" text="differ" lemma="differ"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="1101-1105" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1106-1113" text="respect" lemma="respect"/>
+            <token xml:space="preserve" id="stt_16" POS="TO" charOffset="1114-1116" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1117-1120" text="DNA" lemma="dna"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1121-1128" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1129-1137" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="1138-1141" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1142-1151" text="partition" lemma="partition"/>
+            <token xml:space="preserve" id="stt_22" POS="RB" charOffset="1152-1163" text="selectively" lemma="selectively"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1164-1171" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_24" POS="JJ" charOffset="1172-1179" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1180-1186" text="matrix" lemma="matrix"/>
+            <token xml:space="preserve" id="stt_26" POS="CC" charOffset="1187-1190" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="1191-1200" text="nonmatrix" lemma="nonmatrix"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="1201-1213" text="compartments" lemma="compartment"/>
+            <token xml:space="preserve" id="stt_29" POS="," charOffset="1213-1214" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_30" POS="JJ" charOffset="1215-1225" text="consistent" lemma="consistent"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="1226-1230" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_32" POS="DT" charOffset="1231-1234" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1235-1239" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="1240-1242" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_35" POS="DT" charOffset="1243-1246" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_36" POS="JJ" charOffset="1247-1254" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="1255-1261" text="matrix" lemma="matrix"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="1262-1264" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_39" POS="VBG" charOffset="1265-1275" text="regulating" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="1276-1280" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_41" POS="NN" charOffset="1281-1291" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_42" POS="." charOffset="1291-1292" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Subnuclear) (NN=H fractionation))
+            (VP=H (VBZ=H reveals)
+            (SBAR (IN=H that)
+            (S
+            (NP (EX=H there))
+            (VP=H (VBP=H are)
+            (NP
+            (NP=H (CD two) (NN ATF1) (NNS=H isoforms))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBP=H appear)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H differ)
+            (PP (IN=H with)
+            (NP (NN=H respect)))
+            (PP (TO=H to)
+            (NP (NN DNA) (NN=H binding)))
+            (NP
+            (NP=H (NN=H activity)
+            (CC and)
+            (NN partition))
+            (ADVP (RB=H selectively))
+            (PP (IN=H between)
+            (NP
+            (NP=H (JJ nuclear) (NN=H matrix))
+            (CC and)
+            (NP (JJ nonmatrix) (NNS=H compartments))))
+            (, ,)
+            (ADJP (JJ=H consistent)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT the) (NN=H role))
+            (PP (IN=H of)
+            (NP (DT the) (JJ nuclear) (NN=H matrix)))))))
+            (PP (IN=H in)
+            (S
+            (VP=H (VBG=H regulating)
+            (NP (NN gene) (NN=H expression))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1293-1439" id="S8">
+        <text xml:space="preserve">Site-directed mutational studies demonstrate that Site I and Site IV together support ATF1- and CREB-induced trans-activation of the H4 promoter. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="1293-1306" text="Site-directed" lemma="site-directed"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="1307-1317" text="mutational" lemma="mutational"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="1318-1325" text="studies" lemma="study"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="1326-1337" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1338-1342" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1343-1347" text="Site" lemma="site"/>
+            <token xml:space="preserve" id="stt_7" POS="CD" charOffset="1348-1349" text="I" lemma="i"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="1350-1353" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1354-1358" text="Site" lemma="site"/>
+            <token xml:space="preserve" id="stt_10" POS="CD" charOffset="1359-1361" text="IV" lemma="iv"/>
+            <token xml:space="preserve" id="stt_11" POS="RB" charOffset="1362-1370" text="together" lemma="together"/>
+            <token xml:space="preserve" id="stt_12" POS="VBP" charOffset="1371-1378" text="support" lemma="support"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1379-1383" text="ATF1" lemma="atf1"/>
+            <token xml:space="preserve" id="stt_14" POS=":" charOffset="1383-1384" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="1385-1388" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1389-1401" text="CREB-induced" lemma="creb-induced"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1402-1418" text="trans-activation" lemma="trans-activation"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1419-1421" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="1422-1425" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1426-1428" text="H4" lemma="h4"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1429-1437" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="1437-1438" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (JJ Site-directed) (JJ mutational) (NNS=H studies))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN=H Site) (CD I))
+            (CC and)
+            (NP (NN=H Site) (CD IV)))
+            (ADVP (RB=H together))
+            (VP=H (VBP=H support)
+            (NP
+            (NP=H (NN=H ATF1))
+            (: -)
+            (CC and)
+            (NP
+            (NP=H (JJ CREB-induced) (NN=H trans-activation))
+            (PP (IN=H of)
+            (NP (DT the) (NN H4) (NN=H promoter)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1439-1581" id="S9">
+        <text xml:space="preserve">Thus, our data establish that ATF/CREB factors functionally modulate histone H4 gene transcription at distal and proximal promoter elements. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1439-1443" text="Thus" lemma="thus"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1443-1444" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP$" charOffset="1445-1448" text="our" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="1449-1453" text="data" lemma="datum"/>
+            <token xml:space="preserve" id="stt_5" POS="VBP" charOffset="1454-1463" text="establish" lemma="establish"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1464-1468" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1469-1477" text="ATF/CREB" lemma="atf/creb"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="1478-1485" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="1486-1498" text="functionally" lemma="functionally"/>
+            <token xml:space="preserve" id="stt_10" POS="VBP" charOffset="1499-1507" text="modulate" lemma="modulate"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1508-1515" text="histone" lemma="histone"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1516-1518" text="H4" lemma="h4"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1519-1523" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1524-1537" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1538-1540" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="1541-1547" text="distal" lemma="distal"/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="1548-1551" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="1552-1560" text="proximal" lemma="proximal"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1561-1569" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="1570-1578" text="elements" lemma="element"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="1578-1579" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Thus))
+            (, ,)
+            (NP (PRP$ our) (NNS=H data))
+            (VP=H (VBP=H establish)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN ATF/CREB) (NNS=H factors))
+            (ADVP (RB=H functionally))
+            (VP=H (VBP=H modulate)
+            (NP (NN histone) (NN H4) (NN gene) (NN=H transcription))
+            (PP (IN=H at)
+            (NP
+            (ADJP (JJ=H distal)
+            (CC and)
+            (JJ proximal))
+            (NN promoter) (NNS=H elements)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T12" type="ZeroArticleNP" charOffset="380-423" headOffset="415-423" text="at least four principal cis-acting elements"/>
+    <Term xml:space="preserve" id="T13" type="RelativePronoun" charOffset="424-429" headOffset="424-429" text="which"/>
+    <Term xml:space="preserve" id="T14" type="ZeroArticleNP" charOffset="591-622" headOffset="616-622" text="two ATF/CREB recognition motifs"/>
+    <Term xml:space="preserve" id="T15" type="RelativePronoun" charOffset="623-628" headOffset="623-628" text="which"/>
+    <Term xml:space="preserve" id="T16" type="DefiniteNP" charOffset="901-945" headOffset="939-945" text="the multifunctional YY1 transcription factor"/>
+    <Term xml:space="preserve" id="T17" type="RelativePronoun" charOffset="947-952" headOffset="947-952" text="which"/>
+    <Term xml:space="preserve" id="T18" type="ZeroArticleNP" charOffset="1060-1077" headOffset="1069-1077" text="two ATF1 isoforms"/>
+    <Term xml:space="preserve" id="T19" type="RelativePronoun" charOffset="1078-1083" headOffset="1078-1083" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T13"/>
+        <Antecedent idref="T12"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T15"/>
+        <Antecedent idref="T14"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T17"/>
+        <Antecedent idref="T16"/>
+    </Relation>
+    <Relation id="R4" type="Anaphora">
+        <Anaphor idref="T19"/>
+        <Antecedent idref="T18"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="0-4" headOffset="0-4" text="ATF1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="52-62" headOffset="60-62" text="histone H4"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="347-357" headOffset="355-357" text="histone H4"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="649-653" headOffset="649-653" text="ATF1"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="659-663" headOffset="659-663" text="ATF2"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="677-681" headOffset="677-681" text="ATF4"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="682-687" headOffset="682-687" text="CREB2"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="1064-1068" headOffset="1064-1068" text="ATF1"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="1379-1383" headOffset="1379-1383" text="ATF1"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="1426-1428" headOffset="1426-1428" text="H4"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="1508-1518" headOffset="1516-1518" text="histone H4"/>
+</document>

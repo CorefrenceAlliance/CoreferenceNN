@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10209036">
+    <text xml:space="preserve">SHP2-interacting transmembrane adaptor protein (SIT), a novel disulfide-linked dimer regulating human T cell activation. 
+T lymphocytes express several low molecular weight transmembrane adaptor proteins that recruit src homology (SH)2 domain-containing intracellular molecules to the cell membrane via tyrosine-based signaling motifs. We describe here a novel molecule of this group termed SIT (SHP2 interacting transmembrane adaptor protein). SIT is a disulfide-linked homodimeric glycoprotein that is expressed in lymphocytes. After tyrosine phosphorylation by src and possibly syk protein tyrosine kinases SIT recruits the SH2 domain-containing tyrosine phosphatase SHP2 via an immunoreceptor tyrosine-based inhibition motif. Overexpression of SIT in Jurkat cells downmodulates T cell receptor- and phytohemagglutinin-mediated activation of the nuclear factor of activated T cells (NF-AT) by interfering with signaling processes that are probably located upstream of activation of phospholipase C. However, binding of SHP2 to SIT is not required for inhibition of NF-AT induction, suggesting that SIT not only regulates NF-AT activity but also controls NF-AT unrelated pathways of T cell activation involving SHP2. 
+</text>
+    <sentence charOffset="0-122" id="S1">
+        <text xml:space="preserve">SHP2-interacting transmembrane adaptor protein (SIT), a novel disulfide-linked dimer regulating human T cell activation. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-16" text="SHP2-interacting" lemma="shp2-interacting"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="17-30" text="transmembrane" lemma="transmembrane"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="31-38" text="adaptor" lemma="adaptor"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="39-46" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_5" POS="-LRB-" charOffset="47-48" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="48-51" text="SIT" lemma="sit"/>
+            <token xml:space="preserve" id="stt_7" POS="-RRB-" charOffset="51-52" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="52-53" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="54-55" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="56-61" text="novel" lemma="novel"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="62-78" text="disulfide-linked" lemma="disulfide-linked"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="79-84" text="dimer" lemma="dimer"/>
+            <token xml:space="preserve" id="stt_13" POS="VBG" charOffset="85-95" text="regulating" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="96-101" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="102-103" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="104-108" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="109-119" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="119-120" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H
+            (NP=H (JJ SHP2-interacting) (JJ transmembrane) (NN adaptor) (NN=H protein))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H SIT))
+            (-RRB- -RRB-))
+            (, ,)
+            (NP (DT a) (JJ novel) (JJ disulfide-linked) (NN=H dimer)))
+            (VP (VBG=H regulating)
+            (NP (JJ human) (NN T) (NN cell) (NN=H activation)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="122-336" id="S2">
+        <text xml:space="preserve">T lymphocytes express several low molecular weight transmembrane adaptor proteins that recruit src homology (SH)2 domain-containing intracellular molecules to the cell membrane via tyrosine-based signaling motifs. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="122-123" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="124-135" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="136-143" text="express" lemma="express"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="144-151" text="several" lemma="several"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="152-155" text="low" lemma="low"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="156-165" text="molecular" lemma="molecular"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="166-172" text="weight" lemma="weight"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="173-186" text="transmembrane" lemma="transmembrane"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="187-194" text="adaptor" lemma="adaptor"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="195-203" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_11" POS="WDT" charOffset="204-208" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_12" POS="VBP" charOffset="209-216" text="recruit" lemma="recruit"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="217-220" text="src" lemma="src"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="221-229" text="homology" lemma="homology"/>
+            <token xml:space="preserve" id="stt_15" POS="-LRB-" charOffset="230-231" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="231-233" text="SH" lemma="sh"/>
+            <token xml:space="preserve" id="stt_17" POS="-RRB-" charOffset="233-234" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_18" POS="CD" charOffset="234-235" text="2" lemma="2"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="236-253" text="domain-containing" lemma="domain-containing"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="254-267" text="intracellular" lemma="intracellular"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="268-277" text="molecules" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_22" POS="TO" charOffset="278-280" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="281-284" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="285-289" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="290-298" text="membrane" lemma="membrane"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="299-302" text="via" lemma="via"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="303-317" text="tyrosine-based" lemma="tyrosine-based"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="318-327" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="328-334" text="motifs" lemma="motif"/>
+            <token xml:space="preserve" id="stt_30" POS="." charOffset="334-335" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN T) (NNS=H lymphocytes))
+            (VP=H (VBP=H express)
+            (NP
+            (NP=H (JJ several) (JJ low) (JJ molecular) (NN weight) (JJ transmembrane) (NN adaptor) (NNS=H proteins))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H recruit)
+            (S
+            (NP=H
+            (NP=H (NN src) (NN=H homology))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H SH))
+            (-RRB- -RRB-)))
+            (NP
+            (NP=H (CD 2) (JJ domain-containing) (JJ intracellular) (NNS=H molecules))
+            (PP (TO=H to)
+            (NP
+            (NP=H (DT the) (NN cell) (NN=H membrane))
+            (PP (IN=H via)
+            (NP (JJ tyrosine-based) (NN signaling) (NNS=H motifs))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="336-445" id="S3">
+        <text xml:space="preserve">We describe here a novel molecule of this group termed SIT (SHP2 interacting transmembrane adaptor protein). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="336-338" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="339-347" text="describe" lemma="describe"/>
+            <token xml:space="preserve" id="stt_3" POS="RB" charOffset="348-352" text="here" lemma="here"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="353-354" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="355-360" text="novel" lemma="novel"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="361-369" text="molecule" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="370-372" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="373-377" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="378-383" text="group" lemma="group"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="384-390" text="termed" lemma="term"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="391-394" text="SIT" lemma="sit"/>
+            <token xml:space="preserve" id="stt_12" POS="-LRB-" charOffset="395-396" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="396-400" text="SHP2" lemma="shp2"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="401-412" text="interacting" lemma="interacting"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="413-426" text="transmembrane" lemma="transmembrane"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="427-434" text="adaptor" lemma="adaptor"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="435-442" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_18" POS="-RRB-" charOffset="442-443" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="443-444" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H describe)
+            (ADVP (RB=H here))
+            (NP
+            (NP=H (DT a) (JJ novel) (NN=H molecule))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT this) (NN=H group))
+            (VP (VBN=H termed)
+            (NP (NN=H SIT)))))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (NN SHP2) (NN=H interacting))
+            (NP (JJ transmembrane) (NN adaptor) (NN=H protein)))
+            (-RRB- -RRB-))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="445-530" id="S4">
+        <text xml:space="preserve">SIT is a disulfide-linked homodimeric glycoprotein that is expressed in lymphocytes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="445-448" text="SIT" lemma="sit"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="449-451" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="452-453" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="454-470" text="disulfide-linked" lemma="disulfide-linked"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="471-482" text="homodimeric" lemma="homodimeric"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="483-495" text="glycoprotein" lemma="glycoprotein"/>
+            <token xml:space="preserve" id="stt_7" POS="WDT" charOffset="496-500" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="501-503" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="504-513" text="expressed" lemma="express"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="514-516" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="517-528" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="528-529" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H SIT))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (JJ disulfide-linked) (JJ homodimeric) (NN=H glycoprotein))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H is)
+            (VP (VBN=H expressed)
+            (PP (IN=H in)
+            (NP (NNS=H lymphocytes)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="530-730" id="S5">
+        <text xml:space="preserve">After tyrosine phosphorylation by src and possibly syk protein tyrosine kinases SIT recruits the SH2 domain-containing tyrosine phosphatase SHP2 via an immunoreceptor tyrosine-based inhibition motif. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="530-535" text="After" lemma="after"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="536-544" text="tyrosine" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="545-560" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="561-563" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="564-567" text="src" lemma="src"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="568-571" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="572-580" text="possibly" lemma="possibly"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="581-584" text="syk" lemma="syk"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="585-592" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="593-601" text="tyrosine" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="602-609" text="kinases" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="610-613" text="SIT" lemma="sit"/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="614-622" text="recruits" lemma="recruit"/>
+            <token xml:space="preserve" id="stt_14" POS="DT" charOffset="623-626" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="627-630" text="SH2" lemma="sh2"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="631-648" text="domain-containing" lemma="domain-containing"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="649-657" text="tyrosine" lemma="tyrosine"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="658-669" text="phosphatase" lemma="phosphatase"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="670-674" text="SHP2" lemma="shp2"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="675-678" text="via" lemma="via"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="679-681" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="682-696" text="immunoreceptor" lemma="immunoreceptor"/>
+            <token xml:space="preserve" id="stt_23" POS="JJ" charOffset="697-711" text="tyrosine-based" lemma="tyrosine-based"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="712-722" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="723-728" text="motif" lemma="motif"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="728-729" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H After)
+            (NP
+            (NP=H (NN tyrosine) (NN=H phosphorylation))
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H src))
+            (CC and)
+            (NP (RB possibly) (NN=H syk))))))
+            (NP (NN protein) (NN tyrosine) (NNS kinases) (NN=H SIT))
+            (VP=H (VBZ=H recruits)
+            (S
+            (NP=H (DT the) (NN=H SH2))
+            (NP
+            (NP=H (JJ domain-containing) (NN tyrosine) (NN phosphatase) (NN=H SHP2))
+            (PP (IN=H via)
+            (NP (DT an) (NN immunoreceptor) (JJ tyrosine-based) (NN inhibition) (NN=H motif))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="730-1002" id="S6">
+        <text xml:space="preserve">Overexpression of SIT in Jurkat cells downmodulates T cell receptor- and phytohemagglutinin-mediated activation of the nuclear factor of activated T cells (NF-AT) by interfering with signaling processes that are probably located upstream of activation of phospholipase C. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="730-744" text="Overexpression" lemma="overexpression"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="745-747" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="748-751" text="SIT" lemma="sit"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="752-754" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="755-761" text="Jurkat" lemma="jurkat"/>
+            <token xml:space="preserve" id="stt_6" POS="NNS" charOffset="762-767" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="768-781" text="downmodulates" lemma="downmodulate"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="782-783" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="784-788" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="789-797" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_11" POS=":" charOffset="797-798" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="799-802" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="803-830" text="phytohemagglutinin-mediated" lemma="phytohemagglutinin-mediated"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="831-841" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="842-844" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="845-848" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="849-856" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="857-863" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="864-866" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="VBN" charOffset="867-876" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="877-878" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_22" POS="NNS" charOffset="879-884" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_23" POS="-LRB-" charOffset="885-886" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="886-891" text="NF-AT" lemma="nf-at"/>
+            <token xml:space="preserve" id="stt_25" POS="-RRB-" charOffset="891-892" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="893-895" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_27" POS="VBG" charOffset="896-907" text="interfering" lemma="interfere"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="908-912" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="913-922" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="923-932" text="processes" lemma="process"/>
+            <token xml:space="preserve" id="stt_31" POS="WDT" charOffset="933-937" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_32" POS="VBP" charOffset="938-941" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_33" POS="RB" charOffset="942-950" text="probably" lemma="probably"/>
+            <token xml:space="preserve" id="stt_34" POS="JJ" charOffset="951-958" text="located" lemma="located"/>
+            <token xml:space="preserve" id="stt_35" POS="RB" charOffset="959-967" text="upstream" lemma="upstream"/>
+            <token xml:space="preserve" id="stt_36" POS="IN" charOffset="968-970" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="971-981" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="982-984" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="985-998" text="phospholipase" lemma="phospholipase"/>
+            <token xml:space="preserve" id="stt_40" POS="NN" charOffset="999-1001" text="C." lemma="c."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Overexpression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H SIT))
+            (PP (IN=H in)
+            (NP (NN Jurkat) (NNS=H cells))))))
+            (VP=H (VBZ=H downmodulates)
+            (NP
+            (NP=H (NN T) (NN cell) (NN=H receptor))
+            (: -)
+            (CC and)
+            (NP
+            (NP=H
+            (NP=H (JJ phytohemagglutinin-mediated) (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (JJ nuclear) (NN=H factor))
+            (PP (IN=H of)
+            (NP (VBN activated) (NN T) (NNS=H cells))))))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H NF-AT))
+            (-RRB- -RRB-))))
+            (PP (IN=H by)
+            (S
+            (VP=H (VBG=H interfering)
+            (PP (IN=H with)
+            (NP
+            (NP=H (NN signaling) (NNS=H processes))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H are)
+            (ADVP (RB=H probably))
+            (ADJP (JJ=H located))
+            (ADVP (RB=H upstream)
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP (NN phospholipase) (NN=H C.)))))))))))))))))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1002-1220" id="S7">
+        <text xml:space="preserve">However, binding of SHP2 to SIT is not required for inhibition of NF-AT induction, suggesting that SIT not only regulates NF-AT activity but also controls NF-AT unrelated pathways of T cell activation involving SHP2. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1002-1009" text="However" lemma="however"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1009-1010" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1011-1018" text="binding" lemma="binding"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1019-1021" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1022-1026" text="SHP2" lemma="shp2"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="1027-1029" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1030-1033" text="SIT" lemma="sit"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="1034-1036" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="1037-1040" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_10" POS="VBN" charOffset="1041-1049" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="1050-1053" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1054-1064" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1065-1067" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1068-1073" text="NF-AT" lemma="nf-at"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1074-1083" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="1083-1084" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="VBG" charOffset="1085-1095" text="suggesting" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1096-1100" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1101-1104" text="SIT" lemma="sit"/>
+            <token xml:space="preserve" id="stt_20" POS="RB" charOffset="1105-1108" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_21" POS="RB" charOffset="1109-1113" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_22" POS="VBZ" charOffset="1114-1123" text="regulates" lemma="regulate"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1124-1129" text="NF-AT" lemma="nf-at"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1130-1138" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_25" POS="CC" charOffset="1139-1142" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_26" POS="RB" charOffset="1143-1147" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_27" POS="VBZ" charOffset="1148-1156" text="controls" lemma="control"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1157-1162" text="NF-AT" lemma="nf-at"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="1163-1172" text="unrelated" lemma="unrelated"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="1173-1181" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_31" POS="IN" charOffset="1182-1184" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1185-1186" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1187-1191" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="1192-1202" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_35" POS="VBG" charOffset="1203-1212" text="involving" lemma="involve"/>
+            <token xml:space="preserve" id="stt_36" POS="NN" charOffset="1213-1217" text="SHP2" lemma="shp2"/>
+            <token xml:space="preserve" id="stt_37" POS="." charOffset="1217-1218" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H However))
+            (, ,)
+            (NP
+            (NP=H (NN=H binding))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H SHP2))
+            (PP (TO=H to)
+            (NP (NN=H SIT))))))
+            (VP=H (VBZ=H is) (RB not)
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN=H inhibition))
+            (PP (IN=H of)
+            (NP (NN NF-AT) (NN=H induction)))))
+            (, ,)
+            (S
+            (VP=H (VBG=H suggesting)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H SIT))
+            (VP=H
+            (CONJP (RB not) (RB=H only))
+            (VP=H (VBZ=H regulates)
+            (NP (NN NF-AT) (NN=H activity)))
+            (CC but)
+            (VP
+            (ADVP (RB=H also))
+            (VBZ=H controls)
+            (NP
+            (NP=H (NN NF-AT) (JJ unrelated) (NNS=H pathways))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN T) (NN cell) (NN=H activation))
+            (VP (VBG=H involving)
+            (NP (NN=H SHP2))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T16" type="ZeroArticleNP" charOffset="144-203" headOffset="195-203" text="several low molecular weight transmembrane adaptor proteins"/>
+    <Term xml:space="preserve" id="T17" type="RelativePronoun" charOffset="204-208" headOffset="204-208" text="that"/>
+    <Term xml:space="preserve" id="T18" type="IndefiniteNP" charOffset="452-495" headOffset="483-495" text="a disulfide-linked homodimeric glycoprotein"/>
+    <Term xml:space="preserve" id="T19" type="RelativePronoun" charOffset="496-500" headOffset="496-500" text="that"/>
+    <Term xml:space="preserve" id="T20" type="ZeroArticleNP" charOffset="913-932" headOffset="923-932" text="signaling processes"/>
+    <Term xml:space="preserve" id="T21" type="RelativePronoun" charOffset="933-937" headOffset="933-937" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T17"/>
+        <Antecedent idref="T16"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T19"/>
+        <Antecedent idref="T18"/>
+    </Relation>
+    <Relation id="R3" type="Anaphora">
+        <Anaphor idref="T21"/>
+        <Antecedent idref="T20"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="0-46" headOffset="39-46" text="SHP2-interacting transmembrane adaptor protein"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="48-51" headOffset="48-51" text="SIT"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="391-394" headOffset="391-394" text="SIT"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="396-442" headOffset="435-442" text="SHP2 interacting transmembrane adaptor protein"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="445-448" headOffset="445-448" text="SIT"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="564-567" headOffset="564-567" text="src"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="581-584" headOffset="581-584" text="syk"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="610-613" headOffset="610-613" text="SIT"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="670-674" headOffset="670-674" text="SHP2"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="748-751" headOffset="748-751" text="SIT"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="803-821" headOffset="803-821" text="phytohemagglutinin"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="1022-1026" headOffset="1022-1026" text="SHP2"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="1030-1033" headOffset="1030-1033" text="SIT"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1101-1104" headOffset="1101-1104" text="SIT"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1213-1217" headOffset="1213-1217" text="SHP2"/>
+</document>

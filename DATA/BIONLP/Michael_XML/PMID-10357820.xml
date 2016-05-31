@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10357820">
+    <text xml:space="preserve">Repression by Ikaros and Aiolos is mediated through histone deacetylase complexes. 
+Here we show that the lymphoid lineage-determining factors Ikaros and Aiolos can function as strong transcriptional repressors. This function is mediated through two repression domains and is dependent upon the promoter context and cell type. Repression by Ikaros proteins correlates with hypo-acetylation of core histones at promoter sites and is relieved by histone deacetylase inhibitors. Consistent with these findings, Ikaros and its repression domains can interact in vivo and in vitro with the mSin3 family of co-repressors which bind to histone deacetylases. Based on these and our recent findings of associations between Ikaros and Mi-2-HDAC, we propose that Ikaros family members modulate gene expression during lymphocyte development by recruiting distinct histone deacetylase complexes to specific promoters. 
+</text>
+    <sentence charOffset="0-84" id="S1">
+        <text xml:space="preserve">Repression by Ikaros and Aiolos is mediated through histone deacetylase complexes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-10" text="Repression" lemma="repression"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="11-13" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="14-20" text="Ikaros" lemma="ikaros"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="21-24" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="25-31" text="Aiolos" lemma="aiolos"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="32-34" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="35-43" text="mediated" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="44-51" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="52-59" text="histone" lemma="histone"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="60-71" text="deacetylase" lemma="deacetylase"/>
+            <token xml:space="preserve" id="stt_11" POS="NNS" charOffset="72-81" text="complexes" lemma="complex"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="81-82" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Repression))
+            (PP (IN=H by)
+            (NP (NN=H Ikaros)
+            (CC and)
+            (NN Aiolos))))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H mediated)
+            (PP (IN=H through)
+            (NP (NN histone) (NN deacetylase) (NNS=H complexes)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="84-212" id="S2">
+        <text xml:space="preserve">Here we show that the lymphoid lineage-determining factors Ikaros and Aiolos can function as strong transcriptional repressors. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="84-88" text="Here" lemma="here"/>
+            <token xml:space="preserve" id="stt_2" POS="PRP" charOffset="89-91" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="92-96" text="show" lemma="show"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="97-101" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="102-105" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="106-114" text="lymphoid" lemma="lymphoid"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="115-134" text="lineage-determining" lemma="lineage-determining"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="135-142" text="factors" lemma="factor"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="143-149" text="Ikaros" lemma="ikaros"/>
+            <token xml:space="preserve" id="stt_10" POS="CC" charOffset="150-153" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="154-160" text="Aiolos" lemma="aiolos"/>
+            <token xml:space="preserve" id="stt_12" POS="MD" charOffset="161-164" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_13" POS="VB" charOffset="165-173" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="174-176" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="177-183" text="strong" lemma="strong"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="184-199" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="200-210" text="repressors" lemma="repressor"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="210-211" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Here))
+            (NP (PRP=H we))
+            (VP=H (VBP=H show)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (JJ lymphoid) (JJ lineage-determining) (NNS factors) (NN=H Ikaros))
+            (CC and)
+            (NP (NN=H Aiolos)))
+            (VP=H (MD=H can)
+            (VP (VB=H function)
+            (PP (IN=H as)
+            (NP (JJ strong) (JJ transcriptional) (NNS=H repressors))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="212-327" id="S3">
+        <text xml:space="preserve">This function is mediated through two repression domains and is dependent upon the promoter context and cell type. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="212-216" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="217-225" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="226-228" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="229-237" text="mediated" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="238-245" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_6" POS="CD" charOffset="246-249" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="250-260" text="repression" lemma="repression"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="261-268" text="domains" lemma="domain"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="269-272" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="273-275" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="276-285" text="dependent" lemma="dependent"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="286-290" text="upon" lemma="upon"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="291-294" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="295-303" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="304-311" text="context" lemma="context"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="312-315" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="316-320" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="321-325" text="type" lemma="type"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="325-326" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT This) (NN=H function))
+            (VP=H
+            (VP=H (VBZ=H is)
+            (VP (VBN=H mediated)
+            (PP (IN=H through)
+            (NP (CD two) (NN repression) (NNS=H domains)))))
+            (CC and)
+            (VP (VBZ=H is)
+            (ADJP (JJ=H dependent)
+            (PP (IN=H upon)
+            (NP (DT the) (NN promoter) (NN context)
+            (CC and)
+            (NN cell) (NN=H type))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="327-476" id="S4">
+        <text xml:space="preserve">Repression by Ikaros proteins correlates with hypo-acetylation of core histones at promoter sites and is relieved by histone deacetylase inhibitors. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="327-337" text="Repression" lemma="repression"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="338-340" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="341-347" text="Ikaros" lemma="ikaros"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="348-356" text="proteins" lemma="protein"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="357-367" text="correlates" lemma="correlate"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="368-372" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="373-389" text="hypo-acetylation" lemma="hypo-acetylation"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="390-392" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="393-397" text="core" lemma="core"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="398-406" text="histones" lemma="histone"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="407-409" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="410-418" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_13" POS="NNS" charOffset="419-424" text="sites" lemma="site"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="425-428" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="429-431" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="432-440" text="relieved" lemma="relieve"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="441-443" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="444-451" text="histone" lemma="histone"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="452-463" text="deacetylase" lemma="deacetylase"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="464-474" text="inhibitors" lemma="inhibitor"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="474-475" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Repression))
+            (PP (IN=H by)
+            (NP (NN Ikaros) (NNS=H proteins))))
+            (VP=H
+            (VP=H (VBZ=H correlates)
+            (PP (IN=H with)
+            (NP
+            (NP=H (NN=H hypo-acetylation))
+            (PP (IN=H of)
+            (NP (NN core) (NNS=H histones)))))
+            (PP (IN=H at)
+            (NP (NN promoter) (NNS=H sites))))
+            (CC and)
+            (VP (VBZ=H is)
+            (VP (VBN=H relieved)
+            (PP (IN=H by)
+            (NP (NN histone) (NN deacetylase) (NNS=H inhibitors))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="476-651" id="S5">
+        <text xml:space="preserve">Consistent with these findings, Ikaros and its repression domains can interact in vivo and in vitro with the mSin3 family of co-repressors which bind to histone deacetylases. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="476-486" text="Consistent" lemma="consistent"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="487-491" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="492-497" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="498-506" text="findings" lemma="finding"/>
+            <token xml:space="preserve" id="stt_5" POS="," charOffset="506-507" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="508-514" text="Ikaros" lemma="ikaros"/>
+            <token xml:space="preserve" id="stt_7" POS="CC" charOffset="515-518" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_8" POS="PRP$" charOffset="519-522" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="523-533" text="repression" lemma="repression"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="534-541" text="domains" lemma="domain"/>
+            <token xml:space="preserve" id="stt_11" POS="MD" charOffset="542-545" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_12" POS="VB" charOffset="546-554" text="interact" lemma="interact"/>
+            <token xml:space="preserve" id="stt_13" POS="FW" charOffset="555-557" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="FW" charOffset="558-562" text="vivo" lemma="vivo"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="563-566" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="FW" charOffset="567-569" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="FW" charOffset="570-575" text="vitro" lemma="vitro"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="576-580" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="581-584" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="585-590" text="mSin3" lemma="msin3"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="591-597" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="598-600" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_23" POS="NNS" charOffset="601-614" text="co-repressors" lemma="co-repressor"/>
+            <token xml:space="preserve" id="stt_24" POS="WDT" charOffset="615-620" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_25" POS="VBP" charOffset="621-625" text="bind" lemma="bind"/>
+            <token xml:space="preserve" id="stt_26" POS="TO" charOffset="626-628" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="629-636" text="histone" lemma="histone"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="637-649" text="deacetylases" lemma="deacetylase"/>
+            <token xml:space="preserve" id="stt_29" POS="." charOffset="649-650" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (JJ=H Consistent))
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT these) (NNS=H findings))
+            (, ,)
+            (NP (NN=H Ikaros))
+            (CC and)
+            (NP (PRP$ its) (NN repression) (NNS=H domains)))))
+            (VP=H (MD=H can)
+            (VP (VB=H interact)
+            (S
+            (UCP=H
+            (PP=H (FW=H in)
+            (NP (FW=H vivo)))
+            (CC and)
+            (ADVP (FW in) (FW=H vitro))))
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT the) (NN mSin3) (NN=H family))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H co-repressors))
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBP=H bind)
+            (PP (TO=H to)
+            (NP (NN histone) (NNS=H deacetylases))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="651-906" id="S6">
+        <text xml:space="preserve">Based on these and our recent findings of associations between Ikaros and Mi-2-HDAC, we propose that Ikaros family members modulate gene expression during lymphocyte development by recruiting distinct histone deacetylase complexes to specific promoters. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="VBN" charOffset="651-656" text="Based" lemma="base"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="657-659" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="660-665" text="these" lemma="these"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="666-669" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="PRP$" charOffset="670-673" text="our" lemma="we"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="674-680" text="recent" lemma="recent"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="681-689" text="findings" lemma="finding"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="690-692" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="693-705" text="associations" lemma="association"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="706-713" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="714-720" text="Ikaros" lemma="ikaros"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="721-724" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="725-734" text="Mi-2-HDAC" lemma="mi-2-hdac"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="734-735" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="PRP" charOffset="736-738" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_16" POS="VBP" charOffset="739-746" text="propose" lemma="propose"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="747-751" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="752-758" text="Ikaros" lemma="ikaros"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="759-765" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_20" POS="NNS" charOffset="766-773" text="members" lemma="member"/>
+            <token xml:space="preserve" id="stt_21" POS="VBP" charOffset="774-782" text="modulate" lemma="modulate"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="783-787" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="788-798" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_24" POS="IN" charOffset="799-805" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="806-816" text="lymphocyte" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="817-828" text="development" lemma="development"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="829-831" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_28" POS="VBG" charOffset="832-842" text="recruiting" lemma="recruit"/>
+            <token xml:space="preserve" id="stt_29" POS="JJ" charOffset="843-851" text="distinct" lemma="distinct"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="852-859" text="histone" lemma="histone"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="860-871" text="deacetylase" lemma="deacetylase"/>
+            <token xml:space="preserve" id="stt_32" POS="NNS" charOffset="872-881" text="complexes" lemma="complex"/>
+            <token xml:space="preserve" id="stt_33" POS="TO" charOffset="882-884" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_34" POS="JJ" charOffset="885-893" text="specific" lemma="specific"/>
+            <token xml:space="preserve" id="stt_35" POS="NNS" charOffset="894-903" text="promoters" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_36" POS="." charOffset="903-904" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (VBN=H Based)
+            (PP (IN=H on)
+            (NP
+            (NP=H (DT=H these))
+            (CC and)
+            (NP
+            (NP=H (PRP$ our) (JJ recent) (NNS=H findings))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NNS=H associations))
+            (PP (IN=H between)
+            (NP (NN=H Ikaros)
+            (CC and)
+            (NN Mi-2-HDAC)))))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H propose)
+            (SBAR (IN=H that)
+            (S
+            (NP (NN Ikaros) (NN family) (NNS=H members))
+            (VP=H (VBP=H modulate)
+            (NP (NN gene) (NN=H expression))
+            (PP (IN=H during)
+            (NP (NN lymphocyte) (NN=H development)))
+            (PP (IN=H by)
+            (S
+            (VP=H (VBG=H recruiting)
+            (NP (JJ distinct) (NN histone) (NN deacetylase) (NNS=H complexes))
+            (PP (TO=H to)
+            (NP (JJ specific) (NNS=H promoters))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T10" type="ZeroArticleNP" charOffset="341-356" headOffset="348-356" text="Ikaros proteins"/>
+    <Term xml:space="preserve" id="T11" type="PossessivePronoun" charOffset="519-522" headOffset="519-522" text="its"/>
+    <Term xml:space="preserve" id="T12" type="DefiniteNP" charOffset="581-614" headOffset="591-597" text="the mSin3 family of co-repressors"/>
+    <Term xml:space="preserve" id="T13" type="RelativePronoun" charOffset="615-620" headOffset="615-620" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T11"/>
+        <Antecedent idref="T10"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T13"/>
+        <Antecedent idref="T12"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="14-20" headOffset="14-20" text="Ikaros"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="25-31" headOffset="25-31" text="Aiolos"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="143-149" headOffset="143-149" text="Ikaros"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="154-160" headOffset="154-160" text="Aiolos"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="341-347" headOffset="341-347" text="Ikaros"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="508-514" headOffset="508-514" text="Ikaros"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="714-720" headOffset="714-720" text="Ikaros"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="725-734" headOffset="725-734" text="Mi-2-HDAC"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="752-758" headOffset="752-758" text="Ikaros"/>
+</document>

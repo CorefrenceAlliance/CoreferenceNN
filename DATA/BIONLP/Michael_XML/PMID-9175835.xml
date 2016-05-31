@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9175835">
+    <text xml:space="preserve">Tap: a novel cellular protein that interacts with tip of herpesvirus saimiri and induces lymphocyte aggregation. 
+Tip of herpesvirus saimiri associates with Lck and down-regulates Lck-mediated activation. We identified a novel cellular Tip-associated protein (Tap) by a yeast two-hybrid screen. Tap associated with Tip following transient expression in COS-1 cells and stable expression in human Jurkat-T cells. Expression of Tip and Tap in Jurkat-T cells induced dramatic cell aggregation. Aggregation was likely caused by the up-regulated surface expression of adhesion molecules including integrin alpha, L-selectin, ICAM-3, and H-CAM. Furthermore, NF-kappaB transcriptional factor of aggregated cells had approximately 40-fold higher activity than that of parental cells. Thus, Tap is likely to be an important cellular mediator of Tip function in T cell transformation by herpesvirus saimiri. 
+</text>
+    <sentence charOffset="0-114" id="S1">
+        <text xml:space="preserve">Tap: a novel cellular protein that interacts with tip of herpesvirus saimiri and induces lymphocyte aggregation. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-3" text="Tap" lemma="tap"/>
+            <token xml:space="preserve" id="stt_2" POS=":" charOffset="3-4" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="5-6" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="7-12" text="novel" lemma="novel"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="13-21" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="22-29" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_7" POS="WDT" charOffset="30-34" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="35-44" text="interacts" lemma="interact"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="45-49" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="50-53" text="tip" lemma="tip"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="54-56" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="57-68" text="herpesvirus" lemma="herpesvirus"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="69-76" text="saimiri" lemma="saimiri"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="77-80" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="81-88" text="induces" lemma="induce"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="89-99" text="lymphocyte" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="100-111" text="aggregation" lemma="aggregation"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="111-112" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Tap))
+            (: :)
+            (NP
+            (NP=H (DT a) (JJ novel) (JJ cellular) (NN=H protein))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H
+            (VP=H (VBZ=H interacts)
+            (PP (IN=H with)
+            (NP
+            (NP=H (NN=H tip))
+            (PP (IN=H of)
+            (NP (NN herpesvirus) (NN=H saimiri))))))
+            (CC and)
+            (VP (VBZ=H induces)
+            (NP (NN lymphocyte) (NN=H aggregation)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="114-205" id="S2">
+        <text xml:space="preserve">Tip of herpesvirus saimiri associates with Lck and down-regulates Lck-mediated activation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="114-117" text="Tip" lemma="tip"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="118-120" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="121-132" text="herpesvirus" lemma="herpesvirus"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="133-140" text="saimiri" lemma="saimiri"/>
+            <token xml:space="preserve" id="stt_5" POS="VBZ" charOffset="141-151" text="associates" lemma="associate"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="152-156" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="157-160" text="Lck" lemma="lck"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="161-164" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="165-179" text="down-regulates" lemma="down-regulate"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="180-192" text="Lck-mediated" lemma="lck-mediated"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="193-203" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_12" POS="." charOffset="203-204" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Tip))
+            (PP (IN=H of)
+            (NP (NN herpesvirus) (NN=H saimiri))))
+            (VP=H
+            (VP=H (VBZ=H associates)
+            (PP (IN=H with)
+            (NP (NN=H Lck))))
+            (CC and)
+            (VP (VBZ=H down-regulates)
+            (NP (JJ Lck-mediated) (NN=H activation))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="205-295" id="S3">
+        <text xml:space="preserve">We identified a novel cellular Tip-associated protein (Tap) by a yeast two-hybrid screen. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="205-207" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="208-218" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="219-220" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="221-226" text="novel" lemma="novel"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="227-235" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="236-250" text="Tip-associated" lemma="tip-associated"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="251-258" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_8" POS="-LRB-" charOffset="259-260" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="260-263" text="Tap" lemma="tap"/>
+            <token xml:space="preserve" id="stt_10" POS="-RRB-" charOffset="263-264" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="265-267" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="268-269" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="270-275" text="yeast" lemma="yeast"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="276-286" text="two-hybrid" lemma="two-hybrid"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="287-293" text="screen" lemma="screen"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="293-294" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H identified)
+            (NP
+            (NP=H (DT a) (JJ novel) (JJ cellular) (JJ Tip-associated) (NN=H protein))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H Tap))
+            (-RRB- -RRB-)))
+            (PP (IN=H by)
+            (NP (DT a) (NN yeast) (JJ two-hybrid) (NN=H screen))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="295-412" id="S4">
+        <text xml:space="preserve">Tap associated with Tip following transient expression in COS-1 cells and stable expression in human Jurkat-T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="295-298" text="Tap" lemma="tap"/>
+            <token xml:space="preserve" id="stt_2" POS="VBN" charOffset="299-309" text="associated" lemma="associate"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="310-314" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="315-318" text="Tip" lemma="tip"/>
+            <token xml:space="preserve" id="stt_5" POS="VBG" charOffset="319-328" text="following" lemma="follow"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="329-338" text="transient" lemma="transient"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="339-349" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="350-352" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="353-358" text="COS-1" lemma="cos-1"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="359-364" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="365-368" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="369-375" text="stable" lemma="stable"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="376-386" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="387-389" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="390-395" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="396-404" text="Jurkat-T" lemma="jurkat-t"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="405-410" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="410-411" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Tap))
+            (VP=H (VBN=H associated)
+            (PP (IN=H with)
+            (NP
+            (NP=H (NN=H Tip))
+            (PP (VBG=H following)
+            (NP
+            (NP=H
+            (NP=H (JJ transient) (NN=H expression))
+            (PP (IN=H in)
+            (NP (NN COS-1) (NNS=H cells))))
+            (CC and)
+            (NP
+            (NP=H (JJ stable) (NN=H expression))
+            (PP (IN=H in)
+            (NP (JJ human) (NN Jurkat-T) (NNS=H cells)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="412-491" id="S5">
+        <text xml:space="preserve">Expression of Tip and Tap in Jurkat-T cells induced dramatic cell aggregation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="412-422" text="Expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="423-425" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="426-429" text="Tip" lemma="tip"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="430-433" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="434-437" text="Tap" lemma="tap"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="438-440" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="441-449" text="Jurkat-T" lemma="jurkat-t"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="450-455" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="VBD" charOffset="456-463" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="464-472" text="dramatic" lemma="dramatic"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="473-477" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="478-489" text="aggregation" lemma="aggregation"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="489-490" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H Tip)
+            (CC and)
+            (NN Tap))
+            (PP (IN=H in)
+            (NP (NN Jurkat-T) (NNS=H cells))))))
+            (VP=H (VBD=H induced)
+            (NP (JJ dramatic) (NN cell) (NN=H aggregation)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="491-639" id="S6">
+        <text xml:space="preserve">Aggregation was likely caused by the up-regulated surface expression of adhesion molecules including integrin alpha, L-selectin, ICAM-3, and H-CAM. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="491-502" text="Aggregation" lemma="aggregation"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="503-506" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="507-513" text="likely" lemma="likely"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="514-520" text="caused" lemma="cause"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="521-523" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="524-527" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="528-540" text="up-regulated" lemma="up-regulate"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="541-548" text="surface" lemma="surface"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="549-559" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="560-562" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="563-571" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="572-581" text="molecules" lemma="molecule"/>
+            <token xml:space="preserve" id="stt_13" POS="VBG" charOffset="582-591" text="including" lemma="include"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="592-600" text="integrin" lemma="integrin"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="601-606" text="alpha" lemma="alpha"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="606-607" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="608-618" text="L-selectin" lemma="l-selectin"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="618-619" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="620-626" text="ICAM-3" lemma="icam-3"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="626-627" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="CC" charOffset="628-631" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="632-637" text="H-CAM" lemma="h-cam"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="637-638" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Aggregation))
+            (VP=H (VBD=H was)
+            (ADVP (JJ=H likely))
+            (VP (VBN=H caused)
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT=H the))
+            (VP (VBN=H up-regulated)
+            (NP
+            (NP=H (NN surface) (NN=H expression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN adhesion) (NNS=H molecules))
+            (PP (VBG=H including)
+            (NP
+            (NP=H (NN integrin) (NN=H alpha))
+            (, ,)
+            (NP (NN L-selectin) (, ,) (NN ICAM-3) (, ,)
+            (CC and)
+            (NN=H H-CAM))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="639-776" id="S7">
+        <text xml:space="preserve">Furthermore, NF-kappaB transcriptional factor of aggregated cells had approximately 40-fold higher activity than that of parental cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="639-650" text="Furthermore" lemma="furthermore"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="650-651" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="652-661" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="662-677" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="678-684" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="685-687" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="688-698" text="aggregated" lemma="aggregated"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="699-704" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_9" POS="VBD" charOffset="705-708" text="had" lemma="have"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="709-722" text="approximately" lemma="approximately"/>
+            <token xml:space="preserve" id="stt_11" POS="RB" charOffset="723-730" text="40-fold" lemma="40-fold"/>
+            <token xml:space="preserve" id="stt_12" POS="JJR" charOffset="731-737" text="higher" lemma="higher"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="738-746" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="747-751" text="than" lemma="than"/>
+            <token xml:space="preserve" id="stt_15" POS="DT" charOffset="752-756" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="757-759" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="760-768" text="parental" lemma="parental"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="769-774" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="774-775" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Furthermore))
+            (, ,)
+            (NP
+            (NP=H (NN NF-kappaB) (JJ transcriptional) (NN=H factor))
+            (PP (IN=H of)
+            (NP (JJ aggregated) (NNS=H cells))))
+            (VP=H (VBD=H had)
+            (NP
+            (ADJP (RB approximately) (RB 40-fold) (JJR=H higher))
+            (NN=H activity))
+            (PP (IN=H than)
+            (NP
+            (NP=H (DT=H that))
+            (PP (IN=H of)
+            (NP (JJ parental) (NNS=H cells))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="776-899" id="S8">
+        <text xml:space="preserve">Thus, Tap is likely to be an important cellular mediator of Tip function in T cell transformation by herpesvirus saimiri. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="776-780" text="Thus" lemma="thus"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="780-781" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="782-785" text="Tap" lemma="tap"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="786-788" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="789-795" text="likely" lemma="likely"/>
+            <token xml:space="preserve" id="stt_6" POS="TO" charOffset="796-798" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_7" POS="VB" charOffset="799-801" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="802-804" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="JJ" charOffset="805-814" text="important" lemma="important"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="815-823" text="cellular" lemma="cellular"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="824-832" text="mediator" lemma="mediator"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="833-835" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="836-839" text="Tip" lemma="tip"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="840-848" text="function" lemma="function"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="849-851" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="852-853" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="854-858" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="859-873" text="transformation" lemma="transformation"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="874-876" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="877-888" text="herpesvirus" lemma="herpesvirus"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="889-896" text="saimiri" lemma="saimiri"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="896-897" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Thus))
+            (, ,)
+            (NP (NN=H Tap))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H likely)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H be)
+            (NP
+            (NP=H (DT an) (JJ important) (JJ cellular) (NN=H mediator))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN Tip) (NN=H function))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN T) (NN cell) (NN=H transformation))
+            (PP (IN=H by)
+            (NP (NN herpesvirus) (NN=H saimiri)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T6" type="IndefiniteNP" charOffset="5-29" headOffset="22-29" text="a novel cellular protein"/>
+    <Term xml:space="preserve" id="T7" type="RelativePronoun" charOffset="30-34" headOffset="30-34" text="that"/>
+    <Term xml:space="preserve" id="T8" type="ZeroArticleNP" charOffset="652-684" headOffset="678-684" text="NF-kappaB transcriptional factor"/>
+    <Term xml:space="preserve" id="T9" type="DemonstrativePronoun" charOffset="752-756" headOffset="752-756" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T7"/>
+        <Antecedent idref="T6"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T9"/>
+        <Antecedent idref="T8"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="157-160" headOffset="157-160" text="Lck"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="180-183" headOffset="180-183" text="Lck"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="608-618" headOffset="608-618" text="L-selectin"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="620-626" headOffset="620-626" text="ICAM-3"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="632-637" headOffset="632-637" text="H-CAM"/>
+</document>

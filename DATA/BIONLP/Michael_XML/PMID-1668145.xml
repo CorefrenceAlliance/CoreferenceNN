@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-1668145">
+    <text xml:space="preserve">Every enhancer works with every promoter for all the combinations tested: could new regulatory pathways evolve by enhancer shuffling? 
+The promoters and enhancers of cell type-specific genes are often conserved in evolution, and hence one might expect that a given enhancer has evolved to work best with its own promoter. While this expectation may be realized in some cases, we have not found evidence for it. A total of 27 combinations of different promoters and enhancers were tested by transfection into cultured cells. We found that the relative efficiency of the enhancers is approximately the same, irrespective of the type of promoter used, i.e., there was no strong preference for any given enhancer/promoter combination. Notably, we do not see particularly strong transcription when the immunoglobulin kappa enhancer (or the immunoglobulin heavy chain enhancer) is used to activate a kappa gene promoter. We propose that a generally permissive enhancer/promoter interaction is of evolutionary benefit for higher eukaryotes: by enhancer shuffling, genes could be easily brought under a new type of inducibility/cell type specificity. 
+</text>
+    <sentence charOffset="0-135" id="S1">
+        <text xml:space="preserve">Every enhancer works with every promoter for all the combinations tested: could new regulatory pathways evolve by enhancer shuffling? 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="0-5" text="Every" lemma="every"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="6-14" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="15-20" text="works" lemma="work"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="21-25" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="26-31" text="every" lemma="every"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="32-40" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="41-44" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_8" POS="PDT" charOffset="45-48" text="all" lemma="all"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="49-52" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="53-65" text="combinations" lemma="combination"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="66-72" text="tested" lemma="test"/>
+            <token xml:space="preserve" id="stt_12" POS=":" charOffset="72-73" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_13" POS="MD" charOffset="74-79" text="could" lemma="could"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="80-83" text="new" lemma="new"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="84-94" text="regulatory" lemma="regulatory"/>
+            <token xml:space="preserve" id="stt_16" POS="NNS" charOffset="95-103" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_17" POS="VBP" charOffset="104-110" text="evolve" lemma="evolve"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="111-113" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="114-122" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="123-132" text="shuffling" lemma="shuffling"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="132-133" text="?" lemma="?"/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (DT Every) (NN=H enhancer))
+            (VP=H (VBZ=H works)
+            (PP (IN=H with)
+            (NP
+            (NP=H (DT every) (NN=H promoter))
+            (PP (IN=H for)
+            (NP
+            (NP=H (PDT all) (DT the) (NNS=H combinations))
+            (VP (VBN=H tested))))))))
+            (: :)
+            (SQ (MD=H could)
+            (NP (JJ new) (JJ regulatory) (NNS=H pathways))
+            (VP (VBP=H evolve)
+            (PP (IN=H by)
+            (NP (NN enhancer) (NN=H shuffling)))))
+            (. ?)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="135-322" id="S2">
+        <text xml:space="preserve">The promoters and enhancers of cell type-specific genes are often conserved in evolution, and hence one might expect that a given enhancer has evolved to work best with its own promoter. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="135-138" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="139-148" text="promoters" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="149-152" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="153-162" text="enhancers" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="163-165" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="166-170" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="171-184" text="type-specific" lemma="type-specific"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="185-190" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_9" POS="VBP" charOffset="191-194" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="195-200" text="often" lemma="often"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="201-210" text="conserved" lemma="conserve"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="211-213" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="214-223" text="evolution" lemma="evolution"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="223-224" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="225-228" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="RB" charOffset="229-234" text="hence" lemma="hence"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="235-238" text="one" lemma="one"/>
+            <token xml:space="preserve" id="stt_18" POS="MD" charOffset="239-244" text="might" lemma="might"/>
+            <token xml:space="preserve" id="stt_19" POS="VB" charOffset="245-251" text="expect" lemma="expect"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="252-256" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="257-258" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_22" POS="VBN" charOffset="259-264" text="given" lemma="give"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="265-273" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_24" POS="VBZ" charOffset="274-277" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_25" POS="VBN" charOffset="278-285" text="evolved" lemma="evolve"/>
+            <token xml:space="preserve" id="stt_26" POS="TO" charOffset="286-288" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_27" POS="VB" charOffset="289-293" text="work" lemma="work"/>
+            <token xml:space="preserve" id="stt_28" POS="RB" charOffset="294-298" text="best" lemma="best"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="299-303" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_30" POS="PRP$" charOffset="304-307" text="its" lemma="its"/>
+            <token xml:space="preserve" id="stt_31" POS="JJ" charOffset="308-311" text="own" lemma="own"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="312-320" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="320-321" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP
+            (NP=H (DT The) (NNS=H promoters)
+            (CC and)
+            (NNS enhancers))
+            (PP (IN=H of)
+            (NP (NN cell) (JJ type-specific) (NNS=H genes))))
+            (VP=H (VBP=H are)
+            (ADVP (RB=H often))
+            (VP (VBN=H conserved)
+            (PP (IN=H in)
+            (NP (NN=H evolution))))))
+            (, ,)
+            (CC and)
+            (S
+            (NP (RB hence) (NN=H one))
+            (VP=H (MD=H might)
+            (VP (VB=H expect)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT a) (VBN given) (NN=H enhancer))
+            (VP=H (VBZ=H has)
+            (VP (VBN=H evolved)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H work)
+            (ADVP (RB=H best))
+            (PP (IN=H with)
+            (NP (PRP$ its) (JJ own) (NN=H promoter)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="322-411" id="S3">
+        <text xml:space="preserve">While this expectation may be realized in some cases, we have not found evidence for it. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="322-327" text="While" lemma="while"/>
+            <token xml:space="preserve" id="stt_2" POS="DT" charOffset="328-332" text="this" lemma="this"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="333-344" text="expectation" lemma="expectation"/>
+            <token xml:space="preserve" id="stt_4" POS="MD" charOffset="345-348" text="may" lemma="may"/>
+            <token xml:space="preserve" id="stt_5" POS="VB" charOffset="349-351" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_6" POS="VBN" charOffset="352-360" text="realized" lemma="realize"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="361-363" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="364-368" text="some" lemma="some"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="369-374" text="cases" lemma="case"/>
+            <token xml:space="preserve" id="stt_10" POS="," charOffset="374-375" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_11" POS="PRP" charOffset="376-378" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_12" POS="VBP" charOffset="379-383" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_13" POS="RB" charOffset="384-387" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="388-393" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="394-402" text="evidence" lemma="evidence"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="403-406" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_17" POS="PRP" charOffset="407-409" text="it" lemma="it"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="409-410" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H While)
+            (S
+            (NP (DT this) (NN=H expectation))
+            (VP=H (MD=H may)
+            (VP (VB=H be)
+            (VP (VBN=H realized)
+            (PP (IN=H in)
+            (NP (DT some) (NNS=H cases))))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H have) (RB not)
+            (VP (VBN=H found)
+            (NP
+            (NP=H (NN=H evidence))
+            (PP (IN=H for)
+            (NP (PRP=H it))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="411-524" id="S4">
+        <text xml:space="preserve">A total of 27 combinations of different promoters and enhancers were tested by transfection into cultured cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="411-412" text="A" lemma="a"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="413-418" text="total" lemma="total"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="419-421" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="CD" charOffset="422-424" text="27" lemma="27"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="425-437" text="combinations" lemma="combination"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="438-440" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="441-450" text="different" lemma="different"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="451-460" text="promoters" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="461-464" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_10" POS="NNS" charOffset="465-474" text="enhancers" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_11" POS="VBD" charOffset="475-479" text="were" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="480-486" text="tested" lemma="test"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="487-489" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="490-502" text="transfection" lemma="transfection"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="503-507" text="into" lemma="into"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="508-516" text="cultured" lemma="culture"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="517-522" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="522-523" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT A) (NN=H total))
+            (PP (IN=H of)
+            (NP
+            (NP=H (CD 27) (NNS=H combinations))
+            (PP (IN=H of)
+            (NP (JJ different) (NNS=H promoters)
+            (CC and)
+            (NNS enhancers))))))
+            (VP=H (VBD=H were)
+            (VP (VBN=H tested)
+            (PP (IN=H by)
+            (NP (NN=H transfection)))
+            (PP (IN=H into)
+            (S
+            (VP=H (VBN=H cultured)
+            (NP (NNS=H cells)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="524-731" id="S5">
+        <text xml:space="preserve">We found that the relative efficiency of the enhancers is approximately the same, irrespective of the type of promoter used, i.e., there was no strong preference for any given enhancer/promoter combination. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="524-526" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="527-532" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="533-537" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="538-541" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="542-550" text="relative" lemma="relative"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="551-561" text="efficiency" lemma="efficiency"/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="562-564" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="565-568" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NNS" charOffset="569-578" text="enhancers" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="579-581" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_11" POS="RB" charOffset="582-595" text="approximately" lemma="approximately"/>
+            <token xml:space="preserve" id="stt_12" POS="DT" charOffset="596-599" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="600-604" text="same" lemma="same"/>
+            <token xml:space="preserve" id="stt_14" POS="," charOffset="604-605" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="606-618" text="irrespective" lemma="irrespective"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="619-621" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="622-625" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="626-630" text="type" lemma="type"/>
+            <token xml:space="preserve" id="stt_19" POS="IN" charOffset="631-633" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="634-642" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_21" POS="VBN" charOffset="643-647" text="used" lemma="use"/>
+            <token xml:space="preserve" id="stt_22" POS="," charOffset="647-648" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_23" POS="FW" charOffset="649-653" text="i.e." lemma="i.e."/>
+            <token xml:space="preserve" id="stt_24" POS="," charOffset="653-654" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_25" POS="EX" charOffset="655-660" text="there" lemma="there"/>
+            <token xml:space="preserve" id="stt_26" POS="VBD" charOffset="661-664" text="was" lemma="be"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="665-667" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="668-674" text="strong" lemma="strong"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="675-685" text="preference" lemma="preference"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="686-689" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_31" POS="DT" charOffset="690-693" text="any" lemma="any"/>
+            <token xml:space="preserve" id="stt_32" POS="VBN" charOffset="694-699" text="given" lemma="give"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="700-717" text="enhancer/promoter" lemma="enhancer/promoter"/>
+            <token xml:space="preserve" id="stt_34" POS="NN" charOffset="718-729" text="combination" lemma="combination"/>
+            <token xml:space="preserve" id="stt_35" POS="." charOffset="729-730" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H found)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (JJ relative) (NN=H efficiency))
+            (PP (IN=H of)
+            (NP (DT the) (NNS=H enhancers))))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (RB approximately) (DT the) (JJ=H same))
+            (, ,)
+            (S
+            (S=H
+            (ADJP=H (JJ=H irrespective)
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN=H type))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H promoter))
+            (VP (VBN=H used))))))))
+            (, ,) (FW i.e.) (, ,)
+            (S
+            (NP=H
+            (NP=H (EX=H there))
+            (SBAR
+            (S=H
+            (VP=H (VBD=H was)
+            (NP
+            (NP=H (DT no) (JJ strong) (NN=H preference))
+            (PP (IN=H for)
+            (NP (DT any) (VBN given) (NN enhancer/promoter) (NN=H combination)))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="731-915" id="S6">
+        <text xml:space="preserve">Notably, we do not see particularly strong transcription when the immunoglobulin kappa enhancer (or the immunoglobulin heavy chain enhancer) is used to activate a kappa gene promoter. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="731-738" text="Notably" lemma="notably"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="738-739" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="PRP" charOffset="740-742" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_4" POS="VBP" charOffset="743-745" text="do" lemma="do"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="746-749" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_6" POS="VB" charOffset="750-753" text="see" lemma="see"/>
+            <token xml:space="preserve" id="stt_7" POS="RB" charOffset="754-766" text="particularly" lemma="particularly"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="767-773" text="strong" lemma="strong"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="774-787" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_10" POS="WRB" charOffset="788-792" text="when" lemma="when"/>
+            <token xml:space="preserve" id="stt_11" POS="DT" charOffset="793-796" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="797-811" text="immunoglobulin" lemma="immunoglobulin"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="812-817" text="kappa" lemma="kappa"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="818-826" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_15" POS="-LRB-" charOffset="827-828" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="828-830" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="831-834" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="835-849" text="immunoglobulin" lemma="immunoglobulin"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="850-855" text="heavy" lemma="heavy"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="856-861" text="chain" lemma="chain"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="862-870" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_22" POS="-RRB-" charOffset="870-871" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_23" POS="VBZ" charOffset="872-874" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_24" POS="VBN" charOffset="875-879" text="used" lemma="use"/>
+            <token xml:space="preserve" id="stt_25" POS="TO" charOffset="880-882" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_26" POS="VB" charOffset="883-891" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="892-893" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="894-899" text="kappa" lemma="kappa"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="900-904" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="905-913" text="promoter" lemma="promoter"/>
+            <token xml:space="preserve" id="stt_31" POS="." charOffset="913-914" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Notably))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H do) (RB not)
+            (VP (VB=H see)
+            (NP
+            (ADJP (RB particularly) (JJ=H strong))
+            (NN=H transcription))
+            (SBAR
+            (WHADVP=H (WRB=H when))
+            (S
+            (NP
+            (NP=H (DT the) (NN immunoglobulin) (NN kappa) (NN=H enhancer))
+            (PRN (-LRB- -LRB-)
+            (CC or)
+            (NP=H
+            (NP=H (DT the) (NN=H immunoglobulin))
+            (NP (JJ heavy) (NN chain) (NN=H enhancer)))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H used)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H activate)
+            (NP (DT a) (NN kappa) (NN gene) (NN=H promoter)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="915-1144" id="S7">
+        <text xml:space="preserve">We propose that a generally permissive enhancer/promoter interaction is of evolutionary benefit for higher eukaryotes: by enhancer shuffling, genes could be easily brought under a new type of inducibility/cell type specificity. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="915-917" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="918-925" text="propose" lemma="propose"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="926-930" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="931-932" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="RB" charOffset="933-942" text="generally" lemma="generally"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="943-953" text="permissive" lemma="permissive"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="954-971" text="enhancer/promoter" lemma="enhancer/promoter"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="972-983" text="interaction" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="984-986" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="987-989" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="990-1002" text="evolutionary" lemma="evolutionary"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1003-1010" text="benefit" lemma="benefit"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="1011-1014" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_14" POS="JJR" charOffset="1015-1021" text="higher" lemma="higher"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="1022-1032" text="eukaryotes" lemma="eukaryote"/>
+            <token xml:space="preserve" id="stt_16" POS=":" charOffset="1032-1033" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1034-1036" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1037-1045" text="enhancer" lemma="enhancer"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1046-1055" text="shuffling" lemma="shuffling"/>
+            <token xml:space="preserve" id="stt_20" POS="," charOffset="1055-1056" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="1057-1062" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_22" POS="MD" charOffset="1063-1068" text="could" lemma="could"/>
+            <token xml:space="preserve" id="stt_23" POS="VB" charOffset="1069-1071" text="be" lemma="be"/>
+            <token xml:space="preserve" id="stt_24" POS="RB" charOffset="1072-1078" text="easily" lemma="easily"/>
+            <token xml:space="preserve" id="stt_25" POS="VBN" charOffset="1079-1086" text="brought" lemma="bring"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="1087-1092" text="under" lemma="under"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="1093-1094" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_28" POS="JJ" charOffset="1095-1098" text="new" lemma="new"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1099-1103" text="type" lemma="type"/>
+            <token xml:space="preserve" id="stt_30" POS="IN" charOffset="1104-1106" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_31" POS="NN" charOffset="1107-1124" text="inducibility/cell" lemma="inducibility/cell"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="1125-1129" text="type" lemma="type"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="1130-1141" text="specificity" lemma="specificity"/>
+            <token xml:space="preserve" id="stt_34" POS="." charOffset="1141-1142" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H propose)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT a)
+            (ADJP (RB generally) (JJ=H permissive))
+            (JJ enhancer/promoter) (NN=H interaction))
+            (VP=H (VBZ=H is)
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ evolutionary) (NN=H benefit))
+            (PP (IN=H for)
+            (NP (JJR higher) (NNS=H eukaryotes))))))))))
+            (: :)
+            (S
+            (PP (IN=H by)
+            (NP (NN enhancer) (NN=H shuffling)))
+            (, ,)
+            (NP (NNS=H genes))
+            (VP=H (MD=H could)
+            (VP (VB=H be)
+            (VP
+            (ADVP (RB=H easily))
+            (VBN=H brought)
+            (PP (IN=H under)
+            (NP
+            (NP=H (DT a) (JJ new) (NN=H type))
+            (PP (IN=H of)
+            (NP (NN inducibility/cell) (NN type) (NN=H specificity)))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="IndefiniteNP" charOffset="257-273" headOffset="265-273" text="a given enhancer"/>
+    <Term xml:space="preserve" id="T2" type="PossessivePronoun" charOffset="304-307" headOffset="304-307" text="its"/>
+    <Term xml:space="preserve" id="T3" type="DemonstrativeNP" charOffset="328-344" headOffset="333-344" text="this expectation"/>
+    <Term xml:space="preserve" id="T4" type="PersonalPronoun" charOffset="407-409" headOffset="407-409" text="it"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T2"/>
+        <Antecedent idref="T1"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T4"/>
+        <Antecedent idref="T3"/>
+    </Relation>
+</document>

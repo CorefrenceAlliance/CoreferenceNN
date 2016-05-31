@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10221643">
+    <text xml:space="preserve">Tcf-1-mediated transcription in T lymphocytes: differential role for glycogen synthase kinase-3 in fibroblasts and T cells. 
+Beta-catenin is the vertebrate homolog of the Drosophila segment polarity gene Armadillo and plays roles in both cell-cell adhesion and transduction of the Wnt signaling cascade. Recently, members of the Lef/Tcf transcription factor family have been identified as protein partners of beta-catenin, explaining how beta-catenin alters gene expression. Here we report that in T cells, Tcf-1 also becomes transcriptionally active through interaction with beta-catenin, suggesting that the Wnt signal transduction pathway is operational in T lymphocytes as well. However, although Wnt signals are known to inhibit the activity of the negative regulatory protein kinase glycogen synthase kinase-3beta (GSK-3beta), resulting in increased levels of beta-catenin, we find no evidence for involvement of GSK-3beta in Tcf-mediated transcription in T cells. That is, a dominant negative GSK-3beta does not specifically activate Tcf transcription and stimuli (lithium or phytohemagglutinin) that inhibit GSK-3beta activity also do not activate Tcf reporter genes. Thus, inhibition of GSK-3beta is insufficient to activate Tcf-dependent transcription in T lymphocytes. In contrast, in C57MG fibroblast cells, lithium inactivates GSK-3beta and induces Tcf-controlled transcription. This is the first demonstration that lithium can alter gene expression of Tcf-responsive genes, and points to a difference in regulation of Wnt signaling between fibroblasts and lymphocytes. 
+</text>
+    <sentence charOffset="0-125" id="S1">
+        <text xml:space="preserve">Tcf-1-mediated transcription in T lymphocytes: differential role for glycogen synthase kinase-3 in fibroblasts and T cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-14" text="Tcf-1-mediated" lemma="tcf-1-mediated"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="15-28" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="29-31" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="32-33" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="34-45" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_6" POS=":" charOffset="45-46" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="47-59" text="differential" lemma="differential"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="60-64" text="role" lemma="role"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="65-68" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="69-77" text="glycogen" lemma="glycogen"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="78-86" text="synthase" lemma="synthase"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="87-95" text="kinase-3" lemma="kinase-3"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="96-98" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="99-110" text="fibroblasts" lemma="fibroblast"/>
+            <token xml:space="preserve" id="stt_15" POS="CC" charOffset="111-114" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="115-116" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="117-122" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="122-123" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H
+            (NP=H (JJ Tcf-1-mediated) (NN=H transcription))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H lymphocytes))))
+            (: :)
+            (NP
+            (NP=H (JJ differential) (NN=H role))
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN glycogen) (NN synthase) (NN=H kinase-3))
+            (PP (IN=H in)
+            (NP (NNS fibroblasts)
+            (CC and)
+            (NN T) (NNS=H cells))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="125-304" id="S2">
+        <text xml:space="preserve">Beta-catenin is the vertebrate homolog of the Drosophila segment polarity gene Armadillo and plays roles in both cell-cell adhesion and transduction of the Wnt signaling cascade. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="125-137" text="Beta-catenin" lemma="beta-catenin"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="138-140" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="141-144" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="145-155" text="vertebrate" lemma="vertebrate"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="156-163" text="homolog" lemma="homolog"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="164-166" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="167-170" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="FW" charOffset="171-181" text="Drosophila" lemma="drosophila"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="182-189" text="segment" lemma="segment"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="190-198" text="polarity" lemma="polarity"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="199-203" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="204-213" text="Armadillo" lemma="armadillo"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="214-217" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="VBZ" charOffset="218-223" text="plays" lemma="play"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="224-229" text="roles" lemma="role"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="230-232" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_17" POS="DT" charOffset="233-237" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="238-247" text="cell-cell" lemma="cell-cell"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="248-256" text="adhesion" lemma="adhesion"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="257-260" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="261-273" text="transduction" lemma="transduction"/>
+            <token xml:space="preserve" id="stt_22" POS="IN" charOffset="274-276" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_23" POS="DT" charOffset="277-280" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="281-284" text="Wnt" lemma="wnt"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="285-294" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="295-302" text="cascade" lemma="cascade"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="302-303" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H Beta-catenin))
+            (VP=H
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT the) (JJ vertebrate) (NN=H homolog))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (FW Drosophila) (NN segment) (NN=H polarity))
+            (NP (NN gene) (NN=H Armadillo))))))
+            (CC and)
+            (VP (VBZ=H plays)
+            (NP (NNS=H roles))
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT both) (JJ cell-cell) (NN=H adhesion)
+            (CC and)
+            (NN transduction))
+            (PP (IN=H of)
+            (NP (DT the) (NN Wnt) (NN signaling) (NN=H cascade)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="304-475" id="S3">
+        <text xml:space="preserve">Recently, members of the Lef/Tcf transcription factor family have been identified as protein partners of beta-catenin, explaining how beta-catenin alters gene expression. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="304-312" text="Recently" lemma="recently"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="312-313" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="314-321" text="members" lemma="member"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="322-324" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="325-328" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="329-336" text="Lef/Tcf" lemma="lef/tcf"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="337-350" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="351-357" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="358-364" text="family" lemma="family"/>
+            <token xml:space="preserve" id="stt_10" POS="VBP" charOffset="365-369" text="have" lemma="have"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="370-374" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="VBN" charOffset="375-385" text="identified" lemma="identify"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="386-388" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="389-396" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="397-405" text="partners" lemma="partner"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="406-408" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="409-421" text="beta-catenin" lemma="beta-catenin"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="421-422" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="VBG" charOffset="423-433" text="explaining" lemma="explain"/>
+            <token xml:space="preserve" id="stt_20" POS="WRB" charOffset="434-437" text="how" lemma="how"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="438-450" text="beta-catenin" lemma="beta-catenin"/>
+            <token xml:space="preserve" id="stt_22" POS="VBZ" charOffset="451-457" text="alters" lemma="alter"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="458-462" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="463-473" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_25" POS="." charOffset="473-474" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Recently))
+            (, ,)
+            (NP
+            (NP=H (NNS=H members))
+            (PP (IN=H of)
+            (NP (DT the) (NN Lef/Tcf) (NN transcription) (NN factor) (NN=H family))))
+            (VP=H (VBP=H have)
+            (VP (VBN=H been)
+            (VP (VBN=H identified)
+            (PP (IN=H as)
+            (NP
+            (NP=H (NN protein) (NNS=H partners))
+            (PP (IN=H of)
+            (NP (NN=H beta-catenin)))))
+            (, ,)
+            (S
+            (VP=H (VBG=H explaining)
+            (SBAR
+            (WHADVP=H (WRB=H how))
+            (S
+            (NP (NN=H beta-catenin))
+            (VP=H (VBZ=H alters)
+            (NP (NN gene) (NN=H expression))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="475-683" id="S4">
+        <text xml:space="preserve">Here we report that in T cells, Tcf-1 also becomes transcriptionally active through interaction with beta-catenin, suggesting that the Wnt signal transduction pathway is operational in T lymphocytes as well. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="475-479" text="Here" lemma="here"/>
+            <token xml:space="preserve" id="stt_2" POS="PRP" charOffset="480-482" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="483-489" text="report" lemma="report"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="490-494" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="495-497" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="498-499" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="500-505" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="505-506" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="507-512" text="Tcf-1" lemma="tcf-1"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="513-517" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="518-525" text="becomes" lemma="become"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="526-543" text="transcriptionally" lemma="transcriptionally"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="544-550" text="active" lemma="active"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="551-558" text="through" lemma="through"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="559-570" text="interaction" lemma="interaction"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="571-575" text="with" lemma="with"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="576-588" text="beta-catenin" lemma="beta-catenin"/>
+            <token xml:space="preserve" id="stt_18" POS="," charOffset="588-589" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_19" POS="VBG" charOffset="590-600" text="suggesting" lemma="suggest"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="601-605" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="606-609" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="610-613" text="Wnt" lemma="wnt"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="614-620" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="621-633" text="transduction" lemma="transduction"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="634-641" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_26" POS="VBZ" charOffset="642-644" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_27" POS="JJ" charOffset="645-656" text="operational" lemma="operational"/>
+            <token xml:space="preserve" id="stt_28" POS="IN" charOffset="657-659" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="660-661" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_30" POS="NNS" charOffset="662-673" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_31" POS="RB" charOffset="674-676" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_32" POS="RB" charOffset="677-681" text="well" lemma="well"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="681-682" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Here))
+            (NP (PRP=H we))
+            (VP=H (VBP=H report)
+            (SBAR (IN=H that)
+            (S
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells)))
+            (, ,)
+            (NP (NN=H Tcf-1))
+            (ADVP (RB=H also))
+            (VP=H (VBZ=H becomes)
+            (ADJP (RB transcriptionally) (JJ=H active)
+            (PP (IN=H through)
+            (NP
+            (NP=H (NN=H interaction))
+            (PP (IN=H with)
+            (NP (NN=H beta-catenin))))))
+            (, ,)
+            (S
+            (VP=H (VBG=H suggesting)
+            (SBAR (IN=H that)
+            (S
+            (NP (DT the) (NN Wnt) (NN signal) (NN transduction) (NN=H pathway))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H operational)
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H lymphocytes))))
+            (ADVP (RB as) (RB=H well)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="683-971" id="S5">
+        <text xml:space="preserve">However, although Wnt signals are known to inhibit the activity of the negative regulatory protein kinase glycogen synthase kinase-3beta (GSK-3beta), resulting in increased levels of beta-catenin, we find no evidence for involvement of GSK-3beta in Tcf-mediated transcription in T cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="683-690" text="However" lemma="however"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="690-691" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="692-700" text="although" lemma="although"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="701-704" text="Wnt" lemma="wnt"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="705-712" text="signals" lemma="signal"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="713-716" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="VBN" charOffset="717-722" text="known" lemma="know"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="723-725" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="726-733" text="inhibit" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="734-737" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="738-746" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="747-749" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="750-753" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="754-762" text="negative" lemma="negative"/>
+            <token xml:space="preserve" id="stt_15" POS="JJ" charOffset="763-773" text="regulatory" lemma="regulatory"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="774-781" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="782-788" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="789-797" text="glycogen" lemma="glycogen"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="798-806" text="synthase" lemma="synthase"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="807-819" text="kinase-3beta" lemma="kinase-3beta"/>
+            <token xml:space="preserve" id="stt_21" POS="-LRB-" charOffset="820-821" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="821-830" text="GSK-3beta" lemma="gsk-3beta"/>
+            <token xml:space="preserve" id="stt_23" POS="-RRB-" charOffset="830-831" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_24" POS="," charOffset="831-832" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_25" POS="VBG" charOffset="833-842" text="resulting" lemma="result"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="843-845" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_27" POS="VBN" charOffset="846-855" text="increased" lemma="increase"/>
+            <token xml:space="preserve" id="stt_28" POS="NNS" charOffset="856-862" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="863-865" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="866-878" text="beta-catenin" lemma="beta-catenin"/>
+            <token xml:space="preserve" id="stt_31" POS="," charOffset="878-879" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_32" POS="PRP" charOffset="880-882" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_33" POS="VBP" charOffset="883-887" text="find" lemma="find"/>
+            <token xml:space="preserve" id="stt_34" POS="DT" charOffset="888-890" text="no" lemma="no"/>
+            <token xml:space="preserve" id="stt_35" POS="NN" charOffset="891-899" text="evidence" lemma="evidence"/>
+            <token xml:space="preserve" id="stt_36" POS="IN" charOffset="900-903" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="904-915" text="involvement" lemma="involvement"/>
+            <token xml:space="preserve" id="stt_38" POS="IN" charOffset="916-918" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="919-928" text="GSK-3beta" lemma="gsk-3beta"/>
+            <token xml:space="preserve" id="stt_40" POS="IN" charOffset="929-931" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_41" POS="JJ" charOffset="932-944" text="Tcf-mediated" lemma="tcf-mediated"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="945-958" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_43" POS="IN" charOffset="959-961" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_44" POS="NN" charOffset="962-963" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_45" POS="NNS" charOffset="964-969" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_46" POS="." charOffset="969-970" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H However))
+            (, ,)
+            (SBAR (IN=H although)
+            (S
+            (NP (NN Wnt) (NNS=H signals))
+            (VP=H (VBP=H are)
+            (VP (VBN=H known)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H inhibit)
+            (NP
+            (NP=H (DT the) (NN=H activity))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (JJ negative) (JJ regulatory) (NN protein) (NN kinase) (NN glycogen) (NN synthase) (NN=H kinase-3beta))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H GSK-3beta))
+            (-RRB- -RRB-)))))
+            (, ,)
+            (S
+            (VP=H (VBG=H resulting)
+            (PP (IN=H in)
+            (NP
+            (NP=H (VBN increased) (NNS=H levels))
+            (PP (IN=H of)
+            (NP (NN=H beta-catenin))))))))))))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H find)
+            (NP
+            (NP=H (DT no) (NN=H evidence))
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN=H involvement))
+            (PP (IN=H of)
+            (NP (NN=H GSK-3beta))))))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJ Tcf-mediated) (NN=H transcription))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="971-1176" id="S6">
+        <text xml:space="preserve">That is, a dominant negative GSK-3beta does not specifically activate Tcf transcription and stimuli (lithium or phytohemagglutinin) that inhibit GSK-3beta activity also do not activate Tcf reporter genes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="971-975" text="That" lemma="that"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="976-978" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="978-979" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="980-981" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="982-990" text="dominant" lemma="dominant"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="991-999" text="negative" lemma="negative"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1000-1009" text="GSK-3beta" lemma="gsk-3beta"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="1010-1014" text="does" lemma="do"/>
+            <token xml:space="preserve" id="stt_9" POS="RB" charOffset="1015-1018" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="1019-1031" text="specifically" lemma="specifically"/>
+            <token xml:space="preserve" id="stt_11" POS="VB" charOffset="1032-1040" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1041-1044" text="Tcf" lemma="tcf"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1045-1058" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="1059-1062" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="1063-1070" text="stimuli" lemma="stimulus"/>
+            <token xml:space="preserve" id="stt_16" POS="-LRB-" charOffset="1071-1072" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1072-1079" text="lithium" lemma="lithium"/>
+            <token xml:space="preserve" id="stt_18" POS="CC" charOffset="1080-1082" text="or" lemma="or"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1083-1101" text="phytohemagglutinin" lemma="phytohemagglutinin"/>
+            <token xml:space="preserve" id="stt_20" POS="-RRB-" charOffset="1101-1102" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_21" POS="WDT" charOffset="1103-1107" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_22" POS="VBP" charOffset="1108-1115" text="inhibit" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1116-1125" text="GSK-3beta" lemma="gsk-3beta"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1126-1134" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_25" POS="RB" charOffset="1135-1139" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_26" POS="VBP" charOffset="1140-1142" text="do" lemma="do"/>
+            <token xml:space="preserve" id="stt_27" POS="RB" charOffset="1143-1146" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_28" POS="VB" charOffset="1147-1155" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_29" POS="NN" charOffset="1156-1159" text="Tcf" lemma="tcf"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="1160-1168" text="reporter" lemma="reporter"/>
+            <token xml:space="preserve" id="stt_31" POS="NNS" charOffset="1169-1174" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_32" POS="." charOffset="1174-1175" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (INTJ (DT=H That) (VBZ is))
+            (, ,)
+            (S=H
+            (NP (DT a) (JJ dominant) (JJ negative) (NN=H GSK-3beta))
+            (VP=H (VBZ=H does) (RB not)
+            (ADVP (RB=H specifically))
+            (VP (VB=H activate)
+            (NP
+            (NP=H
+            (NP=H (NN Tcf) (NN=H transcription))
+            (CC and)
+            (NP (NNS=H stimuli)))
+            (PRN (-LRB- -LRB-)
+            (NP=H
+            (NP=H (NN=H lithium))
+            (CC or)
+            (NP (NN=H phytohemagglutinin)))
+            (-RRB- -RRB-))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBP=H inhibit)
+            (SBAR
+            (S=H
+            (NP (NN GSK-3beta) (NN=H activity))
+            (ADVP (RB=H also))
+            (VP=H (VBP=H do) (RB not)
+            (VP (VB=H activate)
+            (NP (NN Tcf) (NN reporter) (NNS=H genes)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1176-1280" id="S7">
+        <text xml:space="preserve">Thus, inhibition of GSK-3beta is insufficient to activate Tcf-dependent transcription in T lymphocytes. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="1176-1180" text="Thus" lemma="thus"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="1180-1181" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="1182-1192" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1193-1195" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1196-1205" text="GSK-3beta" lemma="gsk-3beta"/>
+            <token xml:space="preserve" id="stt_6" POS="VBZ" charOffset="1206-1208" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_7" POS="JJ" charOffset="1209-1221" text="insufficient" lemma="insufficient"/>
+            <token xml:space="preserve" id="stt_8" POS="TO" charOffset="1222-1224" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="1225-1233" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="1234-1247" text="Tcf-dependent" lemma="tcf-dependent"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1248-1261" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1262-1264" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="1265-1266" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="1267-1278" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="1278-1279" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Thus))
+            (, ,)
+            (NP
+            (NP=H (NN=H inhibition))
+            (PP (IN=H of)
+            (NP (NN=H GSK-3beta))))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H insufficient)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H activate)
+            (NP (JJ Tcf-dependent) (NN=H transcription))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H lymphocytes))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1280-1392" id="S8">
+        <text xml:space="preserve">In contrast, in C57MG fibroblast cells, lithium inactivates GSK-3beta and induces Tcf-controlled transcription. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="1280-1282" text="In" lemma="in"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="1283-1291" text="contrast" lemma="contrast"/>
+            <token xml:space="preserve" id="stt_3" POS="," charOffset="1291-1292" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1293-1295" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1296-1301" text="C57MG" lemma="c57mg"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="1302-1312" text="fibroblast" lemma="fibroblast"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="1313-1318" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="1318-1319" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1320-1327" text="lithium" lemma="lithium"/>
+            <token xml:space="preserve" id="stt_10" POS="VBZ" charOffset="1328-1339" text="inactivates" lemma="inactivate"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1340-1349" text="GSK-3beta" lemma="gsk-3beta"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="1350-1353" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="1354-1361" text="induces" lemma="induce"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="1362-1376" text="Tcf-controlled" lemma="tcf-controlled"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="1377-1390" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="1390-1391" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H In)
+            (NP (NN=H contrast)))
+            (, ,)
+            (PP (IN=H in)
+            (NP (NN C57MG) (NN fibroblast) (NNS=H cells)))
+            (, ,)
+            (NP (NN=H lithium))
+            (VP=H
+            (VP=H (VBZ=H inactivates)
+            (NP (NN=H GSK-3beta)))
+            (CC and)
+            (VP (VBZ=H induces)
+            (NP (JJ Tcf-controlled) (NN=H transcription))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1392-1584" id="S9">
+        <text xml:space="preserve">This is the first demonstration that lithium can alter gene expression of Tcf-responsive genes, and points to a difference in regulation of Wnt signaling between fibroblasts and lymphocytes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1392-1396" text="This" lemma="this"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="1397-1399" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="1400-1403" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1404-1409" text="first" lemma="first"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="1410-1423" text="demonstration" lemma="demonstration"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1424-1428" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1429-1436" text="lithium" lemma="lithium"/>
+            <token xml:space="preserve" id="stt_8" POS="MD" charOffset="1437-1440" text="can" lemma="can"/>
+            <token xml:space="preserve" id="stt_9" POS="VB" charOffset="1441-1446" text="alter" lemma="alter"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1447-1451" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="1452-1462" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1463-1465" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="1466-1480" text="Tcf-responsive" lemma="tcf-responsive"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="1481-1486" text="genes" lemma="gene"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="1486-1487" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="1488-1491" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="NNS" charOffset="1492-1498" text="points" lemma="point"/>
+            <token xml:space="preserve" id="stt_18" POS="TO" charOffset="1499-1501" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="1502-1503" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1504-1514" text="difference" lemma="difference"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1515-1517" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="1518-1528" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="1529-1531" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1532-1535" text="Wnt" lemma="wnt"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="1536-1545" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="1546-1553" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_27" POS="NNS" charOffset="1554-1565" text="fibroblasts" lemma="fibroblast"/>
+            <token xml:space="preserve" id="stt_28" POS="CC" charOffset="1566-1569" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="1570-1581" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_30" POS="." charOffset="1581-1582" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT=H This))
+            (VP=H (VBZ=H is)
+            (NP (DT the) (JJ first) (NN=H demonstration))
+            (SBAR (IN=H that)
+            (S
+            (NP (NN=H lithium))
+            (VP=H (MD=H can)
+            (VP (VB=H alter)
+            (NP
+            (NP=H
+            (NP=H (NN gene) (NN=H expression))
+            (PP (IN=H of)
+            (NP (JJ Tcf-responsive) (NNS=H genes))))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (NNS=H points))
+            (PP (TO=H to)
+            (NP (DT a) (NN=H difference)))))
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H regulation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN Wnt) (NN=H signaling))
+            (PP (IN=H between)
+            (NP (NNS=H fibroblasts)
+            (CC and)
+            (NNS lymphocytes))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T18" type="ZeroArticleNP" charOffset="1041-1102" headOffset="1083-1101" text="Tcf transcription and stimuli (lithium or phytohemagglutinin)"/>
+    <Term xml:space="preserve" id="T19" type="RelativePronoun" charOffset="1103-1107" headOffset="1103-1107" text="that"/>
+    <Term xml:space="preserve" id="T20" type="DefiniteNP" charOffset="1400-1423" headOffset="1410-1423" text="the first demonstration"/>
+    <Term xml:space="preserve" id="T21" type="RelativePronoun" charOffset="1424-1428" headOffset="1424-1428" text="that"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T19"/>
+        <Antecedent idref="T18"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T21"/>
+        <Antecedent idref="T20"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="0-5" headOffset="0-5" text="Tcf-1"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="69-95" headOffset="87-95" text="glycogen synthase kinase-3"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="125-137" headOffset="125-137" text="Beta-catenin"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="409-421" headOffset="409-421" text="beta-catenin"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="438-450" headOffset="438-450" text="beta-catenin"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="507-512" headOffset="507-512" text="Tcf-1"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="576-588" headOffset="576-588" text="beta-catenin"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="789-819" headOffset="807-819" text="glycogen synthase kinase-3beta"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="821-830" headOffset="821-830" text="GSK-3beta"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="866-878" headOffset="866-878" text="beta-catenin"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="919-928" headOffset="919-928" text="GSK-3beta"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="1000-1009" headOffset="1000-1009" text="GSK-3beta"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="1083-1101" headOffset="1083-1101" text="phytohemagglutinin"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="1116-1125" headOffset="1116-1125" text="GSK-3beta"/>
+    <Term xml:space="preserve" id="T15" type="Protein" charOffset="1196-1205" headOffset="1196-1205" text="GSK-3beta"/>
+    <Term xml:space="preserve" id="T16" type="Protein" charOffset="1340-1349" headOffset="1340-1349" text="GSK-3beta"/>
+    <Term xml:space="preserve" id="T17" type="Protein" charOffset="1362-1365" headOffset="1362-1365" text="Tcf"/>
+</document>

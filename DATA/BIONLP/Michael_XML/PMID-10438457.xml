@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10438457">
+    <text xml:space="preserve">Protein kinase C and calcineurin synergize to activate IkappaB kinase and NF-kappaB in T lymphocytes. 
+The nuclear factor of kappaB (NF-kappaB) is a ubiquitous transcription factor that is key in the regulation of the immune response and inflammation. T cell receptor (TCR) cross-linking is in part required for activation of NF-kappaB, which is dependent on the phosphorylation and degradation of IkappaBalpha. By using Jurkat and primary human T lymphocytes, we demonstrate that the simultaneous activation of two second messengers of the TCR-initiated signal transduction, protein kinase C (PKC) and calcineurin, results in the synergistic activation of the IkappaBalpha kinase (IKK) complex but not of another putative IkappaBalpha kinase, p90(rsk). We also demonstrate that the IKK complex, but not p90(rsk), is responsible for the in vivo phosphorylation of IkappaBalpha mediated by the co-activation of PKC and calcineurin. Each second messenger is necessary, as inhibition of either one reverses the activation of the IKK complex and IkappaBalpha phosphorylation in vivo. Overexpression of dominant negative forms of IKKalpha and -beta demonstrates that only IKKbeta is the target for PKC and calcineurin. These results indicate that within the TCR/CD3 signal transduction pathway both PKC and calcineurin are required for the effective activation of the IKK complex and NF-kappaB in T lymphocytes. 
+</text>
+    <sentence charOffset="0-103" id="S1">
+        <text xml:space="preserve">Protein kinase C and calcineurin synergize to activate IkappaB kinase and NF-kappaB in T lymphocytes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-7" text="Protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="8-14" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="15-16" text="C" lemma="c"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="17-20" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="21-32" text="calcineurin" lemma="calcineurin"/>
+            <token xml:space="preserve" id="stt_6" POS="VBP" charOffset="33-42" text="synergize" lemma="synergize"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="43-45" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="VB" charOffset="46-54" text="activate" lemma="activate"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="55-62" text="IkappaB" lemma="ikappab"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="63-69" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="70-73" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="74-83" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="84-86" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="87-88" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="89-100" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="100-101" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN Protein) (NN kinase) (NN=H C))
+            (CC and)
+            (NP (NN=H calcineurin)))
+            (VP=H (VBP=H synergize)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H activate)
+            (NP
+            (NP=H (NN IkappaB) (NN=H kinase)
+            (CC and)
+            (NN NF-kappaB))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H lymphocytes))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="103-252" id="S2">
+        <text xml:space="preserve">The nuclear factor of kappaB (NF-kappaB) is a ubiquitous transcription factor that is key in the regulation of the immune response and inflammation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="103-106" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="107-114" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="115-121" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="122-124" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="125-131" text="kappaB" lemma="kappab"/>
+            <token xml:space="preserve" id="stt_6" POS="-LRB-" charOffset="132-133" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="133-142" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_8" POS="-RRB-" charOffset="142-143" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_9" POS="VBZ" charOffset="144-146" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="147-148" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="149-159" text="ubiquitous" lemma="ubiquitous"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="160-173" text="transcription" lemma="transcription"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="174-180" text="factor" lemma="factor"/>
+            <token xml:space="preserve" id="stt_14" POS="WDT" charOffset="181-185" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="186-188" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="189-192" text="key" lemma="key"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="193-195" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="196-199" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="200-210" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="211-213" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="214-217" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="218-224" text="immune" lemma="immune"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="225-233" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_24" POS="CC" charOffset="234-237" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_25" POS="NN" charOffset="238-250" text="inflammation" lemma="inflammation"/>
+            <token xml:space="preserve" id="stt_26" POS="." charOffset="250-251" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H
+            (NP=H (DT The) (JJ nuclear) (NN=H factor))
+            (PP (IN=H of)
+            (NP (NN=H kappaB))))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H NF-kappaB))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (JJ ubiquitous) (NN transcription) (NN=H factor))
+            (SBAR
+            (WHNP=H (WDT=H that))
+            (S
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H key)
+            (PP (IN=H in)
+            (NP
+            (NP=H (DT the) (NN=H regulation))
+            (PP (IN=H of)
+            (NP (DT the) (JJ immune) (NN=H response)
+            (CC and)
+            (NN inflammation)))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="252-412" id="S3">
+        <text xml:space="preserve">T cell receptor (TCR) cross-linking is in part required for activation of NF-kappaB, which is dependent on the phosphorylation and degradation of IkappaBalpha. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="252-253" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="254-258" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="259-267" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_4" POS="-LRB-" charOffset="268-269" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="269-272" text="TCR" lemma="tcr"/>
+            <token xml:space="preserve" id="stt_6" POS="-RRB-" charOffset="272-273" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="274-287" text="cross-linking" lemma="cross-linking"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="288-290" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="291-293" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="294-298" text="part" lemma="part"/>
+            <token xml:space="preserve" id="stt_11" POS="VBN" charOffset="299-307" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="308-311" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="312-322" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_14" POS="IN" charOffset="323-325" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="326-335" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_16" POS="," charOffset="335-336" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_17" POS="WDT" charOffset="337-342" text="which" lemma="which"/>
+            <token xml:space="preserve" id="stt_18" POS="VBZ" charOffset="343-345" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="346-355" text="dependent" lemma="dependent"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="356-358" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="359-362" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="363-378" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_23" POS="CC" charOffset="379-382" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="383-394" text="degradation" lemma="degradation"/>
+            <token xml:space="preserve" id="stt_25" POS="IN" charOffset="395-397" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="398-410" text="IkappaBalpha" lemma="ikappabalpha"/>
+            <token xml:space="preserve" id="stt_27" POS="." charOffset="410-411" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN T) (NN cell) (NN=H receptor))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H TCR))
+            (-RRB- -RRB-))
+            (NP (NN=H cross-linking))
+            (VP=H (VBZ=H is)
+            (PP (IN=H in)
+            (NP
+            (NP=H (NN=H part))
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H NF-kappaB))
+            (, ,)
+            (SBAR
+            (WHNP=H (WDT=H which))
+            (S
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H dependent)
+            (PP (IN=H on)
+            (NP
+            (NP=H (DT the) (NN=H phosphorylation)
+            (CC and)
+            (NN degradation))
+            (PP (IN=H of)
+            (NP (NN=H IkappaBalpha)))))))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="412-754" id="S4">
+        <text xml:space="preserve">By using Jurkat and primary human T lymphocytes, we demonstrate that the simultaneous activation of two second messengers of the TCR-initiated signal transduction, protein kinase C (PKC) and calcineurin, results in the synergistic activation of the IkappaBalpha kinase (IKK) complex but not of another putative IkappaBalpha kinase, p90(rsk). </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="412-414" text="By" lemma="by"/>
+            <token xml:space="preserve" id="stt_2" POS="VBG" charOffset="415-420" text="using" lemma="use"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="421-427" text="Jurkat" lemma="jurkat"/>
+            <token xml:space="preserve" id="stt_4" POS="CC" charOffset="428-431" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="432-439" text="primary" lemma="primary"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="440-445" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="446-447" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_8" POS="NNS" charOffset="448-459" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="459-460" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="PRP" charOffset="461-463" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_11" POS="VBP" charOffset="464-475" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="476-480" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="481-484" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="485-497" text="simultaneous" lemma="simultaneous"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="498-508" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="509-511" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="CD" charOffset="512-515" text="two" lemma="two"/>
+            <token xml:space="preserve" id="stt_18" POS="JJ" charOffset="516-522" text="second" lemma="second"/>
+            <token xml:space="preserve" id="stt_19" POS="NNS" charOffset="523-533" text="messengers" lemma="messenger"/>
+            <token xml:space="preserve" id="stt_20" POS="IN" charOffset="534-536" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_21" POS="DT" charOffset="537-540" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_22" POS="JJ" charOffset="541-554" text="TCR-initiated" lemma="tcr-initiated"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="555-561" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="562-574" text="transduction" lemma="transduction"/>
+            <token xml:space="preserve" id="stt_25" POS="," charOffset="574-575" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="576-583" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="584-590" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="591-592" text="C" lemma="c"/>
+            <token xml:space="preserve" id="stt_29" POS="-LRB-" charOffset="593-594" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="594-597" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_31" POS="-RRB-" charOffset="597-598" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_32" POS="CC" charOffset="599-602" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_33" POS="NN" charOffset="603-614" text="calcineurin" lemma="calcineurin"/>
+            <token xml:space="preserve" id="stt_34" POS="," charOffset="614-615" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_35" POS="VBZ" charOffset="616-623" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_36" POS="IN" charOffset="624-626" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_37" POS="DT" charOffset="627-630" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_38" POS="JJ" charOffset="631-642" text="synergistic" lemma="synergistic"/>
+            <token xml:space="preserve" id="stt_39" POS="NN" charOffset="643-653" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_40" POS="IN" charOffset="654-656" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_41" POS="DT" charOffset="657-660" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="661-673" text="IkappaBalpha" lemma="ikappabalpha"/>
+            <token xml:space="preserve" id="stt_43" POS="NN" charOffset="674-680" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_44" POS="-LRB-" charOffset="681-682" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_45" POS="NN" charOffset="682-685" text="IKK" lemma="ikk"/>
+            <token xml:space="preserve" id="stt_46" POS="-RRB-" charOffset="685-686" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_47" POS="NN" charOffset="687-694" text="complex" lemma="complex"/>
+            <token xml:space="preserve" id="stt_48" POS="CC" charOffset="695-698" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_49" POS="RB" charOffset="699-702" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_50" POS="IN" charOffset="703-705" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_51" POS="DT" charOffset="706-713" text="another" lemma="another"/>
+            <token xml:space="preserve" id="stt_52" POS="JJ" charOffset="714-722" text="putative" lemma="putative"/>
+            <token xml:space="preserve" id="stt_53" POS="NN" charOffset="723-735" text="IkappaBalpha" lemma="ikappabalpha"/>
+            <token xml:space="preserve" id="stt_54" POS="NN" charOffset="736-742" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_55" POS="," charOffset="742-743" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_56" POS="NN" charOffset="744-747" text="p90" lemma="p90"/>
+            <token xml:space="preserve" id="stt_57" POS="-LRB-" charOffset="747-748" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_58" POS="NN" charOffset="748-751" text="rsk" lemma="rsk"/>
+            <token xml:space="preserve" id="stt_59" POS="-RRB-" charOffset="751-752" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_60" POS="." charOffset="752-753" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (PP (IN=H By)
+            (S
+            (VP=H (VBG=H using)
+            (NP (NN Jurkat)
+            (CC and)
+            (JJ primary) (JJ human) (NN T) (NNS=H lymphocytes)))))
+            (, ,)
+            (NP (PRP=H we))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H
+            (NP=H (DT the) (JJ simultaneous) (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (CD two) (JJ second) (NNS=H messengers))
+            (PP (IN=H of)
+            (NP (DT the) (JJ TCR-initiated) (NN signal) (NN=H transduction))))))
+            (, ,)
+            (NP
+            (NP=H
+            (NP=H (NN protein) (NN kinase) (NN=H C))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H PKC))
+            (-RRB- -RRB-)))
+            (CC and)
+            (NP (NN=H calcineurin)))
+            (, ,))
+            (VP=H (VBZ=H results)
+            (PP
+            (PP=H (IN=H in)
+            (NP
+            (NP=H (DT the) (JJ synergistic) (NN=H activation))
+            (PP (IN=H of)
+            (NP (DT the) (NN IkappaBalpha) (NN kinase)
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IKK))
+            (-RRB- -RRB-))
+            (NN=H complex)))))
+            (CONJP (CC=H but)
+            (RB not))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT another) (JJ putative) (NN IkappaBalpha) (NN=H kinase))
+            (, ,)
+            (NP
+            (NP=H (NN=H p90))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H rsk))
+            (-RRB- -RRB-))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="754-931" id="S5">
+        <text xml:space="preserve">We also demonstrate that the IKK complex, but not p90(rsk), is responsible for the in vivo phosphorylation of IkappaBalpha mediated by the co-activation of PKC and calcineurin. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="754-756" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="RB" charOffset="757-761" text="also" lemma="also"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="762-773" text="demonstrate" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="774-778" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="DT" charOffset="779-782" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="783-786" text="IKK" lemma="ikk"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="787-794" text="complex" lemma="complex"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="794-795" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="CC" charOffset="796-799" text="but" lemma="but"/>
+            <token xml:space="preserve" id="stt_10" POS="RB" charOffset="800-803" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="804-807" text="p90" lemma="p90"/>
+            <token xml:space="preserve" id="stt_12" POS="-LRB-" charOffset="807-808" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_13" POS="NN" charOffset="808-811" text="rsk" lemma="rsk"/>
+            <token xml:space="preserve" id="stt_14" POS="-RRB-" charOffset="811-812" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_15" POS="," charOffset="812-813" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_16" POS="VBZ" charOffset="814-816" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="817-828" text="responsible" lemma="responsible"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="829-832" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="833-836" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="FW" charOffset="837-839" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_21" POS="FW" charOffset="840-844" text="vivo" lemma="vivo"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="845-860" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_23" POS="IN" charOffset="861-863" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="864-876" text="IkappaBalpha" lemma="ikappabalpha"/>
+            <token xml:space="preserve" id="stt_25" POS="VBN" charOffset="877-885" text="mediated" lemma="mediate"/>
+            <token xml:space="preserve" id="stt_26" POS="IN" charOffset="886-888" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_27" POS="DT" charOffset="889-892" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="893-906" text="co-activation" lemma="co-activation"/>
+            <token xml:space="preserve" id="stt_29" POS="IN" charOffset="907-909" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_30" POS="NN" charOffset="910-913" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_31" POS="CC" charOffset="914-917" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_32" POS="NN" charOffset="918-929" text="calcineurin" lemma="calcineurin"/>
+            <token xml:space="preserve" id="stt_33" POS="." charOffset="929-930" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (ADVP (RB=H also))
+            (VP=H (VBP=H demonstrate)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (DT the) (NN IKK) (NN=H complex))
+            (, ,)
+            (PP (CC=H but)
+            (NP
+            (NP=H (RB not) (NN=H p90))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H rsk))
+            (-RRB- -RRB-))))
+            (, ,))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H responsible)
+            (PP (IN=H for)
+            (NP
+            (NP=H (DT=H the)
+            (RRC
+            (ADVP (FW in) (FW=H vivo))
+            (NP=H
+            (NP=H (NN=H phosphorylation))
+            (PP (IN=H of)
+            (NP (NN=H IkappaBalpha))))))
+            (VP (VBN=H mediated)
+            (PP (IN=H by)
+            (NP
+            (NP=H (DT the) (NN=H co-activation))
+            (PP (IN=H of)
+            (NP (NN=H PKC)
+            (CC and)
+            (NN calcineurin)))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="931-1080" id="S6">
+        <text xml:space="preserve">Each second messenger is necessary, as inhibition of either one reverses the activation of the IKK complex and IkappaBalpha phosphorylation in vivo. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="931-935" text="Each" lemma="each"/>
+            <token xml:space="preserve" id="stt_2" POS="JJ" charOffset="936-942" text="second" lemma="second"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="943-952" text="messenger" lemma="messenger"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="953-955" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="956-965" text="necessary" lemma="necessary"/>
+            <token xml:space="preserve" id="stt_6" POS="," charOffset="965-966" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_7" POS="IN" charOffset="967-969" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="970-980" text="inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="981-983" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="984-990" text="either" lemma="either"/>
+            <token xml:space="preserve" id="stt_11" POS="CD" charOffset="991-994" text="one" lemma="one"/>
+            <token xml:space="preserve" id="stt_12" POS="VBZ" charOffset="995-1003" text="reverses" lemma="reverse"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="1004-1007" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1008-1018" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="1019-1021" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="1022-1025" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1026-1029" text="IKK" lemma="ikk"/>
+            <token xml:space="preserve" id="stt_18" POS="NN" charOffset="1030-1037" text="complex" lemma="complex"/>
+            <token xml:space="preserve" id="stt_19" POS="CC" charOffset="1038-1041" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1042-1054" text="IkappaBalpha" lemma="ikappabalpha"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1055-1070" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_22" POS="FW" charOffset="1071-1073" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_23" POS="FW" charOffset="1074-1078" text="vivo" lemma="vivo"/>
+            <token xml:space="preserve" id="stt_24" POS="." charOffset="1078-1079" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT Each) (JJ second) (NN=H messenger))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H necessary))
+            (, ,)
+            (SBAR (IN=H as)
+            (S
+            (NP
+            (NP=H (NN=H inhibition))
+            (PP (IN=H of)
+            (NP (DT either) (CD=H one))))
+            (VP=H (VBZ=H reverses)
+            (NP
+            (NP=H (DT the) (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN IKK) (NN complex)
+            (CC and)
+            (NN IkappaBalpha) (NN=H phosphorylation))
+            (PP (FW=H in)
+            (NP (FW=H vivo))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1080-1214" id="S7">
+        <text xml:space="preserve">Overexpression of dominant negative forms of IKKalpha and -beta demonstrates that only IKKbeta is the target for PKC and calcineurin. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="1080-1094" text="Overexpression" lemma="overexpression"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="1095-1097" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="1098-1106" text="dominant" lemma="dominant"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="1107-1115" text="negative" lemma="negative"/>
+            <token xml:space="preserve" id="stt_5" POS="NNS" charOffset="1116-1121" text="forms" lemma="form"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="1122-1124" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1125-1133" text="IKKalpha" lemma="ikkalpha"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="1134-1137" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_9" POS=":" charOffset="1138-1139" text="-" lemma="-"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1139-1143" text="beta" lemma="beta"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="1144-1156" text="demonstrates" lemma="demonstrate"/>
+            <token xml:space="preserve" id="stt_12" POS="IN" charOffset="1157-1161" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_13" POS="RB" charOffset="1162-1166" text="only" lemma="only"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1167-1174" text="IKKbeta" lemma="ikkbeta"/>
+            <token xml:space="preserve" id="stt_15" POS="VBZ" charOffset="1175-1177" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="1178-1181" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="1182-1188" text="target" lemma="target"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="1189-1192" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="1193-1196" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_20" POS="CC" charOffset="1197-1200" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="1201-1212" text="calcineurin" lemma="calcineurin"/>
+            <token xml:space="preserve" id="stt_22" POS="." charOffset="1212-1213" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN=H Overexpression))
+            (PP (IN=H of)
+            (NP
+            (NP=H (JJ dominant) (JJ negative) (NNS=H forms))
+            (PP (IN=H of)
+            (UCP
+            (NP (NN=H IKKalpha))
+            (CC and)
+            (PRN (: -)
+            (S=H
+            (NP (NN=H beta))
+            (VP=H (VBZ=H demonstrates)
+            (SBAR (IN=H that)
+            (S
+            (NP (RB only) (NN=H IKKbeta))
+            (VP=H (VBZ=H is)
+            (NP (DT the) (NN=H target))))))))
+            (PP=H (IN=H for)
+            (NP (NN=H PKC)
+            (CC and)
+            (NN calcineurin)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="1214-1408" id="S8">
+        <text xml:space="preserve">These results indicate that within the TCR/CD3 signal transduction pathway both PKC and calcineurin are required for the effective activation of the IKK complex and NF-kappaB in T lymphocytes. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="1214-1219" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="1220-1227" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="1228-1236" text="indicate" lemma="indicate"/>
+            <token xml:space="preserve" id="stt_4" POS="IN" charOffset="1237-1241" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="1242-1248" text="within" lemma="within"/>
+            <token xml:space="preserve" id="stt_6" POS="DT" charOffset="1249-1252" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="1253-1260" text="TCR/CD3" lemma="tcr/cd3"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="1261-1267" text="signal" lemma="signal"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="1268-1280" text="transduction" lemma="transduction"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="1281-1288" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="1289-1293" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="1294-1297" text="PKC" lemma="pkc"/>
+            <token xml:space="preserve" id="stt_13" POS="CC" charOffset="1298-1301" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="1302-1313" text="calcineurin" lemma="calcineurin"/>
+            <token xml:space="preserve" id="stt_15" POS="VBP" charOffset="1314-1317" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_16" POS="VBN" charOffset="1318-1326" text="required" lemma="require"/>
+            <token xml:space="preserve" id="stt_17" POS="IN" charOffset="1327-1330" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="1331-1334" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="1335-1344" text="effective" lemma="effective"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="1345-1355" text="activation" lemma="activation"/>
+            <token xml:space="preserve" id="stt_21" POS="IN" charOffset="1356-1358" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_22" POS="DT" charOffset="1359-1362" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_23" POS="NN" charOffset="1363-1366" text="IKK" lemma="ikk"/>
+            <token xml:space="preserve" id="stt_24" POS="NN" charOffset="1367-1374" text="complex" lemma="complex"/>
+            <token xml:space="preserve" id="stt_25" POS="CC" charOffset="1375-1378" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_26" POS="NN" charOffset="1379-1388" text="NF-kappaB" lemma="nf-kappab"/>
+            <token xml:space="preserve" id="stt_27" POS="IN" charOffset="1389-1391" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="1392-1393" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_29" POS="NNS" charOffset="1394-1405" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_30" POS="." charOffset="1405-1406" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H results))
+            (VP=H (VBP=H indicate)
+            (SBAR (IN=H that)
+            (S
+            (PP (IN=H within)
+            (NP (DT the) (NN TCR/CD3) (NN=H signal)))
+            (NP
+            (NP=H (NN transduction) (NN=H pathway))
+            (PP (CC=H both)
+            (NP (NN=H PKC)
+            (CC and)
+            (NN calcineurin))))
+            (VP=H (VBP=H are)
+            (VP (VBN=H required)
+            (PP (IN=H for)
+            (NP
+            (NP=H (DT the) (JJ effective) (NN=H activation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (DT the) (NN IKK) (NN=H complex)
+            (CC and)
+            (NN NF-kappaB))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H lymphocytes))))))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T8" type="IndefiniteNP" charOffset="147-180" headOffset="174-180" text="a ubiquitous transcription factor"/>
+    <Term xml:space="preserve" id="T9" type="RelativePronoun" charOffset="181-185" headOffset="181-185" text="that"/>
+    <Term xml:space="preserve" id="T10" type="ZeroArticleNP" charOffset="312-335" headOffset="312-322" text="activation of NF-kappaB"/>
+    <Term xml:space="preserve" id="T11" type="RelativePronoun" charOffset="337-342" headOffset="337-342" text="which"/>
+    <Relation id="R1" type="Anaphora">
+        <Anaphor idref="T9"/>
+        <Antecedent idref="T8"/>
+    </Relation>
+    <Relation id="R2" type="Anaphora">
+        <Anaphor idref="T11"/>
+        <Antecedent idref="T10"/>
+    </Relation>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="398-410" headOffset="398-410" text="IkappaBalpha"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="723-742" headOffset="736-742" text="IkappaBalpha kinase"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="744-752" headOffset="748-751" text="p90(rsk)"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="804-812" headOffset="808-811" text="p90(rsk)"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="864-876" headOffset="864-876" text="IkappaBalpha"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="1042-1054" headOffset="1042-1054" text="IkappaBalpha"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="1167-1174" headOffset="1167-1174" text="IKKbeta"/>
+</document>

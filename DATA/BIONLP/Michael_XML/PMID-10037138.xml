@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-10037138">
+    <text xml:space="preserve">Differential expression and phosphorylation of CTCF, a c-myc transcriptional regulator, during differentiation of human myeloid cells. 
+CTCF is a transcriptional repressor of the c-myc gene. Although CTCF has been characterized in some detail, there is very little information about the regulation of CTCF activity. Therefore we investigated CTCF expression and phosphorylation during induced differentiation of human myeloid leukemia cells. We found that: (i) both CTCF mRNA and protein are down-regulated during terminal differentiation in most cell lines tested; (ii) CTCF down-regulation is retarded and less pronounced than that of c-myc; (iii) CTCF protein is differentially phosphorylated and the phosphorylation profiles depend on the differentiation pathway. We concluded that CTCF expression and activity is controlled at transcriptional and post-transcriptional levels. 
+</text>
+    <sentence charOffset="0-136" id="S1">
+        <text xml:space="preserve">Differential expression and phosphorylation of CTCF, a c-myc transcriptional regulator, during differentiation of human myeloid cells. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="JJ" charOffset="0-12" text="Differential" lemma="differential"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="13-23" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="24-27" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="28-43" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="44-46" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="47-51" text="CTCF" lemma="ctcf"/>
+            <token xml:space="preserve" id="stt_7" POS="," charOffset="51-52" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="53-54" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="55-60" text="c-myc" lemma="c-myc"/>
+            <token xml:space="preserve" id="stt_10" POS="JJ" charOffset="61-76" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="77-86" text="regulator" lemma="regulator"/>
+            <token xml:space="preserve" id="stt_12" POS="," charOffset="86-87" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="88-94" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="95-110" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="111-113" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="114-119" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_17" POS="JJ" charOffset="120-127" text="myeloid" lemma="myeloid"/>
+            <token xml:space="preserve" id="stt_18" POS="NNS" charOffset="128-133" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_19" POS="." charOffset="133-134" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (JJ Differential) (NN=H expression)
+            (CC and)
+            (NN phosphorylation))
+            (PP (IN=H of)
+            (NP
+            (NP=H (NN=H CTCF))
+            (, ,)
+            (NP (DT a) (NN c-myc) (JJ transcriptional) (NN=H regulator))
+            (, ,)))
+            (PP (IN=H during)
+            (NP (NN=H differentiation)))
+            (PP (IN=H of)
+            (NP (JJ human) (JJ myeloid) (NNS=H cells)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="136-191" id="S2">
+        <text xml:space="preserve">CTCF is a transcriptional repressor of the c-myc gene. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="136-140" text="CTCF" lemma="ctcf"/>
+            <token xml:space="preserve" id="stt_2" POS="VBZ" charOffset="141-143" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_3" POS="DT" charOffset="144-145" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_4" POS="JJ" charOffset="146-161" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="162-171" text="repressor" lemma="repressor"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="172-174" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="175-178" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="179-184" text="c-myc" lemma="c-myc"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="185-189" text="gene" lemma="gene"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="189-190" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (NN=H CTCF))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H (DT a) (JJ transcriptional) (NN=H repressor))
+            (PP (IN=H of)
+            (NP (DT the) (NN c-myc) (NN=H gene)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="191-316" id="S3">
+        <text xml:space="preserve">Although CTCF has been characterized in some detail, there is very little information about the regulation of CTCF activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="IN" charOffset="191-199" text="Although" lemma="although"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="200-204" text="CTCF" lemma="ctcf"/>
+            <token xml:space="preserve" id="stt_3" POS="VBZ" charOffset="205-208" text="has" lemma="have"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="209-213" text="been" lemma="be"/>
+            <token xml:space="preserve" id="stt_5" POS="VBN" charOffset="214-227" text="characterized" lemma="characterize"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="228-230" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_7" POS="DT" charOffset="231-235" text="some" lemma="some"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="236-242" text="detail" lemma="detail"/>
+            <token xml:space="preserve" id="stt_9" POS="," charOffset="242-243" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_10" POS="EX" charOffset="244-249" text="there" lemma="there"/>
+            <token xml:space="preserve" id="stt_11" POS="VBZ" charOffset="250-252" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_12" POS="RB" charOffset="253-257" text="very" lemma="very"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="258-264" text="little" lemma="little"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="265-276" text="information" lemma="information"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="277-282" text="about" lemma="about"/>
+            <token xml:space="preserve" id="stt_16" POS="DT" charOffset="283-286" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="287-297" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="298-300" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_19" POS="NN" charOffset="301-305" text="CTCF" lemma="ctcf"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="306-314" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="314-315" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (SBAR (IN=H Although)
+            (S
+            (NP (NN=H CTCF))
+            (VP=H (VBZ=H has)
+            (VP (VBN=H been)
+            (VP (VBN=H characterized)
+            (PP (IN=H in)
+            (NP (DT some) (NN=H detail))))))))
+            (, ,)
+            (NP (EX=H there))
+            (VP=H (VBZ=H is)
+            (NP
+            (NP=H
+            (ADJP (RB very) (JJ=H little))
+            (NN=H information))
+            (PP (IN=H about)
+            (NP
+            (NP=H (DT the) (NN=H regulation))
+            (PP (IN=H of)
+            (NP (NN CTCF) (NN=H activity)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="316-442" id="S4">
+        <text xml:space="preserve">Therefore we investigated CTCF expression and phosphorylation during induced differentiation of human myeloid leukemia cells. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="316-325" text="Therefore" lemma="therefore"/>
+            <token xml:space="preserve" id="stt_2" POS="PRP" charOffset="326-328" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_3" POS="VBD" charOffset="329-341" text="investigated" lemma="investigate"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="342-346" text="CTCF" lemma="ctcf"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="347-357" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="358-361" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="362-377" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="378-384" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="385-392" text="induced" lemma="induce"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="393-408" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="409-411" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_12" POS="JJ" charOffset="412-417" text="human" lemma="human"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="418-425" text="myeloid" lemma="myeloid"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="426-434" text="leukemia" lemma="leukemia"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="435-440" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_16" POS="." charOffset="440-441" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Therefore))
+            (NP (PRP=H we))
+            (VP=H (VBD=H investigated)
+            (NP (NN CTCF) (NN=H expression)
+            (CC and)
+            (NN phosphorylation))
+            (PP (IN=H during)
+            (NP
+            (NP=H (VBN induced) (NN=H differentiation))
+            (PP (IN=H of)
+            (NP (JJ human) (JJ myeloid) (NN leukemia) (NNS=H cells))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="442-768" id="S5">
+        <text xml:space="preserve">We found that: (i) both CTCF mRNA and protein are down-regulated during terminal differentiation in most cell lines tested; (ii) CTCF down-regulation is retarded and less pronounced than that of c-myc; (iii) CTCF protein is differentially phosphorylated and the phosphorylation profiles depend on the differentiation pathway. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="442-444" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="445-450" text="found" lemma="find"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="451-455" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS=":" charOffset="455-456" text=":" lemma=":"/>
+            <token xml:space="preserve" id="stt_5" POS="-LRB-" charOffset="457-458" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_6" POS="LS" charOffset="458-459" text="i" lemma="i"/>
+            <token xml:space="preserve" id="stt_7" POS="-RRB-" charOffset="459-460" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_8" POS="CC" charOffset="461-465" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="466-470" text="CTCF" lemma="ctcf"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="471-475" text="mRNA" lemma="mrna"/>
+            <token xml:space="preserve" id="stt_11" POS="CC" charOffset="476-479" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="480-487" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_13" POS="VBP" charOffset="488-491" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="VBN" charOffset="492-506" text="down-regulated" lemma="down-regulate"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="507-513" text="during" lemma="during"/>
+            <token xml:space="preserve" id="stt_16" POS="JJ" charOffset="514-522" text="terminal" lemma="terminal"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="523-538" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="539-541" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_19" POS="JJS" charOffset="542-546" text="most" lemma="most"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="547-551" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_21" POS="NNS" charOffset="552-557" text="lines" lemma="line"/>
+            <token xml:space="preserve" id="stt_22" POS="VBN" charOffset="558-564" text="tested" lemma="test"/>
+            <token xml:space="preserve" id="stt_23" POS=":" charOffset="564-565" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_24" POS="-LRB-" charOffset="566-567" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_25" POS="LS" charOffset="567-569" text="ii" lemma="ii"/>
+            <token xml:space="preserve" id="stt_26" POS="-RRB-" charOffset="569-570" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_27" POS="NN" charOffset="571-575" text="CTCF" lemma="ctcf"/>
+            <token xml:space="preserve" id="stt_28" POS="NN" charOffset="576-591" text="down-regulation" lemma="down-regulation"/>
+            <token xml:space="preserve" id="stt_29" POS="VBZ" charOffset="592-594" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_30" POS="VBN" charOffset="595-603" text="retarded" lemma="retard"/>
+            <token xml:space="preserve" id="stt_31" POS="CC" charOffset="604-607" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_32" POS="RBR" charOffset="608-612" text="less" lemma="less"/>
+            <token xml:space="preserve" id="stt_33" POS="JJ" charOffset="613-623" text="pronounced" lemma="pronounced"/>
+            <token xml:space="preserve" id="stt_34" POS="IN" charOffset="624-628" text="than" lemma="than"/>
+            <token xml:space="preserve" id="stt_35" POS="DT" charOffset="629-633" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_36" POS="IN" charOffset="634-636" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_37" POS="NN" charOffset="637-642" text="c-myc" lemma="c-myc"/>
+            <token xml:space="preserve" id="stt_38" POS=":" charOffset="642-643" text=";" lemma=";"/>
+            <token xml:space="preserve" id="stt_39" POS="-LRB-" charOffset="644-645" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_40" POS="LS" charOffset="645-648" text="iii" lemma="iii"/>
+            <token xml:space="preserve" id="stt_41" POS="-RRB-" charOffset="648-649" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_42" POS="NN" charOffset="650-654" text="CTCF" lemma="ctcf"/>
+            <token xml:space="preserve" id="stt_43" POS="NN" charOffset="655-662" text="protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_44" POS="VBZ" charOffset="663-665" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_45" POS="RB" charOffset="666-680" text="differentially" lemma="differentially"/>
+            <token xml:space="preserve" id="stt_46" POS="VBN" charOffset="681-695" text="phosphorylated" lemma="phosphorylate"/>
+            <token xml:space="preserve" id="stt_47" POS="CC" charOffset="696-699" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_48" POS="DT" charOffset="700-703" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_49" POS="NN" charOffset="704-719" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_50" POS="NNS" charOffset="720-728" text="profiles" lemma="profile"/>
+            <token xml:space="preserve" id="stt_51" POS="VBP" charOffset="729-735" text="depend" lemma="depend"/>
+            <token xml:space="preserve" id="stt_52" POS="IN" charOffset="736-738" text="on" lemma="on"/>
+            <token xml:space="preserve" id="stt_53" POS="DT" charOffset="739-742" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_54" POS="NN" charOffset="743-758" text="differentiation" lemma="differentiation"/>
+            <token xml:space="preserve" id="stt_55" POS="NN" charOffset="759-766" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_56" POS="." charOffset="766-767" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H found)
+            (ADVP (IN=H that))))
+            (: :)
+            (S
+            (NP
+            (NP=H (-LRB- -LRB-) (LS=H i) (-RRB- -RRB-))
+            (PP (CC=H both)
+            (NP (NN CTCF) (NN=H mRNA)
+            (CC and)
+            (NN protein))))
+            (VP=H (VBP=H are)
+            (VP (VBN=H down-regulated)
+            (PP (IN=H during)
+            (NP (JJ terminal) (NN=H differentiation)))
+            (PP (IN=H in)
+            (NP
+            (NP=H (JJS most) (NN cell) (NNS=H lines))
+            (VP (VBN=H tested)))))))
+            (: ;)
+            (S
+            (LST (-LRB- -LRB-) (LS=H ii) (-RRB- -RRB-))
+            (NP (NN CTCF) (NN=H down-regulation))
+            (VP=H (VBZ=H is)
+            (ADJP
+            (ADJP=H (VBN=H retarded))
+            (CC and)
+            (ADJP (RBR less) (JJ=H pronounced)
+            (PP (IN=H than)
+            (NP
+            (NP=H (DT=H that))
+            (PP (IN=H of)
+            (NP (NN=H c-myc)))))))))
+            (: ;)
+            (S
+            (LST (-LRB- -LRB-) (LS=H iii) (-RRB- -RRB-))
+            (NP (NN CTCF) (NN=H protein))
+            (VP=H (VBZ=H is)
+            (ADJP (RB differentially) (VBN=H phosphorylated))))
+            (CC and)
+            (S
+            (NP (DT the) (NN phosphorylation) (NNS=H profiles))
+            (VP=H (VBP=H depend)
+            (PP (IN=H on)
+            (NP (DT the) (NN differentiation) (NN=H pathway)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="768-882" id="S6">
+        <text xml:space="preserve">We concluded that CTCF expression and activity is controlled at transcriptional and post-transcriptional levels. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="768-770" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBD" charOffset="771-780" text="concluded" lemma="conclude"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="781-785" text="that" lemma="that"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="786-790" text="CTCF" lemma="ctcf"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="791-801" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_6" POS="CC" charOffset="802-805" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="806-814" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_8" POS="VBZ" charOffset="815-817" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="818-828" text="controlled" lemma="control"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="829-831" text="at" lemma="at"/>
+            <token xml:space="preserve" id="stt_11" POS="JJ" charOffset="832-847" text="transcriptional" lemma="transcriptional"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="848-851" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="JJ" charOffset="852-872" text="post-transcriptional" lemma="post-transcriptional"/>
+            <token xml:space="preserve" id="stt_14" POS="NNS" charOffset="873-879" text="levels" lemma="level"/>
+            <token xml:space="preserve" id="stt_15" POS="." charOffset="879-880" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBD=H concluded)
+            (SBAR (IN=H that)
+            (S
+            (NP
+            (NP=H (NN CTCF) (NN=H expression))
+            (CC and)
+            (NP (NN=H activity)))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H controlled)
+            (PP (IN=H at)
+            (NP (JJ transcriptional)
+            (CC and)
+            (JJ post-transcriptional) (NNS=H levels))))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="47-51" headOffset="47-51" text="CTCF"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="55-60" headOffset="55-60" text="c-myc"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="136-140" headOffset="136-140" text="CTCF"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="179-184" headOffset="179-184" text="c-myc"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="200-204" headOffset="200-204" text="CTCF"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="301-305" headOffset="301-305" text="CTCF"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="342-346" headOffset="342-346" text="CTCF"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="466-470" headOffset="466-470" text="CTCF"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="571-575" headOffset="571-575" text="CTCF"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="637-642" headOffset="637-642" text="c-myc"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="650-654" headOffset="650-654" text="CTCF"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="786-790" headOffset="786-790" text="CTCF"/>
+</document>

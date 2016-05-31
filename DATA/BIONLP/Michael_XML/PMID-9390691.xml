@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document id="PMID-9390691">
+    <text xml:space="preserve">Phosphatidylinositol 3-kinase couples the interleukin-2 receptor to the cell cycle regulator E2F. 
+Cell cycle progression initiated by interleukin-2 (IL-2) in T cells is critical for lymphoproliferation and an immune response. Phosphatidyl inositol 3-kinase (PI3K) is activated by IL-2. However, nuclear targets for PI3K are not known. Here we identify the cell cycle regulator E2F as an IL-2 target in T lymphocytes and PI3K as the critical signaling pathway. We eliminate both Stat5 and Raf/MEK pathways from E2F regulation. Protein kinase B (PKB) is activated by IL-2 via PI3K. The expression of an active PKB is sufficient to induce E2F activity. Inhibition of PI3K inhibits phosphorylation of Rb, induction of cyclin D3, and degradation of p27kip1. These results establish a crucial PI3K/PKB-mediated link between the IL-2 teceptor and the cell cycle machinery. 
+</text>
+    <sentence charOffset="0-99" id="S1">
+        <text xml:space="preserve">Phosphatidylinositol 3-kinase couples the interleukin-2 receptor to the cell cycle regulator E2F. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="0-20" text="Phosphatidylinositol" lemma="phosphatidylinositol"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="21-29" text="3-kinase" lemma="3-kinase"/>
+            <token xml:space="preserve" id="stt_3" POS="NNS" charOffset="30-37" text="couples" lemma="couple"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="38-41" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="42-55" text="interleukin-2" lemma="interleukin-2"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="56-64" text="receptor" lemma="receptor"/>
+            <token xml:space="preserve" id="stt_7" POS="TO" charOffset="65-67" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_8" POS="DT" charOffset="68-71" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="72-76" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="77-82" text="cycle" lemma="cycle"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="83-92" text="regulator" lemma="regulator"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="93-96" text="E2F" lemma="e2f"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="96-97" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (NP=H
+            (NP=H (NN Phosphatidylinositol) (NN 3-kinase) (NNS=H couples))
+            (NP
+            (NP=H (DT the) (NN interleukin-2) (NN=H receptor))
+            (PP (TO=H to)
+            (NP (DT the) (NN cell) (NN cycle) (NN regulator) (NN=H E2F))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="99-227" id="S2">
+        <text xml:space="preserve">Cell cycle progression initiated by interleukin-2 (IL-2) in T cells is critical for lymphoproliferation and an immune response. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="99-103" text="Cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="104-109" text="cycle" lemma="cycle"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="110-121" text="progression" lemma="progression"/>
+            <token xml:space="preserve" id="stt_4" POS="VBN" charOffset="122-131" text="initiated" lemma="initiate"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="132-134" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="135-148" text="interleukin-2" lemma="interleukin-2"/>
+            <token xml:space="preserve" id="stt_7" POS="-LRB-" charOffset="149-150" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="150-154" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_9" POS="-RRB-" charOffset="154-155" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="156-158" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="159-160" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_12" POS="NNS" charOffset="161-166" text="cells" lemma="cell"/>
+            <token xml:space="preserve" id="stt_13" POS="VBZ" charOffset="167-169" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_14" POS="JJ" charOffset="170-178" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_15" POS="IN" charOffset="179-182" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="183-202" text="lymphoproliferation" lemma="lymphoproliferation"/>
+            <token xml:space="preserve" id="stt_17" POS="CC" charOffset="203-206" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_18" POS="DT" charOffset="207-209" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_19" POS="JJ" charOffset="210-216" text="immune" lemma="immune"/>
+            <token xml:space="preserve" id="stt_20" POS="NN" charOffset="217-225" text="response" lemma="response"/>
+            <token xml:space="preserve" id="stt_21" POS="." charOffset="225-226" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN Cell) (NN cycle) (NN=H progression))
+            (VP (VBN=H initiated)
+            (PP (IN=H by)
+            (NP
+            (NP=H
+            (NP=H (NN=H interleukin-2))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H IL-2))
+            (-RRB- -RRB-)))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H cells)))))))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H critical)
+            (PP (IN=H for)
+            (NP
+            (NP=H (NN=H lymphoproliferation))
+            (CC and)
+            (NP (DT an) (JJ immune) (NN=H response))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="227-287" id="S3">
+        <text xml:space="preserve">Phosphatidyl inositol 3-kinase (PI3K) is activated by IL-2. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="227-239" text="Phosphatidyl" lemma="phosphatidyl"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="240-248" text="inositol" lemma="inositol"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="249-257" text="3-kinase" lemma="3-kinase"/>
+            <token xml:space="preserve" id="stt_4" POS="-LRB-" charOffset="258-259" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="259-263" text="PI3K" lemma="pi3k"/>
+            <token xml:space="preserve" id="stt_6" POS="-RRB-" charOffset="263-264" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="265-267" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="268-277" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="278-280" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="281-285" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="285-286" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN Phosphatidyl) (NN inositol) (NN=H 3-kinase))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H PI3K))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H activated)
+            (PP (IN=H by)
+            (NP (NN=H IL-2)))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="287-336" id="S4">
+        <text xml:space="preserve">However, nuclear targets for PI3K are not known. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="287-294" text="However" lemma="however"/>
+            <token xml:space="preserve" id="stt_2" POS="," charOffset="294-295" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_3" POS="JJ" charOffset="296-303" text="nuclear" lemma="nuclear"/>
+            <token xml:space="preserve" id="stt_4" POS="NNS" charOffset="304-311" text="targets" lemma="target"/>
+            <token xml:space="preserve" id="stt_5" POS="IN" charOffset="312-315" text="for" lemma="for"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="316-320" text="PI3K" lemma="pi3k"/>
+            <token xml:space="preserve" id="stt_7" POS="VBP" charOffset="321-324" text="are" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="RB" charOffset="325-328" text="not" lemma="not"/>
+            <token xml:space="preserve" id="stt_9" POS="VBN" charOffset="329-334" text="known" lemma="know"/>
+            <token xml:space="preserve" id="stt_10" POS="." charOffset="334-335" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H However))
+            (, ,)
+            (NP
+            (NP=H (JJ nuclear) (NNS=H targets))
+            (PP (IN=H for)
+            (NP (NN=H PI3K))))
+            (VP=H (VBP=H are) (RB not)
+            (VP (VBN=H known)))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="336-461" id="S5">
+        <text xml:space="preserve">Here we identify the cell cycle regulator E2F as an IL-2 target in T lymphocytes and PI3K as the critical signaling pathway. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="RB" charOffset="336-340" text="Here" lemma="here"/>
+            <token xml:space="preserve" id="stt_2" POS="PRP" charOffset="341-343" text="we" lemma="we"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="344-352" text="identify" lemma="identify"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="353-356" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="357-361" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="362-367" text="cycle" lemma="cycle"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="368-377" text="regulator" lemma="regulator"/>
+            <token xml:space="preserve" id="stt_8" POS="NN" charOffset="378-381" text="E2F" lemma="e2f"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="382-384" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_10" POS="DT" charOffset="385-387" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="388-392" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="393-399" text="target" lemma="target"/>
+            <token xml:space="preserve" id="stt_13" POS="IN" charOffset="400-402" text="in" lemma="in"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="403-404" text="T" lemma="t"/>
+            <token xml:space="preserve" id="stt_15" POS="NNS" charOffset="405-416" text="lymphocytes" lemma="lymphocyte"/>
+            <token xml:space="preserve" id="stt_16" POS="CC" charOffset="417-420" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="421-425" text="PI3K" lemma="pi3k"/>
+            <token xml:space="preserve" id="stt_18" POS="IN" charOffset="426-428" text="as" lemma="as"/>
+            <token xml:space="preserve" id="stt_19" POS="DT" charOffset="429-432" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_20" POS="JJ" charOffset="433-441" text="critical" lemma="critical"/>
+            <token xml:space="preserve" id="stt_21" POS="NN" charOffset="442-451" text="signaling" lemma="signaling"/>
+            <token xml:space="preserve" id="stt_22" POS="NN" charOffset="452-459" text="pathway" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_23" POS="." charOffset="459-460" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (ADVP (RB=H Here))
+            (NP (PRP=H we))
+            (VP=H (VBP=H identify)
+            (NP (DT the) (NN cell) (NN cycle) (NN regulator) (NN=H E2F))
+            (PP (IN=H as)
+            (NP
+            (NP=H
+            (NP=H (DT an) (NN IL-2) (NN=H target))
+            (PP (IN=H in)
+            (NP (NN T) (NNS=H lymphocytes))))
+            (CC and)
+            (NP
+            (NP=H (NN=H PI3K))
+            (PP (IN=H as)
+            (NP (DT the) (JJ critical) (NN signaling) (NN=H pathway)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="461-527" id="S6">
+        <text xml:space="preserve">We eliminate both Stat5 and Raf/MEK pathways from E2F regulation. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="PRP" charOffset="461-463" text="We" lemma="we"/>
+            <token xml:space="preserve" id="stt_2" POS="VBP" charOffset="464-473" text="eliminate" lemma="eliminate"/>
+            <token xml:space="preserve" id="stt_3" POS="CC" charOffset="474-478" text="both" lemma="both"/>
+            <token xml:space="preserve" id="stt_4" POS="NN" charOffset="479-484" text="Stat5" lemma="stat5"/>
+            <token xml:space="preserve" id="stt_5" POS="CC" charOffset="485-488" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="489-496" text="Raf/MEK" lemma="raf/mek"/>
+            <token xml:space="preserve" id="stt_7" POS="NNS" charOffset="497-505" text="pathways" lemma="pathway"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="506-510" text="from" lemma="from"/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="511-514" text="E2F" lemma="e2f"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="515-525" text="regulation" lemma="regulation"/>
+            <token xml:space="preserve" id="stt_11" POS="." charOffset="525-526" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (PRP=H We))
+            (VP=H (VBP=H eliminate)
+            (PP (CC=H both)
+            (NP (NN Stat5)
+            (CC and)
+            (NN Raf/MEK) (NNS=H pathways)))
+            (PP (IN=H from)
+            (NP (NN E2F) (NN=H regulation))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="527-581" id="S7">
+        <text xml:space="preserve">Protein kinase B (PKB) is activated by IL-2 via PI3K. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="527-534" text="Protein" lemma="protein"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="535-541" text="kinase" lemma="kinase"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="542-543" text="B" lemma="b"/>
+            <token xml:space="preserve" id="stt_4" POS="-LRB-" charOffset="544-545" text="(" lemma="("/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="545-548" text="PKB" lemma="pkb"/>
+            <token xml:space="preserve" id="stt_6" POS="-RRB-" charOffset="548-549" text=")" lemma=")"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="550-552" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="VBN" charOffset="553-562" text="activated" lemma="activate"/>
+            <token xml:space="preserve" id="stt_9" POS="IN" charOffset="563-565" text="by" lemma="by"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="566-570" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_11" POS="IN" charOffset="571-574" text="via" lemma="via"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="575-579" text="PI3K" lemma="pi3k"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="579-580" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN Protein) (NN kinase) (NN=H B))
+            (PRN (-LRB- -LRB-)
+            (NP=H (NN=H PKB))
+            (-RRB- -RRB-)))
+            (VP=H (VBZ=H is)
+            (VP (VBN=H activated)
+            (PP (IN=H by)
+            (NP
+            (NP=H (NN=H IL-2))
+            (PP (IN=H via)
+            (NP (NN=H PI3K)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="581-651" id="S8">
+        <text xml:space="preserve">The expression of an active PKB is sufficient to induce E2F activity. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="581-584" text="The" lemma="the"/>
+            <token xml:space="preserve" id="stt_2" POS="NN" charOffset="585-595" text="expression" lemma="expression"/>
+            <token xml:space="preserve" id="stt_3" POS="IN" charOffset="596-598" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="599-601" text="an" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="602-608" text="active" lemma="active"/>
+            <token xml:space="preserve" id="stt_6" POS="NN" charOffset="609-612" text="PKB" lemma="pkb"/>
+            <token xml:space="preserve" id="stt_7" POS="VBZ" charOffset="613-615" text="is" lemma="be"/>
+            <token xml:space="preserve" id="stt_8" POS="JJ" charOffset="616-626" text="sufficient" lemma="sufficient"/>
+            <token xml:space="preserve" id="stt_9" POS="TO" charOffset="627-629" text="to" lemma="to"/>
+            <token xml:space="preserve" id="stt_10" POS="VB" charOffset="630-636" text="induce" lemma="induce"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="637-640" text="E2F" lemma="e2f"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="641-649" text="activity" lemma="activity"/>
+            <token xml:space="preserve" id="stt_13" POS="." charOffset="649-650" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (DT The) (NN=H expression))
+            (PP (IN=H of)
+            (NP (DT an) (JJ active) (NN=H PKB))))
+            (VP=H (VBZ=H is)
+            (ADJP (JJ=H sufficient)
+            (S
+            (VP=H (TO=H to)
+            (VP (VB=H induce)
+            (NP (NN E2F) (NN=H activity)))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="651-754" id="S9">
+        <text xml:space="preserve">Inhibition of PI3K inhibits phosphorylation of Rb, induction of cyclin D3, and degradation of p27kip1. </text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="NN" charOffset="651-661" text="Inhibition" lemma="inhibition"/>
+            <token xml:space="preserve" id="stt_2" POS="IN" charOffset="662-664" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_3" POS="NN" charOffset="665-669" text="PI3K" lemma="pi3k"/>
+            <token xml:space="preserve" id="stt_4" POS="VBZ" charOffset="670-678" text="inhibits" lemma="inhibit"/>
+            <token xml:space="preserve" id="stt_5" POS="NN" charOffset="679-694" text="phosphorylation" lemma="phosphorylation"/>
+            <token xml:space="preserve" id="stt_6" POS="IN" charOffset="695-697" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="698-700" text="Rb" lemma="rb"/>
+            <token xml:space="preserve" id="stt_8" POS="," charOffset="700-701" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_9" POS="NN" charOffset="702-711" text="induction" lemma="induction"/>
+            <token xml:space="preserve" id="stt_10" POS="IN" charOffset="712-714" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="715-721" text="cyclin" lemma="cyclin"/>
+            <token xml:space="preserve" id="stt_12" POS="NN" charOffset="722-724" text="D3" lemma="d3"/>
+            <token xml:space="preserve" id="stt_13" POS="," charOffset="724-725" text="," lemma=","/>
+            <token xml:space="preserve" id="stt_14" POS="CC" charOffset="726-729" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="730-741" text="degradation" lemma="degradation"/>
+            <token xml:space="preserve" id="stt_16" POS="IN" charOffset="742-744" text="of" lemma="of"/>
+            <token xml:space="preserve" id="stt_17" POS="NN" charOffset="745-752" text="p27kip1" lemma="p27kip1"/>
+            <token xml:space="preserve" id="stt_18" POS="." charOffset="752-753" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP
+            (NP=H (NN=H Inhibition))
+            (PP (IN=H of)
+            (NP (NN=H PI3K))))
+            (VP=H (VBZ=H inhibits)
+            (NP
+            (NP=H
+            (NP=H (NN=H phosphorylation))
+            (PP (IN=H of)
+            (NP (NN=H Rb))))
+            (, ,)
+            (NP
+            (NP=H (NN=H induction))
+            (PP (IN=H of)
+            (NP (NN cyclin) (NN=H D3))))
+            (, ,)
+            (CC and)
+            (NP
+            (NP=H (NN=H degradation))
+            (PP (IN=H of)
+            (NP (NN=H p27kip1))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <sentence charOffset="754-868" id="S10">
+        <text xml:space="preserve">These results establish a crucial PI3K/PKB-mediated link between the IL-2 teceptor and the cell cycle machinery. 
+</text>
+        <tokens>
+            <token xml:space="preserve" id="stt_1" POS="DT" charOffset="754-759" text="These" lemma="these"/>
+            <token xml:space="preserve" id="stt_2" POS="NNS" charOffset="760-767" text="results" lemma="result"/>
+            <token xml:space="preserve" id="stt_3" POS="VBP" charOffset="768-777" text="establish" lemma="establish"/>
+            <token xml:space="preserve" id="stt_4" POS="DT" charOffset="778-779" text="a" lemma="a"/>
+            <token xml:space="preserve" id="stt_5" POS="JJ" charOffset="780-787" text="crucial" lemma="crucial"/>
+            <token xml:space="preserve" id="stt_6" POS="JJ" charOffset="788-805" text="PI3K/PKB-mediated" lemma="pi3k/pkb-mediated"/>
+            <token xml:space="preserve" id="stt_7" POS="NN" charOffset="806-810" text="link" lemma="link"/>
+            <token xml:space="preserve" id="stt_8" POS="IN" charOffset="811-818" text="between" lemma="between"/>
+            <token xml:space="preserve" id="stt_9" POS="DT" charOffset="819-822" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_10" POS="NN" charOffset="823-827" text="IL-2" lemma="il-2"/>
+            <token xml:space="preserve" id="stt_11" POS="NN" charOffset="828-836" text="teceptor" lemma="teceptor"/>
+            <token xml:space="preserve" id="stt_12" POS="CC" charOffset="837-840" text="and" lemma="and"/>
+            <token xml:space="preserve" id="stt_13" POS="DT" charOffset="841-844" text="the" lemma="the"/>
+            <token xml:space="preserve" id="stt_14" POS="NN" charOffset="845-849" text="cell" lemma="cell"/>
+            <token xml:space="preserve" id="stt_15" POS="NN" charOffset="850-855" text="cycle" lemma="cycle"/>
+            <token xml:space="preserve" id="stt_16" POS="NN" charOffset="856-865" text="machinery" lemma="machinery"/>
+            <token xml:space="preserve" id="stt_17" POS="." charOffset="865-866" text="." lemma="."/>
+        </tokens>
+        <dependencies/>
+        <tree>(ROOT
+            (S=H
+            (NP (DT These) (NNS=H results))
+            (VP=H (VBP=H establish)
+            (NP
+            (NP=H (DT a)
+            (ADJP (JJ crucial) (JJ=H PI3K/PKB-mediated))
+            (NN=H link))
+            (PP (IN=H between)
+            (NP
+            (NP=H (DT the) (NN IL-2) (NN=H teceptor))
+            (CC and)
+            (NP (DT the) (NN cell) (NN cycle) (NN=H machinery))))))
+            (. .)))
+            
+            </tree>
+    </sentence>
+    <Term xml:space="preserve" id="T1" type="Protein" charOffset="42-55" headOffset="42-55" text="interleukin-2"/>
+    <Term xml:space="preserve" id="T2" type="Protein" charOffset="135-148" headOffset="135-148" text="interleukin-2"/>
+    <Term xml:space="preserve" id="T3" type="Protein" charOffset="150-154" headOffset="150-154" text="IL-2"/>
+    <Term xml:space="preserve" id="T4" type="Protein" charOffset="281-285" headOffset="281-285" text="IL-2"/>
+    <Term xml:space="preserve" id="T5" type="Protein" charOffset="388-392" headOffset="388-392" text="IL-2"/>
+    <Term xml:space="preserve" id="T6" type="Protein" charOffset="479-484" headOffset="479-484" text="Stat5"/>
+    <Term xml:space="preserve" id="T7" type="Protein" charOffset="527-543" headOffset="542-543" text="Protein kinase B"/>
+    <Term xml:space="preserve" id="T8" type="Protein" charOffset="545-548" headOffset="545-548" text="PKB"/>
+    <Term xml:space="preserve" id="T9" type="Protein" charOffset="566-570" headOffset="566-570" text="IL-2"/>
+    <Term xml:space="preserve" id="T10" type="Protein" charOffset="609-612" headOffset="609-612" text="PKB"/>
+    <Term xml:space="preserve" id="T11" type="Protein" charOffset="698-700" headOffset="698-700" text="Rb"/>
+    <Term xml:space="preserve" id="T12" type="Protein" charOffset="745-752" headOffset="745-752" text="p27kip1"/>
+    <Term xml:space="preserve" id="T13" type="Protein" charOffset="793-796" headOffset="793-796" text="PKB"/>
+    <Term xml:space="preserve" id="T14" type="Protein" charOffset="823-827" headOffset="823-827" text="IL-2"/>
+</document>
