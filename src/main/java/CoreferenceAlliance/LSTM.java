@@ -1,6 +1,11 @@
 package CoreferenceAlliance;
 
-
+import gov.nih.nlm.ling.io.XMLEntityReader;
+import gov.nih.nlm.ling.io.XMLImplicitRelationReader;
+import gov.nih.nlm.ling.io.XMLReader;
+import gov.nih.nlm.ling.sem.Entity;
+import gov.nih.nlm.ling.sem.ImplicitRelation;
+import gov.nih.nlm.ling.sem.SemanticItem;
 import org.deeplearning4j.nn.api.OptimizationAlgorithm;
 import org.deeplearning4j.nn.conf.BackpropType;
 import org.deeplearning4j.nn.conf.MultiLayerConfiguration;
@@ -19,156 +24,188 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashMap;
+import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
 
+public class LSTM {
 
-public class LSTM
-{
-   private MultiLayerNetwork net;
+    private MultiLayerNetwork net;
 
-   private int is_candidate_anaphor_index = 0;
-   private int is_candidate_antecedent_index = 1;
-   private int anaphor_match_index = 2;
-   private int antecedent_match_index = 3;
+    private int is_candidate_anaphor_index = 0;
+    private int is_candidate_antecedent_index = 1;
+    private int anaphor_match_index = 2;
+    private int antecedent_match_index = 3;
 
-   private int pos_index_offset = 4;
-   private String[] pos_indices = {"stuff"};
+    private int pos_index_offset = 4;
+    private String[] pos_indices = {"stuff"};
 
+    private int input_size = pos_index_offset + pos_indices.length;
+    private int first_layer_size = 100;
+    private int second_layer_size = 100;
+    private int output_size = 2;
 
-   private int input_size = pos_index_offset + pos_indices.length;
-   private int first_layer_size = 100;
-   private int second_layer_size = 100;
-   private int output_size = 2;
+    public void CreateNewNet() {
+        MultiLayerConfiguration conf = new NeuralNetConfiguration.Builder()
+                .optimizationAlgo(OptimizationAlgorithm.STOCHASTIC_GRADIENT_DESCENT)
+                .learningRate(0.1)
+                .rmsDecay(0.95)
+                .seed(259742343)
+                .regularization(true)
+                .l2(0.001)
+                .weightInit(WeightInit.XAVIER)
+                .updater(Updater.RMSPROP)
+                .list(3)
+                .layer(0, new GravesLSTM.Builder()
+                        .nIn(input_size)
+                        .nOut(first_layer_size)
+                        .activation("tanh")
+                        .build())
+                .layer(1, new GravesLSTM.Builder()
+                        .nIn(first_layer_size)
+                        .nOut(second_layer_size)
+                        .activation("tanh")
+                        .build())
+                .layer(2, new RnnOutputLayer.Builder()
+                        .nIn(second_layer_size)
+                        .nOut(output_size)
+                        .activation("softmax")
+                        .build())
+                .backpropType(BackpropType.Standard)
+                .pretrain(false)
+                .backprop(true)
+                .build();
 
-   public void CreateNewNet()
-   {
-      MultiLayerConfiguration conf = new NeuralNetConfiguration.Builder()
-            .optimizationAlgo( OptimizationAlgorithm.STOCHASTIC_GRADIENT_DESCENT )
-            .learningRate( 0.1 )
-            .rmsDecay( 0.95 )
-            .seed( 259742343 )
-            .regularization( true )
-            .l2( 0.001 )
-            .weightInit( WeightInit.XAVIER )
-            .updater( Updater.RMSPROP )
-            .list( 3 )
-            .layer( 0, new GravesLSTM.Builder()
-                  .nIn( input_size )
-                  .nOut( first_layer_size )
-                  .activation( "tanh" )
-                  .build() )
-            .layer( 1, new GravesLSTM.Builder()
-                  .nIn( first_layer_size )
-                  .nOut( second_layer_size )
-                  .activation( "tanh" )
-                  .build() )
-            .layer( 2, new RnnOutputLayer.Builder()
-                  .nIn( second_layer_size )
-                  .nOut( output_size )
-                  .activation( "softmax" )
-                  .build() )
-            .backpropType( BackpropType.Standard )
-            .pretrain( false )
-            .backprop( true )
-            .build();
+        net = new MultiLayerNetwork(conf);
+        net.init();
+    }
 
-      net = new MultiLayerNetwork( conf );
-      net.init();
-   }
+    public void TrainFromXMLDir(String XML_Dir) {
+//      List< AnnotatedDocument > docs = new ArrayList<>();
+//
+//      // Number of times to run the net
+//      int total_inputs = 0;
+//
+//      // Largest input sequence
+//      int max_input_length = 0;
+//
+//      for( File xml : new File( XML_Dir ).listFiles() )
+//      {
+        File xml = new File(XML_Dir);
+        AnnotatedDocument doc = new AnnotatedDocument(xml);
+//         docs.add( doc );
+//         total_inputs += Math.pow( doc.mention_indices.size(), 2 ) - doc.mention_indices.size();
+//         max_input_length = Math.max( max_input_length, doc.lemmatized_tokens.size() + 1 );
+//      }
+//
+//
+//      INDArray features = Nd4j.zeros( total_inputs, input_size, max_input_length + 1 );
+//      INDArray labels = Nd4j.zeros( total_inputs, output_size, max_input_length + 1 );
+//      INDArray features_mask = Nd4j.zeros( total_inputs, max_input_length + 1 );
+//      INDArray labels_mask = Nd4j.zeros( total_inputs, max_input_length + 1 );
+//
+//      int input_index = 0;
+//      for( AnnotatedDocument doc : docs )
+//      {
+//         INDArray pos_sequence = Nd4j.zeros( pos_indices.length, max_input_length );
+//         for( int i = 0; i < doc.pos_tags.size(); i++ )
+//         {
+//            int pos_index;
+//            for( pos_index = 0; pos_index < pos_indices.length; pos_index++ )
+//            {
+//               if( pos_indices[pos_index].equals( doc.pos_tags.get( i ) ) )
+//                  break;
+//            }
+//         }
+//
+//         for( int i = 0; i < doc.mention_indices.size(); i++ )
+//         {
+//            for( int j = 0; j < doc.mention_indices.size(); j++ )
+//            {
+//               if( i == j )
+//                  continue;
+//
+//               INDArray mention;
+//            }
+//         }
+//      }
+    }
 
-   public void TrainFromXMLDir( String XML_Dir )
-   {
-      List< AnnotatedDocument > docs = new ArrayList<>();
+    private class AnnotatedDocument {
+        // This is horrible but quick and hopefully easyish to do
 
-      // Number of times to run the net
-      int total_inputs = 0;
+        // Grab all lemmatized tokens in the doc and stick them in here
+        // The indices into this list will serve as identifiers for everything else
+        public List< String> lemmatized_tokens;
 
-      // Largest input sequence
-      int max_input_length = 0;
+        // The unique thing in the XML is the character offsets (can just take them directly as strings rather than parse them, I think)
+        // This converts between those offsets and the indices
+        public Map< String, Integer> offsets_to_indices;
 
-      for( File xml : new File( XML_Dir ).listFiles() )
-      {
-         AnnotatedDocument doc = new AnnotatedDocument( xml );
-         docs.add( doc );
-         total_inputs += Math.pow( doc.mention_indices.size(), 2 ) - doc.mention_indices.size();
-         max_input_length = Math.max( max_input_length, doc.lemmatized_tokens.size() + 1 );
-      }
+        // The indices here are shared with lemmatized_tokens
+        // IE pos_tags.get(1) is the tag for lemmatized_tokens.get(1)
+        // Same for the mentions (Terms or TX's at the end of the file)
+        public List< String> pos_tags;
+        public List< Integer> mention_indices;
 
+        // The indices between these two lists are linked
+        // IE anaphor_indices.get(1) and antecedent_indices.get(1) form a cofreference (or Relation in the XML)
+        // Again, the stored index refers back into lemmatized_tokens
+        public List< Integer> anaphor_indices;
+        public List< Integer> antecedent_indices;
 
-      INDArray features = Nd4j.zeros( total_inputs, input_size, max_input_length + 1 );
-      INDArray labels = Nd4j.zeros( total_inputs, output_size, max_input_length + 1 );
-      INDArray features_mask = Nd4j.zeros( total_inputs, max_input_length + 1 );
-      INDArray labels_mask = Nd4j.zeros( total_inputs, max_input_length + 1 );
+        public AnnotatedDocument(File xml) {
+            try {
+                Map<Class<? extends SemanticItem>, List<String>> annotationTypes = new HashMap<>();
+                annotationTypes.put(Entity.class, Arrays.asList("Drug", "Drug_Class", "Substance", "SPAN",
+                        "DefiniteNP", "IndefiniteNP", "ZeroArticleNP", "DemonstrativeNP", "DistributiveNP",
+                        "PersonalPronoun", "PossessivePronoun", "DemonstrativePronoun", "DistributivePronoun",
+                        "ReciprocalPronoun", "RelativePronoun", "IndefinitePronoun"));
+                annotationTypes.put(ImplicitRelation.class, Arrays.asList("Anaphora", "Cataphora", "PredicateNominative", "Appositive"));
+                XMLReader reader = new XMLReader();
+                reader.addAnnotationReader(ImplicitRelation.class, new XMLImplicitRelationReader());
+                reader.addAnnotationReader(Entity.class, new XMLEntityReader());
+                gov.nih.nlm.ling.core.Document doc = reader.load(xml.getAbsolutePath(), null, null, true, null, annotationTypes, null);
+                for (Class<? extends SemanticItem> s : doc.getSemanticItems().keySet()) {
+                    System.out.println("Annotation type: " + s.getCanonicalName() + "|" + doc.getSemanticItems().get(s).size());
+                    if (s.getCanonicalName().equals("gov.nih.nlm.ling.sem.Entity")) {
+                        //These are the terms
+                        //holds information on POS and location in doc
+                        for (SemanticItem si : doc.getSemanticItems().get(s)) {
+                            System.out.println("Annotation: " + si.toString());
+                            String[] termElements = si.toString().split("_");
+//                            System.out.println("POS: " + termElements[1]);
+                            pos_tags.add(termElements[1]);
+//                            lemmatized_tokens.add(termElements[3]);
+                        }
+                    }
+                    if (s.getCanonicalName().equals("gov.nih.nlm.ling.sem.ImplicitRelation")) {
+                        //These are the terms
+                        //holds information on POS and location in doc
+                        for (SemanticItem si : doc.getSemanticItems().get(s)) {
+                            System.out.println("Annotation: " + si.toString());
+                            String[] relationElements = si.toString().split("_");
+                            System.out.println("Relation Term: " + relationElements[5]);
+                            
+//                            pos_tags.add(termElements[1]);
+//                            lemmatized_tokens.add(termElements[3]);
+                        }
+                    }
+                }
+//                LinkedHashSet<SemanticItem> semanticItems = doc.getAllSemanticItems();
+//                
+//                for(SemanticItem semanticItem : semanticItems){
+//                    Map<String, Object> features = semanticItem.getFeatures();
+//                    
+//                }
 
-      int input_index = 0;
-      for( AnnotatedDocument doc : docs )
-      {
-         INDArray pos_sequence = Nd4j.zeros( pos_indices.length, max_input_length );
-         for( int i = 0; i < doc.pos_tags.size(); i++ )
-         {
-            int pos_index;
-            for( pos_index = 0; pos_index < pos_indices.length; pos_index++ )
-            {
-               if( pos_indices[pos_index].equals( doc.pos_tags.get( i ) ) )
-                  break;
+            } catch (Exception e) {
+                e.printStackTrace();
             }
-         }
 
-         for( int i = 0; i < doc.mention_indices.size(); i++ )
-         {
-            for( int j = 0; j < doc.mention_indices.size(); j++ )
-            {
-               if( i == j )
-                  continue;
-
-               INDArray mention
-            }
-         }
-      }
-   }
-
-   private class AnnotatedDocument
-   {
-      // This is horrible but quick and hopefully easyish to do
-
-      // Grab all lemmatized tokens in the doc and stick them in here
-      // The indices into this list will serve as identifiers for everything else
-      public List< String > lemmatized_tokens;
-
-      // The unique thing in the XML is the character offsets (can just take them directly as strings rather than parse them, I think)
-      // This converts between those offsets and the indices
-      public Map< String, Integer > offsets_to_indices;
-
-      // The indices here are shared with lemmatized_tokens
-      // IE pos_tags.get(1) is the tag for lemmatized_tokens.get(1)
-      // Same for the mentions (Terms or TX's at the end of the file)
-      public List< String > pos_tags;
-      public List< Integer > mention_indices;
-
-      // The indices between these two lists are linked
-      // IE anaphor_indices.get(1) and antecedent_indices.get(1) form a cofreference (or Relation in the XML)
-      // Again, the stored index refers back into lemmatized_tokens
-      public List< Integer > anaphor_indices;
-      public List< Integer > antecedent_indices;
-
-      public AnnotatedDocument( File xml )
-      {
-         try
-         {
-            Document doc = DocumentBuilderFactory.newInstance().newDocumentBuilder().parse( xml );
-
-            int current_index = 0;
-
-
-         }
-         catch( Exception e )
-         {
-            e.printStackTrace();
-         }
-
-      }
-   }
+        }
+    }
 
 //   private class XMLAnnotationDirectoryIterator implements DataSetIterator
 //   {
