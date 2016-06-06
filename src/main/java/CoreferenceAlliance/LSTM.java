@@ -9,6 +9,11 @@ import gov.nih.nlm.ling.io.XMLReader;
 import gov.nih.nlm.ling.sem.Entity;
 import gov.nih.nlm.ling.sem.ImplicitRelation;
 import gov.nih.nlm.ling.sem.SemanticItem;
+import org.deeplearning4j.earlystopping.EarlyStoppingConfiguration;
+import org.deeplearning4j.earlystopping.scorecalc.DataSetLossCalculator;
+import org.deeplearning4j.earlystopping.termination.MaxEpochsTerminationCondition;
+import org.deeplearning4j.earlystopping.termination.MaxScoreIterationTerminationCondition;
+import org.deeplearning4j.earlystopping.trainer.EarlyStoppingTrainer;
 import org.deeplearning4j.nn.api.OptimizationAlgorithm;
 import org.deeplearning4j.nn.conf.BackpropType;
 import org.deeplearning4j.nn.conf.MultiLayerConfiguration;
@@ -24,6 +29,7 @@ import org.nd4j.linalg.dataset.DataSet;
 import org.nd4j.linalg.factory.Nd4j;
 import org.nd4j.linalg.indexing.INDArrayIndex;
 import org.nd4j.linalg.indexing.NDArrayIndex;
+import org.nd4j.linalg.lossfunctions.LossFunctions;
 import org.nd4j.linalg.util.SerializationUtils;
 
 import java.io.File;
@@ -33,6 +39,7 @@ import java.util.Random;
 
 public class LSTM
 {
+   private MultiLayerConfiguration conf;
    private MultiLayerNetwork net;
 
    private int do_output_index = 0;
@@ -48,7 +55,7 @@ public class LSTM
 
    private int input_size = pos_index_offset + pos.values().length;
    private int first_layer_size = 100;
-   private int second_layer_size = 100;
+   private int second_layer_size = 100        ;
    private int output_size = 2;
 
    private int output_yes_index = 0;
@@ -59,8 +66,9 @@ public class LSTM
 
    public void CreateNewNet()
    {
-      MultiLayerConfiguration conf = new NeuralNetConfiguration.Builder()
+      conf = new NeuralNetConfiguration.Builder()
             .optimizationAlgo( OptimizationAlgorithm.STOCHASTIC_GRADIENT_DESCENT )
+            .iterations( 1 )
             .learningRate( 0.1 )
             .rmsDecay( 0.95 )
             .seed( 259742343 )
@@ -82,6 +90,7 @@ public class LSTM
             .layer( 2, new RnnOutputLayer.Builder()
                   .nIn( second_layer_size )
                   .nOut( output_size )
+                  .lossFunction( LossFunctions.LossFunction.MCXENT )
                   .activation( "softmax" )
                   .build() )
             .backpropType( BackpropType.Standard )
@@ -93,7 +102,22 @@ public class LSTM
       net.init();
    }
 
-   public void TrainFromXMLDir( String XML_Dir )
+   private Document XMLToDoc( File xml )
+   {
+      Map< Class< ? extends SemanticItem >, List< String > > annotationTypes = new HashMap<>();
+      annotationTypes.put( Entity.class, Arrays.asList( "Drug", "Drug_Class", "Substance", "SPAN",
+            "DefiniteNP", "IndefiniteNP", "ZeroArticleNP", "DemonstrativeNP", "DistributiveNP",
+            "PersonalPronoun", "PossessivePronoun", "DemonstrativePronoun", "DistributivePronoun",
+            "ReciprocalPronoun", "RelativePronoun", "IndefinitePronoun" ) );
+      annotationTypes.put( ImplicitRelation.class, Arrays.asList( "Anaphora", "Cataphora", "PredicateNominative", "Appositive" ) );
+      XMLReader reader = new XMLReader();
+      reader.addAnnotationReader( ImplicitRelation.class, new XMLImplicitRelationReader() );
+      reader.addAnnotationReader( Entity.class, new XMLEntityReader() );
+      Document doc = reader.load( xml.getAbsolutePath(), null, null, true, null, annotationTypes, null );
+      return doc;
+   }
+
+   private DataSet XMLDirToDatSet( String XML_Dir )
    {
       List< Document > docs = new ArrayList<>();
 
@@ -102,16 +126,7 @@ public class LSTM
 
       for( File xml : new File( XML_Dir ).listFiles() )
       {
-         Map< Class< ? extends SemanticItem >, List< String > > annotationTypes = new HashMap<>();
-         annotationTypes.put( Entity.class, Arrays.asList( "Drug", "Drug_Class", "Substance", "SPAN",
-               "DefiniteNP", "IndefiniteNP", "ZeroArticleNP", "DemonstrativeNP", "DistributiveNP",
-               "PersonalPronoun", "PossessivePronoun", "DemonstrativePronoun", "DistributivePronoun",
-               "ReciprocalPronoun", "RelativePronoun", "IndefinitePronoun" ) );
-         annotationTypes.put( ImplicitRelation.class, Arrays.asList( "Anaphora", "Cataphora", "PredicateNominative", "Appositive" ) );
-         XMLReader reader = new XMLReader();
-         reader.addAnnotationReader( ImplicitRelation.class, new XMLImplicitRelationReader() );
-         reader.addAnnotationReader( Entity.class, new XMLEntityReader() );
-         Document doc = reader.load( xml.getAbsolutePath(), null, null, true, null, annotationTypes, null );
+         Document doc = XMLToDoc( xml );
 
          docs.add( doc );
          input_length = Math.max( input_length, doc.getAllSurfaceElements().size() );
@@ -265,7 +280,7 @@ public class LSTM
             }
             while(
                   used_relations.containsKey( bad_antecedent ) &&
-                  used_relations.get( bad_antecedent ).contains( bad_anaphor ) );
+                        used_relations.get( bad_antecedent ).contains( bad_anaphor ) );
 
             used_relations.putIfAbsent( bad_antecedent, new HashSet<>() );
             used_relations.get( bad_antecedent ).add( bad_anaphor );
@@ -274,6 +289,10 @@ public class LSTM
             features.put( new INDArrayIndex[] {
                   NDArrayIndex.point( current_input ),
                   NDArrayIndex.point( do_output_index ),
+                  NDArrayIndex.point( words.size() ) }, 1.0 );
+
+            features_mask.put( new INDArrayIndex[] {
+                  NDArrayIndex.point( current_input ),
                   NDArrayIndex.point( words.size() ) }, 1.0 );
 
             for( int word_num = 0; word_num < words.size(); word_num++ )
@@ -349,14 +368,147 @@ public class LSTM
 
 
       DataSet ds = new DataSet( features, labels, features_mask, labels_mask );
+      return ds;
+   }
+
+
+   public void Load( String file )
+   {
+      File f = new File( file );
+      net = SerializationUtils.readObject( f );
+   }
+
+
+   private int getNextRelationID( Document doc )
+   {
+      LinkedHashSet< SemanticItem > sis = doc.getAllSemanticItems();
+      int r_id = 0;
+      for( SemanticItem si : sis )
+      {
+         if( si.getId().charAt( 0 ) == 'R' )
+         {
+            r_id = Integer.parseInt( si.getId().substring( 1 ) );
+         }
+      }
+      r_id++;
+      return r_id;
+   }
+
+
+   public void Run( String XML_Input_Dir )//, String XML_Output_Dir )
+   {
+      File in_dir = new File( XML_Input_Dir );
+
+      for( File xml : in_dir.listFiles() )
+      {
+//         System.out.println( xml.getName() );
+
+         Document doc = XMLToDoc( xml );
+
+         List< SurfaceElement > words = doc.getAllSurfaceElements();
+         LinkedHashSet< SemanticItem > terms = getTerms( doc );
+
+         int relation_id = getNextRelationID( doc );
+
+         for( SemanticItem c_si_antecedent : terms )
+         {
+            SurfaceElement c_antecedent_word = doc.getSurfaceElementsInSpan( c_si_antecedent.getSpan() ).get( 0 );
+
+            for( SemanticItem c_si_anaphor : terms )
+            {
+               if( c_si_antecedent.equals( c_si_anaphor ) )
+                  continue;
+
+               SurfaceElement c_anaphor_word = doc.getSurfaceElementsInSpan( c_si_anaphor.getSpan() ).get( 0 );
+
+               INDArray features = Nd4j.zeros( words.size() + 1, input_size );
+
+               features.putScalar( new int[] {
+                     words.size(),
+                     do_output_index }, 1.0 );
+
+               for( int word_num = 0; word_num < words.size(); word_num++ )
+               {
+                  SurfaceElement word = words.get( word_num );
+                  boolean candidate_anaphor = c_anaphor_word.getSpan().equals( word.getSpan() );
+                  boolean candidate_antecedent = c_antecedent_word.getSpan().equals( word.getSpan() );
+                  boolean match_lemma_anaphor = c_anaphor_word.getLemma().equals( word.getLemma() );
+                  boolean match_lemma_antecdent = c_antecedent_word.getLemma().equals( word.getLemma() );
+
+                  String word_pos = cleanupPOS( word.getPos() );
+
+                  int pos_index;
+                  try
+                  {
+                     pos_index = pos_index_offset + pos.valueOf( word_pos ).ordinal();
+                  } catch( Exception e )
+                  {
+                     System.out.println( word.getPos() );
+                     System.out.println( "ADD THIS" );
+                     throw e;
+                  }
+
+                  if( candidate_anaphor )
+                     features.put( new INDArrayIndex[] {
+                           NDArrayIndex.point( word_num ),
+                           NDArrayIndex.point( is_candidate_anaphor_index ) }, 1.0 );
+
+                  if( candidate_antecedent )
+                     features.put( new INDArrayIndex[] {
+                           NDArrayIndex.point( word_num ),
+                           NDArrayIndex.point( is_candidate_antecedent_index ) }, 1.0 );
+
+                  if( match_lemma_anaphor )
+                     features.put( new INDArrayIndex[] {
+                           NDArrayIndex.point( word_num ),
+                           NDArrayIndex.point( anaphor_match_index ) }, 1.0 );
+
+                  if( match_lemma_antecdent )
+                     features.put( new INDArrayIndex[] {
+                           NDArrayIndex.point( word_num ),
+                           NDArrayIndex.point( antecedent_match_index ) }, 1.0 );
+
+                  features.put( new INDArrayIndex[] {
+                        NDArrayIndex.point( word_num ),
+                        NDArrayIndex.point( pos_index ) }, 1.0 );
+               }
+
+//               System.out.println( input_size + " : " + words.size() + 1 );
+               INDArray result = net.output( features );
+//               for( int d : result.shape() )
+//                  System.out.print( d + " " );
+//               System.out.println();
+
+               if( result.getDouble( words.size(), output_no_index, 0 ) <= result.getDouble( words.size(), output_yes_index, 0 ) )
+               {
+                  System.out.println( c_antecedent_word.getText() + " : " + c_antecedent_word.getSpan().toString() );
+                  System.out.println( c_anaphor_word.getText() + " : " + c_anaphor_word.getSpan().toString() );
+                  System.out.println();
+               }
+            }
+         }
+         System.out.println();
+      }
+   }
+
+
+   public void TrainFromXMLDir( String XML_Dir, int total_epochs )
+   {
+      DataSet ds = XMLDirToDatSet( XML_Dir );
       net.setListeners( new ScoreIterationListener( 1 ) );
-      for( int epoch = 0; epoch < 100; epoch++ )
+
+      for( int epoch = 0; epoch < total_epochs; epoch++ )
       {
          System.out.println( "Epoch: " + epoch );
          net.fit( ds );
-         File out = new File( new Integer( epoch ).toString() );
-         SerializationUtils.saveObject( net, out );
       }
+   }
+
+
+   public void Save( String file )
+   {
+      File out = new File( file );
+      SerializationUtils.saveObject( net, out );
    }
 
    private static String cleanupPOS( String pos )
@@ -388,183 +540,4 @@ public class LSTM
       s.removeIf( p -> !(p.getId().charAt( 0 ) == 'T') );          // Doesn't seem to be a real way to get the terms
       return s;
    }
-
-   public class AnnotatedDocument
-   {
-      private class Word_Info
-      {
-         String text;
-         String lemma;
-         String pos;
-         Word_Info parent;
-      }
-
-      private class Mention
-      {
-         Word_Info info;
-      }
-
-      private class Relation
-      {
-         Mention anaphor;
-         Mention antecedent;
-      }
-
-      List< Word_Info > words;
-      List< Mention > mentions;    //contains references into words
-      List< Relation > relations;  //contains references into mentions
-
-
-      public AnnotatedDocument( File xml )
-      {
-         try
-         {
-            Map< Class< ? extends SemanticItem >, List< String > > annotationTypes = new HashMap<>();
-            annotationTypes.put( Entity.class, Arrays.asList( "Drug", "Drug_Class", "Substance", "SPAN",
-                  "DefiniteNP", "IndefiniteNP", "ZeroArticleNP", "DemonstrativeNP", "DistributiveNP",
-                  "PersonalPronoun", "PossessivePronoun", "DemonstrativePronoun", "DistributivePronoun",
-                  "ReciprocalPronoun", "RelativePronoun", "IndefinitePronoun" ) );
-            annotationTypes.put( ImplicitRelation.class, Arrays.asList( "Anaphora", "Cataphora", "PredicateNominative", "Appositive" ) );
-            XMLReader reader = new XMLReader();
-            reader.addAnnotationReader( ImplicitRelation.class, new XMLImplicitRelationReader() );
-            reader.addAnnotationReader( Entity.class, new XMLEntityReader() );
-            gov.nih.nlm.ling.core.Document doc = reader.load( xml.getAbsolutePath(), null, null, true, null, annotationTypes, null );
-
-
-
-//            // WORDS
-//            List< SurfaceElement > surface_elements = doc.getAllSurfaceElements();
-//            for( SurfaceElement se : surface_elements )
-//            {
-//               System.out.println( se.getLemma() + " : " + se.getPos()  + " : " + se.getSpan().toString() );
-//            }
-//
-//
-//            System.out.println();
-//
-//
-////             RELATIONSHIPS
-            LinkedHashSet< SemanticItem > semantic_items = doc.getAllSemanticItems();
-            for( SemanticItem si : semantic_items )
-            {
-               System.out.println( si.getSpan().toString() );
-               System.out.println( si.toShortString() );
-               System.out.println( si.getType() );
-               System.out.println( si.getId() );
-               System.out.println( si.getAllSemtypes() );
-//               System.out.println( doc.getSurfaceElementsInSpan( si.getSpan() ) );
-//               for( SurfaceElement se : doc.getSurfaceElementsInSpan( si.getSpan() ) )
-//               {
-//                  System.out.println( se.getLemma() + " : " + se.getPos()  + " : " + se.getSpan().toString() );
-//               }
-//
-//               for( SurfaceElement se : doc.getAllSurfaceElements() )
-//               {
-////                  if( SpanList.overlap( se.getSpan(), si.getSpan() ) )
-////                     System.out.println( "OVERLAP: " + se.getLemma() + " : " + se.getSpan().toString() );
-//               }
-
-               System.out.println();
-            }
-//
-//            System.out.println();
-//
-//            Tree doc_tree = doc.getDocumentTree();
-//            System.out.println( doc_tree );
-
-
-
-//            for( Class< ? extends SemanticItem > s : doc.getSemanticItems().keySet() )
-//            {
-//               System.out.println( "Annotation Type: " + s.getCanonicalName() + " | " + doc.getSemanticItems().get( s ).size() );
-//               if( s.getCanonicalName().equals( "gov.nih.nlm.ling.sem.Entity" ) )
-//               {
-//                  //These are the terms
-//                  //holds information on POS and location in doc
-//                  for( SemanticItem si : doc.getSemanticItems().get( s ) )
-//                  {
-//                     System.out.println( "Annotation: " + si.toString() );
-//                     String[] termElements = si.toString().split( "_" );
-//                     for( String e : termElements )
-//                     {
-//                        System.out.println( e );
-//                     }
-//                     System.out.println();
-//                  }
-//                  System.out.println();
-//               }
-//               if( s.getCanonicalName().equals( "gov.nih.nlm.ling.sem.ImplicitRelation" ) )
-//               {
-//                  //These are the terms
-//                  //holds information on POS and location in doc
-//                  for( SemanticItem si : doc.getSemanticItems().get( s ) )
-//                  {
-//                     System.out.println( "Annotation: " + si.toString() );
-//                     String[] relationElements = si.toString().split( "_" );
-//                     System.out.println( "Relation Term: " + relationElements[ 5 ] );
-//
-////                            pos_tags.add(termElements[1]);
-////                            lemmatized_tokens.add(termElements[3]);
-//                  }
-//               }
-//            }
-//                LinkedHashSet<SemanticItem> semanticItems = doc.getAllSemanticItems();
-//                
-//                for(SemanticItem semanticItem : semanticItems){
-//                    Map<String, Object> features = semanticItem.getFeatures();
-//                    
-//                }
-
-         } catch( Exception e )
-         {
-            e.printStackTrace();
-         }
-
-      }
-   }
-
-//   private class XMLAnnotationDirectoryIterator implements DataSetIterator
-//   {
-//      private class Token
-//      {
-//         private String text;
-//         private String pos_tag;
-//      }
-//
-//      List< File > files_remaining;
-//      List< Token > tokens_current_file;
-//      List< Integer > indices_mentions_remaining_current_file;
-//      int batch_size;
-//
-//
-//
-//      public XMLAnnotationDirectoryIterator( String XML_Directory, int Batch_Size )
-//      {
-//         batch_size = Batch_Size;
-//         for( File xml : new File( XML_Directory ).listFiles() )
-//         {
-//            files_remaining.add( xml );
-//         }
-//      }
-//
-//      public DataSet next()
-//      {
-//         return next(batch_size);
-//      }
-//
-//      public DataSet next( int size )
-//      {
-//         int current_size = 0;
-//
-//         while( current_size < size && files_remaining.size() != 0 )
-//         {
-//
-//         }
-//
-//         if( current_size != size ) throw NoSuchElementException;
-//
-//         DataSet result;
-//         return result;
-//      }
-//   }
 }
